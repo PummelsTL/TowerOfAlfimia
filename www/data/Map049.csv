@@ -1,48 +1,48 @@
-"EV001","",""
-"EV002","",""
-"EV003","",""
-"EV004","",""
-"EV005","",""
-"EV006","",""
-"EV007","",""
-"EV008","",""
-"EV009","",""
-"小悪魔B","","Imp B"
-"EV018","",""
-"メガマジックウォーターを手に入れた！","","Obtained Mega Magic Water!"
-"EV019","",""
-"メガミックスポーションを手に入れた！","","Obtained Mega Mixed Potion!"
-"EV020","",""
-"EV021","",""
-"EV022","",""
-"EV023","",""
+"EV001",""
+"EV002",""
+"EV003",""
+"EV004",""
+"EV005",""
+"EV006",""
+"EV007",""
+"EV008",""
+"EV009",""
+"小悪魔B","Imp B"
+"EV018",""
+"メガマジックウォーターを手に入れた！","Obtained Mega Magic Water!"
+"EV019",""
+"メガミックスポーションを手に入れた！","Obtained Mega Mixed Potion!"
+"EV020",""
+"EV021",""
+"EV022",""
+"EV023",""
 "『ここって1層と違って、
 　もうあんまりダンジョンって感じしないわよね。
-　あの太陽も作り物なのかしら？』","","""Unlike the first floor,
+　あの太陽も作り物なのかしら？』","""Unlike the first floor,
  this place doesn't really seem like a dungeon.
  I wonder if that sun artificial too?"""
 "<アル>
 『お日様気持ちいいよね♪
-　私は窮屈な1層より、こっちのほうが好きだな～♪』","","<Al>
+　私は窮屈な1層より、こっちのほうが好きだな～♪』","<Al>
 ""The sunlight feels so nice♪
  I like place much better than the narrow first floor♪"""
-"EV024","",""
+"EV024",""
 "『ふぅ…男が相手だと、
 　私のおっぱいスキルが使えるんだけど…
-　モンスターにはあまり使えないから、結構大変ね。』","","""Phew...
+　モンスターにはあまり使えないから、結構大変ね。』","""Phew...
  I can use my boob skills against male opponents,
  but they aren't really working against monsters.
  I'm having such a hard time."""
 "<アル>
 『おっぱいスキル…
 　\n[1]、想像したでしょう？
-　鼻の下のびてるよー？』","","<Al>
+　鼻の下のびてるよー？』","<Al>
 ""Boob skills...
  \n[1], you just imagined what they are like, right?
  It's showing on your face."""
-"EV025","",""
+"EV025",""
 "回想部屋に移動しますか？
 【回想部屋でのレベルの上下は、
-　ダンジョンに戻るときにリセットされます】","",""
-"はい","","Yes"
-"いいえ","","No"
+　ダンジョンに戻るときにリセットされます】",""
+"はい","Yes"
+"いいえ","No"
