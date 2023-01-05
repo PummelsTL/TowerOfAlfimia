@@ -1,0 +1,625 @@
+"EV001","",""
+"EV002","",""
+"『新しいレベルドレインのイラストが届いてから開きます♡』","",""
+"『新しいレベルドレインのイラストが届いてから開きます♡
+　凛ちゃんに負けてお金がない場合は、
+　TRPGの時のように1層に戻ってくださいねー♡
+　そこでレベルドレインしてもらえ♡ざーこ♡』","",""
+"現在準備中です。","",""
+"EV003","",""
+"EV004","",""
+"EV005","",""
+"EV006","",""
+"EV007","",""
+"『営業時間17:00～』","",""
+"<アル>
+『まだ開いてないみたいだね！
+　\n[1]、賭け事に興味があったの？』","",""
+"うん","","Yes"
+"むしろバニーガールの方に…","",""
+"<アル>
+『そうなんだ♪
+　まぁ、楽しそうだもんね！
+　私もロン！とか言ってみたいなぁ……』","",""
+"<アル>
+『え？それは多分違う？
+　……そうなの？残念……』","",""
+"<アル>
+『……\n[1]のスケベ。
+　そんなんじゃきっと、
+　ここに入っても足元をすくわれるよー？』","",""
+"<アル>
+『そうなってから泣いても遅いんだから！
+　……えっちなのは、ほどほどにしときなよ？』","",""
+"まだ開いていないようだ。","",""
+"EV008","",""
+"EV009","",""
+"EV010","",""
+"EV011","",""
+"EV012","",""
+"EV013","",""
+"EV014","",""
+"EV015","",""
+"階段を昇ったら町が！","",""
+"階段を上った貴方は、
+今までと同じような洞窟があると考えていただけに、
+あたりの光景を見渡して驚いた。","","You had expected the stairs to lead to another cave,
+but what awaited you was completely different."
+"<アル>
+『うぇぇ！？
+　ま、街！？なんで！？』","","<Al>
+""Eeeeeh?! I-It's a town?! What?! How?!"""
+"アル共々呆気に取られている貴方に、
+1人の女性が話しかけてくる。","","While you were dumbfounded with Al, a woman called out
+to you."
+"<???>
+『おめでとう♪君って、
+　そんなにきょろきょろしてるってことは、
+　1階層を始めてクリアした子だよね？』","","<???>
+""Congratulations♪ You must have just cleared the first
+ floor when you're looking around so much, right?"""
+"<???>
+『ああ、1階層って言うのは、この町の下にある、
+　いかにもダンジョン！ってことのことだよ♪
+　ここにいる人はみんなそう呼んでるんだ。』","","<???>
+""Ah, the dungeon below the town is named the first
+ floor♪ That's what everyone here calls it."""
+"まだ驚きから立ち直れず不思議そうな顔をする貴方に、
+女性はくすくすと笑いながらそう説明する。","","You still hadn't recovered from the shock of finding
+a town and made weird face as the woman told you about
+the dungeon with a slight giggle."
+"<???>
+『…………どう？
+　下とは雰囲気が全然違って、驚いたでしょ？』","","<???>
+""Well? The completely different atmosphere from the
+ first floor is really shocking, right?"""
+"楽し気に笑みを浮かべながら、
+そう女性は貴方の反応をうかがう。","","The woman asked for your impression while looking at
+you with enjoyable smile."
+"驚いた","","It was a shock"
+"驚いてない","","It wasn't shocking"
+"<???>
+『ね♪私も最初にここに来た時は、
+　夢でも見てるのかなっておどろいたよ。』","","<???>
+""Right? I thought I was dreaming the first time I made
+ it here."""
+"女性は貴方の反応に、
+自身の過去に思いをはせて懐かしむような顔をする。","","The woman recalled her own experience with a smile
+after hearing your impression."
+"<???>
+『そうなの？意外と予想してた、とか？
+　驚かない人って珍しいな～。』","",""
+"女性は素直に貴方の言葉を受け止め、
+驚いたように目を丸くする。","",""
+"<???>
+『とにかく、始めてってことはこの町のこと、
+　何も分からないよね？』","","<???>
+""Anyhow, this is your first town, so you must be
+ completely clueless about it, right?"""
+"<???>
+『そんなルーキー君は先輩である私が導いてあげよう♪
+　っと、まずは自己紹介か。
+　私の名前は篠山未来、よろしくね。』","","<???>
+""Allow me to give you a tour as your senior♪
+ Oh pardon me, I haven't introduced myself yet.
+ My name is Shinoyama Mirai Nice to meet you."""
+"女性は人のよさそうな笑みを浮かべながら、
+貴方にそう言う。","","Mirai introduced herself with a friendly smile."
+"そんな女性に貴方も名乗りを返した。","","You also gave your name in return."
+"<未来>
+『そっか、\n[1]ね。教えてくれてありがと。』","","<Mirai>
+""I see, \n[1]. Thank you for telling
+ me your name."""
+"<未来>
+『今からいろいろ教えてあげたいとこだけど、
+　それは、明日にまわそっか。』","","<Mirai>
+""There's so much to explain, but shall we move that to
+ tomorrow?"""
+"<未来>
+『なんでって、\n[1]、
+　1階層をクリアしたばっかりで疲れてるでしょ？
+　あのボス、鬼みたいに強いもんね。』","","<Mirai>
+""Why move it tomorrow? You just cleared the first
+ floor, so you must be really tired, right?
+ The first floor boss is crazy strong."""
+"<未来>
+『今日はゆっくり休んで疲れをいやしたほうがいいよ。
+　宿屋はすぐそこにあるからさ。』","","<Mirai>
+""You should rest and recover your strength today.
+ The inn is right over there."""
+"<アル>
+『そうだね！\n[1]疲れてるだろうし、
+　今日はもうゆっくりしよー♪』","","<Al>
+""She's right! \n[1], you must be tired,
+ so we should take it easy for the rest of the day♪"""
+"貴方はアルの言葉に頷き、女性に感謝の言葉を伝える。","","You nodded back to Al and said your thanks to Mirai."
+"<未来>
+『気にしなくていいよ♪
+　明日は、そうだね～……
+　私が朝10時に宿まで迎えに行こうかな。』","","<Mirai>
+""Oh, don't worry about it♪ Then let's see... I'll come
+ see you at the inn tomorrow at 10 o'clock."""
+"<未来>
+『その後、
+　一緒に出歩きながら街のことを色々教えてあげる。』","","<Mirai>
+""After that we can go around the town while I tell you
+ all about it."""
+"そう笑顔で告げる女性に再び貴方は頭を下げる。","","After Mirai told you about the plan for tomorrow in
+smile, you thanked her again."
+"<未来>
+『いいってば♪
+　私も初めてのぼってきたとき、
+　先輩に親切にしてもらったしね。』","","<Mirai>
+""It's okay♪ I also had a kind adventurer teach me about
+ the town when I made it here the first time."""
+"<未来>
+『ま、お礼がしたいなら晩御飯でも奢ってよ♪
+　お金が足りないなら、
+　私が奢ってあげてもいいけどさ♡』","","<Mirai>
+""But well, if you really want to thank me, then you
+ could treat me to a meal♪ But if you're low in money,
+ I can foot the bill too♡"""
+"奢ると約束する","","Promise to treat her"
+"奢ってほしいと頼む","","Please foot the bill"
+"<未来>
+『ありがと♪
+　じゃ、期待してるよ？
+　美味しいもの、いっぱい頼むからね。』","","<Mirai>
+""Thank you♪ I'm looking forward to a lot of delicious
+ food."""
+"<未来>
+『お、人の好意を遠慮しないその姿勢、私は好きだよ。
+　明日は美味しいものを、
+　私がたらふく食べさせてあげよう♡』","",""
+"<アル>
+『わーい♪美味しいもの！』","",""
+"<未来>
+『あ、そうだ。宿屋は一晩泊まるのに100Gかかるんだけど、
+  \n[1]、お金持ってる？』","","<Mirai>
+""Ah, right. The inn charges 100G a night too. Can you
+ afford that?"""
+"貴方は大丈夫だと女性に伝える。","","You told Mirai that you were fine."
+"<未来>
+『そっかそっか、それは重々。
+　じゃあ、ゆっくり休んでね、ルーキー君。
+　また明日、迎えに来るね！』","","<Mirai>
+""I see. Then please have a good rest and see you
+ tomorrow!"""
+"貴方は足りない、と嘆きの言葉を漏らす。","",""
+"<未来>
+『え？お金ないのに私に奢る気だったの？
+　気持ちは嬉しいけど、
+　あんまり見栄張ってると疲れるよ？』","",""
+"<未来>
+『そういうのは、ちゃんと余裕が出来てからにしなよ。
+　ほら、私との約束だからね？』","",""
+"貴方は女性の言葉に頷いた。","",""
+"<未来>
+『ん、よろしい♪
+　じゃ、明日はやっぱり私が奢ってあげるから。
+　美味しいもの食べさせてあげるから、期待しててよ♪』","",""
+"<アル>
+『えへへ♪優しい人でよかったね！
+　わーい♪美味しいものー！』","",""
+"<未来>
+『そっか、あんまりお金ないんだね………』","",""
+"<未来>
+『ボス前に限界までアイテムとかため込むタイプ？
+　うん、その気持ちは分かるよ。』","",""
+"女性は訳知り顔でしきりにうんうんと頷く。","",""
+"<未来>
+『じゃあこれ、はい。
+　私からのささやかなボス突破記念ってことで。
+　これで、ゆっくり休んでよ？』","",""
+"そう言うと女性は貴方の手を取り、100Gを握らせる。","",""
+"<未来>
+『そのお金は出世払いでいいからさ♡
+　じゃあね、ルーキー君。また明日♪』","",""
+"ニコニコと笑顔で女性は手を振りながら、去っていった。","","Mirai left in a smile while waving at you."
+"<アル>
+『なんだか、すっごく親切な人だったね！
+　今までとはダンジョンの雰囲気も違うし………
+　なんかちょっと、ワクワクするかも♪』","","<Al>
+""She was one really friendly woman! The atmosphere in
+ the town is completely different from the dungeon too,
+ so I'm getting kind of excited♪"""
+"<アル>
+『さ、宿屋でやすもー！お疲れ様、\n[1]♪』","","<Al>
+""Then let's go rest at the inn! You've earned it,
+ \n[1]♪"""
+"貴方はアルの言葉に同意と感謝を返した。","","You thanked Al."
+"呆気に取られている貴方に、
+1人の女性が話しかけてくる。","",""
+"<アル>
+『/n[1]も疲れてる、よね？
+　うん…………ゆっくりやすも？』","",""
+"<未来>
+『あ、そうだ。宿屋は一晩泊まるのに100Gかかるんだけど、
+　n\[1]、お金持ってる？』","",""
+"EV017","",""
+"EV018","",""
+"『あ～、今日は何しようかなぁ…
+　欲しい服もあるし、
+　そろそろモンスター退治頑張らなきゃかな？』","","""Aah... What should I do today...
+There's that outfit that I want to buy too...
+Maybe it's about time I went hunting some monsters?"""
+"<アル>
+『お洋服！
+　いいなー♪妖精サイズもあるかな？』","","<Al>
+""Clothes! That sounds so nice♪
+ I wonder if they have something in fairy size?"""
+"EV019","",""
+"『この道を奥に行くとコロシアムだぜ。
+　戦ってよし、観戦してよし、この街一番の娯楽だ！』","","""The colosseum is at the end of this road. Be it
+ fighting or spectating, it's the best amusement
+ there is in this town!"""
+"『アンタも腕に自信があるなら、参加してみるんだな。』","","""You should also try participating if you're confident
+ in your skills."""
+"<アル>
+『みんなに見られながら戦うのって、
+　ちょっとだけ緊張するよね…………！』","","<Al>
+""It's a bit tense on the nerves to fight while
+ everyone is watching, right!"""
+"EV020","",""
+"『きょ、今日こそコロシアムに……
+　で、でも負けたら…………うぅ……』","","""T-Today's the day I'll fight at the colosseum...
+ B-But if I lose, then... Uuuh..."""
+"男性はコロシアムに出場するか迷っているようだ。","","The man seems to be hesitating to take part in the
+colosseum."
+"<アル>
+『負けたら……多分、
+　みんなの前でレベルドレインされるんだよね？
+　怖がるのも分かるかも…………』","","<Al>
+""In the case of loss... You'll probably be level
+ drained before the whole audience. I can understand
+ why he's feeling hesitant..."""
+"<アル>
+『\n[1]もそんな目にはあいたくないだろうし、
+　参加するなら万全を期して、だね！』","","<Al>
+""\n[1], you wouldn't want that to happen to
+ you, right? If you're going to go in the ring, then
+ make sure to give it your all!"""
+"貴方はアルの言葉に頷いた。","","You nodded back to Al."
+"<アル>
+『負けたら……多分、
+　みんなの前でレベルドレイン………
+　犯されるのは、いくら淫気があっても怖いよね…………』","",""
+"EV021","",""
+"『我らは町の秩序の守護者、バンガード！
+　我らがいる限り、
+　この町では安全に過ごせることを約束しよう！』","","""We are the protectors of the order of this town, The
+ Vanguard! I can promise you'll be safe here as long
+ as we are here!"""
+"『もちろん、君が秩序を破壊する側でなければだがな！
+　はっはっは！』","","""But that promise last only as long as you won't be
+ trying to destroy the order of the town! Hah-hah-haa!"""
+"『もしそうであれば、
+　私の白銀の剣が君を捕らえよう！
+　肝に銘じておくがいい！』","","""If you did so, I would capture you with my silver
+ sword! Engrave that warning into your heart!"""
+"<アル>
+『むー、\n[1]は悪いことなんてしないもん！』","","<Al>
+""Mmmh! \n[1], would never do bad stuff!"""
+"EV022","",""
+"『バンガードって、確かに強いし、
+　みんなのために働いてるから尊敬できるんだけど………』","",""
+"『たまにあの偉そうな態度にイラっとくるのよね。』","",""
+"<アル>
+『正義の味方も、みんなに好かれるわけじゃないんだね！』","",""
+"EV023","",""
+"『美味しそうだなぁ……
+　でも、あんまりお金ないし……我慢我慢…………』","","""That stuff looks so delicious...
+ But I don't have much money...
+ I need to control myself..."""
+"『でも、せめて香りだけでも……じゅるり。』","","""But if I can enjoy just the fragrance then...
+ Slurp..."""
+"<アル>
+『香りなんて嗅いでたら、
+　絶対我慢できなくなっちゃうよ？』","","<Al>
+""But won't he be unable to hold himself back if he
+ stays to enjoy the fragrance of the food?"""
+"<アル>
+『私なら、絶対そうなるもん！
+　………くんくん…………じゅるり♪』","","<Al>
+""In my case, I totally wouldn't be able to hold back!
+ Sniff, sniff... Slurp♪"""
+"EV024","",""
+"『お、君もこの先の店で買い物かい？
+　実は俺もなんだ。』","","""Oh, are you going shopping at this shop?
+ I'm actually going there too."""
+"『嫁に買い出しを頼まれててね。
+　……しかし、まさかゲームの中で結婚するとは
+　あの頃の俺じゃ想像もできなかっただろうな……』","","""My wife asked me to go shopping, you see.
+ ...You know, back in the real world I would have never
+ imagined that I would get married inside a game."""
+"男性は幸せそうな雰囲気を醸し出し、
+顔をにやけさせている。","","The man carried an aura of happiness in smile."
+"<アル>
+『す、すごい幸せそうなオーラだね！お幸せに！』","","<Al>
+""H-He's basically radiating an aura of happiness!
+ I hope him good health!"""
+"EV025","",""
+"『はぁ………ポカポカいい天気。
+　こんなにのんびりした毎日が過ごせるなんて、
+　やっぱりゲームの世界は良いなぁ。』","","""Aah... It's such a nice warm day. Game worlds are just
+ the best. I get to spend my every day carefree."""
+"<アル>
+『ダンジョンとは思えないよね！
+　…………この町って、ダンジョンなのかな？』","","<Al>
+""You can totally forget about the dungeons here, right!
+ ...But maybe this town itself is a dungeon?"""
+"EV026","",""
+"『ちきしょう！
+　カジノで大負けしちまった！
+　昨日稼いだ魔物退治の分がパーだ…………』","","""Damn it! I made a huge loss at the casino! All the
+ money I made from monster yesterday went puff!"""
+"<アル>
+『ギャンブルはほどほどに、だね！
+　でも、いっぺんどっかーんて賭けてみたいかも！』","","<Al>
+""You should only gamble in moderation! But I kind of
+ want to try going all-in at least once!"""
+"アルはそう目を輝かせている。","","Al said that with a sparkle in her eyes."
+"男性は苛立っている。","",""
+"EV027","",""
+"『カジノのバニーガールってエロいよなぁ……
+　NPCじゃなくて、
+　あの子たちもプレイヤーだってのがまたそそるぜ…………』","","""The bunny girls at the casino are so hot... 
+ And it's all the more so when they're actual
+ players and not NPCs..."
+"『あー、あんな娘と勝負したいなぁ……
+　コロシアムに誘ったら受けてくれるかなぁ………
+　うへへ…………』","","""Aah! I want to have a match with one so badly...
+ Maybe they would accept if asked for a match at the
+ Colosseum? Uhehehe...."""
+"『コロシアムで押し倒して、
+　あんなことやこんなことを…ぐへへ…………』","","""I would push her down at the Colosseum and then do
+ this and that with her... Guhehehe..."""
+"男性は下心丸出しの顔で、不気味に笑っている。","","The man let out a creepy laugh with his ulterior
+motives clearly showing on his face."
+"<アル>
+『うー………なんかこの人、苦手！
+　\n[1]、こんな風にはならないでね？』","","<Al>
+""Uuh... I'm not good with these kind of people!
+ \n[1], please don't end up like him!"""
+"<アル>
+『うん、そうだよね！ありがとう♪
+　一緒なのが\n[1]でよかったよ！』","","<Al>
+""Yeah! Thanks♪ I'm glad got into party with you!"""
+"EV028","",""
+"『俺はもうコロシアムで3勝して先に進む資格があるんだが、
+　もし先がまたただの洞窟だったらと考えると、
+　戸惑ってしまうんだ。』","","""I've already won 3 rounds in the Colosseum and earned
+ the qualification to move onward, but I'm a bit
+ hesitant to do so if it turns out to be just another
+ cave like the first floor."""
+"『この街は居心地がいいし、
+　強ければ俺みたいなやつでも女の子に、
+　ちやほやされるしな…………』","","""It's comfortable to live in this town, and even
+ someone like me can have fun with girls as long as
+ you're strong..."""
+"<アル>
+『先に進めるのに、この街にとどまる人も多そうだね！
+　確かに、慣れたら離れたくなくなっちゃうのかも』","","<Al>
+""Seems like some choose to move on and some choose to
+ stay in this town! It might be that they get so used
+ to life here that they don't want to leave."""
+"EV029","",""
+"『この町で悪いことなんで出来ないぜ？
+　すぐにバンガードに制圧されちまうからな。』","","""You can't do bad stuff in the town. The Vanguard will
+ instantly come to arrest you."""
+"『おかげで、最近は平和そのものさ。
+　感謝してもし足りないな。』","","""The town is really peaceful thanks to them. I'm so
+ happy that they are here."""
+"<アル>
+『強いのに自分勝手じゃないって、
+　なんかかっこいいよね！正義の味方♪』","","<Al>
+""They're strong enough to keep the town safe and not
+ let the power go to their heads! That's a bit cool!
+ It's like they are allies of justice♪"""
+"EV030","",""
+"『パトロール中のバンガードよ。
+　何か困ったことがあればいつでもいいなさい。
+　すぐに助けてあげるわ。』","","""I'm a member of the Vanguard in the middle of a
+ patrol. If you find yourself in trouble, don't
+ hesitate to tell me. I'll come to save you
+ immediately."""
+"<アル>
+『おー！頼もしいね！
+　凛々しくてかっこいいなー♪
+　私もこうなりたい！』","","<Al>
+""Oooh! How reliable! She's so gallant and cool♪
+ I want to become like her too!"""
+"EV031","",""
+"『あぁやっぱりカッコよくて美しくて、すてきだなぁ……
+　俺も、バンガードに入ったら仲良くできるかなぁ。』","","""Aah... She's just so cool, beautiful, and amazing...
+ Maybe I could get to hang out with her if I joined
+ the Vanguard too..."""
+"<アル>
+『この人、向こうにいる綺麗な女の人を見てるみたいだね！
+　彼女のファンなのかな？』","","<Al>
+""Looks like he's staring at the pretty girl over there!
+ Perhaps he's her fan?"""
+"男性はこの先の女性に見惚れているようだ。","",""
+"EV032","",""
+"『この奥は牢獄だ。
+　バンガードが捕らえた悪人を収容している。』","","""That over there is the prison. All the bad people the
+ Vanguard catch are held there."""
+"<アル>
+『わ、悪い人たちがいるんだよね？
+　怖いから、あんまり近づかないでおこうよ！』","","<Al>
+""I-It must be full of bad people, right?
+ It's a bit scary, so let's not go near!"""
+"EV033","",""
+"『いらっしゃい。』","",""
+"EV034","",""
+"EV035","",""
+"EV036","",""
+"EV037","",""
+"EV038","",""
+"EV039","",""
+"EV040","",""
+"EV041","",""
+"EV042","",""
+"EV043","",""
+"EV044","",""
+"EV045","",""
+"街の入り口まで行きますか？","","Travel to the town entrance?"
+"はい","","Yes"
+"いいえ","","No"
+"EV046","",""
+"今日はもう宿で休もう","","The inn isn't this way."
+"急いで恭子の家に戻ろう。","",""
+"EV047","",""
+"EV048","",""
+"EV049","",""
+"EV050","",""
+"EV051","",""
+"EV052","",""
+"EV053","",""
+"EV054","",""
+"EV055","",""
+"EV056","",""
+"EV057","",""
+"EV058","",""
+"EV059","",""
+"EV060","",""
+"EV061","",""
+"EV062","",""
+"EV063","",""
+"EV064","",""
+"EV065","",""
+"EV066","",""
+"『覚えるスキルによって、
+　どの能力値が攻撃に参照されるのかは人それぞれ。
+　例えば、魔法スキルを覚える人は、
+　魔法力で通常攻撃の威力も決まる。』","","""What status one should increase for more damage
+ depends on each person's skills. For example, someone
+ who learns purely magic skills will see even their
+ basic attack influenced by MATK instead of ATK."""
+"『もし物理と魔法の中間のようなスキルなら……
+　多分、攻撃力と魔法力を半分ずつ参照すると思う。』","","""In the case one learns a mix of physical and magical
+ skills, then I believe the damage is calculated with
+ 50/50 split between ATK and MATK."""
+"<アル>
+『\n[1]が覚えたスキルって多分、
+　この物理と魔法の中間ってやつだよね？』","","<Al>
+""\n[1], your skills probably fall under
+ the mix of physical and magical, right?"""
+"EV067","",""
+"回想部屋に移動しますか？
+【回想部屋でのレベルの上下は、
+　ダンジョンに戻るときにリセットされます】","",""
+"EV068","",""
+"EV069","",""
+"六花","",""
+"EV071","",""
+"EV072","",""
+"<六花>
+『あ、お久しぶりです！
+　こんなところで会うなんて奇遇ですね♪』","",""
+"貴方が町を移動すると、
+ちょうど下町の方へと移動しようとしていたのか…
+六花がにこりと笑顔を浮かべてそう声をかけてきた。","",""
+"<アル>
+『あ、この子は…
+　よかった…この子は奴隷から抜け出せて、
+　表情がすっごく明るくなってるね！』","",""
+"アルは六花の表情を見て、
+そうほっとしたように胸をなでおろす。
+自分の行為は無駄ではなかったと感じ、
+貴方もおのずと笑顔を浮かべた。","",""
+"そして、六花に奴隷の証が見えないよう、
+とっさに首元を隠した。","",""
+"<六花>
+『私はこれからレベル上げに行こうと思ってたんですが…
+　…えへへ♪やめにしちゃおうかなって思います！』","",""
+"<六花>
+『せっかくこうして会えたんですから…
+　その、…一緒にご飯でもどうですか？
+　私を解放してくれたお礼をしたいんです！』","",""
+"六花はおずおずとうかがうように貴方の顔を覗き込む。
+叶うなら彼女と話に花を咲かせたいとは思うが…","",""
+"<アル>
+『う…そうだよね…
+　今は買い出しを頼まれてるんだもん…
+　遅れたらどんな目に合うか…』","",""
+"アルが顔を青ざめてそう言葉を漏らす。
+貴方はそんなアルにつられるように顔を青ざめさせ、
+六花にごめん、用事があると返事をした。","",""
+"<六花>
+『…そうですか…残念です。　
+　…でも、その、用事って何か聞いてもいいですか？
+　すごく顔色悪いですけど…』","",""
+"<六花>
+『…あの、もしかして厄介なこと、だったりします？
+　それならぜひ協力させてください！』","",""
+"<六花>
+『私もあれからレベルを上げて、
+　少しは強くなりましたから！
+　い、今なら少しはお役に立てるはずです…！』","",""
+"貴方が厄介ごとに巻き込まれていると思ったのか、
+そう六花が真剣な顔で貴方を見つめる。
+貴方は思わず、アルと顔を見合わせてしまった。","",""
+"<アル>
+『う、う～ん…
+　ずっと今のままでいるわけにもいかないけど…
+　この子を巻き込んじゃっていいのかな…？』","",""
+"総首をかしげるアルに貴方は同意する。
+恭子の件は六花にとってトラウマであるはずだ。
+無理に巻き込むわけにはいかないだろう。
+貴方は六花に何でもない、とそう告げた。","",""
+"<六花>
+『………………』","",""
+"そんなあなたを六花はジーっと見つめる。","",""
+"<六花>
+『…嘘、ですね。
+　今の顔は、私に気を使ってくれた顔です。
+　…私、そういう顔は分かっちゃうんですよ…』","",""
+"<六花>
+『…私に気を使うということは…もしかして、
+　あの女…恭子さんに関することですか？』","",""
+"貴方の顔を見つめていた六花は、
+不意に寂しそうにそう笑うと核心を突いてくる。","",""
+"<六花>
+『…おかしいとは思ってたんです。
+　奴隷から抜け出した私に何も手出しをしてこなくて…
+　…標的が変わっていただけ、だったんですね。』","",""
+"そういうと六花は貴方が不自然に隠した首元に手を当て、
+そっとあらわにさせる。
+そして、見えた奴隷の証に納得したようにうなずく。","",""
+"<六花>
+『…これは…奴隷の証ですか？
+　…趣味の悪いあの女が考えそうなことです。
+　…ごめんなさい、私のせいで…』","",""
+"<六花>
+『きっと、卑怯な手で、
+　無理やり奴隷に落とされてしまったんですよね？
+　誰かを人質に取られたり、とか…』","",""
+"六花は悔しそうな顔でそうつぶやく。
+…確かに、卑怯といえば卑怯…だろう。
+貴方はとっさに君のせいじゃないとそう告げた。","",""
+"<六花>
+『…気を使ってくれてありがとうございます。
+　でも…大丈夫です。私はもう、
+　助けられるだけだった私じゃありません！』","",""
+"<六花>
+『お兄さんが私を救ってくれたように…
+　今度は私がお兄さんのことを救ってみせます！』","",""
+"<六花>
+『貴方が私を救ってくれたように…
+　今度は私が貴方のことを救ってみせます！』","",""
+"六花は総握りこぶしを作ると、
+決意を込めた顔で貴方の顔を見上げる。","",""
+"<六花>
+『ここで、待っていてください。
+　私があの女と話をつけてきます…！
+　絶対、奴隷から解放してあげますから…！』","",""
+"そういうと六花は貴方が止める間もなく、
+下町のほうまで走っていった。
+きっと言葉通り、恭子の家に向かったのだろう。","",""
+"<アル>
+『…こ、ここでじっとしてるわけにはいかないよね？
+　あの子のことが心配だよ…！』","",""
+"貴方はそんなアルにうなずいた。
+六花と恭子を２人きりにするわけにはいかない。
+急いで恭子の家に戻ろう。","",""

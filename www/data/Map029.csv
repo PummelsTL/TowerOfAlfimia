@@ -1,0 +1,629 @@
+"EV001","",""
+"EV002","",""
+"EV003","",""
+"EV004","",""
+"EV005","",""
+"EV006","",""
+"EV007","",""
+"EV008","",""
+"EV009","",""
+"EV010","",""
+"EV011","",""
+"EV012","",""
+"EV013","",""
+"EV014","",""
+"EV015","",""
+"<囚人>
+『ねぇ、そこのお兄さん？
+　ちょっとこっちに来てくれない？
+　少しだけ、私のお話を聞いてほしいの。』","","<Prisoner>
+""Hey, you over there. Can you come a bit closer?
+ I have something to talk you about."""
+"唐突に牢屋の中から、
+貴方は女の囚人に声を掛けられる。
+そちらの方を向くと、妖艶な女性が牢の中でほほ笑んでいた。","","A female prisoner suddenly called out to you from the
+cell. When you looked her way, you saw a voluptuous
+woman smiling at you from behind the bars."
+"貴方はそんな女性に誘われるがまま、
+牢屋に近づいてしまう。
+相手は牢の中、自分には何もできないはずだとそう考える。","","You couldn't help but go closer just as she asked.
+Since she's behind the bars, you thought there's
+nothing she could do to you."
+"<囚人>
+『うふふ♡ありがと♪
+　実はね、私は冤罪だって誰かに聞いてほしかったのよ。
+　ここ、めったに看守さんも来てくれないしね。』","","<Prisoner>
+""Ahaha♡ Thanks for coming♪ You see, I really needed
+ someone to talk since I've been prisoner under false
+ charge. The guard barely ever comes down here either."""
+"貴方が近づくと、
+牢の中の女性は二コリを笑みを深くする。
+その笑みに危機感が警鐘を鳴らすも、
+妖しげな魅力を纏った女性に思わずのどがなってしまう。","","As you drew closer, the woman's smile only grew wider.
+Her smile made you feel a sense of danger, but you
+also couldn't help gulping loudly before her seductive
+charm."
+"<アル>
+『冤罪？
+　間違った罪で牢屋にいれられちゃったってことかな…
+　だとしたら、かわいそうだよね。』","","<Al>
+""False charges? Does that mean she got imprisoned
+ because of some mistake? If that's true, I feel sorry
+ for her."""
+"貴方はアルの言葉に頷き、
+牢の中の女性に冤罪について詳しく尋ねてみる。","","You agreed with Al and decided to ask the woman more
+about the charges she's imprisoned for."
+"そして、貴方はそんな彼女に見惚れながら、
+冤罪という内容について詳しく尋ねた。","",""
+"<囚人>
+『ええ、聞いてくれる？
+　私なんにも悪いことなんてしてないのに、
+　ヴァンガードの連中ったらひどいの。』","","<Prisoner>
+""Eh? You'll listen to my story? I haven't done
+ anything bad, but the Vanguard threw me here anyway.
+ It's so horrible."""
+"<囚人>
+『私はね？エッチなことの対価として、
+　ちょっとお金をもらっただけ…
+　なのに、詐欺だ、なんて言って。』","","<Prisoner>
+""You see, I was just taking little payments in
+ compensation for having sex with people...
+ And yet, they called me a scam artist."""
+"<囚人>
+『自分もお金を払うことに納得してたのに、
+　後になってごねて私を逮捕したのよ？
+　酷い話だと思わない？』","","<Prisoner>
+""My client clearly agreed with the deal, but then he
+ went to complain to the Vanguard afterwards and had
+ me captured. Don't you think that's horrible?"""
+"女性は貴方にそう愚痴をこぼす。この街で、
+身体を売ることがどういう扱いなのかは分からないが、
+合意の上での話だとするなら確かに酷い話のように思えた。","","The woman complained about her situation. You aren't
+sure how prostitution is treated in this town, but
+you still found her treatment horrible if her client
+had agreed to it."
+"<アル>
+『な、なんか正義の味方っぽくなくて、
+　ちょっと幻滅かも……』","","<Prisoner>
+""I'm not sure if the Vanguard are that good after
+ all..."""
+"ヴァンガードに憧れのようなまぶしさを感じていたアルも、
+彼女の話にがっかりしたように肩を落としている。","","Al had been fan of the Vanguard, so hearing the woman's
+story made her feel down."
+"しかし、ただそれだけで捕まるとも思えない。
+貴方は彼女に、いくらで取引をしたのか、
+と疑問を尋ねてみることにした。","","However, you didn't think that someone would get thrown
+in the jail just for that. You decided to ask just how 
+much money did she charge from her client."
+"<囚人>
+『ふふ♡たったの10万Gよ。
+　ヴァンガードくらいの強さなら、
+　ちょっと頑張れば稼げる金額♡』","","<Prisoner>
+""Ehehe♡ Just 100 000G. My client was strong enough to
+ get to join the Vanguard, so it's a triffling sum if
+ he just works a little bit♡"""
+"<アル>
+『10万…！？
+　さ、さすがにちょっと高すぎだったんじゃ……』","","<Al>
+""100 000G?! I-Isn't that way too much?"""
+"貴方の疑問に何でもない様に返した囚人に、
+アルが驚きの声を上げる。
+貴方も、思った以上の大金に言葉を失った。","","Al raised her voice as the woman easygoingly answered
+your question. The sum was way bigger than you had 
+imagined and left you speechless."
+"貴方の疑問に囚人はそう返答する。
+その金額の大きさに貴方は言葉を失った。","",""
+"<囚人>
+『あら、なに？その顔は。
+　勘違いしないで頂戴ね、無理やりなんかじゃないわよ？
+　ちゃんと、彼にも合意をとったもの♡』","","<Prisoner>
+""Oh? What's with the face? Please don't misunderstand.
+ I didn't take it from him by force. I properly got
+ his agreement to the deal♡"""
+"貴方の反応を見た囚人はくすりと微笑むと、
+口を大きく開けて長めの舌を見せつける。","","The woman giggled at your reaction before opening her
+mouth wide and showing off her long tongue."
+"<囚人>
+『このお口でおちんぽをじゅるじゅる吸ってあげたのよ♡
+　亀頭もこの舌でなんども舐めまわしてあげて、
+　丁寧に、じっくりと虐めてあげたわ♡』","","<Prisoner>
+""I sucked off his dick with my mouth♡ I also kept
+ licking his glans with my unthinkably long tongue
+ really slowly and carefully♡"""
+"<囚人>
+『それから何度も何度も寸止めしてあげたらね？
+　すぐに彼も10万Gの支払いに同意してくれたわ♡』","","<Prisoner>
+""Then I began edging his penis time and time again♡
+ As I did so, it didn't take long before he agreed to
+ pay 100 000G for my services♡"""
+"<囚人>
+『すっごい情けない声で、
+　イかせてくださいって正義の味方失格のおねだり♡
+　しちゃってたのに、ほんと、ひどいわ♡』","","<Prisoner>
+""He begged me to make him cum in a cry so miserable
+ that you never guess he's a member of the Vanguard♡
+ We had a proper deal, and here I am in the jail."""
+"囚人は貴方に口の中を見せつけ、
+その時の再現をするように妖しげに舌を動かす。
+その妖艶な舌の動きに、股間に血流が集まるのを感じる。","","The woman showed off the insides of her mouth and moved
+her tongue as if giving you a replay what she did back
+then. You started to feel the blood starting to back
+in your groin at the sight of her seductive tongue."
+"<アル>
+『\n[1]！！こ、この人やばい人だよ…！
+　は、早く離れようよ！！』","","<Al>
+""\n[1]! T-This woman is really bad news!
+ Y-You should get away from her right now!"""
+"アルのそんなせかすような声を聞きながらも、
+貴方は彼女のお口に視線が釘付けになり、
+そこから1歩も動くことが出来ない。","","Al called you to get away, but your gaze was locked
+so hard on the woman's mouth that you couldn't move
+a step from the spot."
+"<囚人>
+『うふふ♡お兄さん、
+　話を聞いてたら想像しちゃったの？
+　牢屋の前でおちんぽ勃起させちゃうなんて変態ね♡』","","<Prisoner>
+""Ahaha♡ Did you end imagining the way I gave that guy
+ a blowjob while listening to my story? You're quite
+ a pervert to pop a boner in front of a cell♡"""
+"<囚人>
+『その勃起おちんぽ、牢屋の中に入れてみない？
+　そしたらこのお口で、たっぷりフェラしてあげるわよ♡
+　ヴァンガードの彼みたいにね♡』","","<Prisoner>
+""How about you pushed that boner of yours through the
+ bars? If you do, I'll give you an amazing blowjob♡
+ Just like the one I gave to the Vanguard guy♡"""
+"囚人は貴方に妖しく動く舌を見せつけながら、
+そう誘惑する。その扇情的な動きに、
+貴方は思わずごくりとのどを鳴らしてしまう。","","The woman tempted you to stick your penis in the cell
+while showing off the movements of her seductive
+tongue. The sight of her sensational display made you
+gulp loudly."
+"<アル>
+『だ、ダメだよ！？そんなことしたら、
+　何を要求されるか分からないんだからね！？
+　し、しっかりして！\n[1]！！』","","<Al>
+""N-No! \n[1], you shouldn't do it!
+ She'll surely demand something from you!
+ Carefully think this through!"""
+"肉棒を牢屋の中に入れる","","Stick your penis in the cell"
+"牢屋の前から離れる","","Back off from the cell"
+"アルのいう通り、
+ここで誘惑に負ければ後で何を要求されるか分からない…
+それでも、貴方は思わず勃起した肉棒を露出させてしまう。","","You agreed with Al in that the woman might demand
+something from you afterwards if you fell for the
+temptation... But even then, you ended dropping your
+pants and exposing your penis before her."
+"アルの制止の言葉も、
+もう貴方の耳には入らない。
+すっかり頭の中を興奮で支配されてしまった。","","Al's words of caution could no longer reach you.
+Arousal had completely taken control of your mind."
+"ここで誘惑に負ければ後で何を要求されるか分からない…
+それでも、貴方は思わず勃起した肉棒を露出させてしまう。","",""
+"<囚人>
+『うふふ♡
+　もう期待でいっぱいの顔ね♡
+　おちんちんもこんなにびくびくさせて……♡』","","<Prisoner>
+""Ahaha♡ Your face is already dyed with desire♡
+ Your dick is also twitching so hard♡"""
+"<囚人>
+『いいわよ、お望み通り咥えてあげる♡
+　牢屋の前で、おちんぽ気持ちよくしてあげるから…
+　とくと味わいなさい♡あ～むっ♡』","","<Prisoner>
+""Then, I'll fulfill your desire and suck your dick♡
+ I'm going to pleasure you from behind the bars...
+ So thoroughly enjoy it♡"""
+"囚人は大きく開けた口で肉棒を咥える。
+彼女の生温かい口内に包まれる感触に、
+肉棒が溶かされるようで思わず声が漏れてしまう。","","The woman opened her mouth wide and swallowed your
+penis. It felt as if your penis melted down when she
+surrounded you with her warm mouth, and you couldn't
+help but moan before that sensation."
+"<囚人>
+『んっ♡咥えられただけで、
+　ずいぶんおちんぽ喜んじゃうのね♡
+　もしかして貴方って、相当弱いのかしら♡』","","<Prisoner>
+""Mmmh♡ I've only swallowed it, but your dick seems
+ to be totally loving this♡ Are you perhaps pretty
+ weak?♡"""
+"<囚人>
+『だとしたらごめんなさい♡
+　歯を食いしばって耐えたほうがいいかもしれないわよ？
+　もしかしたら瞬殺しちゃうかもしれないから♡れろぉ♡』","","<Prisoner>
+""If that's the case, I'm sorry♡ It might be better for
+ you to clench your teeth and endure because I might
+ accidentally finish you off in an instant♡"""
+"囚人は貴方の反応に笑みを浮かべると、
+生温かい口内で肉棒を包み込み、亀頭に舌を這わせる。
+ぬるぬると唾液を含んだまま先端をなぞる彼女の舌に、
+貴方は腰を震わせて感じてしまう。","","The woman grinned at your reactions to the pleasure and
+pulled your penis deeper to start tracing your glans 
+with her tongue. The way she worked her wet tongue 
+across your glans felt so good your hips began trembling."
+"<囚人>
+『先っぽをこんな風に、丁寧に舌で舐られるの……
+　とっても気持ちいいのよね？腰が動いてる♡
+　情けなく感じちゃって可愛いわ♡』","","<Prisoner>
+""When I carefully lick the tip of your dick like this, 
+ it feels totally amazing, right? Even your hips are
+ trembling♡ Those miserable reactions are so cute♡"""
+"<囚人>
+『このままじっくり、
+　私のお口おまんこでおちんぽを溶かしてあげるわね♡
+　何度も何度もこうして先っぽを舐めてあげて…♡』","","<Prisoner>
+""I'm going to continue like this and slowly melt down
+ your dick in my mouth pussy♡ I'll lick the tip 
+ again and again without end...♡"""
+"<囚人>
+『先っぽにも優しくちゅっ♡ちゅっ♡
+　舌と唇のコンビネーション♡どう？
+　貴方に私の技が耐えられるかしら♡れろれろ♡』","","<Prisoner>
+""I'll also give gentle kisses on the tip♡ Mwuah♡
+ How do you like my lips and tongue combo?
+ Can you endure my special technique?"""
+"囚人は的確に肉棒の弱点を舌でくすぐり、
+時折柔らかな唇を先端に押し付ける。
+丁寧な口による奉仕に肉棒は溶かされ、
+ただされるがままになるしかできない。","","The woman accurately tickled your sensitive spots with
+her tongue while also softly kissing your tip at times.
+Your penis was melting down so badly in her mouth
+services that you let her have full control."
+"<囚人>
+『んっ♡んふふ♡
+　まだ挨拶みたいなフェラをしてるだけなのに、
+　もうすっかり夢中になっちゃってるわね♡』","","<Prisoner>
+""Ahaha♡ I've only got started with the blowjob,
+ but looks like I've already got you completely
+ hooked♡"""
+"<囚人>
+『こんな調子じゃ、
+　本気フェラをしてあげたら……
+　すぐお口おまんこの中でイっちゃいそう♪』","","<Prisoner>
+""If I gave you the real blowjob now... I bet you would
+ instantly shoot your load in my mouth♪"""
+"<囚人>
+『だから、手加減してあげるわね♡
+　あま～く、じっくり♡
+　ねっとりとフェラで堕としてあげるわ♡れろぉ♡』","","<Prisoner>
+""That's why I'm holding back♡ I'm going to make you
+ fall with a really slow and sweet blowjob♡"""
+"主人はニマニマと笑みを浮かべ、
+長い舌を肉棒にみっちりと這わせる。
+ぬめりを帯びたその感触全体を舐られ、
+肉棒はあっという間に高められてしまう。","","The woman grinned at you before starting to run her
+long tongue all over your penis. As she wetly
+touched you, she was quickly taking your penis
+towards the limit."
+"こんなフェラを続けられたら、確かに、
+彼女に逆らえず、何でも受け入れてしまうかもしれない…
+そんな危機感を覚えつつも腰を引くことが出来ない。","","You felt a sense of danger that if she continued giving
+you a blowjob like this, you wouldn't be able to disobey
+her and would do anything she asked of you...
+But even then, you couldn't pull back your hips."
+"<囚人>
+『おちんぽに絡みつく私の舌♡
+　たっぷり感じながら気持ちよくなりなさい♡
+　ねっとりとした快楽の虜にしてあげるから♡』","","<Prisoner>
+""Please fully enjoy the sensation as I coil my tongue
+ around your dick♡ I'll make you into a slave of that
+ wet and sticky pleasure♡"""
+"<囚人>
+『このまま、
+　私のお口おまんこで気持ちよくなっていいのよ♡
+　なんにも怖がることないわ♡ちゅっ♡』","","<Prisoner>
+""Just go ahead and fully enjoy my mouth pussy♡
+ There's nothing scary about indulging in it♡"""
+"囚人はニマニマと妖しく微笑んだまま、
+舌と唇を使った丁寧な愛撫で貴方を追い詰める。
+ねっとりとした彼女の口撃にみるみる興奮は高められ、
+すぐにとろりと先端から我慢汁があふれてしまう。","","The woman grinned seductively while driving your penis
+into the corner with the careful caress of her lips and
+tongue. Her sticky mouth work was making your arousal
+skyrocket, and soon your precum began leaking out."
+"<囚人>
+『あら…♡
+　もう我慢汁が出てきちゃったの？
+　咥え甲斐のないおちんぽね♡』","","<Prisoner>
+""Oh my♡ Are you leaking precum already? My mouth is
+ way too good for something like your weak dick♡"""
+"<囚人>
+『まぁいいわ♡
+　それなら……そろそろ交渉の時間に入りましょう？
+　このおちんぽ、このままイかせてほしいわよね？』","","<Prisoner>
+""But I guess that makes it about time♡
+ Time we entered the negotiations♡
+ You want me to make you cum, right?"""
+"<囚人>
+『だったら、
+　保釈金を払うためのお金を私に頂戴♡
+　後、1万Gだけ足りないのよね♡』","","<Prisoner>
+""In that case, I want you to give me enough money
+ finish paying my bail bill in return for it♡
+ I'm only missing 10,000G♡"
+"<囚人>
+『もし1万G払って、
+　私を外に出してくれるなら……
+　このおちんぽ、じゅるじゅる吸ってあげる♡』","","<Prisoner>
+""If you pay me 10,000G and get me out from here...
+ I'm going to suck you off hard♡"""
+"囚人はレロレロと舌先で肉棒をくすぐり、
+貴方を上目づかいで見つめてそう言葉を投げかける。
+彼女はまるで、貴方の選択は分かっている、
+そう見透かすような妖しげな笑みを浮かべている。","","The woman looked at you in upward and tickled your
+penis with the tip of her tongue as she gave you 
+the offer. She looked at you in smile so seductive
+that it was as if she knew what you would choose."
+"1万G払う","","Pay 10,000G"
+"提案を拒否する","","Refuse"
+"<囚人>
+『うふふ♡呆気なく堕ちちゃったわね♡
+　ほら、先払いで1万G、牢の中にいれてちょうだい♡
+　ちゅっ♡ちゅっ♡』","","<Prisoner>
+""Ahaha♡ It took no time at all to strike the deal♡
+ I want the payment in advance, so give it to me past
+ the bars♡"""
+"囚人は肉棒の先端に甘く口づけをし、そう指示する。
+こんな大金を一時の快楽のために……
+そんな躊躇もそのキスに溶かされ、
+震える指で牢の中にお金を入れてしまう。","","The woman told you to pay in advance before proceeding
+to sweetly kiss your tip. You hesitated for a moment,
+but the kisses washed away such thoughts, and you gave
+her the money with trembling hands."
+"貴方は10000G失った！
+所持金\V[27]G→所持金\C[18]\V[28]G","","You lost 10,000G!
+Money: \V[27]G→\C[18]\V[28]G"
+"<囚人>
+『ありがとう♡
+　それじゃ、約束通り……♡
+　お返しにフェラでじゅるじゅる精液を吸い出してあげる♡』","","<Prisoner>
+""Thanks for the business♡ Then, as I promised...
+ I'm going to suck off your cum in return♡"""
+"<囚人>
+『大金を支払ったんだもの♡
+　せいぜい後悔しないよう、長い時間耐えて見せなさい♡
+　んっ♡じゅるっ♡じゅぽっ♡』","","<Prisoner>
+""You paid big bucks for this, so make sure to try to
+ enjoy it as long as possible and make it worth every
+ penny♡ Otherwise you're going to regret it♡"""
+"囚人は奥まで肉棒を咥えこみ、
+頬を窄めて一揆に吸い上げながら顔を動かし、
+肉棒全体を溶かすように舐る。","","The woman took your whole penis in her mouth, and then
+she caved her cheeks to suck you hard while rocking
+her head back and forth and licking you."
+"彼女の言う通り、なるべく耐えようとしても、
+その激しいフェラにすぐに貴方は追い詰められてしまう。
+そして、ついついもっとゆっくり、と
+おねだりを彼女にしてしまった。","","Even as you tried to last as long as possible, the
+blowjob was so intense that you were hitting the edge
+in an instant. Because of that, you ended up begging
+her to go slower."
+"<囚人>
+『んっ♡ちゅぽんっ♡
+　ダメよ♡ゆっくりなんてしてあげない♡
+　もう私の目的は達成したんだもの♡』","","<Prisoner>
+""Nope♡ I won't slow down♡ There's nothing for me to
+ gain for slowing down since I've already achieved my
+ goal♡"""
+"<囚人>
+『後はサクッと、
+　貴方のおちんぽをお口おまんこで抜いてあげるだけ♡
+　長く楽しみたいなら、頑張って耐えたらどう？』","","<Prisoner>
+""All that's left is to blow you off as quickly as
+ possible with my mouth pussy♡ It's up to you to
+ endure if you want to keep enjoying this longer♡"""
+"囚人は肉棒を解放すると、
+舌先で裏筋を舐めて貴方をそう挑発する。
+そう言われても、
+その舌での刺激だけで貴方はイってしまいそうだった。","","The woman popped your penis out of her mouth and began
+licking your frenulum with the tip of her tongue. She
+told you how it's completely up to you, but the licking
+alone was about to make you blow."
+"<囚人>
+『…なんて、こんなおちんぽじゃ、
+　もうもたないわよね♡悪いこと言ったかしら♡
+　まぁ、許して頂戴♡』","","<Prisoner>
+""But with dick this weak, there's no way endure my
+ blowjob♡ Sorry that I suggested something so
+ pointless♡"""
+"<囚人>
+『ほら、お詫びにお口おまんこで、
+　とびっきり気持ちよくしてあげる♡
+　意識飛んじゃうくらいの快楽を与えてあげるわね♡』","","<Prisoner>
+""Let me apologize by making you feel the most supreme
+ pleasure with my mouth pussy♡ I'll blow your dick
+ and mind so hard that you'll pass out♡"""
+"<囚人>
+『思いっきりおちんぽ吸ってあげるから……
+　1万G分の射精の快楽、しっかり噛みしめなさい♡
+　じゅぽっ♡じゅるるっ♡』","","<Prisoner>
+""I'm going to suck you off with everything I have...
+ So make sure to enjoy the orgasm to make it worth
+ 10,000G♡ Mmmmmmmmmmmh♡"""
+"<囚人>
+『うふふ♡たっぷり出したわね♡
+　1万G分の射精、気持ちよかった？
+　それじゃ、私は看守が来たら釈放してもらうわね♡』","","<Prisoner>
+""Ahaha♡ You shot out so much♡ Did you enjoy the
+ 10,000G orgasm? I'm just going to wait for the guard
+ come back and release me now♡"""
+"大量の精液を口で受け止め、
+囚人はくすくすと笑みを浮かべる。
+そして、ごくっと飲み干すとそう言葉を口にした。","","The woman grinned at you after catching your massive
+semen load with her mouth. Then you heard a gulp as
+she swallowed her catch."
+"<囚人>
+『私の名前はマーシャよ♡
+　後で下町の酒場の主人に私の名前を言いなさい♡
+　ここから出してくれたお礼、たっぷりしてあげるから♡』","","<Prisoner>
+""My name's Masha♡ Tell that name to the woman tending
+ the bar in the downtown, and I'll give you a reward
+ that makes it worth every coin helping me out♡"""
+"マーシャはそう言って貴方にウィンクをする。
+その可愛らしいしぐさと妖艶な雰囲気に、
+貴方は思わず頬を赤らめてしまう。","","Masha winked after telling where to find her again.
+You couldn't help blushing when she did something so
+cute while also being so voluptuous."
+"<アル>
+『…\n[1]？…今度こそ、ダメだからね？
+　宿屋で2人きりなんて、
+　絶対ただのお礼じゃないよ？』","","<Al>
+""...\n[1]? I don't think you should go
+ see her again. I'm sure she won't be giving you just
+ a reward when she gets you alone behind locked doors."""
+"そんな貴方に、アルがそう忠告を告げた。","","Al gave you her warning."
+"<囚人>
+『あら、理性がまだ残ってたのね♡
+　でも、そんなこと言っても……♡気持ちよくて、
+　おちんぽ引き抜けないんでしょう？』","","<Prisoner>
+""Oh, there was still some reason left in you♡
+ But even if you say that...♡ My mouth feels so good
+ that you can't pull your dick away from it, right?"""
+"<囚人>
+『それなら貴方が完全に堕ちるまで、
+　このまま私のお口おまんこでおちんぽ溶かしてあげるわ♡
+　いつまで強情でいられるかしらね♡れろぉ♡』","","<Prisoner>
+""If you won't pay, then I'm just going to keep teasing
+ your dick until there's no a shred of reason left in
+ you♡ I wonder how long it takes until you'll fall?"""
+"囚人は貴方の拒否に意外そうにしながらも、
+余裕を保ったまま、肉棒を長い舌で舐る。
+貴方は、このままでは堕とされる、
+それを理解していても、腰を引くことが出来ない。","","The woman was surprised over your refusal, but she kept
+her cool and continued licking your penis. You knew
+that she would end bending your will if this continued,
+but you still couldn't pull away your hips from her"
+"囚人は生温かい口内で肉棒を包み込んだまま、
+射精しない様に休ませながら、
+じわじわとした快感で貴方を追い詰める。","","She continued licking your penis in her warm mouth
+while slowly cornering you with pleasure that wasn't
+enough to make you orgasm."
+"<囚人>
+『んふふ♡
+　完全に堕ちるでもなく、誘惑を振り払うわけでもなく…
+　貴方って中途半端な人ね♡』","","<Prisoner>
+""Ahaha♡ You haven't fully lost your reason, but you
+ aren't trying to shake off the temptation either♡
+ Your halfway measures will get you nowhere♡"""
+"<囚人>
+『でも大丈夫よ♡
+　ヴァンガードの彼もいっしょだったから♡
+　彼も最初はそんな大金払えないって言ってたの♡』","","<Prisoner>
+""But that works fine with me♡ The guy from Vanguard
+ was the same♡ He also refused to pay such big money
+ at the start♡"""
+"<囚人>
+『それがこうしてじっくり舌と唇で、
+　おちんぽを「説得」してあげたら…♡
+　最後はとろとろの顔で納得してくれたわ♡』","","<Prisoner>
+""But after I took my time 'persuading' his dick with my
+ tongue like this... He agreed to the deal with a
+ really sloppy face in the end♡"""
+"<囚人>
+『貴方は何回目の「説得」で、
+　完全に堕ちてしまうのか、楽しみね♡
+　れろぉ♡れろれろ♡ちゅっ♡』","","<Prisoner>
+""I can't wait to find out how many rounds of
+ 'persuasion' it takes to make you fall in the
+ same way♡"""
+"囚人は舌で器用に肉棒を舐めまわしながら、
+柔らかな唇を先端に押し付ける。
+そのねっとりとした口劇に、
+貴方の思考にはもやがかかってくる。","","The woman kissed your tip with her soft lips while
+skillfully licking your penis through them.
+The sticky mouth play was making your mind totally
+freeze down."
+"<囚人>
+『ちゅっ♡ちゅっ♡
+　唇が先っぽに触れるたびにおちんぽ震えてるわよ♡
+　この調子じゃ、堕ちるのもすぐかしら♡』","","<Prisoner>
+""Your dick twitches every time I lay down my lips on
+ its tip♡ It shouldn't take much longer to make you
+ fall when you're already in such a bad state♡"""
+"<囚人>
+『ほらほらぁ♡
+　こんなソフトフェラじゃ物足りないわよね？
+　じゅるじゅる搾精フェラ♡して欲しいわよね♡』","","<Prisoner>
+""Hey♡ You want way more than this kind of soft
+ blowjob, right? You want me to suck your dick so
+ hard the semen flies out from your balls, right?"""
+"<囚人>
+『諦めて1万G、払いなさい♡
+　精液もお金も、私に吸い取られるの…
+　すっごく気持ちいいわよ♡れろぉ♡』","","<Prisoner>
+""Then just give it up and pay me 10,000G♡
+ It will feel totally amazing to lose both
+ your semen and money to me♡"""
+"<囚人>
+『まだ頑張るのね♡
+　そんなに辛そうな顔してるのに、
+　中々やるじゃない♡』","","<Prisoner>
+""Looks like you're still hanging in there♡
+ You're unexpectedly tough even you're making such
+ a pained face♡"""
+"<囚人>
+『1万G、稼ぐのはそんなに大変だったのかしら？
+　簡単にフェラなんかで吸い取られたくない、
+　そう思ってるから我慢してるの？』","","<Prisoner>
+""Was it maybe really difficult to earn that 10,000G?
+ Are you thinking something like you don't want to lose
+ it to simple blowjob?"""
+"<囚人>
+『でも♡
+　おちんぽの方はそうは言ってないみたいよ♡
+　今にも私のお口おまんこでイっちゃいそうだもの♡』","","<Prisoner>
+""However♡ What your dick is thinking is the exact
+ opposite♡ It wants to blow it's load in my mouth
+ pussy as soon as possible♡"""
+"囚人は舌を動かし、先端をくすぐりながら、
+時折肉棒を休めてくすくすとそう笑う。
+奪われるわけにはいかないのに、
+思考は快楽でそまり、射精したいとしか考えられない。","","The woman tickled the tip of your penis with her tongue
+while stopping to let your penis rest and giggle at you
+at times. You didn't want to let her take your money,
+but the pleasure was pushing your thoughts toward orgasm."
+"<囚人>
+『諦めなさい♡
+　私の前でおちんぽを出しちゃった貴方は、
+　もうこのまま私にお金を差し出すしかないの♡』","","<Prisoner>
+""Give it up♡ From the moment you took out your dick,
+ your only option was to pay up to cum♡"""
+"<囚人>
+『ほら、ほら♡
+　おちんぽにたくさんキスして、理性を溶かしてあげる♡
+　1万G、払いなさい♡ちゅっ♡ちゅっ♡』","","<Prisoner>
+""Here♡ I'll melt down your mind by raining kisses on
+ your dick♡ Pay up that 10,000G to me♡"""
+"<アル>
+『ん！頑張って誘惑を振り切れたね…！
+　偉いよ、\n[1]♪す、すぐここを離れよっか！」","",""
+"牢屋を離れた貴方に、アルはほっと息をつく。
+それとは対照的に、
+囚人はがっかりしたようにため息をついている。
+しかし、すぐに笑顔に戻って舌なめずりをする。","",""
+"<囚人>
+『あら、連れないのね。
+　いいわ、また気が変わったらここに来なさい♡
+　たっぷり気持ちよくしてあげるわ♡』","",""
+"<囚人>
+『あら、この前のお兄さんじゃない♡
+　どうしたの？やっぱり気が変わって、
+　私のフェラを味わいてくなっちゃったのかしら♡』","",""
+"<囚人>
+『いいわよ、それじゃあ…♡
+　期待しておっきくなってるその勃起おちんぽ♡
+　外に出して、突き出しなさい♡舐めてあげる♡』","",""
+"囚人は大きく口をあけ、
+舌をなまめかしく動かして貴方をそう誘惑する。","",""
+"<アル>
+『だ、ダメだよ！？
+　この前のこの人の話、忘れちゃったの！？
+　じゅ、10万Gを人からとろうとしたんだよ！この人！』","",""
+"<アル>
+『\n[1]！！惑わされちゃダメ！
+　ね？ほら、早くここを離れよう？』","",""
+"EV016","",""
+"EV017","",""
+"EV018","",""
+"EV019","",""
+"EV020","",""
+"EV021","",""

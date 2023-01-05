@@ -1,0 +1,347 @@
+"EV001","",""
+"隣から響く大きな声に、意識は完全に覚醒した","","The shout got you completely awake."
+"<???>
+『あ、やっと起きた！おっはよー♪』","","<???>
+""Ah! You finally woke up!
+ Good morning♪"""
+"隣に目をやると、にこにこと笑顔を浮かべる少女が目に入る
+…いや、少女というにはサイズが小さい","","As you turned towards the voice, you saw a little girl
+brimming in smile. And by little you didn't mean that
+she was young but literally tiny."
+"まるで、物語に登場する妖精のような体躯の少女が
+笑顔で貴方を見つめている","","A girl who was small like a fairy was looking at you
+in smile."
+"そのあり得ない現実にすぐに確信する
+なんだ、夢か","","The impossible sight made you realize it right away:
+This must be a dream."
+"そう考えた貴方は、再び布団をかぶり眠りにつこうとする","","As you came to the realization, you went back under
+the sheets."
+"<???>
+『ちょ、ちょっと！まだ寝るの！？』","","<???>
+""H-Hey! Are you still going to sleep?!"""
+"<???>
+『そ、そんなの許さないからね！起きろー！』","","<???>
+""I-I won't permit it! Wake up!"""
+"少女がぴょんぴょんと貴方の隣で騒ぎながら跳ねる。
+うるさくて寝付けそうにない。","","The girl began making racket at your bedside.
+She was so noisy that you couldn't sleep."
+"観念した貴方が少女に起きることを伝える。
+すると、少女は声を明るくして落ち着いたようだ。","","You realized how you couldn't sleep like this, and told
+the girl that you would wake up. As you did, the girl
+seemed to calm down."
+"<???>
+『改めて！おはよー！！』","","<???>
+""So, once again! Good morning!"""
+"貴方は少女の言葉に力なくおはようと返す。
+そして、じっと少女を見つめる。","","You returned a weak 'good morning' to the girl, and
+then you took a good look at her."
+"…………この少女は、誰だ？
+貴方にはファンタジーな物語のように、
+妖精と知り合いになった記憶はない。","","Just who was she? You don't remember meeting a girl
+who's small like a fairy from a fairy tale."
+"<アル>
+『私はアル、そう呼んで♪』","","<Al>
+""My name is Al♪ You can call me that♪"""
+"貴方の表情から読み取ったのか、
+少女はニコニコと笑顔でそう告げる。","","The girl seemed to read the confusion from your face,
+and she introduced herself in a smile."
+"<アル>
+『ね、ね！私の名前教えたんだからさ！
+　お兄さんの名前も教えて？』","","<Al>
+""Hey, hey! I told you my name! Will you tell me yours?"""
+"少女の方からそう問いかけられる。
+どうやら、
+この少女の方にも貴方が知り合いだという記憶はないようだ。","","The girl asked for your name. Looks like she didn't
+know you either."
+"名前は…………","","Your name..."
+"<アル>
+『そっかそっか、\N[1]ね！よろしく♪』","","<Al>
+""I see, you're \N[1]!
+ Nice to meet you♪"""
+"人懐っこい笑みで少女はそう挨拶する。
+こちらこそ、と答えたところで
+貴方は自分がいる場所が自分の部屋ではないことに気が付く。","","The girl, Al, greeted you with a friendly smile.
+You replied with 'likewise', and then noticed how
+this wasn't your room."
+"<アル>
+『え？ここはどこかって？』","","<Al>
+""Eh? Where are we?"""
+"<アル>
+『ん～、どこなんだろう？
+　私も、気が付いたらここにいたの』","","<Al>
+""Hmm... I don't really know either.
+ I found myself here when I woke up."""
+"<アル>
+『それで、隣にいたのが\N[1]だったんだ。
+　知らないところで1人なんてちょっと怖くて……
+　それで、慌てて\N[1]を起こしたってわけ！』","","<Al>
+""And then I noticed you, \N[1].
+ It a bit scary to be alone with a stranger,
+ so I woke you up!"""
+"少し困ったような笑みで少女はそう答える。","","Al answered with a slightly troubled smile."
+"この小さな少女にもここがどこだか分からないようだ。
+不気味な場所に、2人きり。","","She didn't seem to know where you are either.
+You were simply together in an unknown room."
+"この状況について理解するためにも、
+まずは彼女のことについて知ることが先決だろう。","","Before trying to come into a conclusion about your
+situation, you decided to try asking Al some things."
+"君は妖精なの？","","Are you a fairy?"
+"君はこの状況に心当たりは？","","Why are we here?"
+"聞きたいことはもうない","","Enough questions"
+"<アル>
+『え？…………う～ん…………』","","<Al>
+""Eh? Hmmm..."""
+"少女は貴方の問いに困ったような顔をする。","","Al made a troubled face at your question."
+"<アル>
+『それが、分からないんだよね』","","<Al>
+""I don't really know."""
+"<アル>
+『私、自分のことを名前以外なんにも覚えてないの』","","<Al>
+""I can't remember anything about myself expect my name."""
+"少女の口から想像していなかった言葉が発せられる
+…………記憶喪失？","","Al gave you an answer that you didn't expect.
+It seems like she had lost her memory."
+"<アル>
+『多分そう！……私って、妖精なのかな？』","","<Al>
+""Yes, I think I have amnesia.
+ Maybe I am a fairy?"""
+"首を傾げる少女に、自分から見れば妖精に見えると伝える","","As Al tilted her head in thought, you told her how she
+looks exactly like a fairy from your point of view."
+"<アル>
+『そうなの？うん、じゃあ私は妖精さんだよ♪』","","<Al>
+""Really? Then I must be a fairy♪"""
+"少女は明るくそう宣言する。
+…記憶がないことに、あまり苦悩はないようだ","","Al declared herself a fairy in bright voice.
+The amnesia didn't seem to trouble her all that much."
+"<アル>
+『まったくないかな！』","","<Al>
+""No clue!"""
+"明るく少女はそう断言する。","","Al replied so in a bright smile."
+"<アル>
+『これって誘拐なのかな？監禁…………とか！』","","<Al>
+""Maybe we've been kidnapped? Confined?
+ Or something like that!"""
+"……少女の言う通り、それに近い状況だろう。
+見知らぬ部屋に女の子と2人きり。","","The situation didn't seem far of from Al's guesses.
+You were alone with her in an unknown room after all."
+"これで少女の体躯が妖精のように小さくなければ、
+それなりにドキドキする状況だろうか。","","If only Al wasn't tiny like a fairy, you might have got
+a bit excited from being alone with a pretty girl like
+her."
+"<アル>
+『…………今、何か失礼なこと考えたでしょ？』","","<Al>
+""...Did you think something really rude just now?"""
+"そんなことを考えていると、少女はジト目で貴方を見つめる。","","Al stared at you with reproachful eyes as you were
+thinking about rude things."
+"…………話題を変えよう","","You decided to change the topic."
+"結局少女と話しても、
+何一つ状況について理解できることはなかった。","","Even after talking with Al, you had no idea about the
+situation you were in."
+"<アル>
+『う～ん、\N[1]なら何か知ってるかと思ったけど…
+　\n[1]も何も知らないんだね』","","<Al>
+""Hmm. I thought you might have known something, but
+ looks like you're just as clueless as I am."""
+"少女の方も貴方に情報を期待していたようだ。
+その期待に応えられなくて申し訳ない。","","Looks like Al was hoping for you to know something, but
+you couldn't meet her expectations."
+"<???>
+『ピンポンパンポーン』","","<???>
+""Pim-pom-pam-pom!"""
+"2人で首をひねって考えていると、
+突然頭の中に機械音声のようなものが流れる。","","As the two of you were lost in thought, a voice rang
+in your head."
+"<アル>
+『わ！？え？なになに！？』","","<Al>
+""Uah! Eh? What's happening?!"""
+"少女は慌てふためく。
+どうやらこの音声は少女にも聞こえているようだ。","","Al suddenly panicked. She must have also heard the
+voice."
+"<???>
+『まずは突然お呼びしたことをお詫び申し上げます。』","","<???>
+""Allow me to first apologize for my sudden call."""
+"<???>
+『そして、ようこそ！』","","<???>
+""And also allow me to welcome you!"""
+"<???>
+『ここは神の迷宮、神が作り上げたゲームの世界です。
+　皆様はそのプレイヤーとして選ばれました。』","","<???>
+""You have arrived in God's Labyrinth: A game world made
+ by the god. And all of you have been chosen as its
+ players."""
+"<???>
+『クリアを目指すも、のんびりとプレイするのも、
+　この世界での遊び方は皆さまの自由です。』","","<???>
+""The way you choose to play the game in this world
+ is up to you. You may choose to clear the game
+ or take it easy."""
+"<???>
+『心行くまで遊びつくしてくださいませ。』","","<???>
+""Please play in any way you wish to."""
+"<???>
+『また、このゲームをクリアした方には、
+　どのような願いでも1つ叶えられる権利が与えらえます。』","","<???>
+""But be aware that any player who clears the game will
+ have one of their wishes fulfilled."""
+"<???>
+『その際に元の世界への帰還も可能です。』","","<???>
+""After having your wish granted, you may also return
+ to your own world."""
+"<???>
+『さて、ここでの冒険の手助けとして、
+　皆様にはある力をお渡ししています。』","","<???>
+""Now then, I will provide all of you with some powers
+ to aid you in your adventure."""
+"<???>
+『それは「ソウルアブゾープション」と
+　「レベルドレイン」という2つの力です。』","","<???>
+""The powers you'll be provided with are:
+ Soul Absorption and Level Drain."""
+"<???>
+『端的に言えば、この2つは貴方たちを強くする力。』","","<???>
+""Simply put, these two powers are for you to make
+ yourselves stronger."""
+"<???>
+『貴方たちは「ソウルアブゾープション」により、
+　このダンジョンに生息する魔物を倒し、
+　糧とすることが出来ます。』","","<???>
+""Soul Absorption allows you to turn defeated monsters
+ of the dungeon into experience."""
+"<???>
+『そして、PvPに勝利することで他者が溜めたその糧を
+　「レベルドレイン」により奪い取ることができます。』","","<???>
+""While Level Drain allows you to steal experience from
+ other players who you have defeated in PVP."""
+"<???>
+『しかし、1回の「レベルドレイン」には限度がありますので、
+　PvPが原因でゲームオーバーとなることはありません。
+　ご安心ください。』","","<???>
+""However, please do not get too worried about PVP.
+ Level Drain can't be used to kill players so you won't
+ get game over through it."""
+"<???>
+『これら2つの力を駆使して自らを鍛え上げ、
+　ぜひゲームクリアを目指してください』","","<???>
+""Please use these two powers to make yourself stronger
+ and aim to clear the game."""
+"<???>
+『ただし、この世界での注意点が1つあります。』","","<???>
+""However, there is a single thing I need to warn you
+ about this world."""
+"<???>
+『ここはゲームの世界ですが、
+　コンテニューはございません。』","","<???>
+""Although this is a game world, there are no revives."""
+"<???>
+『レベルをすべて失い、死亡してしまった場合、
+　ゲームの参加権を失って元の世界へと帰還してしまいます。
+　ご注意ください。』","","<???>
+""If you lose all of your levels and die, you will lose
+ your right to participate and will be returned to your
+ own world."""
+"<???>
+『それでは、良き冒険者ライフを！』","","<???>
+""Now then, have a fun life of adventure!"""
+"音声はそう締めくくられる。","","The voice came to a close with that."
+"<アル>
+『えっと……誘拐犯は、神様？』","","<Al>
+""Um... So the kidnapper is a god?"""
+"先の音声が確かなら、少女の言う通りだろう","","If what the voice just now said was true, it was just
+as Al said."
+"<アル>
+『むー！勝手に誘拐しておいて楽しめなんて、
+　すごく勝手な神様だね！』","","<Al>
+""Geez! That's one annoying god!
+ Kidnapping us just for his own amusement!"""
+"少女はむくれたように頬を膨らませる","","Al puffed her cheeks in anger."
+"ちょっとわくわくするかも","","But it's a bit exciting"
+"全く、困ったことになった","","Yes, it's a bit troubling"
+"<アル>
+『ええ！？\N[1]、度胸あるね！？』","","<Al>
+""Eeh?! \N[1], just what are you saying?!"""
+"相手が神様なら、文句を言っても始まらない。
+ゲームを楽しめというのなら、存分に楽しんでみようかな、
+そんな意気込みを少女に伝える。","","Complaining would be pointless if the other party is
+a god. If the game is fun, then you should go all out
+with enjoying it. You enthusiastically told that to Al."
+"<アル>
+『た、たしかに文句を言っても仕方ないけど………』","","<Al>
+""Yes... The complaints would fall to deaf ears, but..."""
+"<アル>
+『…………うん！そうだね！\N[1]の言う通り！
+　せっかくなら楽しんでみよっか！』","","<Al>
+""...Yeah! You're right, \N[1]!
+ Now that we're here, let's go with a bang!"""
+"<アル>
+『だよね！会ったら文句言ってやるんだから！』","","<Al>
+""Right! I'm going to file a complaint if I meet him!"""
+"少女に同感だが、
+状況的に嫌でもこのゲームをプレイするしかなさそうだ。","","While you agreed with Al, you didn't seem to have any
+other options than to play the game even if you didn't
+like it."
+"<アル>
+『う……そうだよね、文句を言うにしても、
+　クリアしなきゃいけないのよね…………』","","<Al>
+""Uh... Yes, you're right.
+ Even if want to complain, we need to clear the game."""
+"とにかく、クリアを目指してみよう。
+死んでも元の世界に戻れるなら、
+やれるだけやってみても損はない。","","You decided to make clearing the game your goal.
+If dying means getting returned to your own world,
+then there's nothing to lose."
+"<アル>
+『だね！…………がんばって！\n[1]！』","","<Al>
+""You're right! So, do your best! \n[1]!"""
+"<アル>
+『え？私は戦わないのかって？無理無理っ！
+　私戦えないもん。だから、頑張ってね！\N[1]！』","","<Al>
+""Eh? Me? Fighting? No way! I can't fight!
+ That's why, you need to do your best!"""
+"<アル>
+『なんとなくわかるの！私、多分虫1匹にも勝てないよ！』","","<Al>
+""I can kind of tell my own strength! I doubt I'd be
+ able to beat a single fly!"""
+"少女はなぜか胸をそらして自慢げにそう告げる","","Al puffed her chest out with a pride for some reason
+as declared herself weaker than a fly."
+"<アル>
+『う…そんな責める目で見ないでよ……』","","<Al>
+""Uh... Please don't look at me like that..."""
+"<アル>
+『だ、大丈夫！私だって役に立つよ？多分！』","","<Al>
+""I-It will be alright! I'm sure I can be of some use!
+ Probably!"""
+"…………役に立つかはともかく、これも縁だろう。
+さすがに1人残しておいていくわけにもいかない。","","Putting aside Al's usefulness, you thought that it
+might be fate to meet her. At any rate, you couldn't
+just abandon her now."
+"<アル>
+『えへへ♪これからよろしくね♪』","","<Al>
+""Ehehe♪ I'm sure we'll make a good team♪"""
+"アルが貴方の仲間に加わった！","","Al joined the party!"
+"EV002","",""
+"EV003","",""
+"EV004","",""
+"EV005","",""
+"『少し休んでいきますか？』","","Rest for a moment?"
+"はい","","Yes"
+"いいえ","","No"
+"EV006","",""
+"お手軽攻略装備セットを手に入れた！","","Obtained Easy Conquer Equipment Set!"
+"【お手軽攻略装備セットについて】","","【About Easy Conquer Equipment Set】"
+"このアイテムを使用すると、
+獲得経験値を5倍にする効果を持つ指輪と
+全能力を+200する効果を持つ指輪が手に入ります。","","When you use this item, you will obtain a ring with
+experience gain +500% and a ring with +200 all status."
+"ゲームバランスが崩壊してしまいますので、
+お手軽に攻略したい人のみご利用ください。","","Both of these will break the game balance, so please
+use them only if you want to clear the game without
+any trouble."
+"EV007","",""
+"【チュートリアル:難易度変更について】
+難易度変更は大切なもの欄のアイテムを使用することで
+行うことが出来ます。戦闘が難しい、と感じた方は
+そちらから難易度を変更してください。","","【Tutorial: Difficulty】
+Game difficulty can be changed from the Key Items.
+Please adjust the difficulty if you are having trouble."
+"EV008","",""
+"EV009","",""
