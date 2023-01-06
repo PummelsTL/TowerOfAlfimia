@@ -15,23 +15,32 @@
 "EV014",""
 "EV015",""
 "再入室はできません。
-それでもよろしいですか？",""
+それでもよろしいですか？","You won't be able to re-enter the room after leaving.
+Will you leave?"
 "はい","Yes"
 "いいえ","No"
 "まだ入ったばかりだ。
-することがないのならもう休もう",""
+することがないのならもう休もう","You just entered the room. You should rest if there's
+nothing else to do."
 "EV016",""
-"もう休みますか？",""
+"もう休みますか？","Are you going to rest?"
 "<アル>
-『今日はお疲れ様！\n[1]♪』",""
+『今日はお疲れ様！\n[1]♪』","<Al>
+""\n[1], you worked hard today♪"""
 "<アル>
 『明日は朝からあの女の人と約束だよね？
-　寝坊しないよう起こしてあげる！』",""
+　寝坊しないよう起こしてあげる！』","<Al>
+""We have a promise with that woman for tomorrow
+ morning, right? I'll wake you up so you won't
+ oversleep!"""
 "<アル>
-『だから安心して、ぐっすり休んでね！』",""
+『だから安心して、ぐっすり休んでね！』","<Al>
+""That's why have a good rest without any worries!"""
 "<アル>
 『まだ寝ないの？
-　分かった、もうちょっとゆっくりしよっか♪』",""
+　分かった、もうちょっとゆっくりしよっか♪』","<Al>
+""Aren't you going to sleep yet? Okay, let's stay up
+ for a little longer♪"""
 "<アル>
 『今日はお疲れ様！
 　また明日も頑張ろうね！』",""
@@ -39,20 +48,26 @@
 『それじゃあお休み、\n[1]♪』",""
 "EV017",""
 "EV018",""
-"窓から街が一望できる。",""
+"窓から街が一望できる。","You can see the town from the window."
 "<アル>
 『綺麗だねー♪
 　こんな風に落ち着けるところがあって、
-　本当によかったよね！』",""
+　本当によかったよね！』","<Al>
+""It's a pretty view♪ I'm glad that there's such a nice
+ place for resting!"""
 "EV019",""
-"ティーカップとポットが置いてある。",""
+"ティーカップとポットが置いてある。","There's a pot and tea cup on the table."
 "<アル>
 『これでリラックスしてくださいってことかな？
-　遠慮なくいただきまーす♪ごくっ♡』",""
+　遠慮なくいただきまーす♪ごくっ♡』","<Al>
+""I guess they've prepared tea so that you can relax?
+ I'll have a cup♪ Gulp♡"""
 "アルはカップの中に顔を突っ込み、
-そこから中のお茶を飲み始める。",""
+そこから中のお茶を飲み始める。","Al began drinking the tea after thrusting her face into
+the tea cup."
 "<アル>
-『ひゃっ！！あ、あつい～…………』",""
+『ひゃっ！！あ、あつい～…………』","<Al>
+""Uah! H-Hot!"""
 "EV020",""
 "<アル>
 『明日は絶対に負けられないよね！
