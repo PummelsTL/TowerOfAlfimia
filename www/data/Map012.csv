@@ -43,191 +43,224 @@
 "階段を昇ったら町が！",""
 "階段を上った貴方は、
 今までと同じような洞窟があると考えていただけに、
-あたりの光景を見渡して驚いた。","You had expected the stairs to lead to another cave,
-but what awaited you was completely different."
+あたりの光景を見渡して驚いた。","What you saw after going up the stairs left you in a
+shock because you had been expecting them to lead into
+another cave."
 "<アル>
 『うぇぇ！？
 　ま、街！？なんで！？』","<Al>
 ""Eeeeeh?! I-It's a town?! What?! How?!"""
 "アル共々呆気に取られている貴方に、
-1人の女性が話しかけてくる。","While you were dumbfounded with Al, a woman called out
-to you."
+1人の女性が話しかけてくる。","While you were standing dumbfounded with Al, a nearby
+woman called out to you."
 "<???>
 『おめでとう♪君って、
 　そんなにきょろきょろしてるってことは、
 　1階層を始めてクリアした子だよね？』","<???>
-""Congratulations♪ You must have just cleared the first
- floor when you're looking around so much, right?"""
+""Congratulations♪ When you're looking around so much,
+ it must mean that you cleared the first floor, right?"""
 "<???>
 『ああ、1階層って言うのは、この町の下にある、
 　いかにもダンジョン！ってことのことだよ♪
 　ここにいる人はみんなそう呼んでるんだ。』","<???>
-""Ah, the dungeon below the town is named the first
- floor♪ That's what everyone here calls it."""
+""Ah. The dungeon below the town is named the first
+ floor♪ Or at least that's what everyone in the town
+ calls it."""
 "まだ驚きから立ち直れず不思議そうな顔をする貴方に、
-女性はくすくすと笑いながらそう説明する。","You still hadn't recovered from the shock of finding
-a town and made weird face as the woman told you about
-the dungeon with a slight giggle."
+女性はくすくすと笑いながらそう説明する。","You still hadn't recovered from the shock of finding a
+town and were making weird faces. The woman giggled at
+your reactions while explaining about the dungeon."
 "<???>
 『…………どう？
 　下とは雰囲気が全然違って、驚いたでしょ？』","<???>
-""Well? The completely different atmosphere from the
- first floor is really shocking, right?"""
+""Well? Isn't it shockingly different atmosphere from
+ the first floor?"""
 "楽し気に笑みを浮かべながら、
-そう女性は貴方の反応をうかがう。","The woman asked for your impression while looking at
-you with enjoyable smile."
+そう女性は貴方の反応をうかがう。","The woman asked for your impressions with a smile."
 "驚いた","It was a shock"
 "驚いてない","It wasn't shocking"
 "<???>
 『ね♪私も最初にここに来た時は、
 　夢でも見てるのかなっておどろいたよ。』","<???>
-""Right? I thought I was dreaming the first time I made
- it here."""
+""Right? When I made it here the first time, I thought
+ I was dreaming."""
 "女性は貴方の反応に、
-自身の過去に思いをはせて懐かしむような顔をする。","The woman recalled her own experience with a smile
-after hearing your impression."
+自身の過去に思いをはせて懐かしむような顔をする。","The woman told you about her own experience after
+hearing your answer."
 "<???>
 『そうなの？意外と予想してた、とか？
-　驚かない人って珍しいな～。』",""
+　驚かない人って珍しいな～。』","<???>
+""Really? Were you expecting something like this?
+ Vast majority of people are shocked when they reach
+ the town."""
 "女性は素直に貴方の言葉を受け止め、
-驚いたように目を丸くする。",""
+驚いたように目を丸くする。","The woman looked at you in surprise when she heard your
+honest impression."
 "<???>
 『とにかく、始めてってことはこの町のこと、
 　何も分からないよね？』","<???>
-""Anyhow, this is your first town, so you must be
- completely clueless about it, right?"""
+""Anyhow, since this is the first town you've reached,
+ you must not know left from right, correct?"
 "<???>
 『そんなルーキー君は先輩である私が導いてあげよう♪
 　っと、まずは自己紹介か。
 　私の名前は篠山未来、よろしくね。』","<???>
-""Allow me to give you a tour as your senior♪
- Oh pardon me, I haven't introduced myself yet.
- My name is Shinoyama Mirai Nice to meet you."""
+""Mr. Rookie, I'll give you tour as your senior♪
+ Oh pardon me, I haven't even introduced myself.
+ My name is Shinoyama Mirai. Nice to meet you."""
 "女性は人のよさそうな笑みを浮かべながら、
 貴方にそう言う。","Mirai introduced herself with a friendly smile."
-"そんな女性に貴方も名乗りを返した。","You also gave your name in return."
+"そんな女性に貴方も名乗りを返した。","You also introduced yourself in return."
 "<未来>
 『そっか、\n[1]ね。教えてくれてありがと。』","<Mirai>
-""I see, \n[1]. Thank you for telling
- me your name."""
+""I see, so you're \n[1]. Thank you for
+ telling your name."""
 "<未来>
 『今からいろいろ教えてあげたいとこだけど、
 　それは、明日にまわそっか。』","<Mirai>
-""There's so much to explain, but shall we move that to
- tomorrow?"""
+""There's so much I want to teach you about the town,
+ but shall we leave that to tomorrow?"""
 "<未来>
 『なんでって、\n[1]、
 　1階層をクリアしたばっかりで疲れてるでしょ？
 　あのボス、鬼みたいに強いもんね。』","<Mirai>
-""Why move it tomorrow? You just cleared the first
- floor, so you must be really tired, right?
- The first floor boss is crazy strong."""
+""Oh? Why tomorrow? Since you cleared the first floor
+ just now, you must be really tired, right? The boss
+ of the first floor is crazy strong after all."""
 "<未来>
 『今日はゆっくり休んで疲れをいやしたほうがいいよ。
 　宿屋はすぐそこにあるからさ。』","<Mirai>
-""You should rest and recover your strength today.
- The inn is right over there."""
+""You should take the rest of the day off and recover
+ your strength. You can find the inn right there at
+ the corner."""
 "<アル>
 『そうだね！\n[1]疲れてるだろうし、
 　今日はもうゆっくりしよー♪』","<Al>
-""She's right! \n[1], you must be tired,
- so we should take it easy for the rest of the day♪"""
-"貴方はアルの言葉に頷き、女性に感謝の言葉を伝える。","You nodded back to Al and said your thanks to Mirai."
+""\n[1], she's right! That fight must have
+ taken it's toll, so we should take it easy for the
+ rest of the day♪"""
+"貴方はアルの言葉に頷き、女性に感謝の言葉を伝える。","You agreed with Al and gave her a light nod. You
+thanked Mirai for looking out for you like that."
 "<未来>
 『気にしなくていいよ♪
 　明日は、そうだね～……
 　私が朝10時に宿まで迎えに行こうかな。』","<Mirai>
 ""Oh, don't worry about it♪ Then let's see... I'll come
- see you at the inn tomorrow at 10 o'clock."""
+ pick you at the inn 10 o'clock in the morning."""
 "<未来>
 『その後、
 　一緒に出歩きながら街のことを色々教えてあげる。』","<Mirai>
-""After that we can go around the town while I tell you
- all about it."""
-"そう笑顔で告げる女性に再び貴方は頭を下げる。","After Mirai told you about the plan for tomorrow in
-smile, you thanked her again."
+""Then we'll go around the town while I explain all
+ about it's notable places."
+"そう笑顔で告げる女性に再び貴方は頭を下げる。","After Mirai explained the plan for tomorrow in smile,
+you thanked her once more."
 "<未来>
 『いいってば♪
 　私も初めてのぼってきたとき、
 　先輩に親切にしてもらったしね。』","<Mirai>
-""It's okay♪ I also had a kind adventurer teach me about
- the town when I made it here the first time."""
+""It's okay♪ I also had someone show the town to me
+ similarly when I made it here first time."""
 "<未来>
 『ま、お礼がしたいなら晩御飯でも奢ってよ♪
 　お金が足りないなら、
 　私が奢ってあげてもいいけどさ♡』","<Mirai>
-""But well, if you really want to thank me, then you
- could treat me to a meal♪ But if you're low in money,
- I can foot the bill too♡"""
+""But if you insist on thanking me in someway, I'd love
+ if you treated me to a dinner♪ I can also foot the
+ whole bill if you're low on money♡"""
 "奢ると約束する","Promise to treat her"
 "奢ってほしいと頼む","Please foot the bill"
 "<未来>
 『ありがと♪
 　じゃ、期待してるよ？
 　美味しいもの、いっぱい頼むからね。』","<Mirai>
-""Thank you♪ I'm looking forward to a lot of delicious
- food."""
+""Thank you♪ I'll look forward to ordering lots of
+ delicious things with you tomorrow♡"""
 "<未来>
 『お、人の好意を遠慮しないその姿勢、私は好きだよ。
 　明日は美味しいものを、
-　私がたらふく食べさせてあげよう♡』",""
+　私がたらふく食べさせてあげよう♡』","<Mirai>
+""Oh. I like the way you don't hesitate to take my
+ offer. I'll feed you lots of delicious things until
+ your tummy is about to burst tomorrow♡"""
 "<アル>
-『わーい♪美味しいもの！』",""
+『わーい♪美味しいもの！』","<Al>
+""Yay♪ Delicious food!"""
 "<未来>
 『あ、そうだ。宿屋は一晩泊まるのに100Gかかるんだけど、
   \n[1]、お金持ってる？』","<Mirai>
-""Ah, right. The inn charges 100G a night too. Can you
+""Oh, right. The inn will cost 100G a night too. Can you
  afford that?"""
 "貴方は大丈夫だと女性に伝える。","You told Mirai that you were fine."
 "<未来>
 『そっかそっか、それは重々。
 　じゃあ、ゆっくり休んでね、ルーキー君。
 　また明日、迎えに来るね！』","<Mirai>
-""I see. Then please have a good rest and see you
- tomorrow!"""
-"貴方は足りない、と嘆きの言葉を漏らす。",""
+""I see. Then please have a good rest, Mr. Rookie.
+ See you tomorrow!"""
+"貴方は足りない、と嘆きの言葉を漏らす。","You looked down and told Mirai how you couldn't afford
+it."
 "<未来>
 『え？お金ないのに私に奢る気だったの？
 　気持ちは嬉しいけど、
-　あんまり見栄張ってると疲れるよ？』",""
+　あんまり見栄張ってると疲れるよ？』","<Mirai>
+""Eh? But how would you treat me to a dinner then?
+ I'm happy when you said that you would, but putting
+ on air like that will wear you out, you know?"""
 "<未来>
 『そういうのは、ちゃんと余裕が出来てからにしなよ。
-　ほら、私との約束だからね？』",""
-"貴方は女性の言葉に頷いた。",""
+　ほら、私との約束だからね？』","<Mirai>
+""You shouldn't do stuff like that unless you really
+ have leeway with things. Promise me not to do this
+ again."""
+"貴方は女性の言葉に頷いた。","You nodded back to Mirai."
 "<未来>
 『ん、よろしい♪
 　じゃ、明日はやっぱり私が奢ってあげるから。
-　美味しいもの食べさせてあげるから、期待しててよ♪』",""
+　美味しいもの食べさせてあげるから、期待しててよ♪』","<Mirai>
+""That's good♪ Then I'm going to foot the bill for
+ tomorrow after all. Look forward to eating lots
+ of delicious things♪"""
 "<アル>
 『えへへ♪優しい人でよかったね！
-　わーい♪美味しいものー！』",""
+　わーい♪美味しいものー！』","<Al>
+""Ehehe♪ I'm glad that she's such a gentle woman!
+ We get to eat lots of delicious things!"""
 "<未来>
-『そっか、あんまりお金ないんだね………』",""
+『そっか、あんまりお金ないんだね………』","<Mirai>
+""I see. You can't even afford that..."""
 "<未来>
 『ボス前に限界までアイテムとかため込むタイプ？
-　うん、その気持ちは分かるよ。』",""
-"女性は訳知り顔でしきりにうんうんと頷く。",""
+　うん、その気持ちは分かるよ。』","<Mirai>
+""Are you the type to stock up all the items before a
+ boss fight? I can understand that feeling."""
+"女性は訳知り顔でしきりにうんうんと頷く。","Mirai nodded knowingly."
 "<未来>
 『じゃあこれ、はい。
 　私からのささやかなボス突破記念ってことで。
-　これで、ゆっくり休んでよ？』",""
-"そう言うと女性は貴方の手を取り、100Gを握らせる。",""
+　これで、ゆっくり休んでよ？』","<Mirai>
+""Here you go. You can think of it as a little reward
+ for conquering the boss. Please use it to rest well
+ at the inn."""
+"そう言うと女性は貴方の手を取り、100Gを握らせる。","Mirai took your hand and placed 100G on it."
 "<未来>
 『そのお金は出世払いでいいからさ♡
-　じゃあね、ルーキー君。また明日♪』",""
+　じゃあね、ルーキー君。また明日♪』","<Mirai>
+""I'm sure you can make it so big one day that this
+ much money won't mean much♡ Then see you tomorrow
+ Mr. rookie♪"""
 "ニコニコと笑顔で女性は手を振りながら、去っていった。","Mirai left in a smile while waving at you."
 "<アル>
 『なんだか、すっごく親切な人だったね！
 　今までとはダンジョンの雰囲気も違うし………
 　なんかちょっと、ワクワクするかも♪』","<Al>
-""She was one really friendly woman! The atmosphere in
- the town is completely different from the dungeon too,
- so I'm getting kind of excited♪"""
+""She was a really friendly woman! And the atmosphere
+ in the town is so different from the dungeon too...
+ I can't help getting excited with all this♪"""
 "<アル>
 『さ、宿屋でやすもー！お疲れ様、\n[1]♪』","<Al>
-""Then let's go rest at the inn! You've earned it,
- \n[1]♪"""
-"貴方はアルの言葉に同意と感謝を返した。","You thanked Al."
+""\n[1], let's go rest at the inn!
+ You've earned a good night's sleep♪"
+"貴方はアルの言葉に同意と感謝を返した。","You agreed with Al and said thanks back to her."
 "呆気に取られている貴方に、
 1人の女性が話しかけてくる。",""
 "<アル>
