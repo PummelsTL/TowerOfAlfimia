@@ -5,3 +5,5 @@ This is a translation project for Tower of Alfimia by Dark Night (https://www.dl
 Latest release version can be found in the Github page releases (https://github.com/PummelsTL/TowerOfAlfimia/releases)
 Patch requires latest version of the game (v3.3).
 Patch is applied by copy pasting it to the game folder and overwriting files.
+
+Test
