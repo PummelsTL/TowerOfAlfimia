@@ -25,61 +25,73 @@
 　それは失礼を。まぁまぁとにかく、
 　ぜひうちに泊まっていってくださいよ♪冒険者様♡』",""
 "『いらっしゃいませ～♡
-　ご宿泊ですか？1泊100Gになりま～す♪』","""Welcome♡ Are you looking for a room to stay?
- It'll be 100G a night♪"""
+　ご宿泊ですか？1泊100Gになりま～す♪』","""Welcome♡ Are you looking for a room for the night?
+ A single day would be 100G♪"""
 "泊まっていく","Stay the night"
 "泊まらない","Leave"
 "『はいは～い♪まいどあり～♡
 　それじゃ、これが部屋の鍵です。
-　ごゆっくり～♪』",""
+　ごゆっくり～♪』","""Yes♪ Thank you for staying at our inn♡ Here's the key
+ to your room. Please have a good♪"""
 "<アル>
 『結構ベッドもふかふかだったね♪
-　今日も冒険頑張ろー♪』",""
+　今日も冒険頑張ろー♪』","<Al>
+""The beds were so fluffy♪ Let's go all out on our
+ adventure today!"""
 "『あれ？お金が足りないですね～。　
 　ちゃっちゃか稼いできてください♡
 　働かざる者寝るべからず、ですよ～♪』",""
 "『え～、泊まらないんですか？
 　女将がこんなに可愛い女の子なのに～』　",""
 "マーシャの名前を伝える","Ask for Masha"
-"桃香の名前を伝える",""
+"桃香の名前を伝える","Ask for Momoka"
 "『おやおや？なるほどー、
 　ではでは……怪しい人じゃないかチェックしますので、
-　ステータス画面を全部見せてください♡』　","""Oh my? I see... But please let me check your status
- screen to confirm that you're not a suspicious person
- first♡"""
+　ステータス画面を全部見せてください♡』　","""Oh? First I must confirm that you're not a suspicious
+ person, so please show me your status screen♡"""
 "そういう女将に貴方はステータス画面を見せた。","You showed the innkeeper your status screen."
 "『……はい、ありがとうございま～す♪
-　無事確認できましたよ～♡』","""...Yes, thank you very much♪
- I don't see any problems♡"""
+　無事確認できましたよ～♡』","""...Yes, thank you very much♪ There aren't any
+ problems♡"""
 "『それじゃマーシャさんのお部屋は……
 　え～と、ここですね♪202号室に向かってください♪
-　それでぇ、ノックを3回！』","""Let's see... Masha's room... Ah, it's this one.
- She's staying in room 202♪ Please knock her door
- 3 times♪"""
+　それでぇ、ノックを3回！』","""Let's see Masha's room is... Ah, it's this one♪
+ She's staying in room 202♪ Please give her door
+ three knocks♪"""
 "『いいですね？
 　忘れちゃダメですよー？
-　それじゃ、いってらっしゃい♡ごゆっくり～♪』","""Make sure to knock 3 times, okay? Don't forget that♪
- Then please take your time♡"""
+　それじゃ、いってらっしゃい♡ごゆっくり～♪』","""Please remember that: Knock her door three times♪
+ Enjoy your stay♪"""
 "………………………………","............"
 "『ふむふむ……あ、すみません！
 　私としたことが、ついうっかりしてました！
-　今、マーシャさんお出かけになってたんでした♡』",""
+　今、マーシャさんお出かけになってたんでした♡』","""Hmm... Hmm... Oh, excuse me! I completely forgot
+ that Masha is currently out♡"""
 "『ですのでご案内できませんね～。
 　彼女が返ってくるのを待つ間に……
 　店員さんにレベルドレインでも受けて、
-　時間をつぶしてきてはどうでしょう？』",""
+　時間をつぶしてきてはどうでしょう？』","""I'm terribly sorry for my mistake♪ If you'd like
+ to see her, I would recommend asking shopkeeper's
+ for level draining to pass some time until she
+ returns♡"""
 "<アル>
 『レベルドレイン…？
-　なんでそんなこと勧めてくるんだろ……』",""
+　なんでそんなこと勧めてくるんだろ……』","<Al>
+""Level drain...? Why is she recommending that?"""
 "『それじゃ桃香さんのお部屋は……
 　え～と、ここですね♪201号室に向かってください♪
-　それでぇ、ノックを3回！』",""
+　それでぇ、ノックを3回！』","""Let's see Momoka's room is... Ah, it's this one♪
+ She's staying in room 201♪ Please give her door
+ three knocks♪"""
 "『ふむふむ……あ、すみません！
 　私としたことが、ついうっかりしてました！
-　今、桃香さんお出かけになってたんでした♡』",""
+　今、桃香さんお出かけになってたんでした♡』","""Hmm... Hmm... Oh, excuse me! I completely forgot
+ that Momoka is currently out♡"""
 "<アル>
 『え？あれ？お出かけ……？
-　部屋にいるんじゃないのかな……？』",""
+　部屋にいるんじゃないのかな……？』","<Al>
+""Eh? Wait? She's out? Didn't she say that she would be
+ in her room?"""
 "マーシャ",""
 "EV007",""
 "鍵がかかっている。","It's locked."
