@@ -26,7 +26,7 @@ nothing else to do."
 "もう休みますか？","Are you going to rest?"
 "<アル>
 『今日はお疲れ様！\n[1]♪』","<Al>
-""\n[1], you worked hard today♪"""
+""\n[1], good job today♪"""
 "<アル>
 『明日は朝からあの女の人と約束だよね？
 　寝坊しないよう起こしてあげる！』","<Al>
@@ -39,7 +39,7 @@ nothing else to do."
 "<アル>
 『まだ寝ないの？
 　分かった、もうちょっとゆっくりしよっか♪』","<Al>
-""Aren't you going to sleep yet? Okay, let's stay up
+""Aren't you going to sleep yet? Okay! Let's stay up
  for a little longer♪"""
 "<アル>
 『今日はお疲れ様！
@@ -53,8 +53,8 @@ nothing else to do."
 『綺麗だねー♪
 　こんな風に落ち着けるところがあって、
 　本当によかったよね！』","<Al>
-""It's a pretty view♪ I'm glad that there's such a nice
- place for resting!"""
+""It's a pretty view♪ I'm glad we get to rest in such 
+ a nice place!"""
 "EV019",""
 "ティーカップとポットが置いてある。","There's a pot and tea cup on the table."
 "<アル>
@@ -63,7 +63,7 @@ nothing else to do."
 ""I guess they've prepared tea so that you can relax?
  I'll have a cup♪ Gulp♡"""
 "アルはカップの中に顔を突っ込み、
-そこから中のお茶を飲み始める。","Al began drinking the tea after thrusting her face into
+そこから中のお茶を飲み始める。","Al began drinking the tea by thrusting her face into
 the tea cup."
 "<アル>
 『ひゃっ！！あ、あつい～…………』","<Al>
