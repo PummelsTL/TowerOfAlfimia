@@ -115,8 +115,8 @@ another night."
 　昨日はゆっくり休めたかな？』","<Mirai>
 ""Ah, good morning. Did you have a good rest?"""
 "貴方は挨拶とともにそう尋ねてきた女性に頷く。
-女性は貴方の返事を聞いて微笑んだ。","Mirai greeted you, and you nodded back to her question.
-She showed a smile when she saw your reply."
+女性は貴方の返事を聞いて微笑んだ。","Mirai greeted you. You nodded back to her question,
+and she showed a smile to your reply."
 "<未来>
 『それは何よりだね。
 　じゃあ、約束通り今日は私が案内してあげる。
@@ -128,383 +128,494 @@ She showed a smile when she saw your reply."
 "貴方はそう言って先導する女性について行った。","You said that and followed Mirai out of the inn."
 "<アル>
 『町のあんないツアーへっれつごー♪』","<Al>
-""Let's go! A guide around the town♪"""
+""Let's go! A tour of the town♪"""
 "<未来>
 『まずはここを進んだ先のことからだね。
 　ここから南に行くと、住宅街だよ。』","<Mirai>
-""First is this road. To the south you can find the
- residential district."""
+""Let's start from the south side. From here you can
+ find the residential district."""
 "<未来>
 『酒場を最後に紹介したいから、
 　まずは住宅街にある、
 　知っておくべき場所について案内からかな。』","<Mirai>
-""I'll show you the bar in the residential district as
- the last place, but I'll start with the other notable
- places there."""
+""I want to show the bar as the last place, so let's
+ start off with the notable places on the south."""
 "<未来>
 『ここはほとんどプレイヤーの住宅だから、
 　特に案内するところはないんだけど…………』","<Mirai>
-""This is area is where the most players live. There
- aren't all that many places to show you around
- here..."""
+""This area is where most players live, so there aren't
+ all that many notable places."""
 "<未来>
 『ここだけは別♪
 　じゃーんっ！我らがバンガードの本拠地だよ！』","<Mirai>
-""But this is one of them♪ Tadaah! It's the base of
- The Vanguard! And I'm also their member♪"""
+""However, this is one of them♪ Tadaah! It's the base
+ of our guild, The Vanguard!"""
 "<未来>
 『あ、そうだよね。
 　まずはバンガードの説明からかな？』","<Mirai>
-""Oh, right. I should explain The Vanguard first."""
+""Oh, right. I should explain what The Vanguard is
+ first."""
 "<未来>
 『バンガードって言うのは、
 　まぁ、簡単に言えば、
 　プレイヤーによる自警団みたいなものだよ。』","<Mirai>
-""To put it simply... The Vanguard are a player-run
- group of vigilantees who watch over the town."""
+""To put it simply... The Vanguard is a player-run
+ guild that looks after the peace in the town."""
 "<未来>
 『ほら、いくらゲームだからって、
 　何でもかんでもやりたい放題だとみんなが困るでしょ？』","<Mirai>
-""You see, even if this is a game, there would be
- problems if everyone did as they liked, right?"""
+""You see, there would be a lot of problems if players
+ did as they liked just because this is a game."""
 "<未来>
 『だから、行き過ぎたプレイヤーの行動を抑えるのが、
 　我らがバンガードってわけ♪』","<Mirai>
-""That's why we, The Vanguard, arrest players who have
- gone too far with their actions♪"""
+""That's why we, The Vanguard, arrest such players who
+ go too far with their actions♪"""
 "<アル>
 『おー！なんだかかっこいいね！』","<Al>
-""Ooh! That sound so cool!"""
-"アルは女性の話を聞きながら目を輝かせている。","Al's eyes shone with excitement when she heard Mirai
-explain The Vanguard."
+""Ooh! That sounds so cool!"""
+"アルは女性の話を聞きながら目を輝かせている。","Al's eyes sparkled from excitement after hearing
+Mirai's explanation."
 "<未来>
 『もちろんそういう好き勝手するのは、
 　大体力に溺れたプレイヤーだから、
 　バンガードにもそれ相応の力が求められる。』","<Mirai>
-""The players who make trouble are usually the ones who
- are drowning in power, so The Vanguard also require
- a lot of strength from its members."""
+""Usually the players who cause trouble are ones who let
+ the power go to their head after becoming strong, so
+ our members need to be strong enough to match that."""
 "<未来>
 『だから、自警団でありつつ、
 　まぁ、分かりやすく言うならこの街最強のギルドかな？』","<Mirai>
-""So while we are the vigilante... To say it simply, 
- we are also the strongest guild in the town."""
+""So although we kind of work as guards... To put it
+ simply, The Vanguard is the strongest guild in the
+ town."""
 "<未来>
 『君も、困ったら何かあったら尋ねるといいよ。
 　私たちはいつでも歓迎しよう、なんてね♪』","<Mirai>
-""That's why if you ever find yourself in trouble, you
- can come ask us for help. We're ready at any time♪"""
-"おどけた調子で女性は貴方の前で手を広げる。","Mirai spread her hand across as she said that."
+""That's why you should come to us if you ever find
+ yourself in trouble♪ We're ready to help at any
+ time♪"""
+"おどけた調子で女性は貴方の前で手を広げる。","Mirai theatrically spread her hands across as she said
+that."
 "<未来>
 『じゃ、北の町に戻ろっか。
 　この建物はここでしばらく過ごすなら、
 　絶対お世話になるところだからよく覚えておくように♪』","<Mirai>
-""Our guild building is something you should remember
- if you're going to stay in the town for a while♪
- Then let's move back to the north side of the town."""
+""You'll surely come to visit our guild building at some
+ point if you're staying in the town, so you should
+ remember it♪ Then, let's move back to the north side♪"""
 "貴方はそう言う女性についていった。","You followed Mirai after she said that."
 "<未来>
 『ここが、この町の冒険ショップだよ。
 　1階層で店員のようなNPCは見たよね？
 　その人がこの中にいるの。』","<Mirai>
-""This is the the town's adventurer shop. You saw the
- NPC shopkeeper's on the first, right? The same ones
- are also here."""
+""This is the the town's adventurer shop. You must have
+ met the shopkeeper's on the first floor, right? You
+ can also find them here."""
 "<未来>
 『冒険用のアイテムとか装備とか、
 　そう言うのが欲しかったらここに来るといいよ。』","<Mirai>
-""If you need items or equipment for your adventure,
- this is the place to go to."""
+""This is the place to go if you're in need of items or
+ equipment for your adventure."""
 "<未来>
 『冒険者のレベルによって、
 　売ってくれるものが違うみたいだから、
 　ちょくちょくのぞいてみるといいかもね。』","<Mirai>
 ""The stock of items will change based on your level, 
- so you should take a look at their wares every now
- and then."""
+ so you should check it every now and then."""
 "<未来>
 『後は、レベルドレインもしてくれるよ。
 　お金が足りなくなったらここに来ようね。』","<Mirai>
-""Lastly, they also offer level draining. If you're in
- need of money, this is also the place to go to."""
+""Lastly, they offer the level draining service. That's
+ what you need to do if you're in need of money."""
 "<未来>
 『でも、気持ちいいからってレベルの吸われすぎには注意！
 　魔物に負けて、
 　ゲームオーバーになっちゃわない程度にしなよ？』","<Mirai>
-""But you need to be careful not to let them level drain
- you too much even if it feels good! Make sure to keep
- enough levels so you won't lose to monsters, okay?"""
-"人差し指を立ててそう言う女性に貴方は頷いた。","Mirai held her pointer finger up as she warned you.
-You nodded back to her."
+""But you need to be really careful with that! Just
+ because the level drain feels good, you can't let
+ them drain you so much that you lose to the monsters!"""
+"人差し指を立ててそう言う女性に貴方は頷いた。","Mirai held her finger up as the warned you.
+You understood the risk and nodded back to her."
 "<未来>
 『よろしい♪
 　じゃ、次の場所にいくよ。』","<Mirai>
-""Good♪ Then let's go to the next place."""
+""Good♪ Then, to the next place♪"""
 "<未来>
 『この階段を上った先にあるのがコロシアム♪
 　まぁ、公開PvPをするための場所だね。』","<Mirai>
-""These stairs lead to the colosseum♪ Basically, it's
- the place for public PvP."""
+""Up these stairs you'll find the Colosseum♪ Basically,
+ it's an arena for public PvP."""
 "<未来>
 『なんかこう、こういうのって異世界っぽくていいよね！
 　いかにもファンタジーって感じがするし。』","<Mirai>
-""You can't have a game world without once, right?
- It gives off this fantasy vibe."""
+""That's exactly what you would expect to find in a game
+ world, right?"""
 "確かに","You're right"
 "ちょっと怖い","It's a bit scary"
 "<未来>
 『ね！戦ってもよし、見てもよし、だよ。』","<Mirai>
-""Right! Both fighting and spectating is allowed."""
+""Right! You can either fight or spectate there."""
 "<未来>
 『もちろん普通のPvPと一緒で、
 　ゲームオーバーがかかったりはしてないから、
 　そこは安心して。』","<Mirai>
-""Naturally, you won't lose the game in the colosseum
- matches like in the normal PvP, so you don't need
- to worry about that."""
+""Naturally, the rules are the same as with normal PvP,
+ so you don't need to worry about losing the game even
+ if you're defeated."""
 "貴方は彼女の言葉に少しホッとしたような表情を見せる。
-しかし、そんな貴方に女性は注意を加える。","Feeling of relief showed on your face when you heard
-that. However, continued on with a warning when she
-saw that."
+しかし、そんな貴方に女性は注意を加える。","Relief instantly showed on your face when you heard
+that. However, Mirai continued on with a warning when
+she saw that."
 "<未来>
 『ただし！負けたら結構な額のお金を失うし、
 　みんなの前で犯されちゃうから、参加するなら、
 　それなりの覚悟を決めておくように！』","<Mirai>
-""However! If you lose, you'll lose a big sum of money
- and you'll be raped before the whole audience. You
- need to ready yourself for that if you go in there!"""
-"脅すような女性の言葉に、貴方はこくりと頷いた。","You instantly nodded when you heard Mirai's warning."
+""However! In the case of loss, you'll lose a lot of
+ money and your opponent will rape you before the whole
+ audience! That's what you need to be ready for!"""
+"脅すような女性の言葉に、貴方はこくりと頷いた。","After hearing Mirai's warning, you understood what she
+meant and nodded back to her."
 "<アル>
 『みんなの前で犯されちゃうのは、
 　きっと恥ずかしいよねー………』","<Al>
 ""Getting raped before an audience... That would be so
- embarrassing."""
+ shameful."""
 "<未来>
 『うん♪よろしい♪
 　まぁ、先に進みたいなら出場は必須なんだけどね。』","<Mirai>
-""Okay♪ However, if you want to advance past the town,
- you'll need to participate in the arena."""
+""Good that you understand♪ However, you'll need to
+ participate in the arena if you want to advance past
+ the town zone."""
 "<未来>
 『あはは♪本物のコロシアムみたいに、
-　命の取り合いとかはないから大丈夫だよ。』",""
+　命の取り合いとかはないから大丈夫だよ。』","<Mirai>
+""Ahaha♪ It's not a battle to the death like in the
+ real the Colosseum, so you don't need to worry about
+ that."""
 "<未来>
 『もっとも、負けたら結構な額のお金を失うし、
 　みんなの前で犯されちゃうから、
-　ある意味怖いところだけどね♪』",""
+　ある意味怖いところだけどね♪』","<Mirai>
+""However! In the case of loss, you'll lose a lot of
+ money and your opponent will rape you before the whole
+ audience! So it's a scary place in some way♪"""
 "<アル>
-『うー、やっぱり怖いところなんじゃん…………』",""
+『うー、やっぱり怖いところなんじゃん…………』","<Al>
+""Uuh... So it's a scary place after all..."""
 "<未来>
 『まぁ、そんな怖いコロシアムだけど、
-　先に進みたいなら出場は必須だよ。』",""
+　先に進みたいなら出場は必須だよ。』","<Mirai>
+""Well, even if you find it scary, you'll need to
+ participate if you want to advance past the town
+ zone."""
 "<未来>
 『えっとね？
 　この町を出て進んでいくと、大きな洋館があるんだけど。』","<Mirai>
-""You see, once you follow the path out of the town,
- you'll come across this huge mansion."""
+""You see... When you follow the path out from the town,
+ you'll come across a huge mansion."""
 "<未来>
 『その洋館の扉を開けるのに、
 　このコロシアムでもらえる景品が必要なんだ。』","<Mirai>
-""The doors to that mansion will only open if you have
- three medals from the colosseum."""
+""The doors of that mansion will only open for players
+ who have obtained all three medals from the
+ Colosseum."""
 "<未来>
 『赤の証、青の証、黄色の証、
 　この3つはコロシアムで、
 　別の人に1勝するごとにもらえるの。』","<Mirai>
-""Red medal, blue medal, yellow medal. You can obtain
- each one by defeating three someone in the colosseum,
- but they have to be different opponents."""
+""Red medal, blue medal, yellow medal. Each one requires
+ you to defeat a different opponent."""
 "<未来>
 『だから、このゲームをクリアしたいなら、
 　最低3人に勝たなきゃいけないってことかな。』","<Mirai>
-""That's why you need to defeat at least 3 people in
- the colosseum if you want to clear the game."""
+""That's why you need to defeat at least 3 players in
+ the arena if you're aiming to clear the game."""
 "<未来>
 『え？私は参加したことあるのかって？
 　あるよ♪というか、その証、3つとも持ってるしね。』","<Mirai>
-""Oh? Have I participated? I have♪ Or rather, I already
- have all the three medals."""
+""Oh? Have I fought in the arena? Yes, I have♪
+ Or more accurately, I've already collected all the
+ three medals."""
 "<未来>
 『くす♪驚いた？
 　これでも先輩は強いんだぞーってね♡』","<Mirai>
-""Ehehe♪ Did I surprise you? I'm pretty strong, you
- know?"""
+""Ehehe♪ Did that surprise you? Your senpai is pretty
+ strong, you know?"
 "<未来>
 『ま、3つ証を持ってるには持ってるんだけど、
 　この町にいるのが楽しくてさ。
 　当分はこの町で過ごすつもりだよ。』","<Mirai>
-""But well, even when I have all three of them, I've
- found the life in the town fun. Currently I have no
- plans to leave."""
+""But the thing is, I've found the life in the town zone
+ so much fun that, currently, I have no plans to leave
+ even when I have the medals."""
 "<未来>
 『私みたいに、証をすべて持ってても、
 　この町にとどまるって人は結構多いんだ。』","<Mirai>
-""There are quite a lot of people like me who have all
- the three medals that are still staying in the town."""
+""There are also quite many others who have decided to
+ stay in the town after clearing the Colosseum."""
 "<未来>
 『ほら、さっき話したバンガードのメンバーなんて、
 　ほぼ全員が3つの証持ちだしね。』","<Mirai>
-""Like The Vanguard I mentioned before. Pretty much all
- our members have all three medals."""
+""There's our guild, The Vanguard, as an example.
+ Most of our members have all the three medals."""
 "<未来>
 『……っと、ごめんごめん、自慢で話が脱線しちゃった。
 　とにかく、先に進むなら出場は必須だから、
-　一度、明日にでものぞいてみたらいいと思うよ？』",""
+　一度、明日にでものぞいてみたらいいと思うよ？』","<Mirai>
+""Oh, sorry. I went on a tangent there. At any rate,
+ fighting in the arena is required to advance the game.
+ You should at least try taking a peek tomorrow."""
 "<未来>
 『まぁでも、やっぱり、
-　慣れたプレイヤーが参加してるからさ。』",""
+　慣れたプレイヤーが参加してるからさ。』","<Mirai>
+""And since there are also a lot of veteran players
+ participating..."""
 "<未来>
 『今の君なら、最初は確認だけにしておいて、
-　参加するのはもう少し強くなってからのほうがいいかも？』",""
+　参加するのはもう少し強くなってからのほうがいいかも？』","<Mirai>
+""You should leave your first visit to just checking out
+ the place. Enter the arena only after you've become
+ stronger."""
 "<未来>
 『挑戦するなら、2層の敵を倒して、
-　しっかりレベル上げしてからをお勧めするな♪』",""
+　しっかりレベル上げしてからをお勧めするな♪』","<Mirai>
+""I recommend grinding the monsters on the second floor
+ for level ups before going in♪"""
 "<未来>
 『じゃ、コロシアムの説明はこれくらいにして、
-　次の場所に行くよ。』",""
+　次の場所に行くよ。』","<Mirai>
+""That's everything about the Colosseum. Let's move on
+ to the next place."""
 "<未来>
 『ここが雑貨屋だよ。
 　さっきのショップとの違いは、
-　ここは冒険に関係ないアイテムばかりってことかな？』",""
+　ここは冒険に関係ないアイテムばかりってことかな？』","<Mirai>
+""Here's the general store. The difference to the shop
+ from before is that you can only find items unrelated
+ to adventuring here."""
 "<未来>
 『服とか、本とか、コスメとか♪
 　見た目は小さいけど、現実のデパートにあるようなものは、
-　全部ここで買えると思ってくれていいよ。』",""
+　全部ここで買えると思ってくれていいよ。』","<Mirai>
+""You can find things like clothes, book, or cosmetics
+ here. The building might look small, but it's pretty
+ much a full department store."""
 "<未来>
 『ここがみんながこの町から離れられない原因の1つかもね♪
 　ゲームの中なのに、現実みたいに過ごせるんだもん。
-　ある意味究極のオンラインゲーム、みたいな感覚かな？』",""
+　ある意味究極のオンラインゲーム、みたいな感覚かな？』","<Mirai>
+""This is one of the reasons why players won't leave the
+ town♪ You can live here just like in real life. One
+ could say that makes it an ultimate online game."""
 "<未来>
 『\n[1]もきっと、この町での生活が気に入ると思うよ♪
-　じゃあ、次の場所♪』",""
+　じゃあ、次の場所♪』","<Mirai>
+""\n[1], I'm sure that you'll also come to
+ like the life in the town♪ Then, to the next place♪"""
 "<未来>
 『ここはカジノだね。
-　お金をぱーっと散在する場所♪』",""
+　お金をぱーっと散在する場所♪』","<Mirai>
+""Here's the casino. A place loaded with money♪"""
 "<未来>
 『驚くことに、
-　働いてるバニーガールはみんなプレイヤーなんだよ？』",""
+　働いてるバニーガールはみんなプレイヤーなんだよ？』","<Mirai>
+""Surprisingly, all the bunny girls working there are
+ real players."""
 "<未来>
 『自分の容姿とかスタイルに自信のある子たちが、
-　それを見せつけるために好きでやってるみたいだね。』",""
+　それを見せつけるために好きでやってるみたいだね。』","<Mirai>
+""Most of the girls working there seem to want to show
+ off their good looks and bodies."""
 "<未来>
 『もちろんタダ働きじゃなくて、給料は1日働いたら、
 　何もないところから降ってくるんだって。
-　すっごい不思議だよね？』",""
+　すっごい不思議だよね？』","<Mirai>
+""Naturally, they aren't working for free. After working
+ for a day, the salary just drops out from the thin
+ air. It's really weird to see it happen."""
 "<未来>
 『ま、ゲームの中だし、そう言うもんだと思っとこう。
 　バニーガールの子たちみたいに、自分の好きなことをして、
-　モンスター退治以外でお金を稼いでる人も多いね。』",""
+　モンスター退治以外でお金を稼いでる人も多いね。』","<Mirai>
+""But it's a game after all. There are a lot of people
+ who are doing what they like the bunny girls and
+ earning money in other ways than monster hunting."""
 "<未来>
 『\n[1]も何か、
-　好きな仕事をここで見つけてみるのもいいかもよ？』",""
-"女性はくすくすと笑いながら貴方にそう提案する。",""
+　好きな仕事をここで見つけてみるのもいいかもよ？』","<Mirai>
+""\n[1], why don't you also try finding
+ work that you like to do?"""
+"女性はくすくすと笑いながら貴方にそう提案する。","Mirai suggested that with a giggle."
 "<未来>
 『さ、じゃあ次はお待ちかねの酒場だね♪
-　ずっと歩きっぱなしで、気分的にお腹すいたでしょ？』",""
+　ずっと歩きっぱなしで、気分的にお腹すいたでしょ？』","<Mirai>
+""Then for the next place, there's the bar that I
+ already mentioned. We've been walking quite a lot, so
+ you must be feeling hungry, right?"""
 "<未来>
 『ゲームの中でいくらお腹がすかないとはいえ、
-　ちゃんと人間らしく美味しいものを食べないと♪』",""
+　ちゃんと人間らしく美味しいものを食べないと♪』","<Mirai>
+""Even when we don't need to eat in the game, it's the
+ best for you to eat delicious food♪"""
 "<未来>
-『というわけで、隣の酒場に行くよ♪』",""
+『というわけで、隣の酒場に行くよ♪』","<Mirai>
+""And so, to the bar we go♪"""
 "<アル>
-『わーい！美味しいものー♪』",""
+『わーい！美味しいものー♪』","<Al>
+""Yay! Delicious food♪"""
 "<未来>
 『ここが酒場♪
 　外の屋台で持ち帰りできるものも売ってるから、
-　冒険のためのお弁当なんかにもいいかも。』",""
+　冒険のためのお弁当なんかにもいいかも。』","<Mirai>
+""This is the bar♪ You can buy take-away from the stalls
+ next to it, so you can also get lunch for your
+ adventure."""
 "<アル>
 『うんうん、
-　おいしそうな香りがここまで漂ってきてる♪』",""
+　おいしそうな香りがここまで漂ってきてる♪』","<Al>
+""I can already smell all the delicious stall food♪"""
 "貴方はアルと一緒に、
-懐かしいような屋台の香りを楽しむ。",""
+懐かしいような屋台の香りを楽しむ。","You enjoyed the smell of delicious foods drifting from
+the stalls with Al."
 "<未来>
 『ふふ♪香りをかいでるだけで、
-　なんだかお腹がすいてくるような感じがするよね。』",""
+　なんだかお腹がすいてくるような感じがするよね。』","<Mirai>
+""Ahaha♪ Your stomach starts to feel empty just from
+ smelling delicious food, doesn't it?"""
 "<未来>
 『でも、今日はせっかくだし、
-　中で美味しいものを食べよ♪』",""
+　中で美味しいものを食べよ♪』","<Mirai>
+""But since today is our special tour, let's go eat
+ inside♪"""
 "<未来>
 『おごってくれるんだよね？
-　嬉しいなぁ♡私、こういう時は遠慮しないし♪』",""
-"女性は本当に楽しそうに、ぺろりと舌なめずりをする。",""
+　嬉しいなぁ♡私、こういう時は遠慮しないし♪』","<Mirai>
+""You're going to treat me, right? That makes me so
+ happy♡ I can't hold back at all at times like these♪"""
+"女性は本当に楽しそうに、ぺろりと舌なめずりをする。","Mirai looked really happy as she licked her lips."
 "<未来>
 『今日は私が奢ってあげるからね♪
-　\n[1]の、ボスクリア記念パーティーだ♡』",""
-"意気揚々と進む女性に貴方はついていく。",""
+　\n[1]の、ボスクリア記念パーティーだ♡』","<Mirai>
+""I'll foot the bill for you♪ It's a party to celebrate
+ your first boss clear♡"""
+"意気揚々と進む女性に貴方はついていく。","You followed after Mirai who was in high spirits."
 "<未来>
-『じゃ、中に入るよー♪』",""
+『じゃ、中に入るよー♪』","<Mirai>
+""Then, let's go inside♪"""
 "<未来>
 『じゃあ改めて、ボスクリアおめでとー♪
-　そして、2層の町にようこそ♪』",""
+　そして、2層の町にようこそ♪』","<Mirai>
+""Then once more, congratulations on clearing the boss♪
+ And welcome to the town on the second floor♪"""
 "女性は貴方とコップを合わせながら、
-そう祝福の言葉を口にする。",""
+そう祝福の言葉を口にする。","Mirai clinked glasses with you as she said that."
 "<未来>
 『さ、食べよ食べよ♪
 　1層ではご飯なんて食べられなかったでしょ？
-　今日は思いっきり楽しんじゃおう♡』",""
+　今日は思いっきり楽しんじゃおう♡』","<Mirai>
+""Now, eat♪ You didn't eat anything on the first floor,
+ right? Enjoy everything that's set in front of you♡"""
 "<アル>
 『私も食べるー♪
-　ん…………もぐもぐ…………」",""
+　ん…………もぐもぐ…………」","<Al>
+""I'll also have some♪ Mmmh... Munch... Munch..."""
 "女性の言葉を聞くが早いか、
-アルはお皿のにのっているお肉をとり、小さな口でほおばる。",""
+アルはお皿のにのっているお肉をとり、小さな口でほおばる。","The moment Mirai finished her words, Al dove for the
+meat sitting on the plate and stuffed it in her small
+cheeks."
 "<アル>
 『ん！おいしー♪
-　ね、\n[1]も食べなよ！美味しいよ♪』",""
+　ね、\n[1]も食べなよ！美味しいよ♪』","<Al>
+""Mmmh! Delicious♪ \n[1], you should also
+ try this! It's so delicious♪"""
 "ぺろりと口の周りについたソースをなめながら、
-アルは貴方に自信が食べたものと同じものをいれる。",""
-"そんなアルに礼を告げて、貴方も一口、口に運んでみた。",""
+アルは貴方に自信が食べたものと同じものをいれる。","Al put some of the meat that she had eaten on your
+plate while licking the sauce around her mouth."
+"そんなアルに礼を告げて、貴方も一口、口に運んでみた。","You thanked the fairy and tried the meat she gave you."
 "<未来>
 『ふふ♪美味しいでしょ？
 　食べながらお話しようよ。
-　\n[1]のここまでの冒険とかも聞かせて？』",""
+　\n[1]のここまでの冒険とかも聞かせて？』","<Mirai>
+""Ahaha♪ Delicious, isn't it? Let's chat while we eat.
+ I'd like to hear about your adventure until now."""
 "そうしてお互いのゲームでの経験を話しながら、
-美味しいものを食べ、楽しい時間を過ごした。",""
-"………………………………",""
+美味しいものを食べ、楽しい時間を過ごした。","And so you and Mirai talked about each other's
+experiences playing the game while eating delicious
+food."
+"………………………………","........."
 "<未来>
 『ふー♪食べた食べた♪
 　楽しかったよ、\n[1]。
-　私に付き合ってくれてありがと♪』",""
+　私に付き合ってくれてありがと♪』","<Mirai>
+""Phew♪ I ate so much♪ I had so much fun. Thank you for
+ joining me, \n[1]♪"""
 "そう感謝の言葉を告げる女性に、
-貴方はこちらこそ、と言葉を返す。",""
+貴方はこちらこそ、と言葉を返す。","When Mirai thanked you, you also thanked her for
+joining you."
 "<アル>
-『私も食べたー♪満足！』",""
-"アルもたくさんの美味しいものを食べて満足そうだ。",""
+『私も食べたー♪満足！』","<Al>
+""I also ate so much♪ All of it tastes so good!"""
+"アルもたくさんの美味しいものを食べて満足そうだ。","Al was also happy after getting to eat lots of
+delicious food."
 "<未来>
 『じゃあ、約束通りにここは私が払うね。
-　これから頑張れ♪ルーキー君！』",""
+　これから頑張れ♪ルーキー君！』","<Mirai>
+""Then I'll pay as I promised. Do your best from here on
+ out♪ Mr. Rookie♪"""
 "そう言って会計をすます彼女に頭を下げる。
-そして、そのまま解散することにした。",""
+そして、そのまま解散することにした。","You bowed to Mirai as she took care of the bill.
+After that, you decided to go separate ways."
 "<未来>
 『私は住宅街に家を持ってるから、
 　何か相談事とかあったらいつでも寄って？
-　じゃ、ばいばい♪』",""
-"そう言って女性は去っていった。",""
+　じゃ、ばいばい♪』","<Mirai>
+""I have a house in the residential district. If you
+ ever need consultation on something, you can come
+ visit me♪ Bye bye♪"""
+"そう言って女性は去っていった。","Mirai left after saying that."
 "<アル>
 『ほんとに親切な人だったねー♪
- 恩返しできるよう頑張ろ！\n[1]♪』",""
-"貴方はアルの言葉に同意し、頷いた。",""
+ 恩返しできるよう頑張ろ！\n[1]♪』","<Al>
+""She was really such a gentle woman! We need to do our
+ best to repay that kindness! \n[1]♪"""
+"貴方はアルの言葉に同意し、頷いた。","You nodded to Al in agreement."
 "<未来>
 『さ、約束通り会計は君に…………なんてね♪
 　この出費はちょっとルーキーの君には痛いでしょ。
-　私がごちそうしてあげる。』",""
-"女性はそう言いながら、貴方よりも先に会計を済ませた。",""
+　私がごちそうしてあげる。』","<Mirai>
+""Then as you promised to treat me... I'm just kidding♪
+ Paying for our little feast would be a bit too much
+ for you, right? I'll take care of the bill."""
+"女性はそう言いながら、貴方よりも先に会計を済ませた。","After saying that, Mirai took care of the bill."
 "<アル>
 『もしかしてこの人、
-　最初からごちそうしてくれるつもりだったのかな？』",""
+　最初からごちそうしてくれるつもりだったのかな？』","<Al>
+""Could it be that she was planning to treat you from
+ the start?"""
 "どうにも、そうみたいだ。
 貴方とアルは目を合わせてクスリと微笑み、
-女性に感謝の言葉を伝える。",""
+女性に感謝の言葉を伝える。","You shared the same idea as you made eye contact with
+Al and thanked Mirai for taking care of the payment."
 "<未来>
 『私も楽しかったからいいの♪
-　何か題目があったほうがこういうのは楽しいしね。』",""
+　何か題目があったほうがこういうのは楽しいしね。』","<Mirai>
+""I also had fun so it's okay♪ It's fun to celebrate
+ things like this."""
 "<未来>
 『じゃ、今日はここでお開きにしよっか。
-　これから頑張れ、ルーキー君♪』",""
+　これから頑張れ、ルーキー君♪』","<Mirai>
+""Then it's time for us to separate. Please do your
+ best, Mr. Rookie♪"""
 "<未来>
 『まだ支度が必要かな？
-　ここで待ってるね。』",""
+　ここで待ってるね。』","<Mirai>
+""Do you still need to do something? I'll wait here."""
 "<未来>
 『うん♪
-　まぁ、先に進みたいなら出場は必須なんだけどね。』",""
+　まぁ、先に進みたいなら出場は必須なんだけどね。』","<Mirai>
+""Yes♪ However, you'll need to participate in the arena
+ if you want to advance past the town zone."""
 "貴方は懐かしいような屋台の香りを楽しむ。",""
 "貴方は女性に勧められるまま、一口、口に運んだ。",""
 "どうにも、
