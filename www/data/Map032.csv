@@ -6,155 +6,189 @@
 "EV006",""
 "EV007",""
 "『あぁ～、仕事の後の1杯は最高だ！
-　…………え？何の仕事かって？』",""
+　…………え？何の仕事かって？』","""Aaah...A drink after a day of working is the best!
+ ...Eh? What I do for work?"""
 "『おいおい、
 　この格好を見ても分からねぇのかい？
-　道化師だよ、道化師！』",""
+　道化師だよ、道化師！』","""Can't you tell from my clothes? I'm a clown! A clown!"""
 "『ストリートでショーをやってるんだ。
 　ここは娯楽が少ないからな。
 　現実では売れないパフォーマーだった俺も、
-　この街では人気者さ♪』",""
+　この街では人気者さ♪』","""I do street performance. There is so little amusement
+ in this town that I can make a name for myself as a
+ performance artist even when it did so little in real
+ life♪"""
 "<アル>
 『おー！
 　どんな感じのショーか気になるね♪
-　次はいつやるのかなー♪』",""
+　次はいつやるのかなー♪』","<Al>
+""Oooh! I'm curious what kind of show he does♪
+ I wonder when he'll perform next time?"""
 "EV008",""
 "『いらっしゃい。
-　ご注文は何でしょうか。』",""
+　ご注文は何でしょうか。』","""Welcome. What would you like to order?"""
 "<アル>
 『えへへ♪
-　何か美味しいもの食べていこうよ！』",""
-"食事をする（500G）",""
-"何も頼まない",""
+　何か美味しいもの食べていこうよ！』","<Al>
+""Ehehe♪ Let's eat something delicious!"""
+"食事をする（500G）","Eat"
+"何も頼まない","No order"
 "<アル>
 『はふー♡
 　ごちそうさまでした！
-　美味しかったね♪』",""
-"『お金が足りません。』",""
+　美味しかったね♪』","<Al>
+""Phew♡ Thank you for the food! It was delicious♪"""
+"『お金が足りません。』","""You don't have enough money."""
 "EV009",""
 "EV010",""
 "『ここの料理は絶品だよ。
 　このゲームの中では食事は必須じゃないみたいだけど…
-　やっぱり人として美味しいものは食べたくなるね。』",""
+　やっぱり人として美味しいものは食べたくなるね。』","""The dishes at this shop are first class. You aren't
+ required to eat in this game, but people can't help
+ wanting to eat something good, right?"""
 "<アル>
 『美味しいものをたくさん食べられるって幸せだよね♪
-　\n[1]ー！私たちも何か食べてこー♪』",""
+　\n[1]ー！私たちも何か食べてこー♪』","<Al>
+""It's a joy to eat lots of delicious things!
+ \n[1], let's eat something♪"""
 "EV011",""
 "『今、大事な戦いの最中なんだ……！
-　あまり、話しかけないでくれ……！』",""
+　あまり、話しかけないでくれ……！』","""I'm in the middle of a great battle right now...!
+ Please don't talk to me...!"""
 "『……あの、アカネさん……
-　そ、その、ご趣味は？』",""
+　そ、その、ご趣味は？』","""...Um... So, Akane... W-What are you hobbies?"""
 "<アル>
 『……お見合い中なのかな？
-　そ、それは邪魔しちゃ悪いよね！』",""
+　そ、それは邪魔しちゃ悪いよね！』","<Al>
+""...Are they in the middle of a marriage interview?
+ In that case, we shouldn't disturb them!"""
 "EV012",""
 "『うぅ……
 　こ、これは戦闘とは別の意味で気が抜けない…
 　女性とのおしゃべりなんて、
-　一体何を話せばいいというのだ…………』",""
+　一体何を話せばいいというのだ…………』","""Uuh... This is difficult in different way to
+ fighting... Just what should you talk about with
+ girls?"""
 "<アル>
 『な、なんだか凄い気負ってるね。
 　特に深いこと考えずに、
-　ふつーに話してればいいと思うけどなー♪』",""
-"アルの言う通り",""
-"普通も難しい",""
+　ふつーに話してればいいと思うけどなー♪』","<Al>
+""H-He looks really troubled. I don't think you should
+ think it that deeply and just talk normally♪"""
+"アルの言う通り","It's like you say"
+"普通も難しい","The normal is difficult too"
 "<アル>
 『だよね♪
 　特別なことなんてなんにも必要ないと思う！
-　楽しく話すのが一番だよ♪』",""
+　楽しく話すのが一番だよ♪』","<Al>
+""Right? There's no need to think it as special!
+ It's the best to just chat and have fun♪"""
 "<アル>
 『ふむふむ、そうなのかな。
 　\n[1]も女の子と話すときは、
-　緊張したりする？』",""
+　緊張したりする？』","<Al>
+""Hmm? Is that so? \n[1], do you get
+ nervous when talking to girls too?"""
 "<アル>
 『…………アレ？
 　私と話してる時って、
-　あんまり緊張してないような…………』",""
-"アルはアルだから",""
-"アルは女の子って言うより…",""
+　あんまり緊張してないような…………』","<Al>
+""...Wait. I don't think you're nervous when you talk
+ with me."
+"アルはアルだから","That's because it's you"
+"アルは女の子って言うより…","Calling you a girl is a bit..."
 "<アル>
 『えへへ♪
 　よく分かんないけど、褒められてるってことだよね？
-　嬉しいなー♪』",""
+　嬉しいなー♪』","<Al>
+""Ehehe♪ I don't really get it, but that was a praise,
+ right? That makes me happy♪"""
 "<アル>
 『\n[1]！？
 　わ、私だって女の子なんだよ！？
-　ぜ、ぜったいいつか後悔させてやるー！！』",""
+　ぜ、ぜったいいつか後悔させてやるー！！』","<Al>
+""\n[1]?! I'm a girl too!
+ I-I'll make you pay back for this one day!"""
 "EV013",""
 "『私の前に座ってる2人、
 　どっちも女の子慣れしてないみたい。
-　ふふ……♡いいカモになりそう♡』","""The two boys at the other side of the table
- don't seem to be used to girls.
- Ahaha♡ They'll be easy prey♡"""
+　ふふ……♡いいカモになりそう♡』","""These two boys aren't used to girls at all. Ahaha♡
+ They'll be such an easy prey♡"""
 "<アル>
 『……一緒のテーブルの男の人、
 　結構ピンチ？教えてあげたほうがいいのかな……』","<Al>
-""Aren't the boys sharing a table
- with her in quite a pinch?
- Should we give them a warning?"
+""Aren't those boys in quite a pinch? Shouldn't we warn
+ them?"""
 "EV014",""
 "『私の趣味はぁ♡
 　お花を飾ったり育てたりすることですぅ♡』
 （こいつ、こういうタイプに弱そう♡
-　お金搾れるだけ搾ろーっと♡）","""My hobbies are raising flowers and
- making ornaments with them♡""
-(They seem weak to this kind of stuff♡
- I'll wring all the money from them♡)"
+　お金搾れるだけ搾ろーっと♡）","""My hobbies are...♡ Making flower arrangements and
+ growing my own flowers...♡
+(He seems weak to this type of girl♡ I'll wring him
+ for all the money he has♡）"
 "<アル>
 『あ、甘ったるい話し方…
 　なんだか邪念を感じるような……』","<Al>
-""Ah, the way she talks is so sugary...
- I'm getting bad vibes from her..."""
+""The way she talks is so sugary... I'm getting really
+ bad vibes from her..."""
 "EV015",""
 "EV016",""
 "『私は現実では音大生だったの。
 　最初は変なことに巻き込まれたって思ったけど、
 　こうして楽器にも触れられるし………
-　案外ここも悪くないって感じてきてるかな。』",""
+　案外ここも悪くないって感じてきてるかな。』","""I was a student in music university in real life.
+ At first I thought that I got involved in something
+ weird when I arrived here... But it's unexpectedly
+ not bad when I can play instruments like this."""
 "<アル>
 『この人は音楽が大好きなんだ。
 　ピアノをひける女の人って、
-　なんかかっこいいよねー……♪』",""
+　なんかかっこいいよねー……♪』","<Al>
+""She must love music. Girls who can play piano are
+ kind of cool, right?"""
 "EV017",""
 "『知ってる？
 　ヴァンガードのメンバーって、
-　8割が女性なんだって。』","""Did you know that 80% of Vanguard members are women?"""
+　8割が女性なんだって。』","""Did you know that 80% of the members of The Vanguard
+ are female?"""
 "『それにメンバーの中でも、
 　男性メンバーはみんなかなり弱いらしいの。
 　中での立場が弱いから、
-　パトロール中は私たちに偉そうにしてるって噂よ。』","""Also, all the male members are quite weak.
- But there are rumors how they are speaking up
- themselves during the patrols like they ar
- on the stronger than the women."""
+　パトロール中は私たちに偉そうにしてるって噂よ。』","""On top of that, all the male members are apparently
+ quite weak. There are rumors about some guys who
+ boast about their strength even when they are in
+ such weak position."""
 "<アル>
 『なるほど……
 　まぁ、仕方ないよね。
 　淫気の影響でえっちで戦ってるんだろうし……』","<Al>
-""I see...
- Well, it can't be helped, since the fights
- happen through sex because of the sex gas."""
+""I see... But I guess that can't be helped when the
+ battles happen through sex because of the sex gas."""
 "<アル>
 『えっちなら、
 　女の子の方が強いんだもん。
 　そうなっちゃうのも仕方ないよね……』","<Al>
-""When it comes to sex, girls are just stronger.
- That's simply inevitable."""
+""Girls are simply stronger when it comes to sex.
+ There's no avoiding that..."""
 "確かに……","You're right..."
-"そんなことない",""
+"そんなことない","That's not true"
 "<アル>
 『ね？ふふーん♪
 　\n[1]が何とか女の子と戦えてるのは、
 　私が淫気の影響を抑えてあげてるおかげなんだよ♪』","<Al>
-""Right? ahaha♪
- \n[1], you can fight with the girls,
- since I'm holding back the sex gas for you♪"""
+""Right? Ahaha♪ \n[1], you can fight on
+ an even ground since I'm suppressing the effects of
+ sex gas for you♪"""
 "<アル>
 『もっと感謝するよーに♪
 　ということで、お願い、\n[1]♪
 　美味しいもの買ってー♡』","<Al>
-""You should be thankful to me♪
- And so, could you buy me something sweet please♡"""
+""You should be thankful for that♪ And so, please buy
+ something sweet for me♡"""
 "<アル>
 『えー？
 　じゃあ今度、女の子とエッチで戦ってみる？
-　絶対\n[1]、負けちゃうと思うなー♡』",""
+　絶対\n[1]、負けちゃうと思うなー♡』","<Al>
+""Eh? Then do you want to try fighting a girl without
+ my help? I'm sure that you'll lose the sex battle♡"""
