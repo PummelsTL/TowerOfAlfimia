@@ -10,155 +10,180 @@
 "EV008",""
 "EV009",""
 "EV010",""
-"魔法陣は触れても特に反応しない。",""
+"魔法陣は触れても特に反応しない。","The magic circle isn't activating."
 "EV011",""
 "『いらっしゃいませ。ここはコロシアム受付です。
-　現在マッチングを受け付けています。』",""
+　現在マッチングを受け付けています。』","""Welcome. This is the reception desk for the Colosseum.
+ Registering for the matches is currently open."""
 "貴方は受付の無機質な声を出す女性に、
-詳しい説明を求めた。",""
+詳しい説明を求めた。","You asked for a detailed explanation from the robotic
+receptionist."
 "『こちらでプレイヤー同士の決闘を受け付けています。
-　相手の指名も可能ですし、登録だけすることも可能です。』",""
+　相手の指名も可能ですし、登録だけすることも可能です。』","""We accept participants for players versus player
+ matches. You can register for a match or nominate
+ an opponent."""
 "『登録だけの場合、
-　マッチングが成立した時点で連絡します。』",""
+　マッチングが成立した時点で連絡します。』","""If you register for a match, we'll contact you once
+ there is an opponent available."""
 "『現在は待機中のプレイヤーがいないので、
-　指名をすることはできません。』",""
+　指名をすることはできません。』","""Currently there are no other players registered, so
+ nominating an opponent isn't available."""
 "『参加をご希望の場合は、登録の方をお願いします。
-　その際に掛け金7000Gを頂きます。』",""
+　その際に掛け金7000Gを頂きます。』","""If you wish to participate in a match, you'll need to
+ register. Doing so will cost 7000G."""
 "<アル>
-『わ、思ったより高いね…………。』",""
-"確かに少ない金額ではない。",""
+『わ、思ったより高いね…………。』","<Al>
+""Woah... It's costs a lot more than I imagined..."""
+"確かに少ない金額ではない。","You didn't find it a small sum either."
 "<アル>
 『あれ…………？
-　もしかして、お金足りないんじゃない…………？』",""
+　もしかして、お金足りないんじゃない…………？』","<Al>
+""Eh...? Could it be that we don't have enough money?"""
 "貴方が自身の所持ゴールドを確認すると、
-確かに7000Gに届いていなかった。",""
+確かに7000Gに届いていなかった。","You checked your gold count, and it was certainly below
+7000G."
 "<アル>
 『う～ん、でも先に進むためには参加しなきゃだよね？
-　どうしよっか…………？』",""
-"貴方は受付の前で少し考えこむ。",""
+　どうしよっか…………？』","<Al>
+""Hmm... But we need to fight in the arena to advance
+ the game, right? What should we do?"""
+"貴方は受付の前で少し考えこむ。","You pondered what to do in front of the reception
+desk for a while."
 "<???>
 『ねぇ、お兄さん♪
 　ちょっといいですか？』","<???>
-""Hey, can I have a moment of your time?"""
+""Hey♪ Can I have a moment of your time?"""
 "受付の前で悩む貴方に、
-突然少女がニコニコと貴方に話しかけてくる。","As you were worrying before the counter,
-suddenly a girl called out to you in a smile."
+突然少女がニコニコと貴方に話しかけてくる。","As you were pondering at the counter, a nearby girl
+called out to you in smile."
 "<???>
 『あ、私は早瀬凛っていいます。初めまして♪』","<???>
-""Ah. My name is Hayase Rin. Nice to meet you."""
-"笑顔で挨拶する少女に貴方も挨拶を返した。","You introduced yourself back to the smiling girl."
+""Ah, my name is Hayase Rin. Nice to meet you."""
+"笑顔で挨拶する少女に貴方も挨拶を返した。","You introduced yourself to the smiling girl."
 "<凛>
 『ちょっと、お悩みのようですね？
 　受付の前でずっとそうしているのもなんですから、
-　少し私の話を聞いてみませんか？』",""
+　少し私の話を聞いてみませんか？』","<Rin>
+""You must be troubled since you've been standing at the
+ reception desk for a while, right? Could you join me
+ for a little chat?"""
 "確かに、
-受付の前であまり悩みすぎるのもよくないかもしれない。",""
+受付の前であまり悩みすぎるのもよくないかもしれない。","It certainly wasn't improving your situation to worry
+in front of the reception desk."
 "貴方はそう考えてちらりと受付の女性を見つめると、
-受付の女性は感情が見えない顔でじっと貴方を待っている。",""
+受付の女性は感情が見えない顔でじっと貴方を待っている。","When you thought that and looked at the receptionist
+lady, she was waiting for you with an expressionless
+face."
 "<アル>
 『まぁ、話を聞くだけならいいんじゃないかな？
-　この人も、あの子みたいに親切な人なのかも！』",""
-"貴方はアルの言葉に頷き、凛に了承の返事を返す。",""
+　この人も、あの子みたいに親切な人なのかも！』","<Al>
+""Well, why not hear what she has to say? She might be
+ gentle girl like that another one!"""
+"貴方はアルの言葉に頷き、凛に了承の返事を返す。","You nodded back to Al and told Rin that you would hear
+her out."
 "<凛>
 『ありがとうございます♪
-　じゃあ、そこのテーブルで話しましょうか。』",""
+　じゃあ、そこのテーブルで話しましょうか。』","<Rin>
+""Thank you very much♪ Then shall we sit down at the
+ table over there?"""
 "<凛>
 『改めまして♪
-　私の話を聞いてくれてありがとうございます。』",""
+　私の話を聞いてくれてありがとうございます。』","<Rin>
+""Once more, thank you for hearing me out♪"""
 "<凛>
 『世間話もアレなので、単刀直入に話しますね？
 　お兄さん、コロシアムの参加料が高いって、
-　悩んでたんじゃないですか？』",""
-"凛の言葉に貴方は素直にうなずく。",""
+　悩んでたんじゃないですか？』","<Rin>
+""Then can I go straight to the point? Were you worried
+ about the Colosseum's high participating cost?"""
+"凛の言葉に貴方は素直にうなずく。","You honestly nodded back to Rin's question."
 "<凛>
 『やっぱり♪えへへ、
 　そう人が私のお客さんなんですよ♪』","<Rin>
-""As I thought♪ Ehehe.
- That kind of people are my customers♪"""
+""So it was just as I thought. Ehehe♪ You see, people
+ like you are my customers♪"""
 "<凛>
 『実は私、こう見えてこの町で、
 　お金に困った人に融資する仕事をしているんです♪』","<Rin>
-""You see, my work is giving loans to people
- who have trouble in money in this town."""
+""It's my work to give loans to people who have trouble
+ with money in this town♪"""
 "<アル>
 『ゆうし…………えっと、お金を貸す人？』","<Al>
-""Um... So she's a money lender?"""
+""Um... So in other words, she's a moneylender?"""
 "ニコニコと笑顔の少女はとてもそうは見えず、
-貴方は首を傾げる。","Rin didn't look anything like that,
-so you tilted your head."
+貴方は首を傾げる。","The smiling girl before you looked nothing like the
+moneylenders you had in mind, so you tilted your head
+at her."
 "<凛>
 『あ、その顔は信じてませんね！
 　そりゃ、まぁ、私って雰囲気とか、
 　そういうのはないかもしれないですけど………』","<Rin>
-""Ah! You don't believe me?
- Well, I guess I don't have that kind of aura
+""Ah! What's with that face! You don't believe me, do
+ you? Well, I guess I don't have that kind of aura
  about me..."""
 "貴方の反応に、少女はすねたように可愛らしく唇を尖らせる。
-そんな少女になごみつつ、貴方は謝罪の言葉を伝えた。","Rin cutely pouted her lips to your doubt.
-You couldn't help but apologize to her."
+そんな少女になごみつつ、貴方は謝罪の言葉を伝えた。","Rin cutely pouted her lips at your reaction. You
+couldn't help but apologize at the pouting girl."
 "<凛>
 『ま、いいですよ。
 　私自身、オーラがないのは自覚してますし、
 　それに、見た目通りあんまり戦いは強くないですしね。』","<Rin>
-""Oh, it's fine.
- I'm aware that I don't have that kind of aura,
- and as I look, I'm not that strong either."""
-"凛は、はぁ……とため息をついてそう言葉を漏らす。","Rin sighed after saying that."
+""Well... It's fine. I'm aware that I don't have an aura
+ of a moneylender... And I'm not that strong either..."""
+"凛は、はぁ……とため息をついてそう言葉を漏らす。","After saying that, Rin let out a deep sigh."
 "<凛>
 『だから、こういう仕事をしてるんですけどね♪
 　私、強さには自信ないですけど、
 　人を見る目にはちょっと自信があるんです♡』","<Rin>
-""But anyway, that's what I do for my job♪
- I'm not strong, but I'm confident in my
- ability to judge people♡"""
+""But that's what I do for as work♪ I might not be
+ strong, but I'm confident in my ability to judge
+ people♡"""
 "凛は仕切りなおすように、
-人差し指を立てて笑顔でそう宣言する。","Rin declared thus while pointing up her index finger
-to get the talk back in track."
+人差し指を立てて笑顔でそう宣言する。","Rin held her index finger up in smile as she got the
+talk back on track."
 "<凛>
 『つまりですね？
 　コロシアムで勝てるくらい強くて、
 　なおかつお金に余裕がない…………』","<Rin>
 ""In other words, I look for people who are strong
- enough to win at the colosseum, but don't have
- enough money to participate. Like you."""
+ enough to win at the arena but don't have enough
+ money to take part... People like you."""
 "<凛>
 『そんなお兄さんみたいな人にお金を融資して、
 　コロシアムで手に入れた賞金から、
 　いくらかのリターンをもらうってわけですね♪』","<Rin>
-""I lend them money to participate and then take
- return from the prize money♪"""
+""I give them a loan and then take return from the prize
+ money after they win♪"""
 "<アル>
 『えへへ♪
 　ってことは、
 　\n[1]なら勝てるって思ってくれてるってことだよね？』","<Al>
-""Ehehe♪
- In other words, you think that \n[1] is
- strong enough to win?"""
+""Ehehe♪ So that means she thinks that you're strong
+ enough to win at the arena, right?"""
 "<アル>
 『よかったね！\n[1]♪』","<Al>
-""That's great, \n[1]!"""
+""Isn't that's great? \n[1]♪"""
 "貴方はアルの言葉に少しテレを感じながら、
-なるほど、と相槌を彼女に返した。","Al's statement made you feel slightly shy,
-but you understood what Rin does."
+なるほど、と相槌を彼女に返した。","While feeling slightly bashful from Al's praise, you
+told Rin that you understood what she was getting at."
 "<凛>
 『リターンは1割♪
 　つまり、700Gを分けてもらえれば結構です♡』","<Rin>
-""I want 10% in return.
- In other words, 700G is enough♡"""
+""I'm looking for a 10% return♪ In other words, 700G♡"""
 "<凛>
 『どうでしょう？
 　お兄さんは私が見てきた中で、1番2番に強そうなので…
 　きっと、挑むことさえできらば楽に勝てますよ♪』","<Rin>
-""How about it?
- I think you're one of the stronger ones I've seen,
- so I believe you'll have easy time winning♪"""
-"凛はそう言って貴方の反応をうかがう。","Rin asked you thus."
+""So, what do you think? You're among the strongest
+ fighters I've seen, so I'm sure you can win your match
+ with ease♪"""
+"凛はそう言って貴方の反応をうかがう。","With that, Rin asked on your decision to take a loan."
 "<アル>
 『\n[1]、どうするー？』","<Al>
 ""\n[1], what will you do?"""
-"お願いする",""
+"お願いする","Take it"
 "負けたらどうなる？","What if I lose?"
-"断る",""
+"断る","Refuse"
 "<凛>
 『ありがとうございます♪
 　契約成立ですね♡』",""
@@ -188,37 +213,36 @@ but you understood what Rin does."
 "貴方はアルの言葉に頷き、自分に気合を入れた。",""
 "<凛>
 『え？お兄さんが負けちゃったら、ですか？』","<Rin>
-""Eh? What if you were to lose?"""
+""Eh? What would happen in the case that you lost?"""
 "<凛>
 『う～ん、そうですねぇ……
 　一応、私も仕事なので、たとえそうなったとしても、
 　返さなくていい、とは言えませんね…………』","<Rin>
-""Hmmm. Well...
- This is still a job, so even if that were to happen,
- I wouldn't want to tell you..."""
+""Well... Since this my work, it's not like I can say
+ that you don't need to repay your loan if you were
+ to lose..."""
 "凛は申し訳なさそうにそう目を伏せながら、
-貴方の疑問に回答する。","Rin replied to your question while looking down
-apologetically."
+貴方の疑問に回答する。","Rin answered while looking down apologetically."
 "<凛>
 『でも、きっと大丈夫ですよ♪
 　ほら、私言ったじゃないですか。
 　見る目には自信があるって♡』","<Rin>
-""But I'm sure you'll be fine♪
- Hey, like I said, I'm confident in my ability to
- judge people♡"""
+""But I'm sure you'll be fine♪ Like I said, I'm
+ confident in my ability to judge people♡"""
 "<凛>
 『お兄さんなら勝てる、
 　そう思ったからこそ、こうして声をかけたんです♪』","<Rin>
-""It's because I believe that you can win I called
- out to you like this♪"""
+""I called you out only because I believe that you would
+ win♪"""
 "<凛>
 『そんな私を、信頼はできませんか……？』","<Rin>
-""Won't you believe in the me who believes in you?"""
+""So... Won't you believe in the me who believes in
+ you?"""
 "凛は不安そうに瞳を揺らしながら、
-上目づかいで貴方を見つめる。","Rin looked in your eyes in upward glance while
-her eyes were shaking in uneasiness."
+上目づかいで貴方を見つめる。","Rin looked you in the eyes in upward gaze. Her eyes
+were slightly shaking in anxiety."
 "信頼する","Trust her"
-"信頼できない",""
+"信頼できない","Don't trust her"
 "<凛>
 『ありがとうございます♪
 　じゃあ、契約成立ということでいいですよね？』",""
@@ -228,57 +252,83 @@ her eyes were shaking in uneasiness."
 　この街での契約書のようなものです。』",""
 "<凛>
 『そう、ですか……
-　確かに、初対面の私を信頼なんてできないですよね……』",""
+　確かに、初対面の私を信頼なんてできないですよね……』","<Rin>
+""I see... Yes, you can't trust me since we've just
+ met..."""
 "<凛>
 『…分かりました、私も覚悟を決めましょう。
 　お兄さんが万が一負けてしまったら、
-　利子分のお金は必要ありません。』",""
+　利子分のお金は必要ありません。』","<Rin>
+""...Okay, I've made my mind. Let me remake my offer:
+ I won't take interest even in the case that you lose."""
 "<凛>
 『これなら、もし負けてしまっても、
-　お兄さんに損はないと思います。どうですか？』",""
+　お兄さんに損はないと思います。どうですか？』","<Rin>
+""That way you won't take any burden even if you were to
+ lose. How does that sound?"""
 "<凛>
 『え？その場合は私にメリットがない？
 　ふふ、大丈夫ですよ♪
-　私はお兄さんなら勝てると、信じていますので♡ちゅっ♡』",""
-"そう言い、凛は貴方のほほに柔らかな唇を軽く押し付ける。",""
+　私はお兄さんなら勝てると、信じていますので♡ちゅっ♡』","<Rin>
+""Eh? I won't have anything to gain that way? Ehehe♪
+ You're right♪ But that's because I believe that you
+ will win♡ Smooch♡"""
+"そう言い、凛は貴方のほほに柔らかな唇を軽く押し付ける。","After saying that, Rin kissed you on the cheek."
 "<凛>
 『えへへ、応援の口づけです♡
-　私のためにも、勝ってくださいね？お兄さん♪』",""
-"貴方は唐突な彼女の行動に顔を赤くしながら頷いた。",""
+　私のためにも、勝ってくださいね？お兄さん♪』","<Rin>
+""Ehehe♪ That's my kiss of support♡ Please win your
+ match for my sake too♪"""
+"貴方は唐突な彼女の行動に顔を赤くしながら頷いた。","You blushed at Rin's sudden kiss and nodded back at
+her."
 "<凛>
 『ありがとうございます♪
-　それじゃあ、契約成立、ということでいいですよね？』",""
-"凛は貴方にそう確認する。",""
-"お金を借りる",""
-"やっぱりやめておく",""
+　それじゃあ、契約成立、ということでいいですよね？』","<Rin>
+""Thank you♪ So that means you're going to take the
+ loan, right?"""
+"凛は貴方にそう確認する。","With that, Rin confirmed on your decision."
+"お金を借りる","Take a loan"
+"やっぱりやめておく","Don't do it"
 "一応内容を確認すると、
 貴方は7000Gを借りること、そして、
 それを試合後に返すことが記載されていた。",""
 "<凛>
-『え…………？なんで、ですか？』",""
-"凛は目を丸くし、驚いた表情で貴方を見つめている。",""
+『え…………？なんで、ですか？』","<Rin>
+""Eh...? Why?"""
+"凛は目を丸くし、驚いた表情で貴方を見つめている。","Rin stared at you in surprise with eyes wide open."
 "貴方は、ただなんとなく、
-お金の貸し借りをしたくないと彼女に伝えた。",""
+お金の貸し借りをしたくないと彼女に伝えた。","You said to her that you just felt bad about taking a
+load."
 "<凛>
 『そう、ですか……
-　残念ですが、仕方ないですよね…………』",""
+　残念ですが、仕方ないですよね…………』","<Rin>
+""Is that so... That's regrettable, but it can't be
+ helped..."""
 "凛は見てわかるほどがっくりと肩を落とし、
-落ち込んでしまった。",""
-"そんな彼女に、貴方は謝罪の言葉を告げる。",""
+落ち込んでしまった。","Rin was clearly dejected as she dropped her shoulders."
+"そんな彼女に、貴方は謝罪の言葉を告げる。","You said sorry at the dispirited girl."
 "<凛>
 『いえ、いいんです。
-　無理強いするものじゃないですしね…………』",""
+　無理強いするものじゃないですしね…………』","<Rin>
+""No, it's fine... It's not like I can force anyone to
+ take a loan..."""
 "<凛>
 『お兄さん、では、普通に観客として応援してますね？
-　頑張ってください♪』",""
+　頑張ってください♪』","<Rin>
+""Then I'll cheer for you in the audience. Please do
+ your best♪"""
 "笑顔を作り、そう応援の言葉を告げる彼女に、
-貴方は感謝した。",""
+貴方は感謝した。","When Rin made a smile and said that, you thanked her."
 "<アル>
 『お金は自分で稼ぐ、だね！
-　うんうん、そっちのほうがいいかも？』",""
+　うんうん、そっちのほうがいいかも？』","<Al>
+""So, we're earning that money ourselves, right!
+ I think that's how it should be!"""
 "<アル>
 『それじゃあ、コロシアムで7000G必要ってことは忘れずに、
-　がんばろー♪』",""
+　がんばろー♪』","<Al>
+""So let's go♪ We're going to need 7000G for the
+ Colosseum!"""
 "登録する",""
 "指名する",""
 "やめておく","Stop"
@@ -393,14 +443,16 @@ her eyes were shaking in uneasiness."
 "リン",""
 "<???>
 『ん～………よさそうな人はいないかなぁ…………』","<???>
-""Hmm...
- Doesn't look like there's anyone good looking..."""
+""Hmm... I'm not finding anyone good today..."""
 "<凛>
 『頑張ってくださいね♪お兄さん♡
 　応援してますよ♡』",""
 "<凛>
 『お兄さん、コロシアムに出場するお金はありますか？
-　参加するなら応援します♪頑張ってくださいね♪』",""
+　参加するなら応援します♪頑張ってくださいね♪』","<Rin>
+""Have you made enough money to participate in the
+ Colosseum yet? I want to be there to cheer you on♪
+ Please do your best♪"""
 "<凛>
 『あ、くそザコお兄さん♡
 　ちゃんと7700G持ってきましたかぁ？』",""
@@ -546,12 +598,19 @@ her eyes were shaking in uneasiness."
 "EV016",""
 "『そこの魔法陣は医務室につながってるんだ。
 　そこから出てくるってことは、
-　負けて医務室送りになったってことだから…………』",""
+　負けて医務室送りになったってことだから…………』","""The magic formation over there is connected to the
+ medical office. Anyone coming out from it has been
+ sent to the office after losing a match."""
 "『あんまり出で来るところは見られたくないよな…
-　オ、オレはちょっと休んでるだけだぜ？』",""
+　オ、オレはちょっと休んでるだけだぜ？』","""People don't really want to be seen when they come out
+ from there... I-I'm just sitting down to rest for a
+ moment, okay?"""
 "<アル>
 『確かに、見られると恥ずかしいよね！
-　……なんでこの人、動揺してるんだろ？』",""
+　……なんでこの人、動揺してるんだろ？』","<Al>
+""It would certainly be embarrassing to be seen while
+ coming out from there! ...Why exactly is this person
+ so shaken?"""
 "『お、おう…………お前も負けたみたいだな。
 　そこの魔法陣から出てくるの、誰かに見られてないかとか、
 　恥ずかしくなったりしないか？』",""
@@ -581,12 +640,19 @@ her eyes were shaking in uneasiness."
 "『コロシアムに出てくるプレイヤーは、
 　みんな自分に自信があるやつばかりだからな。
 　兄ちゃん、
-　参加するなら十分に強くなってからのほうがいいぜ。』",""
+　参加するなら十分に強くなってからのほうがいいぜ。』","""All the players taking part in the Colosseum are
+ confident in their own strength. If you're going
+ to participate, you should make sure to get strong
+ first."""
 "<アル>
 『強敵ばかりってことだね！
-　準備はできてる？\n[1]♪』",""
+　準備はできてる？\n[1]♪』","<Al>
+""So they're all strong opponents! \n[1],
+ are you ready for that?"""
 "<アル>
-『自信がなかったら、また強くなってから来ようね！』",""
+『自信がなかったら、また強くなってから来ようね！』","<Al>
+""If you aren't feeling confident, we should come back
+ after getting stronger!"""
 "EV018",""
 "<六花>
 『あ、うぅぅ…………』",""
@@ -856,7 +922,8 @@ her eyes were shaking in uneasiness."
 『必ず、あのこと助けようね！\n[1]！』",""
 "EV020",""
 "『ここは選手が入るための場所だ。
-　鍵がかかっていてそれ以外のプレイヤーは入れないぜ。』",""
+　鍵がかかっていてそれ以外のプレイヤーは入れないぜ。』","""This door leads to a room for the arena participants.
+ It won't open for anyone else."""
 "『契約奴隷はこの町では一種のタブーだ。
 　あんまり大っぴらに話すんじゃねぇぞ。』",""
 "EV021",""
