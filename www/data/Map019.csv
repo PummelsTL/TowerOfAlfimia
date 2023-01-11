@@ -12,23 +12,24 @@
 "EV012",""
 "『負けた方は、
 　観客の前で犯されちゃうんだよねー♡
-　アンタももし試合するなら気を付けなよ？』","""The loser gets violated before the audience.
- If you're going to participate, be careful, okay?"""
+　アンタももし試合するなら気を付けなよ？』","""The loser gets raped before the whole audience♡
+ Make sure to be careful if you're going to fight,
+ okay?"""
 "『もし負けちゃったら、
 　みんなに馬鹿にされながら……
-　恥ずかしい目に合わされちゃうから♡』","""If you lose, your opponent will turn you
- into a shameful display while everyone in
- the audience makes fun of you♡"""
+　恥ずかしい目に合わされちゃうから♡』","""Because if you lose... Everyone is going to make
+ fun of you and give you the most embarrassing
+ experience of your life♡"""
 "『あ、もちろんその時は、
-　私もアンタのこと思いっきり馬鹿にしてあげる♡』","""And, naturally, I'll also go full out on
- making fun of you if that happens♡"""
+　私もアンタのこと思いっきり馬鹿にしてあげる♡』","""Naturally, I'll also go all out in making fun of you
+ if that happens♡"""
 "<アル>
 『ま、負けないようにしないとね！
 　みんなの前で犯されちゃうなんて、
 　きっとすっごく恥ずかしいよ！』","<Al>
-""M-Make sure not to lose!
- Getting fucked before an audience
- would be so embarrassing!"""
+""\n[1], you need to avoid losing with
+ everything you have! I'm sure that getting raped
+ before the audience would be too embarrassing!"""
 "『あ、女の子のお尻に敷かれて、
 　なっさけない負け方してた男じゃん♡
 　よく私に話しかけられたね♡』",""
@@ -108,11 +109,15 @@
 "EV013",""
 "『あーあ、またあの子の負けだろーなー。
 　つまんなーい。いい加減飽きてきたし、
-　誰か新しい見せものになる人とか出てこないかなー。』",""
+　誰か新しい見せものになる人とか出てこないかなー。』","""Aa-ah. Looks like that girl is going to lose again.
+ It's becoming so boring to see that. Won't there be
+ any new pig to put on a show?"""
 "<アル>
 『み、見せもの……
 　この子、可愛い顔してるのに、
-　すっごい恐ろしいこと言ってるね…』",""
+　すっごい恐ろしいこと言ってるね…』","<Al>
+""P-Pig...? She's saying some horrible things for a
+ girl with such a cute face..."""
 "『きゃは♡
 　この前すっごい負け方してたお兄ちゃんじゃん♡
 　よくここに顔出せたね♡
@@ -157,11 +162,15 @@
 　き、気にしないほうがいいよ？\n[1]…』",""
 "『コロシアムでお気に入りの選手を見つけると、
 　なかなか楽しめるものなのよ。
-　最近はあまり出会えていないのだけれど……』",""
+　最近はあまり出会えていないのだけれど……』","""Watching your favorite players fight in the arena is
+ quite entertaining. It's just that they haven't 
+ participated in a while..."""
 "<アル>
 『お気に入りの選手を応援するって、　
 　確かに楽しそうだよね♪
-　今度、探してみるー？』",""
+　今度、探してみるー？』","<Al>
+""Rooting for your favorite certainly sounds fun♪
+ Why won't we find someone like that too?"""
 "『あら……うふふ♡
 　貴方の投げキッスしてほしいっていうおねだり、
 　観客席にもよく聞こえてたわよ。
@@ -192,10 +201,14 @@
 "EV015",""
 "『自分じゃ参加する勇気はないけど…
 　観戦するのは好きなの…♡
-　たまに、すごく面白いショーが見れたりするんだよ？』",""
+　たまに、すごく面白いショーが見れたりするんだよ？』","""I don't have the courage to fight in the arena, but I
+ like to spectate the matches. Sometimes the fighters
+ put on amazing shows to watch."""
 "<アル>
 『そ、それは白熱した試合って意味なのかな？
-　それとも………』",""
+　それとも………』","<Al>
+""By amazing shows, does she mean the fighting part?
+ Or maybe it's the..."""
 "『あ、この前負けてたお兄さん……♡
 　女の子のお尻の下に敷かれるのは、
 　そんなに気持ちよかった……？♡』",""
@@ -250,13 +263,15 @@
 　なんか、凄い理不尽なこと言われてる気がする…』",""
 "EV016",""
 "『己のプライドをかけて戦う姿は、美しいものだよな。
-　私はそれを見にここによく来るんだ。』","""Putting your pride on the line as you fight
- is such a beautiful sight.
- That's what I come to see here."""
+　私はそれを見にここによく来るんだ。』","""It's a beautiful sight to fight with your pride on the
+ line. That's what I come to see at the Colosseum."""
 "<アル>
 『熱いぶつかり合いってやつだね！
 　確かに誇りをかけて戦う姿って、
-　なんかひかれちゃうの分かるなー♪』",""
+　なんかひかれちゃうの分かるなー♪』","<Al>
+""It's that thing were you clash with everything you
+ have, right! I can understand how that draws you
+ in♪"""
 "『ふふ…恥をさらした敗者じゃないか。
 　あまりここには来ないほうがいいぞ。
 　己の実力不足を反省して、また鍛え直すんだな。』",""
@@ -295,16 +310,18 @@
 "EV017",""
 "『男ってさー♡
 　大体女の子に負けちゃってるんだよねー♡
-　で、みーんな情けなく犯されちゃうの♡』","""Men lose to the women most of the time♡
- And then they are fucked in a miserable sight♡"""
+　で、みーんな情けなく犯されちゃうの♡』","""Men lose to girls vast majority of time♡ And when
+ they do, they get reverse raped before the whole
+ audience♡"""
 "『私、
 　そういう男の情けなくてダッサい姿見るの大好きなの♡
-　貴方も参加するなら、そう姿見せてよね♡』","""I absolutely love seeing men like that♡
- When they are so miserable and complete losers♡"""
+　貴方も参加するなら、そう姿見せてよね♡』","""I love seeing men at their most miserable point like
+ that♡ You should also put on such a show if you're
+ going to participate♡"""
 "<アル>
 『う、うぅー！
 　参加するとしても、\n[1]は負けないもん！』","<Al>
-""U-Uuh! \n[1], won't lose!"""
+""N-No! \n[1], won't lose!"""
 "『女のお尻に敷かれて、
 　みっともなーく精液出してたアンタのダッサい姿♡
 　ばっちり見させてもらったよー♡』",""
@@ -364,33 +381,39 @@
 "『ここで、
 　女の子に負けてる男を見ると………
 　胸がドキドキしちゃうんだ…
-　俺ってマゾなのかな…………』",""
+　俺ってマゾなのかな…………』","""My heart starts racing for some reason when I see guys
+ lose to girls in the arena Maybe I'm a masochist...?"""
 "<アル>
 『………マゾだね！
 　\n[1]はどお？
-　この人みたいに、そう言うの見るとドキドキしちゃう？』",""
+　この人みたいに、そう言うの見るとドキドキしちゃう？』","<Al>
+""He's a masochist without a doubt! \n[1],
+ what about you? Does that make your heart race?"""
 "EV019",""
 "『男が負けることの方が多いせいか、
 　観客もほとんど女性なのよね。
 　やっぱりみんな、自分と同じ性別の選手が、
-　異性に負ける姿は見たくないのかしら。』",""
+　異性に負ける姿は見たくないのかしら。』","""The audience being mostly women is probably because
+ it's the men who lose matches of the time. I guess
+ no one wants to see someone of the same sex lose."""
 "<アル>
 『んー、どうなんだろうね？
 　\n[1]もやっぱり、
-　男の子が女の子に負けるとこ見ちゃうと悔しいって思う？』",""
+　男の子が女の子に負けるとこ見ちゃうと悔しいって思う？』","<Al>
+""Hmm? Is that true? \n[1], do you feel
+ bad seeing a boy lose to a girl?"""
 "EV020",""
 "『ここってさ、決まった名前がないから
 　闘技場とか、コロシアムとか、
-　みんな結構好き勝手に呼んでるんだよね～。』","""There's no decided name for this place,
- so everyone calls it however they like.
- Arena, colosseum, and so on."""
+　みんな結構好き勝手に呼んでるんだよね～。』","""The PvP area has no decided name, so everyone calls
+ it whatever they like: Arena, Colosseums, and so on."""
 "『ちなみに私は闘技場派。
-　なんかそっちの方がカッコよくない？』","""By the way, I'm on the arena-sect.
- It kind of sounds cooler, right?"""
+　なんかそっちの方がカッコよくない？』","""I'm with the arena-sect, by the way. That sounds much
+ cooler, right?"""
 "<アル>
 『どうなんだろ？
 　どっちでもあんまり変わらない気がするな～』","<Al>
-""Hmm. I think both of them are pretty much the same."""
+""Hmm... Aren't they both pretty much the same?"""
 "『あ、女の子のお尻に負けてた負け犬じゃん♡
 　ねぇ、すごい情けない負け方だったねー♡』",""
 "『あんな負け方したらさ、
