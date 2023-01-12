@@ -2,8 +2,10 @@
 "EV002",""
 "今の状態で未来を訪ねれば、
 きっと彼女にとても心配をかけてしまう…
-もしかしたら自分のために無茶をするかもしれない。",""
-"…未来を頼るのは、最後の手段にしておこう。",""
+もしかしたら自分のために無茶をするかもしれない。","Visiting Mirai with the current situation will surely
+make her really worried. She might actually do
+something really absurd for your sake."
+"…未来を頼るのは、最後の手段にしておこう。","Let's leave Mirai's help as the last resort."
 "EV003",""
 "鍵がかかっている。","It's locked."
 "EV004",""
@@ -26,130 +28,140 @@
 "EV021",""
 "EV022",""
 "EV023",""
-"街の噴水の前まで行きますか？",""
+"街の噴水の前まで行きますか？","Teleport to the water fountain at the town center?"
 "はい","Yes"
 "いいえ","No"
 "EV024",""
-"森の入り口まで行きますか？",""
+"森の入り口まで行きますか？","Teleport to the entrance of the forest?"
 "EV025",""
 "『なぁ、スキルの種類って知ってるか？
 　個人によって習得するスキルって違うんだけどよ、
-　「性的スキル」と「ノーマルスキル」の2つがあるんだ。』","""Hey, do you know about skill types?
- It depends on the person what skills they learn,
- but skills can be split into Sexual Skills
- and Normal Skills."""
+　「性的スキル」と「ノーマルスキル」の2つがあるんだ。』","""Hey, do you know about skill types? The exact skills
+ a player learns can vary from person to person, but
+ all of them belong to either sex type or normal type
+ skills."""
 "『ノーマルスキルは同性、
 　性的スキルは異性に有効なんだが…
-　どういうわけだかそのどちらかしか覚えられないんだ。』","""Normal Skills are effective against the same gender,
- while Sexual Skills are effective against the opposite
- gender.
- But you only learn skills from either category."""
+　どういうわけだかそのどちらかしか覚えられないんだ。』","""Normal skills are effective against the same gender,
+ while sex skills are effective against the opposite
+ gender... However, you will learn only one type of
+ skills."""
 "『基本的には「性的スキル」を覚えてるやつのほうが、
-　ずっと多いみたいだな。』","""From what I've seen, most people learn the Sexual
- Type skills."""
+　ずっと多いみたいだな。』","""From what I've seen, most people learn the sex type
+ skills."""
 "『……不公平だと思わないか？
 　モンスターなんて全員女の子だし……
 　おかげで俺は、すぐ負けるかもしれないって思って、
-　街の外になんか出られねーよ……』","""Don't you think that's a bit unfair?
- All the monsters are girls,
- so I don't think I stand a chance against them.
- I don't have any way to get out of the town..."""
+　街の外になんか出られねーよ……』","""Don't you think it's unfair that you don't have a
+ choice on the matter? All the monsters are girls, so I
+ don't think I have a chance against the monsters
+ outside the town with my normal type skills..."""
 "<アル>
 『ノーマルスキル…って、
 　普通の攻撃スキルってことだよね！
 　多分、性的スキルの方が多いのは淫気影響かな？』","<Al>
-""Normal Skills, huh? Those are normal attack skills,
- right? Sexual Skills are probably more common
-  because of the sex gas."""
+""Normal skills, huh? I guess those are the normal
+ attack skills, right? The sex skills being more common
+ is probably effect of the sex gas."""
 "<アル>
 『でも確かに、
 　\n[1]も女の子としか戦ってないもんね…
 　\n[1]も性的スキルの方がよかった？』","<Al>
-""But now that I think about it, \n[1],
- you've only been fighting against girls.
- Isn't it great that you learned Sexual Skills?"""
+""\n[1], now that I think about it, all your
+ opponents have been girls... Would you have liked to
+ learn sex skills instead of normal skills?"""
 "うん","Yes"
-"こっちのほうがいい",""
+"こっちのほうがいい","I like it this way"
 "<アル>
 『そっか…なんでだろ。
 　\n[1]は性的スキルを使っても、
 　女の子に返り討ちにあっちゃうとこしか想像できない…』","<Al>
-""I see. But even when you can use Sexual Skills,
- I wonder why I can't imagine anything but
- girl's beating you anyway?"""
+""I see... I don't know why, but if I imagine you 
+ fighting with sex skills, I can only see you instantly
+ losing to your opponent..."""
 "<アル>
 『ん♪そうだよね！
-　\n[1]、なんかえっちだと女の子に勝てなさそうだもん♪』",""
+　\n[1]、なんかえっちだと女の子に勝てなさそうだもん♪』","<Al>
+""Yeah! \n[1], I don't think you could beat
+ a girl through sex♪"""
 "EV026",""
 "『ここの家を持っている人は、
 　みんな凄いお金持ちなのよ。
-　大体はバンガードのメンバーみたいね。』","""Everyone living around here is really rich.
- They mostly seem to be members of the Vanguard."""
+　大体はバンガードのメンバーみたいね。』","""Everyone who has a house in this area is really rich.
+ Most of them seem to belong to the members of The
+ Vanguard."""
 "『いいわよね、一軒家。
-　宿屋生活も悪くないけど、やっぱり憧れるわ～』","""I wish I had my own house too.
- Living at inns isn't bad,
- but living on my own would be nicer."""
+　宿屋生活も悪くないけど、やっぱり憧れるわ～』","""It must be so nice to have your own house. Life in the
+ inns isn't bad, but I want to have a place for
+ myself."""
 "<アル>
 『確かに、なんか一軒家っていいよね♪
 　\n[1]もお金貯めて、買うのを頑張って目指してみる？』","<Al>
-""Living on your own house sounds nice.
- \n[1], are you going to save up
- and buy your own house?"""
+""Having a house for yourself certainly sounds nice.
+ \n[1], are you going to save up for your
+ own house too?"""
 "EV027",""
 "『ここって実は高級住宅街なんだぜ。
-　あんま理想は見えないだろ？』","""This is actually the high-end residential district,
- but it doesn't really look the part, right?"""
+　あんま理想は見えないだろ？』","""This is area is actually the high-end residential
+ district. It's weird how the houses look completely
+ normal, right?"""
 "<アル>
 『んー…確かに、
 　あんまりギラギラしてる感じはないよね！』","<Al>
-""Hmm... Now that he says it,
- it's not all that flashy."""
+""Hmm... Now that he says it, the houses aren't all
+ that flashy like you would expect!"""
 "EV028",""
 "『この街で一番高価な住宅を持っているのは、
 　夢咲恭子という女性よ。
 　彼女は人には言えないような、
-　様々な手口でお金を集めたらしいわ。』",""
+　様々な手口でお金を集めたらしいわ。』","""The most expensive house in this town belongs to a
+ woman named Yumesaki Kyouko. It's said that she has
+ gathered her money through various underhanded means."""
 "『まったく……
-　どうしてバンガードは彼女を放置しているのかしら。』",""
+　どうしてバンガードは彼女を放置しているのかしら。』","""Good grief... I don't know why The Vanguard haven't
+ arrested her yet..."""
 "<アル>
 『そういう人もいるんだね……
-　アレかな？悪いことのしょーこがないってやつとか！』",""
+　アレかな？悪いことのしょーこがないってやつとか！』","<Al>
+""I guess there are people like that too... Maybe it's
+ that thing where there's no any evidence of her
+ crimes?"""
 "EV029",""
 "『すぐそこにある屋敷の女主人、
 　おっぱい大きくて高圧的で…
-　すっげーエロいんだよな……』","""The woman who lives in that house is really
- domineering and has massive boobs...
- She's so hot..."""
+　すっげーエロいんだよな……』","""The woman living in that house has massive boobs and a
+ really domineering personality... That's so hot..."""
 "『六花ちゃんっていう付き人がいるんだが、
 　俺も付き人にして欲しいぜ……
-　あわよくば踏まれたい……』","""She already has an attendant named Rikka,
- but I wish I could become her attendant too...
- And then if possible, I want her to step on me..."""
+　あわよくば踏まれたい……』","""She has an attendant named Rikka already, but I wish I
+ could become her attendant too... Then if there's a
+ chance, I want her to step on me..."""
 "<アル>
 『わー…変態だ…
 　\n[1]は高圧的な女の子って好き？』","<Al>
-""Woah... He's a total pervert.
- \n[1], do you like domineering girls?"""
+""Woah... He's a pervert... \n[1], are you
+ into domineering girls?"""
 "好き","I love them"
-"好きじゃない","No"
+"好きじゃない","Nope"
 "<アル>
 『ふ～ん、そうなんだ。
 　見下されたりしたいの？……変態♡』","<Al>
-""Oh? Is that so?
- You want a girl to look down on you and stuff?
- You perv♡"""
+""Oh? Is that so? Do you want a girl to look down on you
+ and stuff? You perv♡"""
 "<アル>
 『あ、じゃあ優しいほうが好き？
 　ふふーん♪私って自分で言うのもなんだけど、
 　かなり優しい方だと思うなー♪』","<Al>
-""Ah! Are you into gentle girls then?
- Ahaha♪ Even if I say it myself,
- I think I'm a quite gentle♪"""
+""Ah! Are you into gentle girls then? Ahaha♪ I think
+ I'm a quite gentle even if I say it myself♪"""
 "EV031",""
 "『はぁ～………
 　ここだと締め切りに追われることもないし……
-　のんびりできてさいこー……♪』",""
+　のんびりできてさいこー……♪』","""Haah... I love how there aren't any deadlines closing
+ on you in this world. Taking it easy is the best♪"""
 "<アル>
 『締め切り……
 　何かに追われながら働くのって、
-　大変そうだもんねー………』",""
+　大変そうだもんねー………』","<Al>
+""Deadlines? I guess it's stressful to work in an
+ industry with them."""
