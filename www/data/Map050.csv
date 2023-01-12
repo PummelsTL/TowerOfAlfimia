@@ -485,44 +485,55 @@ PvPに負けてレベルを吸われるくらいなら、
 『見たことない色の宝箱だったけど………
 　これが私が感じたやつなのかな？
 　なんか、すごそうな剣だねー♪』","<Al>
-""That's an unusual looking chest...
- I wonder if this is the thing I sensed?
- That sword looks really strong♪"""
+""We haven't seen a blue treasure chest before...
+ Maybe it was that sword that I sensed? It looks
+ really strong♪"""
 "貴方が宝箱から手に入れた剣をアルはまじまじと見つめる。
 効果は、装備することで全能力+20％………
-すごそう、ではなく本当にすごい剣のようだ。","Al closely looked at the sword you found in the chest.
-The equipment effect is... All stats +20%...
-It doesn't just look strong but it is really strong."
+すごそう、ではなく本当にすごい剣のようだ。","Al closely looked at the sword you picked up from the
+chest. You looked over it and found that it has 「All
+Stats +20%」. It didn't just look strong. It was an
+actual strong sword."
 "<アル>
 『その効果ってそんなに強いの？
 　おおー、よかったね。\n[1]♪』","<Al>
-""Is that effect really that strong?
- Well, that's great, \n[1]♪"""
+""Is that effect so powerful? Well, that's great because
+ it's your sword now, \n[1]♪"""
 "そう言うアルに、
-君のおかげだと貴方はアルに告げた。","You told Al that it was thanks to her you found it."
+君のおかげだと貴方はアルに告げた。","After Al said that, you told her it was thanks to her
+that you found it."
 "<アル>
 『えへへ♪どういたしまして！
 　青い宝箱にはいいものが入ってるのかな？
 　また見かけたら、開けたいねー♪』","<Al>
-""Ehehe♪ You're welcome!
- I wonder if all blue chests have amazing stuff?
- Let's keep an eye out for them♪"""
+""Ehehe♪ You're welcome! I wonder if all blue chests
+ have amazing items? Let's keep an eye out for them♪"""
 "<アル>
 『これが私が感じたやつなのかな？
-　なんか、すごそうな剣だねー♪』",""
+　なんか、すごそうな剣だねー♪』","<Al>
+""Is that sword what I sensed? It looks really strong♪"""
 "<アル>
 『えへへ♪どういたしまして！
 　やっぱり青い宝箱にはいいものが入ってるんだね！
-　また見かけたら、開けたいねー♪』",""
+　また見かけたら、開けたいねー♪』","<Al>
+""Ehehe♪ You're welcome! Looks like blue chests have
+ amazing items inside them! Let's keep an eye out for
+ them♪"""
 "EV013",""
 "『ここから先は敵が急激に強くなる危険地域。
-　コロシアムで2勝した人しか通っちゃいけないの。』",""
+　コロシアムで2勝した人しか通っちゃいけないの。』","""This road leads to a danger area where monsters get
+ suddenly really strong. Only players who have won two
+ matches at the Colosseum can pass."""
 "『無用な犠牲を出さないため……
 　これはバンガードの意思だからね。
-　分かってくれない？』",""
+　分かってくれない？』","""This is a rule that The Vanguard have set to prevent
+ unnecessary victims. Please understand."""
 "<アル>
 『うぅーん…この先の敵、そんなに強いのかな？
-　この人の言う通り、また後でこよっか。』",""
+　この人の言う通り、また後でこよっか。』","<Al>
+""Hmm... Is it really such a dangerous area? Looks like
+ our only option is to do as she says and come back at
+ a later point."""
 "『ん……確かに勝利の証を確認したよ。　
 　繰り返しになるが、この先の敵は強いから。
 　油断しないようにね？』",""
@@ -535,48 +546,56 @@ It doesn't just look strong but it is really strong."
 "EV023",""
 "『知ってるか？
 　レアな宝箱って言うのがあるらしいぜ。
-　なんでも、中にはとんでもないアイテムが入ってるとか。』","""Did you know that, apparently, there are rare
- treasure chests? These rare chests contain
- unthinkably strong items and stuff."""
+　なんでも、中にはとんでもないアイテムが入ってるとか。』","""Did you know that there are rare treasure chests?
+ Apparently, you can find super strong items inside
+ them."""
 "『こう、ゲーマー魂がくすぐられるよな！
 　中のアイテムを街でオークションにかければ、
-　大金が手に入ったりするらしいし……！』","""That kind of stuff just tickles my gamer sense!
- If you auctioned the rate items at the town,
- you would make big bucks!"""
+　大金が手に入ったりするらしいし……！』","""That kind of stuff tickles my inner gamer! I bet that
+ you could become filthy rich if you auctioned one of
+ those items in the town!"""
 "<アル>
 『レアなアイテム♪
 　私だったら売ったりなんかしないで、
 　自分で使いたいなー！』","<Al>
-""Rare items♪
- In my case, I wouldn't want to sell them but use
- them myself"""
+""Rare items♪ If I were to find one, I would use it
+ myself instead of selling it off!"""
 "EV024",""
 "メガマジックウォーターを手に入れた！","Obtained Mega Magic Water!"
 "EV025",""
-"森の奥まで進みますか？",""
+"森の奥まで進みますか？","Teleport deeper into the forest?"
 "はい","Yes"
 "いいえ","No"
 "EV026",""
-"街まで戻りますか？",""
+"街まで戻りますか？","Teleport to town?"
 "EV027",""
 "EV028",""
 "<アル>
 『んー……？
-　なんだろう、不思議な感じがする…………』",""
-"ダンジョンを進んでいると、唐突にアルがそう首を傾げた。",""
+　なんだろう、不思議な感じがする…………』","<Al>
+""Hmm? Wait... I'm sensing something..."""
+"ダンジョンを進んでいると、唐突にアルがそう首を傾げた。","While you were walking through the dungeon, Al suddenly
+tilted her head."
 "<アル>
 『なんかねー？うーんと、
 　多分下の通路の行き止まりの先……、かな？
-　そこから不思議な力を感じるの！』",""
+　そこから不思議な力を感じるの！』","<Al>
+""Hmm... It's probably coming from that dead-end?
+ I can feel something weird over there!"""
 "<アル>
 『ちょっと気になるし、
-　行ってみよーよ！』",""
+　行ってみよーよ！』","<Al>
+""It's making me curious! Let's check it out!"""
 "抽象的なアルの発言に首を傾げながらも、
 確かに少し気になる……。
-下の通路の行き止まりの先、行ってみよう。",""
+下の通路の行き止まりの先、行ってみよう。","Al's cryptic statement left you puzzled, but also
+curious. There might be something at the end of
+dead-end to the south."
 "<アル>
 『どこいくのー？
-　私が感じた場所はそっちじゃないよ！』",""
+　私が感じた場所はそっちじゃないよ！』","<Al>
+""Where are you going? The place I sensed is the other
+ way!"""
 "EV029",""
 "回想部屋に移動しますか？
 【回想部屋でのレベルの上下は、
@@ -588,17 +607,15 @@ It doesn't just look strong but it is really strong."
 "『ここのモンスター、見るからに植物って感じだから、
 　炎の魔法を使ってみたんだけど……
 　ダメージ全然増えてないっぽいのよね。
-　……なんか、詐欺じゃない？』","""The monsters around here look like plants,
- so I tried using fire magic against them,
- but it didn't seem to do any damage.
- That's kind of like cheating, right?"""
+　……なんか、詐欺じゃない？』","""The monsters in this forest look like plants, so I
+ tried using fire magic against them, but it didn't
+ deal any extra damage. Isn't that cheating?"""
 "<アル>
 『確かに！植物だったら炎に弱そうだもんね♪
 　でも、そういうわけじゃないんだ。
 　んー、なんでなんだろうね？』","<Al>
-""You're right! Plants should be weak to fire♪
- But that doesn't seem to be the case here.
- Hmm. I wonder why that is?"""
+""That's right! Plants should be weak to fire♪ But that
+ doesn't seem to apply here. I wonder why?"""
 "EV042",""
 "【こちらは旧支援者様版からセーブデータを引き継ぎ、
 　可憐さんが邪魔で先に進めなくなった方用イベントです。
