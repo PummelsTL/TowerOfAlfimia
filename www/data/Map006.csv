@@ -1060,7 +1060,7 @@ all the more humiliated."
 "EV031",""
 "回想部屋に移動しますか？
 【回想部屋でのレベルの上下は、
-　ダンジョンに戻るときにリセットされます】","Move to scene room?
-【Dungeon monsters will reset when returning from the
- scene room.】"
+　ダンジョンに戻るときにリセットされます】","Teleport to scene room?
+【Any level chances made in the scene room will reset
+  once you return】"
 "EV032",""
