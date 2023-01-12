@@ -278,50 +278,53 @@ called out to you."
 "EV018",""
 "『あ～、今日は何しようかなぁ…
 　欲しい服もあるし、
-　そろそろモンスター退治頑張らなきゃかな？』","""Aah... What should I do today...
-There's that outfit that I want to buy too...
-Maybe it's about time I went hunting some monsters?"""
+　そろそろモンスター退治頑張らなきゃかな？』","""I wonder what should I do today... There's that outfit
+ that I want, so maybe it's about time I went to grind
+ some monsters?"""
 "<アル>
 『お洋服！
 　いいなー♪妖精サイズもあるかな？』","<Al>
-""Clothes! That sounds so nice♪
- I wonder if they have something in fairy size?"""
+""Outfits! Getting new clothes feels so nice♪ I wonder
+ if they're selling anything in fairy size?"""
 "EV019",""
 "『この道を奥に行くとコロシアムだぜ。
-　戦ってよし、観戦してよし、この街一番の娯楽だ！』","""The colosseum is at the end of this road. Be it
- fighting or spectating, it's the best amusement
- there is in this town!"""
-"『アンタも腕に自信があるなら、参加してみるんだな。』","""You should also try participating if you're confident
- in your skills."""
+　戦ってよし、観戦してよし、この街一番の娯楽だ！』","""You can find the Colosseum at the end of this road.
+ It's the best amusement there is in this town be it
+ fighting or spectating!"""
+"『アンタも腕に自信があるなら、参加してみるんだな。』","""You should also try to participate if you're feeling
+ confident in your skills."""
 "<アル>
 『みんなに見られながら戦うのって、
 　ちょっとだけ緊張するよね…………！』","<Al>
-""It's a bit tense on the nerves to fight while
- everyone is watching, right!"""
+""Fighting while everyone is watching is a bit
+ stressful, right?"""
 "EV020",""
 "『きょ、今日こそコロシアムに……
-　で、でも負けたら…………うぅ……』","""T-Today's the day I'll fight at the colosseum...
- B-But if I lose, then... Uuuh..."""
-"男性はコロシアムに出場するか迷っているようだ。","The man seems to be hesitating to take part in the
-colosseum."
+　で、でも負けたら…………うぅ……』","""T-Today I'm finally going to fight at the Colosseum...
+ But wait... What if I lose... Uuuh..."""
+"男性はコロシアムに出場するか迷っているようだ。","He seems to be hesitating on whether to fight at the
+Colosseum or not."
 "<アル>
 『負けたら……多分、
 　みんなの前でレベルドレインされるんだよね？
 　怖がるのも分かるかも…………』","<Al>
-""In the case of loss... You'll probably be level
- drained before the whole audience. I can understand
- why he's feeling hesitant..."""
+""If you lose... You'll probably get level drained
+ before the whole audience. I can understand why he's
+ hesitating."""
 "<アル>
 『\n[1]もそんな目にはあいたくないだろうし、
 　参加するなら万全を期して、だね！』","<Al>
-""\n[1], you wouldn't want that to happen to
- you, right? If you're going to go in the ring, then
- make sure to give it your all!"""
-"貴方はアルの言葉に頷いた。","You nodded back to Al."
+""\n[1], you don't want that to happen, right?
+ Make sure you're fully ready if you're going to
+ fight!"""
+"貴方はアルの言葉に頷いた。","You nodded to Al in agreeement."
 "<アル>
 『負けたら……多分、
 　みんなの前でレベルドレイン………
-　犯されるのは、いくら淫気があっても怖いよね…………』",""
+　犯されるのは、いくら淫気があっても怖いよね…………』","<Al>
+""If you lose... You'll probably get level drained
+ before the whole audience. Getting raped like that
+ is scary even with the sex gas, right?"""
 "EV021",""
 "『我らは町の秩序の守護者、バンガード！
 　我らがいる限り、
@@ -340,107 +343,112 @@ colosseum."
 ""Mmmh! \n[1], would never do bad stuff!"""
 "EV022",""
 "『バンガードって、確かに強いし、
-　みんなのために働いてるから尊敬できるんだけど………』",""
-"『たまにあの偉そうな態度にイラっとくるのよね。』",""
+　みんなのために働いてるから尊敬できるんだけど………』","""The Vanguard is certainly strong and it's respectable
+ how they're working for everyone's sake..."
+"『たまにあの偉そうな態度にイラっとくるのよね。』","""However, sometimes their stuck-up attitude pisses me
+ off."""
 "<アル>
-『正義の味方も、みんなに好かれるわけじゃないんだね！』",""
+『正義の味方も、みんなに好かれるわけじゃないんだね！』","<Al>
+""Even the allies of justice have their haters."""
 "EV023",""
 "『美味しそうだなぁ……
-　でも、あんまりお金ないし……我慢我慢…………』","""That stuff looks so delicious...
- But I don't have much money...
- I need to control myself..."""
-"『でも、せめて香りだけでも……じゅるり。』","""But if I can enjoy just the fragrance then...
- Slurp..."""
+　でも、あんまりお金ないし……我慢我慢…………』","""The food on the stalls look so delicious... But I
+ don't have much money so I need to hold back...
+ Hold back..."""
+"『でも、せめて香りだけでも……じゅるり。』","""But I can at least enjoy the good smell since that
+ will cost nothing... Slurp..."""
 "<アル>
 『香りなんて嗅いでたら、
 　絶対我慢できなくなっちゃうよ？』","<Al>
-""But won't he be unable to hold himself back if he
- stays to enjoy the fragrance of the food?"""
+""If he keeps smelling the good food like that,
+ there's no way that he can hold back, right?"""
 "<アル>
 『私なら、絶対そうなるもん！
 　………くんくん…………じゅるり♪』","<Al>
-""In my case, I totally wouldn't be able to hold back!
+""At least in my case I wouldn't be able to!
  Sniff, sniff... Slurp♪"""
 "EV024",""
 "『お、君もこの先の店で買い物かい？
-　実は俺もなんだ。』","""Oh, are you going shopping at this shop?
- I'm actually going there too."""
+　実は俺もなんだ。』","""Are you going to this shop? I'm actually going there
+ too."""
 "『嫁に買い出しを頼まれててね。
 　……しかし、まさかゲームの中で結婚するとは
-　あの頃の俺じゃ想像もできなかっただろうな……』","""My wife asked me to go shopping, you see.
- ...You know, back in the real world I would have never
- imagined that I would get married inside a game."""
+　あの頃の俺じゃ想像もできなかっただろうな……』","""My wife asked me to buy some things... You know, back
+ when I was in the real world, I would have never
+ imagined that I would get married in a game."""
 "男性は幸せそうな雰囲気を醸し出し、
-顔をにやけさせている。","The man carried an aura of happiness in smile."
+顔をにやけさせている。","As he told that you and smiled, the man radiated an
+aura of happiness."
 "<アル>
 『す、すごい幸せそうなオーラだね！お幸せに！』","<Al>
-""H-He's basically radiating an aura of happiness!
- I hope him good health!"""
+""I-I can feel his happiness all the way here! I hope
+ him good health!"""
 "EV025",""
 "『はぁ………ポカポカいい天気。
 　こんなにのんびりした毎日が過ごせるなんて、
-　やっぱりゲームの世界は良いなぁ。』","""Aah... It's such a nice warm day. Game worlds are just
- the best. I get to spend my every day carefree."""
+　やっぱりゲームの世界は良いなぁ。』","""It's such a nice warm day. Game worlds are so good
+ since you can take each day at your own pace."""
 "<アル>
 『ダンジョンとは思えないよね！
 　…………この町って、ダンジョンなのかな？』","<Al>
-""You can totally forget about the dungeons here, right!
- ...But maybe this town itself is a dungeon?"""
+""You can totally forget that you're in dungeon, right!
+ ...Wait, does the town count as a dungeon?"""
 "EV026",""
 "『ちきしょう！
 　カジノで大負けしちまった！
-　昨日稼いだ魔物退治の分がパーだ…………』","""Damn it! I made a huge loss at the casino! All the
- money I made from monster yesterday went puff!"""
+　昨日稼いだ魔物退治の分がパーだ…………』","""Damn it! I lost everything at the casino! All the
+ money I made from grinding monsters yesterday went
+ up in smoke..."
 "<アル>
 『ギャンブルはほどほどに、だね！
 　でも、いっぺんどっかーんて賭けてみたいかも！』","<Al>
-""You should only gamble in moderation! But I kind of
- want to try going all-in at least once!"""
+""Gambling should be done in moderation! But going
+ all-in sounds kind of fun!"""
 "アルはそう目を輝かせている。","Al said that with a sparkle in her eyes."
 "男性は苛立っている。",""
 "EV027",""
 "『カジノのバニーガールってエロいよなぁ……
 　NPCじゃなくて、
-　あの子たちもプレイヤーだってのがまたそそるぜ…………』","""The bunny girls at the casino are so hot... 
- And it's all the more so when they're actual
- players and not NPCs..."
+　あの子たちもプレイヤーだってのがまたそそるぜ…………』","""All the bunny girls at the casino are so hot... 
+ And the fact that they're players and not NPCs
+ makes them even more sexy."""
 "『あー、あんな娘と勝負したいなぁ……
 　コロシアムに誘ったら受けてくれるかなぁ………
-　うへへ…………』","""Aah! I want to have a match with one so badly...
- Maybe they would accept if asked for a match at the
- Colosseum? Uhehehe...."""
+　うへへ…………』","""Aah! I want to have a fight with one so badly...
+ Would they accept if I asked for a battle at the
+ Colosseum? Uhehehe..."""
 "『コロシアムで押し倒して、
-　あんなことやこんなことを…ぐへへ…………』","""I would push her down at the Colosseum and then do
- this and that with her... Guhehehe..."""
-"男性は下心丸出しの顔で、不気味に笑っている。","The man let out a creepy laugh with his ulterior
-motives clearly showing on his face."
+　あんなことやこんなことを…ぐへへ…………』","""I would push her down to the arena floor and then do
+ this and that... Guhehehe..."""
+"男性は下心丸出しの顔で、不気味に笑っている。","The man laughed creepily while his ulterior motives
+were clearly showing on his face."
 "<アル>
 『うー………なんかこの人、苦手！
 　\n[1]、こんな風にはならないでね？』","<Al>
-""Uuh... I'm not good with these kind of people!
- \n[1], please don't end up like him!"""
+""Uuh... I'm not good with people like him!
+ \n[1], please don't end up like that!"""
 "<アル>
 『うん、そうだよね！ありがとう♪
 　一緒なのが\n[1]でよかったよ！』","<Al>
-""Yeah! Thanks♪ I'm glad got into party with you!"""
+""Yeah! I'm glad that I got into party with you!"""
 "EV028",""
 "『俺はもうコロシアムで3勝して先に進む資格があるんだが、
 　もし先がまたただの洞窟だったらと考えると、
-　戸惑ってしまうんだ。』","""I've already won 3 rounds in the Colosseum and earned
- the qualification to move onward, but I'm a bit
- hesitant to do so if it turns out to be just another
- cave like the first floor."""
+　戸惑ってしまうんだ。』","""I've won the three matches at the Colosseum and
+ qualified to advance to the next zone, but I'm a bit
+ hesitant to do that. What if the next zone is another
+ cave like the first floor?"""
 "『この街は居心地がいいし、
 　強ければ俺みたいなやつでも女の子に、
-　ちやほやされるしな…………』","""It's comfortable to live in this town, and even
- someone like me can have fun with girls as long as
- you're strong..."""
+　ちやほやされるしな…………』","""The life in this town is just so comfortable. Even
+ someone like me can find a girl to pamper me after
+ getting strong..."""
 "<アル>
 『先に進めるのに、この街にとどまる人も多そうだね！
 　確かに、慣れたら離れたくなくなっちゃうのかも』","<Al>
-""Seems like some choose to move on and some choose to
- stay in this town! It might be that they get so used
- to life here that they don't want to leave."""
+""Seems like there are a lot of people who stay in the
+ town even when they could move onward! It might be
+ hard to leave after you get used to the life here."""
 "EV029",""
 "『この町で悪いことなんで出来ないぜ？
 　すぐにバンガードに制圧されちまうからな。』","""You can't do bad stuff in the town. The Vanguard will
@@ -457,36 +465,34 @@ motives clearly showing on his face."
 "EV030",""
 "『パトロール中のバンガードよ。
 　何か困ったことがあればいつでもいいなさい。
-　すぐに助けてあげるわ。』","""I'm a member of the Vanguard in the middle of a
- patrol. If you find yourself in trouble, don't
- hesitate to tell me. I'll come to save you
- immediately."""
+　すぐに助けてあげるわ。』","""I'm a Vanguard on patrol. Don't hesitate to tell me if
+ you find yourself in trouble. I'll help you right
+ away."""
 "<アル>
 『おー！頼もしいね！
 　凛々しくてかっこいいなー♪
 　私もこうなりたい！』","<Al>
-""Oooh! How reliable! She's so gallant and cool♪
- I want to become like her too!"""
+""Oooh! How reliable! I love it when people are so cool
+ and brave like that♪ I want to be like that too!"""
 "EV031",""
 "『あぁやっぱりカッコよくて美しくて、すてきだなぁ……
-　俺も、バンガードに入ったら仲良くできるかなぁ。』","""Aah... She's just so cool, beautiful, and amazing...
- Maybe I could get to hang out with her if I joined
- the Vanguard too..."""
+　俺も、バンガードに入ったら仲良くできるかなぁ。』","""Aah... She's amazing, cool, and beautiful... Maybe I
+can hang out with her if I joined The Vanguard..."""
 "<アル>
 『この人、向こうにいる綺麗な女の人を見てるみたいだね！
 　彼女のファンなのかな？』","<Al>
 ""Looks like he's staring at the pretty girl over there!
- Perhaps he's her fan?"""
+ Maybe he's a fan of hers?"""
 "男性はこの先の女性に見惚れているようだ。",""
 "EV032",""
 "『この奥は牢獄だ。
-　バンガードが捕らえた悪人を収容している。』","""That over there is the prison. All the bad people the
- Vanguard catch are held there."""
+　バンガードが捕らえた悪人を収容している。』","""The prison is right over there. Any criminals that
+ The Vanguard have caught are kept there."""
 "<アル>
 『わ、悪い人たちがいるんだよね？
 　怖いから、あんまり近づかないでおこうよ！』","<Al>
-""I-It must be full of bad people, right?
- It's a bit scary, so let's not go near!"""
+""I-It must be full of bad people! Let's not go over
+ there since it's scary!"""
 "EV033",""
 "『いらっしゃい。』","""Welcome."""
 "EV034",""
@@ -501,7 +507,7 @@ motives clearly showing on his face."
 "EV043",""
 "EV044",""
 "EV045",""
-"街の入り口まで行きますか？","Travel to the town entrance?"
+"街の入り口まで行きますか？","Teleport to town entrance?"
 "はい","Yes"
 "いいえ","No"
 "EV046",""
