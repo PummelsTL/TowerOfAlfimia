@@ -18,28 +18,26 @@
 "EV023",""
 "『ここって1層と違って、
 　もうあんまりダンジョンって感じしないわよね。
-　あの太陽も作り物なのかしら？』","""Unlike the first floor,
- this place doesn't really seem like a dungeon.
- I wonder if that sun artificial too?"""
+　あの太陽も作り物なのかしら？』","""The first floor was a dungeon, but the second floor
+ looks nothing like it. I wonder if that sun in the
+ sky is artificial too?"""
 "<アル>
 『お日様気持ちいいよね♪
 　私は窮屈な1層より、こっちのほうが好きだな～♪』","<Al>
-""The sunlight feels so nice♪
- I like place much better than the narrow first floor♪"""
+""The sunlight feels so nice♪ I like this so much better
+ than the caves of the first floor♪"""
 "EV024",""
 "『ふぅ…男が相手だと、
 　私のおっぱいスキルが使えるんだけど…
-　モンスターにはあまり使えないから、結構大変ね。』","""Phew...
- I can use my boob skills against male opponents,
- but they aren't really working against monsters.
- I'm having such a hard time."""
+　モンスターにはあまり使えないから、結構大変ね。』","""Phew... My boob skills are effective against male
+ opponents, but it's difficult to use them against
+ monsters. I'm having such a hard time."""
 "<アル>
 『おっぱいスキル…
 　\n[1]、想像したでしょう？
 　鼻の下のびてるよー？』","<Al>
-""Boob skills...
- \n[1], you just imagined what they are like, right?
- It's showing on your face."""
+""Boob skills, huh... \n[1], you just imagined
+ her using one, right? I can see it from your face."""
 "EV025",""
 "回想部屋に移動しますか？
 【回想部屋でのレベルの上下は、
