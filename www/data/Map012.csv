@@ -11,27 +11,38 @@
 "EV005",""
 "EV006",""
 "EV007",""
-"『営業時間17:00～』",""
+"『営業時間17:00～』","『Business Hours 17:00～』"
 "<アル>
 『まだ開いてないみたいだね！
-　\n[1]、賭け事に興味があったの？』",""
+　\n[1]、賭け事に興味があったの？』","<Al>
+""Looks like the casino isn't open yet! \n[1],
+ were you interested in gambling?"""
 "うん","Yes"
-"むしろバニーガールの方に…",""
+"むしろバニーガールの方に…","It's the bunny girls..."
 "<アル>
 『そうなんだ♪
 　まぁ、楽しそうだもんね！
-　私もロン！とか言ってみたいなぁ……』",""
+　私もロン！とか言ってみたいなぁ……』","<Al>
+""Really? Well, it does seem fun♪ I also want to yell
+ ""Ron!"" at the table..."""
 "<アル>
 『え？それは多分違う？
-　……そうなの？残念……』",""
+　……そうなの？残念……』","<Al>
+""Eh? That's a different thing? ...Oh. I guess I can't
+ do that then..."""
 "<アル>
 『……\n[1]のスケベ。
 　そんなんじゃきっと、
-　ここに入っても足元をすくわれるよー？』",""
+　ここに入っても足元をすくわれるよー？』","<Al>
+""...\n[1], you perv. I'm sure they'll sweep
+ the floor with you if you go inside with that kind of
+ intent."""
 "<アル>
 『そうなってから泣いても遅いんだから！
-　……えっちなのは、ほどほどにしときなよ？』",""
-"まだ開いていないようだ。",""
+　……えっちなのは、ほどほどにしときなよ？』","<Al>
+""When that happens, it'll be too late to cry! You need
+ to do pervy stuff in moderation!"""
+"まだ開いていないようだ。","It's not open yet."
 "EV008",""
 "EV009",""
 "EV010",""
@@ -328,15 +339,15 @@ Colosseum or not."
 "EV021",""
 "『我らは町の秩序の守護者、バンガード！
 　我らがいる限り、
-　この町では安全に過ごせることを約束しよう！』","""We are the protectors of the order of this town, The
- Vanguard! I can promise you'll be safe here as long
- as we are here!"""
+　この町では安全に過ごせることを約束しよう！』","""We, The Vanguard, are the protectors of this town!
+ As long as we are here, I can promise that you'll
+ have a peaceful life here!"""
 "『もちろん、君が秩序を破壊する側でなければだがな！
-　はっはっは！』","""But that promise last only as long as you won't be
- trying to destroy the order of the town! Hah-hah-haa!"""
+　はっはっは！』","""However, that promise only applies as long as you
+ won't try to destroy our order! Hah-hah-haa!"""
 "『もしそうであれば、
 　私の白銀の剣が君を捕らえよう！
-　肝に銘じておくがいい！』","""If you did so, I would capture you with my silver
+　肝に銘じておくがいい！』","""If you tried that, I would capture you with my silver
  sword! Engrave that warning into your heart!"""
 "<アル>
 『むー、\n[1]は悪いことなんてしないもん！』","<Al>
@@ -405,7 +416,7 @@ aura of happiness."
 ""Gambling should be done in moderation! But going
  all-in sounds kind of fun!"""
 "アルはそう目を輝かせている。","Al said that with a sparkle in her eyes."
-"男性は苛立っている。",""
+"男性は苛立っている。","He's cursing over his loss."
 "EV027",""
 "『カジノのバニーガールってエロいよなぁ……
 　NPCじゃなくて、
@@ -451,17 +462,17 @@ were clearly showing on his face."
  hard to leave after you get used to the life here."""
 "EV029",""
 "『この町で悪いことなんで出来ないぜ？
-　すぐにバンガードに制圧されちまうからな。』","""You can't do bad stuff in the town. The Vanguard will
- instantly come to arrest you."""
+　すぐにバンガードに制圧されちまうからな。』","""You can't do bad things in the town because The
+ Vanguard will instantly come to arrest you."""
 "『おかげで、最近は平和そのものさ。
-　感謝してもし足りないな。』","""The town is really peaceful thanks to them. I'm so
- happy that they are here."""
+　感謝してもし足りないな。』","""It's thanks to them that the town is so peaceful.
+ I'm so glad that they are here."""
 "<アル>
 『強いのに自分勝手じゃないって、
 　なんかかっこいいよね！正義の味方♪』","<Al>
-""They're strong enough to keep the town safe and not
- let the power go to their heads! That's a bit cool!
- It's like they are allies of justice♪"""
+""They're strong and using that power for others!
+ That's kind of cool! It's like they are allies of
+ justice♪"""
 "EV030",""
 "『パトロール中のバンガードよ。
 　何か困ったことがあればいつでもいいなさい。
@@ -476,14 +487,14 @@ were clearly showing on his face."
  and brave like that♪ I want to be like that too!"""
 "EV031",""
 "『あぁやっぱりカッコよくて美しくて、すてきだなぁ……
-　俺も、バンガードに入ったら仲良くできるかなぁ。』","""Aah... She's amazing, cool, and beautiful... Maybe I
-can hang out with her if I joined The Vanguard..."""
+　俺も、バンガードに入ったら仲良くできるかなぁ。』","""Aah... She's so amazing, cool, and beautiful... Maybe
+ I can hang out with her if I joined The Vanguard..."""
 "<アル>
 『この人、向こうにいる綺麗な女の人を見てるみたいだね！
 　彼女のファンなのかな？』","<Al>
 ""Looks like he's staring at the pretty girl over there!
  Maybe he's a fan of hers?"""
-"男性はこの先の女性に見惚れているようだ。",""
+"男性はこの先の女性に見惚れているようだ。","He's looking at the girl down the street."
 "EV032",""
 "『この奥は牢獄だ。
 　バンガードが捕らえた悪人を収容している。』","""The prison is right over there. Any criminals that
@@ -512,7 +523,7 @@ can hang out with her if I joined The Vanguard..."""
 "いいえ","No"
 "EV046",""
 "今日はもう宿で休もう","The inn isn't this way."
-"急いで恭子の家に戻ろう。",""
+"急いで恭子の家に戻ろう。","Let's hurry to Kyouko's house."
 "EV047",""
 "EV048",""
 "EV049",""
@@ -536,19 +547,19 @@ can hang out with her if I joined The Vanguard..."""
 "『覚えるスキルによって、
 　どの能力値が攻撃に参照されるのかは人それぞれ。
 　例えば、魔法スキルを覚える人は、
-　魔法力で通常攻撃の威力も決まる。』","""What status one should increase for more damage
- depends on each person's skills. For example, someone
- who learns purely magic skills will see even their
- basic attack influenced by MATK instead of ATK."""
+　魔法力で通常攻撃の威力も決まる。』","""What status increases your damage depends on the
+ skills you learn. For example, a player who learns
+ magic skills will have MATK not only increase skill
+ damage but basic attack damage as well."""
 "『もし物理と魔法の中間のようなスキルなら……
-　多分、攻撃力と魔法力を半分ずつ参照すると思う。』","""In the case one learns a mix of physical and magical
- skills, then I believe the damage is calculated with
- 50/50 split between ATK and MATK."""
+　多分、攻撃力と魔法力を半分ずつ参照すると思う。』","""If you learn a mix of physical and magical skills,
+ your damage is probably calculated with a 50/50 split
+ between ATK and MATK."""
 "<アル>
 『\n[1]が覚えたスキルって多分、
 　この物理と魔法の中間ってやつだよね？』","<Al>
-""\n[1], your skills probably fall under
- the mix of physical and magical, right?"""
+""\n[1], Your skills are a mix of physical and
+ magical, right?"""
 "EV067",""
 "回想部屋に移動しますか？
 【回想部屋でのレベルの上下は、
