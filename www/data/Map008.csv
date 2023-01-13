@@ -671,8 +671,11 @@ conscious, you think you heard a word of apology."
 ""You may approach again once you are ready and have
  grown stronger."""
 "<アル>
-『………ね！あの奥の階段で先に進めるのかな？』",""
-"アルは、そう奥の階段を指さす。",""
+『………ね！あの奥の階段で先に進めるのかな？』","<Al>
+""...Hey! There's a stairway in the corner over there.
+ Will it lead us to the next zone?"""""
+"アルは、そう奥の階段を指さす。","Al pointed out the stairs at the corner of the boss
+room."
 "<ダークエルフ>
 『これで出しきれ、お前のレベル♡
 　すべて私の乳房が受け止めてやる♡むにゅぅっ♡』",""
@@ -689,22 +692,27 @@ conscious, you think you heard a word of apology."
 "<ダークエルフ>
 『だが、私もダンジョンのシステムの一部だ。
 　他の娘と同じように少し時間が経てば復活する。』","<Dark Elf>
-""However, I'm part of the dungeon system. I'll revive
- after a short while just like the other girls."""
+""However, since I'm part of the dungeon system, I'll
+ revive after a short while just like the other girls."""
 "<ダークエルフ>
 『とはいえ安心しろ。
 　私を一度倒したお前に、
 　もう一度私の方から襲い掛かることなどしないからな。』","<Dark Elf>
-""But even when I revive, you have no need to worry.
- I won't attack you now that you've defeated me once."""
+""You have no need to worry. I won't attack you since
+ you have defeated me."""
 "<ダークエルフ>
 『…今は、素直にお前を祝福するとしよう。
 　よく私を倒して先に進むことができたな。
-　…これからも精進するといい。』",""
+　…これからも精進するといい。』","<Dark Elf>
+""...Allow me to honestly congratulate you now. You did
+ well to defeat me. I'm sure you can go for greater
+ heights."""
 "<アル>
 『えへへー♪
 　なんか、この人も復活したのが見れて、
-　ちょっとホッとしたかも！』",""
+　ちょっとホッとしたかも！』","<Al>
+""Ehehe♪ I'm feeling relieved to see her revived for
+ some reason!"""
 "EV004",""
 "この先は本来なら2層の敵である「盗賊サキュバス」と、
 戦えるようになる体験版専用のエリアです。",""
@@ -4591,104 +4599,152 @@ you."
 ""Fight! \n[1]! Beat her up this time!"""
 "<可憐>
 『うぐっ……いたた…
-　まさか、\n[1]君に負けちゃうなんてね…』",""
-"可憐を犯す",""
-"手を差し伸べる",""
+　まさか、\n[1]君に負けちゃうなんてね…』","<Karen>
+""Ugh... Ow... \n[1], I didn't think I would
+ lose to you..."""
+"可憐を犯す","Level Drain Karen"
+"手を差し伸べる","Lend her a hand"
 "本当に可憐を犯しますか？
-【注意！取り返しはつきません】",""
-"可憐を犯さない",""
+【注意！取り返しはつきません】","Are you truly going to Level Drain Karen?
+【Warning! This can't be taken back!】"
+"可憐を犯さない","Don't Level Drain her"
 "<可憐>
 『んっ、覚悟はしてたよ？
-　その、お手柔らかにね？』",""
+　その、お手柔らかにね？』","<Karen>
+""Ngh... I've prepared myself for this. So um, please
+ be gentle..."""""
 "<可憐>
 『あ、んんんっ♡あっ♡や、や、イく♡
-　まって、もう、もうダメっ♡』",""
+　まって、もう、もうダメっ♡』","<Karen>
+""Ah... Nnngh♡ Ah♡ No♡ I-I'm going to...♡ W-Wait♡
+ I can't♡"""
 "<可憐>
 『イく、イっちゃう♡
-　や、いや、やぁぁぁぁぁぁぁぁぁ♡』",""
-"貴方は可憐を犯した。",""
+　や、いや、やぁぁぁぁぁぁぁぁぁ♡』","<Karen>
+""I-I'm cummmiiing♡ N-Nooooooooo♡"""
+"貴方は可憐を犯した。","You raped Karen."
 "<可憐>
-『ぅぅ…………ぁ…………』",""
+『ぅぅ…………ぁ…………』","<Karen>
+""Uuh... Ah..."""
 "貴方は改めて彼女の方を向き直り、
-手を差し伸べた。",""
+手を差し伸べた。","You faced Karen and extended your hand for her."
 "<可憐>
-『え…………？』",""
+『え…………？』","<Karen>
+""Eh...?"""
 "可憐は茫然と貴方を見上げている。
-そんな可憐を貴方は抱き起し、椅子に座らせた。",""
+そんな可憐を貴方は抱き起し、椅子に座らせた。","Karen looked up to you in surprise. You lifted her up
+and sat her down on the chair."
 "<可憐>
-『わ……えっと、レベルドレイン、しないの？』",""
+『わ……えっと、レベルドレイン、しないの？』","<Karen>
+""Uah... Um... Aren't you going to level drain me?"""
 "<可憐>
 『女の子を無理やり犯すのは気が引ける……？
-　…そっか、優しいんだね。\n[1]君って♪』",""
+　…そっか、優しいんだね。\n[1]君って♪』","<Karen>
+""Eh? You don't like taking girls by force?
+ ...I see. \n[1], you're such a gentleman♪"""
 "<可憐>
-『………………………………』",""
+『………………………………』","<Karen>
+""......"""
 "<可憐>
 『その…………今更、遅いと思うけどさ。
-　あの時、無理やりしてごめんね？』",""
+　あの時、無理やりしてごめんね？』","<Karen>
+""Um... I think it's late to say this, but I'm sorry for
+ doing it to you back then."""
 "可憐はバツが悪そうな顔で、
-貴方に向かってそう謝罪の言葉を口にする。",""
+貴方に向かってそう謝罪の言葉を口にする。","Karen turned your way and awkwardly apologized to you."
 "<可憐>
 『自分が見逃してもらってからこんなこと言うのって、
-　卑怯だとは思うんだけどさ……ごめんなさい！』",""
-"可憐は動かない身体で、そう謝罪を重ねる。",""
-"気にしてない",""
-"気持ちよかったから大丈夫",""
+　卑怯だとは思うんだけどさ……ごめんなさい！』","<Karen>
+""I think it's unfair for me to say this when you spared me
+ from the level drain... But I'm sorry!"""
+"可憐は動かない身体で、そう謝罪を重ねる。","Karen apologized again while being unable to move."
+"気にしてない","Don't worry about it"
+"気持ちよかったから大丈夫","It's okay. It felt good."
 "<可憐>
 『…………そっか、あぁ…完敗だなぁ。
-　器、大きんだね。\n[1]君って。』",""
+　器、大きんだね。\n[1]君って。』","<Karen>
+""...I see... It's my complete defeat. \n[1],
+ you're so much bigger as a person."""
 "可憐はそう、
-儚げな笑みを浮かべてそう言葉を漏らす。",""
+儚げな笑みを浮かべてそう言葉を漏らす。","After saying that, Karen showed a short smile."
 "<可憐>
 『私だったら、無理やり犯されたら仕返ししてやろう！
-　とか思っちゃうもん、絶対！』",""
+　とか思っちゃうもん、絶対！』","<Karen>
+""If I was in your shoes, I would have raped you for
+ revenge without a doubt!"""
 "<可憐>
 『なのに、その相手のことを許しちゃうなんて……
-　すごいよ、\n[1]君は。』",""
+　すごいよ、\n[1]君は。』","<Karen>
+""And yet... You spared me... \n[1], you're
+ amazing."""
 "可憐のまっすぐな視線に、
-貴方は思わず照れてそっぽを向いてしまう。",""
+貴方は思わず照れてそっぽを向いてしまう。","When Karen looked you straight in the eyes when she
+said that, you felt bashful and looked away."
 "<可憐>
 『とにかく、ありがとう♪
 　私は少し休んで、
-　動けるようになったらレベルあげしてくるね』",""
+　動けるようになったらレベルあげしてくるね』","<Karen>
+""At any rate, thank you♪ I'm going to rest for a moment
+ and then go grind some levels when I can move."""
 "<可憐>
 『負けたままボス戦って、ちょっと怖いからさ。
-　\n[1]君は、もうこのままボス戦？』",""
-"可憐に、貴方はそうするつもりだと返答する。",""
+　\n[1]君は、もうこのままボス戦？』","<Karen>
+""I'm a bit scared to fight the boss after our match.
+ \n[1], are you going straight to it?"""
+"可憐に、貴方はそうするつもりだと返答する。","You told Karen how that's your plan."
 "<可憐>
 『そっか、頑張ってね♪
 　私からレベルドレインしなかったせいで負けちゃったとか、
-　嫌だよ？ファイトっ♡』",""
+　嫌だよ？ファイトっ♡』","<Karen>
+""I see... Do your best♪ Please don't lose just because
+ you didn't drain my levels, okay? Fight♡"""
 "可憐はいたずらっぽく笑いながら、
-そう貴方にエールを送る。",""
+そう貴方にエールを送る。","Karen sent you off with an impish smile and a cheer."
 "<可憐>
 『……くす♪そっか、気持ちよかったんだ？
-　それならよかった♡』",""
+　それならよかった♡』","<Karen>
+""...Ahaha♪ I see♪ So it felt good? I guess it's fine
+ then♡"""
 "可憐は貴方の言葉に少しの間呆気に取られていたが、
-ふいにくすくすと笑いながらそう言った。",""
+ふいにくすくすと笑いながらそう言った。","It took a moment for Karen to catch up to what you
+said, but then she burst into a laugh."
 "<可憐>
 『……私に気負わせないよう、
-　そんなこと言ってくれたんだよね？ありがと♪』",""
+　そんなこと言ってくれたんだよね？ありがと♪』","<Karen>
+""...You said that to cheer me up, didn't you?
+ Thank you♪"""
 "<可憐>
-『おかげで、ちょっと気が楽になったかな♪』",""
+『おかげで、ちょっと気が楽になったかな♪』","<Karen>
+""It certainly worked♪"""
 "<可憐>
 『私は少し休んで、
-　動けるようになったらレベルあげしてくるね♪』",""
+　動けるようになったらレベルあげしてくるね♪』","<Karen>
+""I'm going to rest for a moment and then go grind some
+ levels when I can move."""
 "<アル>
 『そうだよー♪
-　\n[1]は優しいんだよ♪』",""
+　\n[1]は優しいんだよ♪』","<Al>
+""That's right♪ \n[1], is a gentleman♪"""
 "そんな言葉を口にする可憐に、
-なぜかアルが自慢げに胸を張る。",""
+なぜかアルが自慢げに胸を張る。","After hearing what Karen said, Al puffed out her chest
+in pride for some reason."
 "<アル>
 『うんうん♪
 　\n[1]ってホントに優しいよね♪
-　私が見える人間が、\n[1]でよかったよ♪』",""
+　私が見える人間が、\n[1]でよかったよ♪』","<Al>
+""Yes♪ \n[1], you're just that gentle♪ I'm so
+ happy that you're the one who can see me♪"""
 "可憐とアルのまっすぐな視線に、
-貴方は思わず照れてそっぽを向いてしまう。",""
+貴方は思わず照れてそっぽを向いてしまう。","When both Karen and Al looked you straight in the eyes,
+you felt bashful and looked away."
 "<アル>
 『そんなことにはならないよ！
-　ね？\n[1]♪』",""
+　ね？\n[1]♪』","<Al>
+""That won't happen, right? \n[1]♪"""
 "<アル>
-『この調子で、ボスも倒しちゃおー♪』",""
+『この調子で、ボスも倒しちゃおー♪』","<Al>
+""Let's keep our winning streak going and beat the
+ boss♪"""
 "<可憐>
 『それじゃあ、分かってるよね？
 　負けた\n[1]君のレベル、今からドレインしてあげる♡』","<Karen>
@@ -5111,52 +5167,78 @@ the boss room."
  win!"""
 "<可憐>
 『うぐっ……いたた…
-　やっぱり強いね、\n[1]君…』",""
+　やっぱり強いね、\n[1]君…』","<Karen>
+""Ugh.. Ow... \n[1], you're so strong..."""
 "<可憐>
 『え？\n[1]君？
 　う、嘘だよね？
-　何をするつもりで…………んぐっ！！』",""
+　何をするつもりで…………んぐっ！！』","<Karen>
+""Eh? \n[1]? W-wait, you're joking, right?
+ What are you doing... Nngh!"""
 "<可憐>
 『ぅぅ…………ぁ…………
-　\n[1]君はそんなことしないって、信じてたのに……』",""
+　\n[1]君はそんなことしないって、信じてたのに……』","<Karen>
+""Uuh... Ah... I believed that wouldn't do something
+ like this..."""
 "<可憐>
 『あはは……やっぱり、レベルドレインはしないんだね。
-　ありがと、\n[1]君♪』",""
+　ありがと、\n[1]君♪』","<Karen>
+""Ahaha... You aren't going to level drain me after all.
+ Thanks, \n[1]君♪"""
 "可憐は少し安心したような笑顔でそう告げる。
-そんな可憐を貴方は抱き起し、椅子に座らせた。",""
+そんな可憐を貴方は抱き起し、椅子に座らせた。","Karen looked slightly relieved as she said that. You
+lifted her up and sat her down on the chair."
 "<可憐>
 『あ～あ、今回も負けちゃったか…
-　リベンジ目指して、レベル上げ頑張ったんだけどな…』",""
+　リベンジ目指して、レベル上げ頑張ったんだけどな…』","<Karen>
+""Aa-ah. I lost again... I grinded so many level to get
+ back at you..."""
 "椅子に座った可憐は、
-悔しそうにそうポツリと言葉を漏らす。",""
-"まだまだだね",""
+悔しそうにそうポツリと言葉を漏らす。","Karen looked frustrated when she muttered that."
+"まだまだだね","You have a long way to go"
 "<可憐>
-『む、その余裕そうな態度、いつか崩してやる♪』",""
+『む、その余裕そうな態度、いつか崩してやる♪』","<Karen>
+""Hmph! I'll make you drop that attitude one day♪"""
 "<可憐>
 『次はもっとレベル上げがんばろっ！
-　やっぱり、負けたままって悔しいしね♪』",""
+　やっぱり、負けたままって悔しいしね♪』","<Karen>
+""I'm going to grind even more levels for the next time!
+ It would be too frustrating to leave this at a loss♪"""
 "可憐は貴方の態度にやる気を刺激されたのか、
-そう自分に気合を入れる。",""
+そう自分に気合を入れる。","Since Karen said that, your attitude seemed to
+stimulate her fighting spirit."
 "<可憐>
 『ね、またレベル上げしたらさ、
-　次もリベンジ受けてくれる？』",""
-"可憐の言葉に、貴方は肯定の返事をした。",""
+　次もリベンジ受けてくれる？』","<Karen>
+""Hey, are you going to give me another chance after
+ I've gained more levels?"""
+"可憐の言葉に、貴方は肯定の返事をした。","You responded positively to Karen's question."
 "<可憐>
 『ありがと♪
 　じゃあ、私は、動けるようになったら、
-　打倒\n[1]君を目指してレベル上げだね♪』",""
+　打倒\n[1]君を目指してレベル上げだね♪』","<Karen>
+""Thanks♪ Then once I can move, I'm going to grind
+ levels until I think I can beat you, \n[1]♪"""
 "<可憐>
-『\n[1]君は、もうこのままボス戦？』",""
+『\n[1]君は、もうこのままボス戦？』","<Karen>
+""Are you going straight for the boss now?"""
 "<可憐>
 『…本当？お世辞じゃない？
-　よしっ♪じゃあ、次は私が勝っちゃうかもね♪』",""
+　よしっ♪じゃあ、次は私が勝っちゃうかもね♪』","<Karen>
+""...Really? Are you not just flattering me? ...Okay♪
+ Then I might beat you next time♪"""
 "<可憐>
 『負けたままはやっぱり悔しいし、
-　次こそリベンジ成功させたいな！』",""
-"貴方の返事に、可憐はそう嬉しそうに微笑む。",""
+　次こそリベンジ成功させたいな！』","<Karen>
+""It would be too frustrating to leave this as a loss.
+ Next time I'm going to have my revenge!"""
+"貴方の返事に、可憐はそう嬉しそうに微笑む。","Karen showed a delighted smile after hearing what
+you said."
 "<可憐>
 『じゃあ、私は、動けるようになったら、
-　打倒\n[1]君を目指してレベル上げだね♪』",""
+　打倒\n[1]君を目指してレベル上げだね♪』","<Karen>
+""Then once I can move, I'm going to grind levels until
+ I think I can beat you, \n[1]♪"""
 "<可憐>
 『やった♪私の勝ち♡リベンジ達成だね♡』","<Karen>
 ""Yay♪ I won♡ I've taken back my last loss♡"""
@@ -5448,79 +5530,116 @@ next time."
  humiliating defeat!"""
 "<可憐>
 『うぐっ……うぅぅ…
-　これでもまだ、届かないなんて…』",""
+　これでもまだ、届かないなんて…』","<Karen>
+""Ugh... Uuh... I still couldn't beat you..."""
 "<アル>
 『ね、ねぇ！
-　やっぱり無理やり犯すなんてよくないよ…』",""
-"彼女を犯そうとした貴方にアルがそう声をかけてくる。",""
-"うるさい",""
-"分かった。犯すのはやめておく",""
+　やっぱり無理やり犯すなんてよくないよ…』","<Al>
+""H-Hey! I think it would be really bad if you raped
+ her..."""
+"彼女を犯そうとした貴方にアルがそう声をかけてくる。","Called to you as you were about to rape Karen."
+"うるさい","Shut up!"
+"分かった。犯すのはやめておく","Okay. I'll stop..."
 "<アル>
-『\n[1]…………』",""
+『\n[1]…………』","<Al>
+""\n[1]..."""
 "何かを言いたげなアルを無視して、
-貴方は倒れている可憐の上にまたがった。",""
+貴方は倒れている可憐の上にまたがった。","You ignored Al and got on top of Karen."
 "<可憐>
 『うっ………負けちゃった、もんね……
-　いいよ、好きにして…………』",""
+　いいよ、好きにして…………』","<Karen>
+""Uuuh... It's my loss... Go ahead... Do as you like..."""
 "<可憐>
 『ぅぅ…………ぁ…………
-　また、こんな…………』",""
+　また、こんな…………』","<Karen>
+""Uuh... Ah..."""
 "<アル>
 『ほ、本当！？
-　よかった、分かってくれて…………』",""
-"アルはどこか、安堵の笑みを浮かべた。",""
+　よかった、分かってくれて…………』","<Al>
+""R-Really?! Thank goodness... You listened to me..."""
+"アルはどこか、安堵の笑みを浮かべた。","Al seemed to smile in relief."
 "<可憐>
 『妖精に止められた？
 　………あ、最初にあった時に言ってたね。
-　妖精がいるって…』",""
+　妖精がいるって…』","<Karen>
+""Eh? The fairy stopped you? ...Ah, you said something
+ about a fairy back then too."""
 "<可憐>
 『そっか、じゃあ、お礼を言っておかないとね。
-　妖精さん、ありがとう♪それから、\n[1]君も♪』",""
+　妖精さん、ありがとう♪それから、\n[1]君も♪』","<Karen>
+""I see... I guess I should thank her. Thank you Miss
+ Fairy♪ And you too \n[1]♪"""
 "可憐は姿が見えていないだろうアルに感謝を告げると、
-貴方の方もじっと見つめてそう感謝をする。",""
+貴方の方もじっと見つめてそう感謝をする。","After thanking Al despite being unable to see her,
+Karen then faced you and said her thanks to you."
 "<可憐>
 『妖精さんが止めたとはいえ、
 　犯すのをやめてくれたのは\n[1]君でしょ？
-　だから、ありがとう♪』",""
+　だから、ありがとう♪』","<Karen>
+""Even if the fairy stopped you, it was you who listened
+ to her, right? \n[1]♪ That's why I said
+ thank you♪"""
 "<可憐>
 『負けた自分が悪いって言うのは分かってるんだけど、
 　やっぱり、
-　無理やり犯されるっていいものじゃないからさ…』",""
+　無理やり犯されるっていいものじゃないからさ…』","<Karen>
+""I know it's my own fault to lose the match, but I
+ still don't think raping someone in level drain is
+ good..."""
 "可憐は少し伏し目がちになり、
-そう言葉を漏らす。",""
+そう言葉を漏らす。","Karen seemed slightly down as she said that."
 "<可憐>
 『あ、私は動けるようになったら、
-　またレベル上げしてくるけど……\n[1]君はどうするの？』",""
+　またレベル上げしてくるけど……\n[1]君はどうするの？』","<Karen>
+""Ah. I'm going to grind more levels when I can move...
+ \n[1], what are you going to do?"""""
 "可憐は少し重たくなった空気を換えるように、
-そう話題転換を行う。",""
-"貴方は、可憐の問いにボスに挑むつもりだと答える。",""
+そう話題転換を行う。","Karen changed the topic to get rid of the heavy air
+between you."
+"貴方は、可憐の問いにボスに挑むつもりだと答える。","You told her that you're planning to challenge the
+boss."
 "<可憐>
 『そっか、気を付けてね？
-　私はまだ、リベンジを諦めてないからさ♪』",""
+　私はまだ、リベンジを諦めてないからさ♪』","<Karen>
+""I see... Be careful because I still haven't taken my
+ revenge♪"""
 "<可憐>
 『私に負ける前に、
 　ゲームオーバーになったら許さないよ？
-　なんてね♪』",""
+　なんてね♪』","<Karen>
+""I won't forgive you if you lose the game before I've
+ beaten you, okay? ...Just kidding♪"""
 "可憐は務めて明るく、そう貴方に軽口をたたく。
-そんな可憐に貴方も頷きを見せた。",""
+そんな可憐に貴方も頷きを見せた。","Karen cheerfully told you that she hadn't given up.
+You nodded back to her."
 "<アル>
 『うぇーん！
-　\n[1]、信じてたよー！』",""
+　\n[1]、信じてたよー！』","<Al>
+""Ueeeh! \n[1], I believed in you!"""
 "そんな貴方の様子に、
-アルが鼻水を垂らしながら貴方に抱きついてくる。",""
+アルが鼻水を垂らしながら貴方に抱きついてくる。","Al hugged you with snot dripping from her nose when
+she saw that you didn't level drain Karen."
 "<アル>
 『よかった……
-　ほんとによかった……ずび…』",""
-"そんなアルの頭を、貴方は軽く指で撫でた。",""
+　ほんとによかった……ずび…』","<Al>
+""I'm glad... I'm so glad... Sniff..."""
+"そんなアルの頭を、貴方は軽く指で撫でた。","You patted Al on the head with your finger."
 "<可憐>
 『なんとなく無理やり犯すのは気が引ける……？
-　くす♪なにそれ、前回はあんなに激しく犯したくせに』",""
+　くす♪なにそれ、前回はあんなに激しく犯したくせに』","<Karen>
+""Eh? You felt awkward to rape me for some reason?
+ Ahaha♪ What's with that? You didn't hesitate at all
+ last time."""
 "<可憐>
 『でも、ありがと♪
-　気まぐれだとしても、嬉しいよ。』",""
+　気まぐれだとしても、嬉しいよ。』","<Karen>
+""But... Thank you♪ Even if it was on a whim, it made
+ me happy."""
 "<アル>
 『ずび…えへへ♪
-　ボス戦頑張ろうね！\n[1]♪』",""
+　ボス戦頑張ろうね！\n[1]♪』","<Al>
+""Sniff... Ehehe♪ \n[1]♪ Let's do our best
+ beating the boss!"""
 "<可憐>
 『それじゃあ、分かってると思うけど♪
 　負けた\n[1]君のレベル、
@@ -5650,7 +5769,7 @@ next time."
 "<可憐>
 『うぅ…………』","<Karen>
 ""Uuuh..."""
-"可憐は呻いている………","Karen was groaning."
+"可憐は呻いている………","Karen groaned on the floor."
 "EV009",""
 "ボスに挑む前に、
 悔いが残らないよう可憐にリベンジしよう。","Let's have a rematch with Karen before the boss."
