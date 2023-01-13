@@ -11,14 +11,14 @@
 "EV011",""
 "EV012",""
 "EV013",""
-"『こちらは日用品店です。』","""This is store for daily necessities."""
+"『こちらは日用品店です。』","""This is a household goods store."""
 "生活に必要そうなものが、
-数多く並べられている…………","There's many things lined up for daily needs."
+数多く並べられている…………","There are many items lined up that one might need."
 "<アル>
 『おー！いっぱいあるね！
 　ねー、\n[1]ー♡私あのぬいぐるみが欲しい！！』","<Al>
-""Ooh! There's a ton of stuff!
- Hey, \n[1]♡ I want that teddy bear!"""
+""Ooh! There's so much stuff! Hey, \n[1]♡
+ I want that teddy bear!"""
 "EV014",""
 "『こちらは書店です。』","""This is a book store."""
 "専門書のようなものから漫画まで、
@@ -28,13 +28,15 @@ manuals to manga."
 『何か面白い本あるかなー♪
 　…え～と……これは、「家畜とのラブストーリー」…？
 　……どういう内容なんだろ？』","<Al>
-""Maybe there's some fun books♪
- Let's see... This one is 'Cattle Lovestory'?
- I wonder what it's about?"""
+""Maybe we can find some fun books? Let's see...
+ 'A Lovestory of a Cattle'... I wonder what it's
+ about?"""
 "EV015",""
-"『こちらは雑貨店です。』","""This is the general store."""
+"『こちらは雑貨店です。』","""This is a general store."""
 "日常生活に必要な物や小物が、
-多く並べられている…………",""
+多く並べられている…………","There are daily necessities among other small
+miscellaneous items lined up."
 "<アル>
 『あ、お菓子とかも売ってるよ！
-　ねーねー、買ってみようよー♡』",""
+　ねーねー、買ってみようよー♡』","<Al>
+""Ah! They're selling sweets too! Hey! Let's buy some♡"""
