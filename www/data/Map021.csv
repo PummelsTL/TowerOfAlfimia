@@ -1,6 +1,6 @@
 "<Filter:ティルトシフト,tiltshift,2>",""
 "EV001",""
-"宝箱のように見えるが、ただの箱のようだ",""
+"宝箱のように見えるが、ただの箱のようだ","It's a box that simply looks like a treasure chest."
 "EV002",""
 "EV003",""
 "EV004",""
@@ -91,12 +91,16 @@
 "EV026",""
 "『スロットは台を叩かないでくださいね。
 　壊れることはありませんが、
-　周りのお客様のご迷惑となりますので。』",""
+　周りのお客様のご迷惑となりますので。』","""Please punch the slot machines. They won't break, but
+ you'll disturb other customers."""
 "<アル>
 『ふふー………叩いたりしないで、
-　健全に遊ぶのが一番だよね♪』",""
+　健全に遊ぶのが一番だよね♪』","<Al>
+""Ehehe... It's the best to play normally without
+ punching the machines♪"""
 "……何故だろう、
-なんとなくアルは負けた時に叩きそうな気がする……",""
+なんとなくアルは負けた時に叩きそうな気がする……","...You don't know why, but you have a feeling that Al
+would punch the machine when she loses."
 "EV027",""
 "『お客様、
 　此方の台ではブラックジャックを遊ぶことができますよ。
@@ -110,9 +114,12 @@
 "<アル>
 『ブラックジャック……
 　え～と、カードゲームかな？
-　せっかくだしやってみる？』",""
+　せっかくだしやってみる？』","<Al>
+""Blackjack... Um, is that a card game? Why not try
+ playing since we have a chance?"""
 "『そうですか……
-　また遊びたくなったらいつでも声をかけてくださいね。』",""
+　また遊びたくなったらいつでも声をかけてくださいね。』","""I see... Please come to me if you ever feel like
+ playing."""
 "『ふふ♡
 　お客様、またブラックジャックで遊んでいきませんか？
 　以前と同じように気持ちよくして差し上げますよ♡』",""
@@ -144,81 +151,118 @@
 "EV028",""
 "『最初はこんなにぎやかなところじゃ、
 　落ち着いて飲めないと思ってたんだけど……
-　人間って慣れる生き物よね。』",""
+　人間って慣れる生き物よね。』","""I thought that it would be impossible to calmly enjoy
+ a drink in such a lively place, but seems like humans
+ can get used to almost anything."""
 "『今じゃすっかり、
 　遊び終わった後にここで飲むのが習慣になっちゃったわ。
-　どうしてカジノってこうもお財布のひもが緩むのかしら。』",""
+　どうしてカジノってこうもお財布のひもが緩むのかしら。』","""Now it's already a habit for me to sit down for a
+ drink after playing some games. I wonder what makes
+ casinos to loosen the strings of your purse like
+ that."""
 "<アル>
 『せっかく遊ぶなら、
 　ぱーっと使っちゃいたいって思うからかな？
-　うんうん、その気持ち分かるなー♪』",""
+　うんうん、その気持ち分かるなー♪』","<Al>
+""I think it's that since you're out here to play
+ anyway, you want to go all out! I get what she means♪"""
 "アルが同意するようにうなずいている。
-……アルには財布のひもを握らせないほうがよさそうだ。",""
+……アルには財布のひもを握らせないほうがよさそうだ。","Al nodded her head in agreement. You feel like you need
+to keep the strings of Al's purse tightly closed."
 "<アル>
 『…むー、なに？その顔は。
 　……自分だってえっちな女の子に誘惑されたら、
-　あっという間にお金使っちゃうくせに。』",""
+　あっという間にお金使っちゃうくせに。』","<Al>
+""Mmmh... What's with that face? I don't think you can
+ say anything about my spending when you used up all
+ your money on some sexy time with a girl."""
 "EV029",""
 "『僕はお金そんなにないんだけど、
 　目の保養のためによくここに来るんだ。
-　……バニーガールの子たち、みんなエッチで可愛いよね。』",""
+　……バニーガールの子たち、みんなエッチで可愛いよね。』","""I don't have much money in the way of money, but I
+ often come to the casino to feast with my eyes...
+ All the bunny girls are so cute and sexy, right?"""
 "<アル>
 『みんなきわどい衣装だよね！
 　やっぱり魔物よりも人間の方が魅力的に見えるのかな？
-　………\n[1]はどう？』",""
-"魔物も悪くない",""
-"やっぱり人間のほうがいい",""
+　………\n[1]はどう？』","<Al>
+""All of them are wearing such revealing clothes after
+ all! Maybe players find other humans more attractive
+ than monsters? ...\n[1], what do you think?"""
+"魔物も悪くない","Monster aren't bad either"
+"やっぱり人間のほうがいい","I prefer humans"
 "<アル>
 『ふふ、そうなんだ♪
-　なんでか分かんないけど、ちょっと嬉しいかも……♪』",""
+　なんでか分かんないけど、ちょっと嬉しいかも……♪』","<Al>
+""Ehehe♪ I see♪ I don't know why, but hearing that made
+ me kind of happy♪"""
 "<アル>
 『ふむふむ、やっぱりそういうもの？
 　…その割には魔物の子たちに責められてるときの\n[1]、
-　情けない顔で感じてるのが多い気がするけど。』",""
+　情けない顔で感じてるのが多い気がするけど。』","<Al>
+""Hmm... So it's really like that? ...Although
+ \n[1], I think I've seen you make a shameful
+ pleasure face with monsters quite often?"""
 "EV030",""
 "『あぁ……チップコインが欲しい…
 　でももうお金が……い、いや……
-　この装備を売れば…………』","""Aah... I want Chip Coins...
- But I don't have any more money...
- Ah, no, if U sell my equipment..."""
+　この装備を売れば…………』","""Aah... I need more chips... But I have no more
+ money... No, wait... What if I sell my equipment..."""
 "<アル>
 『や、やめといたほうが良いと思うなー…
 　そこまでしちゃうと本末転倒だよ……』","<Al>
-""I-I think you should stop...
- If you do that, you're putting card before the horse."""
+""I-I think it would be better for him to stop...
+ His priorities are backwards..."""
 "EV031",""
 "『ふふ……
 　熱くなっちゃって、お馬鹿なお客様…♡
-　このまま根こそぎ搾っちゃうかな…♡』",""
-"バニーガールは小声でそう呟いている…",""
+　このまま根こそぎ搾っちゃうかな…♡』","""Ahaha... Yes, talk yourself into it, Stupid Customer♡
+ I'm going to milk you for all the chips you have...♡"""
+"バニーガールは小声でそう呟いている…","The bunny girl muttered that in a low voice."
 "<アル>
 『イ、イカサマとかしてないよね…？
-　なんだかちょっと、怪しい笑み……』",""
+　なんだかちょっと、怪しい笑み……』","<Al>
+""S-She's not cheating, is she? I think her smile is a
+ bit suspicious..."""
 "EV032",""
 "『くそっ…！またはずれだ！
 　もうチップも残り少ないが……
 　いや、ここまで負けたんだ。
-　次こそは確率的に勝てるはずだ……！』",""
+　次こそは確率的に勝てるはずだ……！』","""Damn it! I missed again! I only have few chips left
+ so maybe it's time to... Wait... Since I've been
+ losing so many times in a row, I should have the
+ higher chance to win the next bet!"""
 "<アル>
 『か、かなり熱くなっちゃってるね…！
 　一旦冷静になったほうがいいと思うけど…
-　うん、私が同じ立場でもこうなっちゃうかも……』",""
+　うん、私が同じ立場でもこうなっちゃうかも……』","<Al>
+""H-He's getting quite fired up! I think he should take
+ a moment to calm down... However, I might do the same
+ thing if I were in his place..."""
 "EV033",""
 "『はぁ……
 　デートでカジノなのはまだいいんだけど、
-　彼女をほったらかしにして熱中するのはどうなのよ…』",""
+　彼女をほったらかしにして熱中するのはどうなのよ…』","""Sigh... Going on a date to the casino is fine in
+ itself, but focusing on a game so much that you
+ neglect your girlfriend is a bit too much..."""
 "<アル>
 『……私もほっとかれるのはやだな～…
 　そのてん、
-　ちょくちょく構ってくれる\n[1]には感謝してるよ♪』",""
+　ちょくちょく構ってくれる\n[1]には感謝してるよ♪』","<Al>
+""...I don't like getting neglected either.
+ I'm so thankful that you're looking after me,
+ \n[1]♪"
 "EV034",""
 "『やった♪大当たり！
 　今日は流れが来てるな～♪
-　この調子で頼むよ～♡』",""
+　この調子で頼むよ～♡』","""Yeah♪ I hit a massive prize! My flow is finally here♪
+ Please let it continue all day♡"""
 "<アル>
 『いいな～♡
 　やっぱり大当たりすると、
-　こう、気分が舞い上がっちゃうよね！』",""
+　こう、気分が舞い上がっちゃうよね！』","<Al>
+""She looks so happy♡ You can't help getting pumped up
+ when you hit a big prize, right?"""
 "EV035",""
 "『う～ん、なかなか当たらない…
 　もうチップも少なくなってきたしそろそろ…
@@ -250,22 +294,35 @@
 "EV038",""
 "『ほんとはスロットなんかより、
 　バニーガールの子たちと遊べる奴をやりたいんだ。
-　………でも、ちょっと緊張しちゃって…』",""
+　………でも、ちょっと緊張しちゃって…』","""I actually want to play with the bunny girls instead
+ of doing the slots... But I get way too nervous to
+ do it..."""
 "『いつも迷っているうちに、
 　ついついスロットにコインを入れてしまうんだ…
-　あぁ～神様～俺に勇気をくれ～…』",""
+　あぁ～神様～俺に勇気をくれ～…』","""Then while I'm hesitating, I keep feeding coin after
+ coin into the slots... Aah... God, please give me
+ the courage..."""
 "<アル>
 『ふむふむ…そんなに女の人に緊張しちゃうんだ。
 　もし私が\n[1]じゃなくてこの人と一緒だったら、
-　この人はずっと緊張したりしてたのかな？』",""
-"そうかもしれない",""
-"アルなら問題ないと思う",""
+　この人はずっと緊張したりしてたのかな？』","<Al>
+""Hmmm... Looks like talking to girls make him really
+ nervous. If I was with him instead of you, he would
+ probably be nervous all the time."""
+"そうかもしれない","You're right"
+"アルなら問題ないと思う","I think he would be fine with you"
 "『ふふ～ん♪だよね！
 　私みたいな可愛い女の子がずっとそばにいたら、
-　緊張で動けなくなっちゃうよね！』",""
+　緊張で動けなくなっちゃうよね！』","<Al>
+""Ehehe♪ Right? If he had a cute girl like me always by
+ his side, I bet he would be so nervous that he
+ couldn't move!"""
 "『……\n[1]、それどういう意味～？
 　わ、私だって一応女の子なんだからね！
-　身体はちっちゃいけど！』",""
+　身体はちっちゃいけど！』","<Al>
+""...\n[1]. What exactly do you mean by that?!
+ I-I'm a girl too! Just a small one at that!""
+ "
 "EV039",""
 "『こっちだと仕事に追われず、
 　たまーにモンスターを倒しに行って、
