@@ -5,28 +5,32 @@
 "<未来>
 『いらっしゃい、\n[1]。
 　よく来たね、ここが私のおうちだよ。』","<Mirai>
-""Welcome, \n[1].
- This is my home."""
+""\n[1], welcome to my home."""
 "<未来>
 『大したもてなしはできないけど…………
 　何か飲んでく？』","<Mirai>
-""I don't have many this here...
- But would you like something to drink?"""
+""I don't have much to present for guests, but would you
+ like something to drink?"""
 "<アル>
 『わーい♪私、甘いジュースが飲みたい！』","<Al>
-""Yay♪ I want to drink sweet juice!"""
+""Yay♪ I want sweet juice!"""
 "<未来>
 『どう？あれから調子は？　
 　ボスを倒せて気が緩むのは分かるけど、
 　1層よりも外の敵は強いから油断しないようにね。』","<Mirai>
-""How are you doing?
- I can understand relaxing after defeating a boss,
- but the monsters are much stronger here than on the first floor, so be careful."""
+""\n[1], how have you been doing?""
+
+
+<Mirai>
+""You might want to let loose after beating a boss, but
+ you need to be careful with the monsters of the second
+ floor. They're much stronger than on the first."""
 "<アル>
 『勝って兜の…………えっと、なんだっけ？
 　とにかく、この子の言うように油断は禁物だね！』","<Al>
-""Don't let your guard down even after victory, or how does the saying go?
- At any rate, let's take her warning into heart!"""
+""Tighten your helmet strings in the hour of victory,
+ or how does the saying go? At any rate, we should be
+ careful like she said!"""
 "<未来>
 『あ、\n[1]…………えっと、大丈夫？　
 　この前の試合…………』",""
@@ -270,16 +274,23 @@
 『わーい♪お買い物ー♪』",""
 "EV005",""
 "ふわふわで柔らかそうなベッドだ。
-いつも未来はここで寝ているのだろうか……",""
+いつも未来はここで寝ているのだろうか……","It's a soft and fluffy bed. This is where Mirai
+probably sleeps..."
 "<未来>
 『\n[1]？
 　そんなにベッドをじろじろ見られると、
-　ちょっと恥ずかしいんだけど…………』",""
-"寝転がろうとする",""
-"謝る",""
+　ちょっと恥ずかしいんだけど…………』","<Mirai>
+""\n[1], isn't a bit embarrassing if you keep
+ staring at my bed..."""
+"寝転がろうとする","Lie down on it"
+"謝る","Apologize"
 "<未来>
 『ちょ、ちょっと何しようとしてるの！？
-　あんまり悪戯するようなら私も怒るからね！』",""
+　あんまり悪戯するようなら私も怒るからね！』","<Mirai>
+""W-Wait! What are you doing?! I'm going to get angry
+ if you mess around too much!"""
 "<未来>
 『ん、よろしい♪
-　ほら、そんなとこにいないでこっちでゆっくりしなよ。』",""
+　ほら、そんなとこにいないでこっちでゆっくりしなよ。』","<Mirai>
+""Thank you for understanding♪ Now, why don't you step
+ away from my bed and sit down with me?"""
