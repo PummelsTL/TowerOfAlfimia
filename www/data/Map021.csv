@@ -21,78 +21,108 @@
 "EV019",""
 "EV020",""
 "『こちらはチップコイン交換所ですよ～♡
-　10000Gを1000チップコインに変換していきますか？』",""
+　10000Gを1000チップコインに変換していきますか？』","""This is the Chip Coin exchange♡ Would you like to
+ exchange 10000G for 1000 Chip Coins?"""
 "はい","Yes"
 "いいえ","No"
 "『かしこまりました♡
 　それではこちらをどうぞ♪
-　また補充したくなったらここに来てくださいね♡』",""
+　また補充したくなったらここに来てくださいね♡』","""Understood♡ Here are your casino chips♪ Please come
+ to this counter again if you need to replenish your
+ chips♡"""
 "<アル>
 『えへへ♪
 　どこで遊ぶー？
-　このコインをたくさん増やしていこうね！』",""
+　このコインをたくさん増やしていこうね！』","<Al>
+""Ehehe♪ What should we play? Let's win and get more of
+ these chips!"""
 "『あらお客様、
 　10000Gに所持金が足りないみたいですね♡
-　カジノで遊ぶ前にしっかりお金を稼いできてください♡』",""
+　カジノで遊ぶ前にしっかりお金を稼いできてください♡』","""Oh my. Sir, it looks like you don't have 10000G in
+ your possession. Please go out to earn some money
+ before playing at the casino♡"""
 "<アル>
 『10000G…結構高いよね、
-　カジノで遊ぶのはやめておく？』",""
+　カジノで遊ぶのはやめておく？』","<Al>
+""10000G... That's quite expensive. Are we going to
+ leave playing for another time?"""
 "EV021",""
 "『こちらはチップコイン交換所です。
-　1000チップコインを10000Gに変換していきますか？』",""
+　1000チップコインを10000Gに変換していきますか？』","""This is the Chip Coin exchange. Would you like to
+ exchange 1000 Chip Coins for 10000G?"""
 "『承りました。
 　それでは……こちらをどうぞ。
-　また是非遊びに来てくださいね。』",""
+　また是非遊びに来てくださいね。』","""Understood... Here is your gold. Please come play
+ again."""
 "<アル>
 『な、なんか嫌な予感がしたもんね……
 　カジノで遊ぶのはやめて、
-　これで美味しいものでも食べよっか♡』",""
+　これで美味しいものでも食べよっか♡』","<Al>
+""I-I'm getting kind of bad vibes... Let's leave the
+ casino and go eat something delicious♡"""
 "『あら、お客様？
 　先ほど負けてしまったことをお忘れですか？
 　……ふふ♡お客様の情けない負け姿、
-　しっかり監視カメラで見てましたよ♡』",""
+　しっかり監視カメラで見てましたよ♡』","""Oh? Sir, did you forget that you lost the game just
+ now? ...Ahaha♡ I clearly saw the how you pitifully
+ lost the game from the surveillance camera♡"""
 "『また気持ちよく負けたいのなら、
 　此方ではなく隣のカウンターで………
-　お金をチップコインに変換してくださいね♡』",""
+　お金をチップコインに変換してくださいね♡』","""If you're looking for another pleasureful loss,
+ please head to the next counter to exchange more
+ gold for casino chips♡"""
 "<アル>
 『うぅぅ…カジノって怖いとこだよ…
-　も、もう帰ろ……？』",""
+　も、もう帰ろ……？』","<Al>
+""Uuuh... Casinos are scary... Can we leave already?"""
 "『あらお客様、
 　1000チップ所持してないじゃありませんか。
 　ちゃんと1000チップ手に入れてから、
-　私に話しかけてくださいね。』",""
+　私に話しかけてくださいね。』","""Oh? Sir, it looks like you don't have 1000G chips.
+ Please talk to me once you have 1000G chips on hand."""
 "<アル>
 『たくさんチップコイン稼いで、
-　大金持ちになろうねー♪』",""
+　大金持ちになろうねー♪』","<Al>
+""Let's earn lots of chips and become rich♪"""
 "EV022",""
 "『よいしょっと………
 　ん？ここで遊びたいの？
 　ごめんね～、今清掃中だから♡
-　ちょっと前のお客さんが汚しちゃってさ♡』",""
+　ちょっと前のお客さんが汚しちゃってさ♡』","""There we go... Hmm? Are you looking for a game of
+ Blackjack? Sorry, but this table is currently being
+ cleaned♡ The last customer made quite a mess, you
+ see♡"
 "『右のテーブルでも、
 　ブラックジャックで遊べるから……
-　遊びたいならそっちで遊んできてね～♡』",""
+　遊びたいならそっちで遊んできてね～♡』","""There's another table for Blackjack on the opposite
+ side of the casino♡ Please head over there if you're
+ looking for a game♡"""
 "<アル>
 『……？
 　勝負に熱くなりすぎて、
-　食べ物でもこぼしちゃったのかな？』",""
+　食べ物でもこぼしちゃったのかな？』","<Al>
+""...? Did the customer get so heated up that they
+ spilled a drink or something?"""
 "EV023",""
 "EV024",""
 "EV025",""
 "『ドリンクはいかがですか～？
-　1本300Gです。お酒もジュースもありますよ～。』","""How about a drink?
- One drink is 300G
- There's alcohol and juice as well."""
+　1本300Gです。お酒もジュースもありますよ～。』","""Would you like a drink? A single glass is 300G.
+ We have both alcohol and juice available."""
 "<アル>
 『わ、お金かかるんだ……
-　むー……無料ならがぶがぶ飲もうと思っていたのに……』",""
+　むー……無料ならがぶがぶ飲もうと思っていたのに……』","<Al>
+""Oh... You need to pay for it... If it was free I
+ would have downed it with gusto!"""
 "アルが残念そうにそう言葉を漏らす。
-…アルみたいな人がいたから、有料なんじゃないだろうか。",""
+…アルみたいな人がいたから、有料なんじゃないだろうか。","Al muttered that in disappointment. The free drinks
+have probably been removed because there were people
+with the same idea as her."
 "EV026",""
 "『スロットは台を叩かないでくださいね。
 　壊れることはありませんが、
-　周りのお客様のご迷惑となりますので。』","""Please punch the slot machines. They won't break, but
- you'll disturb other customers."""
+　周りのお客様のご迷惑となりますので。』","""Please don't punch the slot machines. They won't
+ break, but you'll disturb other customers."""
 "<アル>
 『ふふー………叩いたりしないで、
 　健全に遊ぶのが一番だよね♪』","<Al>
@@ -100,7 +130,7 @@
  punching the machines♪"""
 "……何故だろう、
 なんとなくアルは負けた時に叩きそうな気がする……","...You don't know why, but you have a feeling that Al
-would punch the machine when she loses."
+is the type that punches the machine on loss."
 "EV027",""
 "『お客様、
 　此方の台ではブラックジャックを遊ぶことができますよ。
@@ -110,7 +140,10 @@ would punch the machine when she loses."
 "やめておく","Stop"
 "『あら…チップコインをお持ちでないようですね。　
 　カウンターでゴールドを交換してきてください♡
-　遊ぶのはその後で…♡お待ちしておりますよ♡』",""
+　遊ぶのはその後で…♡お待ちしておりますよ♡』","""Oh... Looks like you don't have enough casino chips.
+ Please go exchange some at the counter by the
+ entrance♡ We can play a game after that♡ I'll be
+ waiting♡"""
 "<アル>
 『ブラックジャック……
 　え～と、カードゲームかな？
@@ -122,26 +155,40 @@ would punch the machine when she loses."
  playing."""
 "『ふふ♡
 　お客様、またブラックジャックで遊んでいきませんか？
-　以前と同じように気持ちよくして差し上げますよ♡』",""
+　以前と同じように気持ちよくして差し上げますよ♡』","""Ahaha♡ Would you like to play Blackjack again?
+ I'll make you feel amazing just like last time♡"""
 "『あら…チップコインが空じゃないですか。
 　これでは気持ちいい敗北射精ができませんよ。
-　ちゃんとカウンターでゴールドと交換してきてください♡』",""
+　ちゃんとカウンターでゴールドと交換してきてください♡』","""Oh... Looks like you don't have enough casino chips.
+ You can't have give you amazing defeat orgasm like
+ this. Please go exchange some chips at the counter
+ by the entrance♡"""
 "<アル>
 『\n[1]……ブ、ブラックジャックは、
-　やめといたほうがいいんじゃないかな…』",""
+　やめといたほうがいいんじゃないかな…』","<Al>
+""\n[1]... I don't think you should play any
+ more Blackjack..."""
 "『ふふ♡期待で勃起している癖に…
 　お金が足りなくてチップを入手できないなら、
-　装備でもなんでも売ってきてくださいね♡』",""
+　装備でもなんでも売ってきてくださいね♡』","""Ahaha♡ What are you saying when you already have a
+ boner? If you don't have enough gold for chips, why
+ not sell your equipment or something?"""
 "<アル>
 『うぅ～……
-　\n[1]、さすがにそんなことはしないよね……？』",""
+　\n[1]、さすがにそんなことはしないよね……？』","<Al>
+""Uuh... \n[1], you wouldn't go that far,
+ would you?"""
 "<バニーガール>
 『あら、お客様…どうされましたか？
-　今度はガードで遊んでいきます？♡』",""
+　今度はガードで遊んでいきます？♡』","<Bunny Girl>
+""Oh, it's you, Sir♡ Would you like to play a game
+ of Blackjack this time?"""
 "<アル>
 『だ、ダメだよ！
 　カードじゃきっと勝てないもん…！
-　もう遊ぶのはやめておこうね…』",""
+　もう遊ぶのはやめておこうね…』","<Al>
+""N-No! \n[1], I'm sure you can't beat her at
+ cards! We shouldn't play with her anymore..."""
 "<バニーガール>
 『っっ…！』",""
 "貴方を見たバニーガールは、
@@ -256,7 +303,7 @@ to keep the strings of Al's purse tightly closed."
 "『やった♪大当たり！
 　今日は流れが来てるな～♪
 　この調子で頼むよ～♡』","""Yeah♪ I hit a massive prize! My flow is finally here♪
- Please let it continue all day♡"""
+ Please let it continue all day long♡"""
 "<アル>
 『いいな～♡
 　やっぱり大当たりすると、
@@ -266,31 +313,49 @@ to keep the strings of Al's purse tightly closed."
 "EV035",""
 "『う～ん、なかなか当たらない…
 　もうチップも少なくなってきたしそろそろ…
-　……でもあとちょっとで当たる気するしな～』",""
+　……でもあとちょっとで当たる気するしな～』","""Mmmh... I haven't been getting many hits today...
+ I don't have that many chips left, so maybe it's
+ about time... But I have a feeling I'm going to
+ hit a big win soon."""
 "<アル>
 『負け続けると次は勝てるってついつい思っちゃうよね。
 　なんかこう、
-　今やめたらもったいない気持ちもちょっと分かるな～…』",""
+　今やめたらもったいない気持ちもちょっと分かるな～…』","<Al>
+""You can't help thinking that you'll win the next round
+ after a lose streak, right? I can understand how she 
+ feels like quitting now would be a wasted chance..."""
 "EV036",""
 "『俺はこの前、
 　ついむしゃくしゃして台を叩いちまったんだけど…
 　うぅ………その後のことを思い出すだけで、
-　身体が震えてきちまうぜ…………』",""
+　身体が震えてきちまうぜ…………』","""This one time I got so pissed that I punched the
+ slot machine... However... Uugh... Just remembering
+ it makes me shiver..."""
 "<アル>
 『い、一体何があったんだろ……
-　と、とにかく私たちも絶対叩かないようにしようね？』",""
+　と、とにかく私たちも絶対叩かないようにしようね？』","<Al>
+""I wonder what happened? A-At any rate, we should make
+ sure not to hit the machines, okay?"""
 "EV037",""
 "『この街には娯楽がここかコロシアムくらいしかねぇ…
-　だったら当然、ここに来るしかないよなぁ？』",""
+　だったら当然、ここに来るしかないよなぁ？』","""The casino and the Colosseum are the only places for
+ amusement in this town... That's why you pretty much
+ naturally end up here."""
 "『…あん？読書？
-　オ、オレは文字を読むだけで頭が痛くなっちまうんだよ。』",""
+　オ、オレは文字を読むだけで頭が痛くなっちまうんだよ。』","""...Huh? Reading? J-Just getting past the first page
+ gives me a headache."""
 "<アル>
 『読書、結構いいと思うけどな～♪
 　私も昔は読み聞かせてもらったり……
-　………あれ？誰に？』",""
+　………あれ？誰に？』","<Al>
+""I think that reading is pretty fun too♪ I can remember
+ when books were read to me back in the day... Wait?
+ Who read them to me?"""
 "<アル>
 『うぅ～……
-　な、何か思い出せそうな気がしたんだけど…』",""
+　な、何か思い出せそうな気がしたんだけど…』","<Al>
+""Uuh... I-I had a feeling that I was about to remember
+ something..."""
 "EV038",""
 "『ほんとはスロットなんかより、
 　バニーガールの子たちと遊べる奴をやりたいんだ。
@@ -306,58 +371,81 @@ to keep the strings of Al's purse tightly closed."
 『ふむふむ…そんなに女の人に緊張しちゃうんだ。
 　もし私が\n[1]じゃなくてこの人と一緒だったら、
 　この人はずっと緊張したりしてたのかな？』","<Al>
-""Hmmm... Looks like talking to girls make him really
- nervous. If I was with him instead of you, he would
- probably be nervous all the time."""
+""Hmmm... Looks talking to girls makes him really
+ nervous. \n[1], if I was with him instead of
+ you, he would probably nervous all the time."""
 "そうかもしれない","You're right"
 "アルなら問題ないと思う","I think he would be fine with you"
 "『ふふ～ん♪だよね！
 　私みたいな可愛い女の子がずっとそばにいたら、
 　緊張で動けなくなっちゃうよね！』","<Al>
-""Ehehe♪ Right? If he had a cute girl like me always by
- his side, I bet he would be so nervous that he
- couldn't move!"""
+""Ehehe♪ Right? If there was a cute girl like me always
+ by his side, I bet he would be too stressed out to
+ move!"""
 "『……\n[1]、それどういう意味～？
 　わ、私だって一応女の子なんだからね！
 　身体はちっちゃいけど！』","<Al>
-""...\n[1]. What exactly do you mean by that?!
- I-I'm a girl too! Just a small one at that!""
+""...\n[1]! What exactly do you mean by that?!
+ I-I'm a proper girl too! Just a small one at that!""
  "
 "EV039",""
 "『こっちだと仕事に追われず、
 　たまーにモンスターを倒しに行って、
-　気が向いたらここにきてって生活ができて…………』",""
+　気が向いたらここにきてって生活ができて…………』","""In this world, you aren't chased by the work, you
+ just need to go hunt monsters every now and then,
+ and then you can come to the casino if you feel like
+ it..."""
 "『あぁ～……なんか、
 　リアルに戻った時に大変な気がする。
-　でも、今の生活をやめようとは思えないのよね～……』",""
+　でも、今の生活をやめようとは思えないのよね～……』","""Aah... I feel like I'll have really hard time to
+ cope when I return to real world. But I have no
+ intention to stop with my current lifestyle."""
 "<アル>
 『のんびりできるときは、
 　思う存分のんびりしたいって思っちゃうよね～。
-　\n[1]もしばらくこの街で暮らしてみる？』",""
+　\n[1]もしばらくこの街で暮らしてみる？』","<Al>
+""When you can take it easy, you want to go all out at
+ it, right? \n[1], why don't you also relax
+ in this town for a while?"""
 "EV040",""
 "『バンガードの任務も楽ではない。
 　だからこそこうして、休息の時間が必要なのだ！
-　分かってくれるかな？』",""
+　分かってくれるかな？』","""The duties of The Vanguard aren't easy. That's why
+ you need some time to relax like this! Do you get
+ what I mean?"""
 "<アル>
 『まぁ、うん、
 　ずっと働き続けるのは疲れちゃうよね。
-　休むのは大事だよ！』",""
+　休むのは大事だよ！』","<Al>
+""Well, I guess you would get tired if you worked all
+ the time. It's important to take some time to rest!"""
 "EV041",""
 "『この時を重ねし3つの運命だけが、
 　俺の魂をいやしてくれる……
 　さぁ勝利を司る金色の女神よ、
-　今宵も孤独な堕天使に微笑んでおくれ。』",""
+　今宵も孤独な堕天使に微笑んでおくれ。』","""The fateful hour is finally here. Oh golden Goddess
+ who reigns over victory, please grant your smile to
+ the fallen angel of solitude tonight.""
+ "
 "<アル>
 『うん……うん？
-　\n[1]はこの人が何を言いたいのか、分かる？』",""
+　\n[1]はこの人が何を言いたいのか、分かる？』","<Al>
+""...Um? \n[1], can you understand what he's
+ saying?"""
 "EV042",""
 "『熱くなりすぎず、
 　今日はダメだと思ったときには潔く引くのが、
-　カジノを楽しむ心得ね。』",""
+　カジノを楽しむ心得ね。』","""In case of a lose streak, it's a basic rule of casinos
+ to stop before you get too carried away and lose all
+ it all."""
 "『自分の中の敗北の苦みは、
 　こうして甘いジュースで洗い流すこと…
-　そうすれば自然と癒されるものなのよ。ごくっ。』",""
+　そうすれば自然と癒されるものなのよ。ごくっ。』","""When that happens to me, I wash away the bitter
+ feelings of loss by drinking sweet juice like this...
+ That's how I can clear my mind."""
 "<アル>
 『わ～、なんか大人の女性っぽい！
 　私たちも負けちゃったら、
-　同じようにジュースを飲もうよ！』",""
+　同じようにジュースを飲もうよ！』","<Al>
+""Woah! She seems so mature! We should also drink some
+ sweet juice like her if we lose!"""
