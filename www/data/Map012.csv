@@ -68,8 +68,7 @@ woman called out to you."
 　そんなにきょろきょろしてるってことは、
 　1階層を始めてクリアした子だよね？』","<???>
 ""Congratulations♪ Since you're looking around so much,
- that must mean you've just cleared the first floor,
- right?"""
+ that must mean you've just cleared the first floor♪"""
 "<???>
 『ああ、1階層って言うのは、この町の下にある、
 　いかにもダンジョン！ってことのことだよ♪
@@ -78,9 +77,9 @@ woman called out to you."
  floor♪ Or at least that's what everyone in the town
  calls it."""
 "まだ驚きから立ち直れず不思議そうな顔をする貴方に、
-女性はくすくすと笑いながらそう説明する。","You still hadn't recovered from the shock of finding a
-town and were making weird faces. The woman giggled at
-your reactions while explaining."
+女性はくすくすと笑いながらそう説明する。","You were still unable to recover from the shock of
+finding a town and made weird faces. The woman giggled
+at your reactions while she explained."
 "<???>
 『…………どう？
 　下とは雰囲気が全然違って、驚いたでしょ？』","<???>
@@ -161,9 +160,9 @@ thanked Mirai for looking out for you like that."
 "<未来>
 『その後、
 　一緒に出歩きながら街のことを色々教えてあげる。』","<Mirai>
-""Then I'll explain all the notable places as we walk
- around the town."""
-"そう笑顔で告げる女性に再び貴方は頭を下げる。","After Mirai explained the plan for tomorrow in smile,
+""Then we'll take a walk around the town as I explain
+ all the notable places."""
+"そう笑顔で告げる女性に再び貴方は頭を下げる。","When Mirai explained the plan for tomorrow in smile,
 you thanked her once more."
 "<未来>
 『いいってば♪
@@ -208,8 +207,7 @@ you thanked her once more."
 　また明日、迎えに来るね！』","<Mirai>
 ""I see. Then please have a good rest, Mr. Rookie.
  See you tomorrow!"""
-"貴方は足りない、と嘆きの言葉を漏らす。","You looked down and told Mirai how you couldn't afford
-it."
+"貴方は足りない、と嘆きの言葉を漏らす。","You looked down and mumbled how you couldn't afford it."
 "<未来>
 『え？お金ないのに私に奢る気だったの？
 　気持ちは嬉しいけど、
@@ -223,7 +221,7 @@ it."
 ""You shouldn't do stuff like that unless you really
  have leeway with money. Promise me not to do things
  like this again."""
-"貴方は女性の言葉に頷いた。","You nodded back to Mirai."
+"貴方は女性の言葉に頷いた。","You nodded."
 "<未来>
 『ん、よろしい♪
 　じゃ、明日はやっぱり私が奢ってあげるから。
@@ -238,11 +236,11 @@ it."
  We get to eat lots of delicious things!"""
 "<未来>
 『そっか、あんまりお金ないんだね………』","<Mirai>
-""I see. You can't even afford that..."""
+""I see. You can't afford that..."""
 "<未来>
 『ボス前に限界までアイテムとかため込むタイプ？
 　うん、その気持ちは分かるよ。』","<Mirai>
-""Are you the type to stock up all the items before a
+""Are you the type to stock up on all the items before a
  boss fight? I can understand that feeling."""
 "女性は訳知り顔でしきりにうんうんと頷く。","Mirai nodded knowingly."
 "<未来>
@@ -266,12 +264,12 @@ it."
 　なんかちょっと、ワクワクするかも♪』","<Al>
 ""She was a really friendly woman! And the atmosphere
  in the town is so different from the dungeon too...
- I can't help getting excited with all this♪"""
+ I can't help getting excited♪"""
 "<アル>
 『さ、宿屋でやすもー！お疲れ様、\n[1]♪』","<Al>
 ""\n[1], let's go rest at the inn!
  You've earned a good night's sleep♪"
-"貴方はアルの言葉に同意と感謝を返した。","You agreed with Al and said thanks back to her."
+"貴方はアルの言葉に同意と感謝を返した。","You agreed with Al and said thanks to her."
 "呆気に取られている貴方に、
 1人の女性が話しかけてくる。","While you were standing dumbfounded, a nearby woman
 called out to you."
@@ -558,8 +556,8 @@ were clearly showing on his face."
 "<アル>
 『\n[1]が覚えたスキルって多分、
 　この物理と魔法の中間ってやつだよね？』","<Al>
-""\n[1], Your skills are a mix of physical and
- magical, right?"""
+""\n[1], your skills are a mix of physical
+ and magical, right?"""
 "EV067",""
 "回想部屋に移動しますか？
 【回想部屋でのレベルの上下は、
