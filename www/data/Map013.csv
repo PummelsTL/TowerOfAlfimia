@@ -31,8 +31,8 @@ another night."
 "今日は恭子との試合の日だ。
 休むわけにはいかない。",""
 "EV011",""
-"『ふぅ……仕事の疲れは、お酒で癒すに限るわね。』","""Phew... There's nothing better than beer for curing
- the stress from work."""
+"『ふぅ……仕事の疲れは、お酒で癒すに限るわね。』","""Phew... Nothing's better cure for work stress than
+ beer."""
 "<アル>
 『大人の女性って感じだね！
 　私もお酒飲んだら、大人って感じするかな？』","<Al>
@@ -46,50 +46,56 @@ another night."
 "<アル>
 『わー……………
 　\n[1]はこんな無茶な飲み方しちゃダメだからね！』","<Al>
-""Uah... \n[1], you shouldn't drink such
- a dirty way!"""
+""Uah... \n[1], please don't ever copy him
+ and drink in such a dirty way."""
 "EV013",""
 "『よっ！まだまだ飲めるだろー？
-　ほらもう一杯♪もう一杯♪』","""Hey! Can you still drink more! C'mon!
- One more bottle♪ One more bottle♪"""
+　ほらもう一杯♪もう一杯♪』","""Hey! You can still drink more, right! C'mon! One more
+ bottle♪ One more bottle♪"""
 "<アル>
 『限界な人をそうやって煽って、
 　飲ませちゃダメなんだからね！』","<Al>
-""You shouldn't push someone to drink more when they're
+""You shouldn't push someone to drink when they're
  already wasted!"""
 "アルは頬を膨らませて怒っている…………","Al puffed her cheeks in anger."
 "EV014",""
 "『隣のテーブルの人たち、
 　騒ぐならここじゃなくて酒場で飲んでくれないかな……
-　僕は静かに飲みたいって言うのに…………』","""I wish the people drinking at the other table would
- go to a bar when they're making that much noise...
- I want drink in peace and quiet..."""
+　僕は静かに飲みたいって言うのに…………』","""I wish the people drinking and making racket at the
+ other table would go to a bar... I want drink in peace
+ and quiet..."""
 "<アル>
 『確かに隣の人たち、
 　ちょっと声が大きいかも？』","<Al>
-""They're certainly making quite a racket."""
+""They're certainly making quite a lot of noise."""
 "EV015",""
-"『演奏中に話しかけないで頂戴。気が散ってしまうわ。』","""Please don't talk to me while I'm playing.
- You'll distract me."""
+"『演奏中に話しかけないで頂戴。気が散ってしまうわ。』","""Please don't talk to me while I'm playing. You'll
+ distract me."""
 "<アル>
 『わ、そ、そうだよね。
 　でも、綺麗な音…………
 　えへへ♪うっとりしちゃう…………』","<Al>
-""Woah... I guess we shouldn't disturb her. It's quite
- a beautiful sound... Ehehe♪ It's kind of entrancing."""
+""Oh. I guess we shouldn't disturb her. The song she's
+ playing is beautiful... Ehehe♪ I'm getting entranced
+ by it♪"""
 "EV016",""
 "<アル>
 『お酒飲むのー？
   でも、今そんなにお金あったっけ？
-　有料みたいだよ！どうする？』",""
-"飲む（1000G）",""
-"飲まない",""
+　有料みたいだよ！どうする？』","<Al>
+""Are you going to drink? But we don't have much money
+ right now, do we? The drinks seem pretty expensive!
+ What will you do?"""
+"飲む（1000G）","Drink (1000G)"
+"飲まない","Don't Drink"
 "どこか物悲し気な雰囲気のピアノが郷愁を誘う。
 貴方はたっぷりと場の雰囲気を堪能しながら、
-様々なカクテルに舌鼓を打った。",""
+様々なカクテルに舌鼓を打った。","You enjoyed the atmosphere as the pianist played
+a melancholic song and drank various cocktails."
 "<アル>
 『美味しそうに飲んでたね！
-　私も飲めるようになりたいなー♪』",""
+　私も飲めるようになりたいなー♪』","<Al>
+""You looked to enjoy them! I wish I could drink too♪"""
 "<アル>
 『でも、\n[1]、今、そんなにお金ないよ…？
 　また、今度にしようよ！』","<Al>
@@ -98,25 +104,27 @@ another night."
 "<アル>
 『お酒はまた今度だね！』","<Al>
 ""Let's leave it for another time!"""
-"お酒を飲む（1000G）",""
+"お酒を飲む（1000G）","Drink (1000G)"
 "やめておく","Stop"
 "持ち合わせが不安だ…………
-やめておこう。",""
+やめておこう。","You felt uneasy about how much money you had and
+decided against drinking."
 "EV017",""
 "<アル>
-『お酒飲むのー？』","<Are you going to drink beer?>"
+『お酒飲むのー？』","<Al>
+""\n[1], are you going to drink?"""
 "はい","Yes"
 "いいえ","No"
-"1000G失った！",""
-"お酒を飲む",""
+"1000G失った！","You lost 1000G!"
+"お酒を飲む","Drink"
 "EV018",""
 "<未来>
 『あ、おはよう。
 　昨日はゆっくり休めたかな？』","<Mirai>
 ""Ah, good morning. Did you have a good rest?"""
 "貴方は挨拶とともにそう尋ねてきた女性に頷く。
-女性は貴方の返事を聞いて微笑んだ。","Mirai greeted you. You nodded back to her question,
-and she showed a smile to your reply."
+女性は貴方の返事を聞いて微笑んだ。","Mirai greeted you. You nodded to her question, and she
+smiled at your reply."
 "<未来>
 『それは何よりだね。
 　じゃあ、約束通り今日は私が案内してあげる。
@@ -139,7 +147,7 @@ and she showed a smile to your reply."
 　まずは住宅街にある、
 　知っておくべき場所について案内からかな。』","<Mirai>
 ""I want to show the bar as the last place, so let's
- start off with the notable places on the south."""
+ start off with the notable places on the south side."""
 "<未来>
 『ここはほとんどプレイヤーの住宅だから、
 　特に案内するところはないんだけど…………』","<Mirai>
@@ -210,8 +218,8 @@ that."
 　1階層で店員のようなNPCは見たよね？
 　その人がこの中にいるの。』","<Mirai>
 ""This is the the town's adventurer shop. You must have
- met the shopkeeper's on the first floor, right? You
- can also find them here."""
+ met the shopkeeper's on the first floor. You can also
+ find them here."""
 "<未来>
 『冒険用のアイテムとか装備とか、
 　そう言うのが欲しかったらここに来るといいよ。』","<Mirai>
@@ -222,7 +230,7 @@ that."
 　売ってくれるものが違うみたいだから、
 　ちょくちょくのぞいてみるといいかもね。』","<Mirai>
 ""The stock of items will change based on your level, 
- so you should check it every now and then."""
+ so you should visit them every now and then."""
 "<未来>
 『後は、レベルドレインもしてくれるよ。
 　お金が足りなくなったらここに来ようね。』","<Mirai>
@@ -255,7 +263,7 @@ You understood the risk and nodded back to her."
 "ちょっと怖い","It's a bit scary"
 "<未来>
 『ね！戦ってもよし、見てもよし、だよ。』","<Mirai>
-""Right! You can either fight or spectate there."""
+""Right! You can either fight or spectate."""
 "<未来>
 『もちろん普通のPvPと一緒で、
 　ゲームオーバーがかかったりはしてないから、
@@ -273,7 +281,7 @@ she saw that."
 　それなりの覚悟を決めておくように！』","<Mirai>
 ""However! In the case of loss, you'll lose a lot of
  money and your opponent will rape you before the whole
- audience! That's what you need to be ready for!"""
+ audience! You need to be prepared for that!"""
 "脅すような女性の言葉に、貴方はこくりと頷いた。","After hearing Mirai's warning, you understood what she
 meant and nodded back to her."
 "<アル>
@@ -341,7 +349,7 @@ meant and nodded back to her."
 『くす♪驚いた？
 　これでも先輩は強いんだぞーってね♡』","<Mirai>
 ""Ehehe♪ Did that surprise you? Your senpai is pretty
- strong, you know?"
+ strong, you know?"""
 "<未来>
 『ま、3つ証を持ってるには持ってるんだけど、
 　この町にいるのが楽しくてさ。
@@ -391,16 +399,16 @@ meant and nodded back to her."
 『ここが雑貨屋だよ。
 　さっきのショップとの違いは、
 　ここは冒険に関係ないアイテムばかりってことかな？』","<Mirai>
-""Here's the general store. The difference to the shop
- from before is that you can only find items unrelated
- to adventuring here."""
+""Here's the general store. The difference to the
+ earlier shop is that you can buy only items unrelated
+ to adventuring from this one."""
 "<未来>
 『服とか、本とか、コスメとか♪
 　見た目は小さいけど、現実のデパートにあるようなものは、
 　全部ここで買えると思ってくれていいよ。』","<Mirai>
-""You can find things like clothes, book, or cosmetics
- here. The building might look small, but it's pretty
- much a full department store."""
+""You can buy things like clothes, book, or cosmetics.
+ The building might look small, but it's pretty much a
+ full department store."""
 "<未来>
 『ここがみんながこの町から離れられない原因の1つかもね♪
 　ゲームの中なのに、現実みたいに過ごせるんだもん。
@@ -420,27 +428,27 @@ meant and nodded back to her."
 "<未来>
 『驚くことに、
 　働いてるバニーガールはみんなプレイヤーなんだよ？』","<Mirai>
-""Surprisingly, all the bunny girls working there are
- real players."""
+""Surprisingly, all the bunny girls working in there are
+ players."""
 "<未来>
 『自分の容姿とかスタイルに自信のある子たちが、
 　それを見せつけるために好きでやってるみたいだね。』","<Mirai>
-""Most of the girls working there seem to want to show
- off their good looks and bodies."""
+""From what I've heard, they work as bunny girls since
+ they want to show off their good looks and bodies."""
 "<未来>
 『もちろんタダ働きじゃなくて、給料は1日働いたら、
 　何もないところから降ってくるんだって。
 　すっごい不思議だよね？』","<Mirai>
 ""Naturally, they aren't working for free. After working
- for a day, the salary just drops out from the thin
- air. It's really weird to see it happen."""
+ for a day, the salary drops out from the thin air.
+ It's really weird to see it happen in person."""
 "<未来>
 『ま、ゲームの中だし、そう言うもんだと思っとこう。
 　バニーガールの子たちみたいに、自分の好きなことをして、
 　モンスター退治以外でお金を稼いでる人も多いね。』","<Mirai>
 ""But it's a game after all. There are a lot of people
- who are doing what they like the bunny girls and
- earning money in other ways than monster hunting."""
+ who are doing what they want like the bunny girls
+ and earning money in other ways than monster hunting."""
 "<未来>
 『\n[1]も何か、
 　好きな仕事をここで見つけてみるのもいいかもよ？』","<Mirai>
@@ -450,9 +458,9 @@ meant and nodded back to her."
 "<未来>
 『さ、じゃあ次はお待ちかねの酒場だね♪
 　ずっと歩きっぱなしで、気分的にお腹すいたでしょ？』","<Mirai>
-""Then for the next place, there's the bar that I
- already mentioned. We've been walking quite a lot, so
- you must be feeling hungry, right?"""
+""For the next place, there is the bar that I've
+ already mentioned. We have walked quite a lot, so
+ you must be feel hungry, right?"""
 "<未来>
 『ゲームの中でいくらお腹がすかないとはいえ、
 　ちゃんと人間らしく美味しいものを食べないと♪』","<Mirai>
@@ -468,8 +476,8 @@ meant and nodded back to her."
 『ここが酒場♪
 　外の屋台で持ち帰りできるものも売ってるから、
 　冒険のためのお弁当なんかにもいいかも。』","<Mirai>
-""This is the bar♪ You can buy take-away from the stalls
- next to it, so you can also get lunch for your
+""This is the bar♪ There's also the stalls next to it
+ where you can buy take-away as a lunch for your
  adventure."""
 "<アル>
 『うんうん、
@@ -487,7 +495,7 @@ the stalls with Al."
 『でも、今日はせっかくだし、
 　中で美味しいものを食べよ♪』","<Mirai>
 ""But since today is our special tour, let's go eat
- inside♪"""
+ inside the bar♪"""
 "<未来>
 『おごってくれるんだよね？
 　嬉しいなぁ♡私、こういう時は遠慮しないし♪』","<Mirai>
@@ -497,8 +505,8 @@ the stalls with Al."
 "<未来>
 『今日は私が奢ってあげるからね♪
 　\n[1]の、ボスクリア記念パーティーだ♡』","<Mirai>
-""I'll foot the bill for you♪ It's a party to celebrate
- your first boss clear♡"""
+""I'll foot the bill for you♪ It'll be a a party to
+ celebrate your first boss clear♡"""
 "意気揚々と進む女性に貴方はついていく。","You followed after Mirai who was in high spirits."
 "<未来>
 『じゃ、中に入るよー♪』","<Mirai>
@@ -509,20 +517,21 @@ the stalls with Al."
 ""Then once more, congratulations on clearing the boss♪
  And welcome to the town on the second floor♪"""
 "女性は貴方とコップを合わせながら、
-そう祝福の言葉を口にする。","Mirai clinked glasses with you as she said that."
+そう祝福の言葉を口にする。","Mirai clinked glasses with you."
 "<未来>
 『さ、食べよ食べよ♪
 　1層ではご飯なんて食べられなかったでしょ？
 　今日は思いっきり楽しんじゃおう♡』","<Mirai>
-""Now, eat♪ You didn't eat anything on the first floor,
- right? Enjoy everything that's set in front of you♡"""
+""Now, eat up♪ You didn't eat get to anything on the
+ first floor, right? Enjoy everything that's set in
+ front of you♡"""
 "<アル>
 『私も食べるー♪
 　ん…………もぐもぐ…………」","<Al>
 ""I'll also have some♪ Mmmh... Munch... Munch..."""
 "女性の言葉を聞くが早いか、
-アルはお皿のにのっているお肉をとり、小さな口でほおばる。","The moment Mirai finished her words, Al dove for the
-meat sitting on the plate and stuffed it in her small
+アルはお皿のにのっているお肉をとり、小さな口でほおばる。","The moment Mirai finished her words, Al dove for a
+plate of meat and began stuffing it in her small
 cheeks."
 "<アル>
 『ん！おいしー♪
@@ -530,8 +539,8 @@ cheeks."
 ""Mmmh! Delicious♪ \n[1], you should also
  try this! It's so delicious♪"""
 "ぺろりと口の周りについたソースをなめながら、
-アルは貴方に自信が食べたものと同じものをいれる。","Al put some of the meat that she had eaten on your
-plate while licking the sauce around her mouth."
+アルは貴方に自信が食べたものと同じものをいれる。","Al put some of the same meat on your plate while
+licking the sauce around her mouth."
 "そんなアルに礼を告げて、貴方も一口、口に運んでみた。","You thanked the fairy and tried the meat she gave you."
 "<未来>
 『ふふ♪美味しいでしょ？
@@ -540,24 +549,23 @@ plate while licking the sauce around her mouth."
 ""Ahaha♪ Delicious, isn't it? Let's chat while we eat.
  I'd like to hear about your adventure until now."""
 "そうしてお互いのゲームでの経験を話しながら、
-美味しいものを食べ、楽しい時間を過ごした。","And so you and Mirai talked about each other's
-experiences playing the game while eating delicious
-food."
+美味しいものを食べ、楽しい時間を過ごした。","And so, you and Mirai talked about each other's
+experiences until now and enjoyed the delicious food."
 "………………………………","........."
 "<未来>
 『ふー♪食べた食べた♪
 　楽しかったよ、\n[1]。
 　私に付き合ってくれてありがと♪』","<Mirai>
-""Phew♪ I ate so much♪ I had so much fun. Thank you for
+""Phew♪ I ate so much and had so much fun. Thank you for
  joining me, \n[1]♪"""
 "そう感謝の言葉を告げる女性に、
 貴方はこちらこそ、と言葉を返す。","When Mirai thanked you, you also thanked her for
 joining you."
 "<アル>
 『私も食べたー♪満足！』","<Al>
-""I also ate so much♪ All of it tastes so good!"""
+""I also ate so much♪ All of it tasted so good!"""
 "アルもたくさんの美味しいものを食べて満足そうだ。","Al was also happy after getting to eat lots of
-delicious food."
+delicious foods."
 "<未来>
 『じゃあ、約束通りにここは私が払うね。
 　これから頑張れ♪ルーキー君！』","<Mirai>
@@ -571,14 +579,14 @@ After that, you decided to go separate ways."
 　何か相談事とかあったらいつでも寄って？
 　じゃ、ばいばい♪』","<Mirai>
 ""I have a house in the residential district. If you
- ever need consultation on something, you can come
- visit me♪ Bye bye♪"""
+ ever need some consultation, you can come visit me
+ any time♪ Bye bye♪"""
 "そう言って女性は去っていった。","Mirai left after saying that."
 "<アル>
 『ほんとに親切な人だったねー♪
  恩返しできるよう頑張ろ！\n[1]♪』","<Al>
-""She was really such a gentle woman! We need to do our
- best to repay that kindness! \n[1]♪"""
+""She was really a gentle woman! We need to do our best
+ to repay that kindness! \n[1]♪"""
 "貴方はアルの言葉に同意し、頷いた。","You nodded to Al in agreement."
 "<未来>
 『さ、約束通り会計は君に…………なんてね♪
@@ -595,12 +603,12 @@ After that, you decided to go separate ways."
  the start?"""
 "どうにも、そうみたいだ。
 貴方とアルは目を合わせてクスリと微笑み、
-女性に感謝の言葉を伝える。","You shared the same idea as you made eye contact with
-Al and thanked Mirai for taking care of the payment."
+女性に感謝の言葉を伝える。","You thought the same as Al and thanked Mirai for
+taking care of the payment."
 "<未来>
 『私も楽しかったからいいの♪
 　何か題目があったほうがこういうのは楽しいしね。』","<Mirai>
-""I also had fun so it's okay♪ It's fun to celebrate
+""I also had fun so it's okay♪ I enjoy celebrating
  things like this."""
 "<未来>
 『じゃ、今日はここでお開きにしよっか。
@@ -616,11 +624,13 @@ Al and thanked Mirai for taking care of the payment."
 　まぁ、先に進みたいなら出場は必須なんだけどね。』","<Mirai>
 ""Yes♪ However, you'll need to participate in the arena
  if you want to advance past the town zone."""
-"貴方は懐かしいような屋台の香りを楽しむ。",""
-"貴方は女性に勧められるまま、一口、口に運んだ。",""
+"貴方は懐かしいような屋台の香りを楽しむ。","You enjoy the nostalgic smell drifting from the food
+stalls."
+"貴方は女性に勧められるまま、一口、口に運んだ。","When Mirai prompted you to eat, you began doing so."
 "どうにも、
 最初から女性は貴方に奢ってくれるつもりだったようだ。
-貴方は女性に感謝の言葉を告げる。",""
+貴方は女性に感謝の言葉を告げる。","You felt like Mirai had planned to pay from the start.
+You thanked her for doing so."
 "EV019",""
 "未来を待たせてお酒を楽しむわけにはいかない。","Mirai is waiting for you. This isn't the time to go
 for a drink."
