@@ -2,33 +2,41 @@
 "EV002",""
 "EV003",""
 "EV004",""
-"待合室から出るわけにはいかない。",""
+"待合室から出るわけにはいかない。","You can't leave the waiting room."
 "EV005",""
 "EV006",""
 "このベッドで一休みできそうだ。
-休憩していきますか？",""
+休憩していきますか？","You can rest at this bed. Will you take a nap?"
 "はい","Yes"
 "いいえ","No"
 "EV007",""
 "貴方がしばらく控室で時間を過ごしていると、
-アナウンスが流れ始める。",""
+アナウンスが流れ始める。","After staying in the waiting room for a while, you hear
+an announcement."
 "『マッチングが成立しました。
 　第3試合の時間に試合を開始します。
-　番号11、12のプレイヤーは、入場してください。』",""
+　番号11、12のプレイヤーは、入場してください。』","""Player matching finished. Players number 11 and 12
+ please enter the arena."""
 "<アル>
-『いよいよだね！ファイト、\n[1]♪』",""
+『いよいよだね！ファイト、\n[1]♪』","<Al>
+""It's our turn! Fight, \n[1]♪"""
 "EV008",""
 "『俺は因縁の相手との指名試合だ。
-　あの女、こんどこそひぃひぃ言わせてやる…………』",""
+　あの女、こんどこそひぃひぃ言わせてやる…………』","""I have a nominated match coming up. This time I'll
+ make that woman squeal for sure!"""
 "『まぐれで一度俺に勝ったくらいで、
-　散々煽りやがって……！』",""
-"男性は静かに闘志を燃やしている。",""
+　散々煽りやがって……！』","""She won our last match purely by fluke and riled me
+ up so hard after that...!"""
+"男性は静かに闘志を燃やしている。","The man was burning with fighting spirit."
 "『コロシアムの仕様について』
 コロシアムでは、指名できる対戦相手の場合、
 敗北後に指名でリベンジすることにより、
-戦闘中、敗北後のセリフが変わります。",""
+戦闘中、敗北後のセリフが変わります。","『Regarding Colosseum』
+Once you can nominate an opponent, if you challenge
+them to a rematch after losing to them, their combat
+and post combat lines will update to the current score."
 "EV009",""
-"試合会場に入場しますか？",""
+"試合会場に入場しますか？","Will you enter the arena?"
 "貴方は対戦相手の女性の姿を見て驚く。","You were taken by surprise the moment you saw your
 opponent."
 "<凛>
@@ -55,61 +63,59 @@ opponent."
 "<凛>
 『だからぁ、お金を貸して、
 　お兄さんにはすぐに参加してもらいたかったんですよ♪』","<Rin>
-""That's also why I lent money to you♡ I wanted to get
- you to participate right away♪"""
+""That's also why I loaned money to you♡ I wanted to
+ get you to participate right away♪"""
 "凛は思い通りになったからか、
-上機嫌に自分の思惑を貴方に告げていく。","Rin confessed her plan to you in good mood since it
-had gone through."
+上機嫌に自分の思惑を貴方に告げていく。","Rin explained her successful plot to you in good mood."
 "<凛>
 『ふふ♡あー、でも思い出したら笑っちゃう♡
 　ちょっとか弱い女の子のふりをしたら、
 　お兄さんすぐに思い通りになってくれたんですもん♡』","<Rin>
-""Ahaha♡ Just recalling it makes me laugh♡ I simply
- had to pretend to be a frail little girl and you went
- right along my plan♡"""
+""Ahaha♡ Just recalling it makes me laugh♡ I just
+ needed to pretend to be a frail and weak girl to make
+ you fall into my trap♡"""
 "<凛>
 『可愛い女の子に強いって言われて、
 　舞い上がっちゃったんですよね？』","<Rin>
-""Did you get excited when a cute girl called you
- strong?"""
+""Did it excite you when a cute girl called you strong?"""
 "<凛>
 『か弱い女の子に褒められて、嬉しかったんですよね？
 　くすくす♡ちょろいお兄さん♡』","<Rin>
-""You were so happy when a weak girl praised you,
- weren't you? Ahaha♡ You were such an easy target♡"""
+""You were so happy when I praised you, weren't you?
+ Ahaha♡ You were such an easy target♡"""
 "<凛>
 『ま、これも勉強代だと思って、
 　このまま私に負けてください♡』","<Rin>
-""Well, you can think of it as a learning experience
- as you lose against me♡"""
+""You can think of this as a good learning experience♡
+ Next you're going to lose against me♡"""
 "<凛>
 『7000G、サクッと稼がせてもらいますね♡
 　おまけの利子共々、レベルドレイン付きで♡ちゅっ♡』","<Rin>
 ""You'll need to work hard to pay back that 7000G loan♡
- The interest will also include a level drain as I
- defeat you♡ Smooch♡"""
+ Not only is there the interest but level drain tax as
+ well♡ Smooch♡"""
 "凛は余裕の笑みを浮かべながら、
-ちゅっと貴方に投げキッスをする。","Rin blew you a kiss in a confident smile."
+ちゅっと貴方に投げキッスをする。","Rin smiled confidently as she blew a kiss at you."
 "<アル>
 『むー！し、親切な人だと思ってたのに………！
 　こ、こんな子返り討ちにしちゃえー！』","<Al>
-""Aaah! I thought that she was such a gentle girl...
- \n[1], we need to beat up people like her!"""
+""Mmmmh! I-I trusted her too! \n[1],
+ we need to beat up people like her!"""
 "貴方はアルと同じ気持ちで、
-剣を構えながら彼女のことを睨みつける。","Al shared your feelings over the betrayal.
-You poised up your sword and glared at Rin."
+剣を構えながら彼女のことを睨みつける。","You felt the same as Al and glared at Rin with your
+sword held up."
 "<凛>
 『やん♡お兄さん、そんな目で睨まないでくださいよ♡
 　私、か弱い女の子だから泣いちゃいます♡怖ーい♡』","<Rin>
 ""Oh no♡ Please don't glare at me like that♡
- I'm such a weak girl that I'll start crying♡
+ I'm such a weak girl that I might start crying♡
  It's so scary♡"""
 "言葉とは裏腹に、
-凛は余裕そうな笑みのままわざとらしい猫なで声を出す。","Despite Rin's feeble and girlish voice, her confident
-smile didn't falter for a moment."
+凛は余裕そうな笑みのままわざとらしい猫なで声を出す。","Rin's confident smile didn't falter for a moment
+despite what she said in feeble and girlish voice."
 "そんな彼女にいら立ちを抱きつつも、
-貴方は剣を構えて突進した。","Rin's attitude was so irritating that you decided to
-charge her with your sword held up."
+貴方は剣を構えて突進した。","You charged in with your sword pointing at Rin while
+feeling irritated at her attitude."
 "<凛>
 『う、…………こんな、嘘…………』",""
 "貴方に敗れ、凛はどさりと会場の真ん中で倒れこむ。",""
