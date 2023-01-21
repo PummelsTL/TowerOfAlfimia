@@ -356,7 +356,7 @@ she cheered for you, you thanked her for her support."
 "指名する","Nominate"
 "やめておく","Stop"
 "『かしこまりました。
-　7000Gの掛け金を頂きますが、よろしいですか？』","""Understood. Registering costs 7000G."""
+　7000Gの掛け金を頂きますが、よろしいですか？』","""Understood. Participating will cost 7000G."""
 "貴方は女性に7000Gを手渡した。","You handed the receptionist 7000G."
 "『ありがとうございます。貴方の番号は11番です。
 　では、これが右手、東側控室の鍵です。
@@ -370,22 +370,25 @@ she cheered for you, you thanked her for her support."
  your match. We will hand you the prize money and
  proof of victory.""
 "
-"『お金が足りません。』",""
+"『お金が足りません。』","""You don't have enough money."""
 "『現在待機中、
 　もしくは対戦募集中のプレイヤーはいません。』","""Currently there are no other players who are accepting
  matches from you."""
 "『現在貴方の指名を受け付けているプレイヤーが1人います。
-　プレイヤー名「早瀬凛」です。』","""Currently there is one player who is accepts
- nominations from you. That player's name is Hayase
- Rin."""
+　プレイヤー名「早瀬凛」です。』","""Currently there is one player who accepts nominations
+ from you. The player's name is Hayase Rin."""
 "『この方に試合を挑みますか？』","""Will you challenge this player to a match?"""
 "はい","Yes"
 "いいえ","No"
 "『ありがとうございます。貴方の番号は11番です。
 　早瀬凛様が1時間以内に応答されない場合は、
-　掛け金を返却します。アナウンスをよくお聞きください。』",""
+　掛け金を返却します。アナウンスをよくお聞きください。』","""Thank you very much. Your number is 11. If Hayase Rin
+ doesn't appear within an hour, your participation
+ money will be returned. Please carefully listen to
+ the announcer."""
 "まだ凛にお金を返していない……
-そちらの方を先に返したほうがいいだろう………",""
+そちらの方を先に返したほうがいいだろう………","You haven't paid your debt to Rin yet. You should
+start with that."
 "『試合での勝利、おめでとうございます。
 　こちらが賞金と勝利の証です。』",""
 "貴方は14000Gと勝利の証(1人目)を受けとった。",""
@@ -465,7 +468,7 @@ she cheered for you, you thanked her for her support."
 "<受付>
 『また、勝利した際には再度受付までお立ち寄りください。
 　賞金をお渡しします。』",""
-"『貴方の控室は右手側です。』",""
+"『貴方の控室は右手側です。』","""The waiting room is to the right."""
 "EV012",""
 "鍵がかかっている。","It's locked."
 "EV013",""
@@ -487,38 +490,55 @@ she cheered for you, you thanked her for her support."
  Please do your best♪"""
 "<凛>
 『あ、くそザコお兄さん♡
-　ちゃんと7700G持ってきましたかぁ？』",""
-"持ってきた",""
-"まだ…",""
+　ちゃんと7700G持ってきましたかぁ？』","<Rin>
+""Oh, it's the weak-ass♡ Do you have that 7700G yet?"""
+"持ってきた","I have it"
+"まだ…","Not yet..."
 "<凛>
 『確かに7700Gありますね♪
-　じゃ、契約通り頂きます♡』",""
-"貴方は凛に7700Gを手渡した。",""
+　じゃ、契約通り頂きます♡』","<Rin>
+""Yes, that's exactly 7700♪ The contract is fulfilled♡"""
+"貴方は凛に7700Gを手渡した。","You handed Rin 7700G."
 "<凛>
 『ありがとうございまーす♡
 　いつでも再戦は受け付けてるんで、もしもう一度、
-　私と戦いたい場合は受付で指名してくださいね♡』",""
+　私と戦いたい場合は受付で指名してくださいね♡』","<Rin>
+""Thank you♡ I'm always ready for a rematch, so if you
+ want to fight me, you can nominate me as an opponent
+ from the arena receptionist♡"""
 "<凛>
 『いつでも、ボッコボコにしてあげますんで♡
 　ま、女の子にまた負けるのが怖ければ、
-　逃げてればいいんじゃないですかぁ？くそザコくん♡』",""
+　逃げてればいいんじゃないですかぁ？くそザコくん♡』","<Rin>
+""I'll beat you up any time♡ But if you're too afraid
+ to lose to a girl, you can run from the match too♡
+ You weak-ass♡"""
 "<アル>
 『むー！！
-　次こそ、この子に勝とうね！\n[1]！』",""
+　次こそ、この子に勝とうね！\n[1]！』","<Al>
+""Mmmh! We're going to win next time! Right,
+ \n[1]!"""
 "<凛>
 『あれ？お金足りないじゃないですか。
 　さっさと店員にレベルドレインしてもらって、
-　お金作ってきてください♡』",""
+　お金作ってきてください♡』","<Rin>
+""Eh? Looks like you don't have it, though? Go to the
+ shop and have them level drain you for some money
+ already♡"""
 "<凛>
 『早く用意しないとお兄さん、私の奴隷ですからね♡
-　それが嫌なら、何をしてでもお金を作ってきてください♡』",""
+　それが嫌なら、何をしてでもお金を作ってきてください♡』","<Rin>
+""You'll become my slave if you take too much time♡
+ You need to make money one way or the another♡"""
 "<凛>
 『あ、くそザコお兄さん♡
-　ちゃんと7000G持ってきましたかぁ？』",""
+　ちゃんと7000G持ってきましたかぁ？』","<Rin>
+""Oh, it's the weak-ass♡ Do you have that 7000G yet?"""
 "<凛>
 『確かに7000Gありますね♪
-　じゃ、契約通り頂きます♡』",""
-"貴方は凛に7000Gを手渡した。",""
+　じゃ、契約通り頂きます♡』","<Rin>
+""Yes, that's exactly 7000♪ The contract is fulfilled♡"""
+"貴方は凛に7000Gを手渡した。","You handed Rin 7000G."
 "<凛>
 『あ、私にボロ負けしたくそザコお兄さん♡
 　いつでも再戦は受け付けてるんで、もしもう一度、
@@ -530,7 +550,9 @@ she cheered for you, you thanked her for her support."
 "<凛>
 『なんですか？
 　もう一度私にボコられたいなら、
-　受付から指名してくださいね♡』",""
+　受付から指名してくださいね♡』","<Rin>
+""What's up? If you want me to beat you up again,
+ nominate me for a match at the arena reception♡"""
 "『貴方の試合、見てたわよ。
 　なかなか強いじゃない。応援してるわ。』",""
 "『もし、今以上に強くなれたら……そうね、
@@ -645,20 +667,31 @@ she cheered for you, you thanked her for her support."
  so shaken?"""
 "『お、おう…………お前も負けたみたいだな。
 　そこの魔法陣から出てくるの、誰かに見られてないかとか、
-　恥ずかしくなったりしないか？』",""
-"恥ずかしくなる",""
-"恥ずかしくない",""
+　恥ずかしくなったりしないか？』","""O-Ooh... Looks like you also lost. Does it make you
+ feel embarrassed to be seen leave from that magic
+ circle?"""
+"恥ずかしくなる","It's embarrassing"
+"恥ずかしくない","It's not embarrassing"
 "『だよな…………
 　もう少し、こう、
-　分かりにくい場所に変えてくんないかなぁ……』",""
+　分かりにくい場所に変えてくんないかなぁ……』","""I think that too... I wish the magic circle was in
+ more discrete location..."
 "<アル>
 『あんまり周りの目を気にしすぎちゃダメだよ？
-　負けたって、次に勝てばいいんだからね♪』",""
+　負けたって、次に勝てばいいんだからね♪』","<Al>
+""\n[1], you shouldn't worry about other's
+ looks so much. If you lose a match, then you just need
+ to win the next time♪"""
 "『まじかよ、鋼メンタルかよ。いいなぁ……
-　俺もそんな風に考えられたら楽なんだろうなぁ…………』",""
+　俺もそんな風に考えられたら楽なんだろうなぁ…………』","""Really? You've got some nerves of steel. I wish I
+ had them too... Maybe I would have easier time if I
+ could think like you..."
 "<アル>
 『えへへ♪1度負けたって、次勝てばいいだけだもんね！
-　めげずに頑張ろ、\n[1]♪』",""
+　めげずに頑張ろ、\n[1]♪』","<Al>
+""Ehehe♪ A single loss isn't a big deal since you can
+ just win the next one, right! Let's do our best
+ wihtout feeling down, \n[1]♪"
 "『お前もまた手ひどく負けたみたいだな……
 　けどよ、あれは対戦相手が悪いぜ。』",""
 "『すい星のごとく現れて、お前で3人抜き達成。
@@ -955,7 +988,7 @@ she cheered for you, you thanked her for her support."
 "EV020",""
 "『ここは選手が入るための場所だ。
 　鍵がかかっていてそれ以外のプレイヤーは入れないぜ。』","""This door leads to a arena waiting room. Only players
- waiting for a match can enter it."""
+ waiting for a match can enter."""
 "『契約奴隷はこの町では一種のタブーだ。
 　あんまり大っぴらに話すんじゃねぇぞ。』",""
 "EV021",""
