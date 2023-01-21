@@ -1,17 +1,24 @@
-"EV001"
-"EV002"
-"EV003"
+"EV001",""
+"EV002",""
+"EV003",""
 "<アル>
 『\n[1]！そっちは闘技場だよ！
 　帰るなら上の魔法陣を使えばいい、
-　とかお医者さん言ってなかったっけ？』"
+　とかお医者さん言ってなかったっけ？』","<Al>
+""\n[1], that leads to the arena! The nurse
+ said to use the magic circle at the end of the
+ room, right?"""
 "<アル>
 『\n[1]、そっちは闘技場だよ？
-　帰るなら上の魔法陣だよね。』"
-"EV004"
-"EV005"
-"EV006"
-"EV007"
-"凛"
+　帰るなら上の魔法陣だよね。』","<Al>
+""\n[1], that leads to the arena. We need
+ to use the magic circle at the end of the room to
+ leave."""
+"EV004",""
+"EV005",""
+"EV006",""
+"EV007",""
+"凛",""
 "『お大事に。
-　上の魔法陣からお帰りください。』"
+　上の魔法陣からお帰りください。』","""God bless you. You can leave from the magic circle at
+ the end of the infirmary."""
