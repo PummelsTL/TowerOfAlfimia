@@ -1,6 +1,6 @@
 "<Filter:ティルトシフト,tiltshift,2>",""
 "EV001",""
-"宝箱のように見えるが、ただの箱のようだ","It's a box that simply looks like a treasure chest."
+"宝箱のように見えるが、ただの箱のようだ","It's a box that looks like a treasure chest."
 "EV002",""
 "EV003",""
 "EV004",""
@@ -205,25 +205,25 @@ is the type that punches the machine on loss."
 "『今じゃすっかり、
 　遊び終わった後にここで飲むのが習慣になっちゃったわ。
 　どうしてカジノってこうもお財布のひもが緩むのかしら。』","""Now it's already a habit for me to sit down for a
- drink after playing some games. I wonder what makes
- casinos to loosen the strings of your purse like
- that."""
+ drink after playing some games. It's weird how you
+ feel like loosening the strings of your purse in
+ casino."""
 "<アル>
 『せっかく遊ぶなら、
 　ぱーっと使っちゃいたいって思うからかな？
 　うんうん、その気持ち分かるなー♪』","<Al>
-""I think it's that since you're out here to play
- anyway, you want to go all out! I get what she means♪"""
+""It might be that you want to go all out since you're
+ out here to play! I can understand that feeling♪"""
 "アルが同意するようにうなずいている。
 ……アルには財布のひもを握らせないほうがよさそうだ。","Al nodded her head in agreement. You feel like you need
-to keep the strings of Al's purse tightly closed."
+to keep the strings of your purse tightly closed."
 "<アル>
 『…むー、なに？その顔は。
 　……自分だってえっちな女の子に誘惑されたら、
 　あっという間にお金使っちゃうくせに。』","<Al>
-""Mmmh... What's with that face? I don't think you can
- say anything about my spending when you used up all
- your money on some sexy time with a girl."""
+""Mmmh! What's with that face?! \n[1], I don't
+ think you can talk how to spend money when you used up
+ everything on that girl with big breasts!"""
 "EV029",""
 "『僕はお金そんなにないんだけど、
 　目の保養のためによくここに来るんだ。
@@ -297,9 +297,8 @@ to keep the strings of Al's purse tightly closed."
 『……私もほっとかれるのはやだな～…
 　そのてん、
 　ちょくちょく構ってくれる\n[1]には感謝してるよ♪』","<Al>
-""...I don't like getting neglected either.
- I'm so thankful that you're looking after me,
- \n[1]♪"
+""...I don't like getting neglected either. I'm so
+ thankful that you look after me, \n[1]♪"""
 "EV034",""
 "『やった♪大当たり！
 　今日は流れが来てるな～♪
