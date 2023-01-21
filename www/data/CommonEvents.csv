@@ -7624,7 +7624,8 @@ Level \v[5]→\C[18]Level \v[6]"
 "女性はそれだけを告げると黙り込んでしまった。",""
 "<アル>
 『\n[1]、大丈夫……？』",""
-"不安げな顔で心配するアルに、貴方は頷いた。",""
+"不安げな顔で心配するアルに、貴方は頷いた。","You nodded when Al asked about your state in uneasy
+face."
 "<アル>
 『ん、よかった♪
 　無理はしないでね？ゆっくりでも……
@@ -7632,413 +7633,696 @@ Level \v[5]→\C[18]Level \v[6]"
 "アルの闘志を燃やした言葉に励まされつつ、貴方は頷いた。",""
 "<凛>
 『あ、お兄さん♡
-　目が覚めましたか？』",""
+　目が覚めましたか？』","<Rin>
+""Ah♡ Did you finally wake up?"""
 "<凛>
 『私に負けて気絶しちゃったお兄さんは、
-　そのまま医務室に運ばれたんですよ♡』",""
-"介抱してくれた？",""
-"何か用？",""
+　そのまま医務室に運ばれたんですよ♡』","<Rin>
+""You got carried into the infirmary after you lost the
+ match and fainted♡"""
+"介抱してくれた？","Did you carry me here?"
+"何か用？","What do you want?"
 "<凛>
 『まさか♡
-　なんで私がそんなことしなきゃいけないんですか♡』",""
+　なんで私がそんなことしなきゃいけないんですか♡』","<Rin>
+""No way♡ Why would I do something like that?"""
 "<凛>
 『ただ契約の件でくぎを刺しに来ただけですよ♡
 　私が貸した7000G、
-　利子も含めてちゃーんと返してくださいね♡』",""
+　利子も含めてちゃーんと返してくださいね♡』","<Rin>
+""I just came to remind you about the terms of our
+ contract♡ Please pay back the 7000G loan you took
+ from me along with the interest♡"""
 "<凛>
 『ただ契約の件でくぎを刺しに来ただけですよ♡
-　私が貸した7000G、ちゃーんと返してくださいね♡』",""
+　私が貸した7000G、ちゃーんと返してくださいね♡』","<Rin>
+""I just came to remind you about the terms of our
+ contract♡ Please pay back the 7000G loan you took
+ from me♡"""
 "<凛>
 『じゃないとお兄さん♡
-　私の奴隷になっちゃいますよ？』",""
+　私の奴隷になっちゃいますよ？』","<Rin>
+""If you can't do that, you'll become my slave♡"""
 "<アル>
-『ど、奴隷！？』",""
+『ど、奴隷！？』","<Al>
+""S-Slave?!"""
 "彼女の言葉に、
-貴方とアルは2人で目を白黒とさせる。",""
+貴方とアルは2人で目を白黒とさせる。","You and Al were both in shock from what Rin said."
 "<凛>
 『あっはは♡お兄さんと交わした契約は、
-　破ったらそうなるものなんですよ♡』",""
+　破ったらそうなるものなんですよ♡』","<Rin>
+""Ahaha♡ That's what will happen if you break the
+ contract that you made with me♡"""
 "<凛>
 『だから、ちゃんと今日中に返してくださいね♡
-　それじゃ、私はこれで失礼します♡』",""
-"そう言って彼女は去っていった…………",""
+　それじゃ、私はこれで失礼します♡』","<Rin>
+""You have time until the day changes, so you better
+ hurry♡ Then, I will be going now♡"""
+"そう言って彼女は去っていった…………","Rin left after saying that."
 "<アル>
 『むー！完全に騙されたね…………
-　\n[1]、大丈夫……？』",""
+　\n[1]、大丈夫……？』","<Al>
+""Mmmh! She completely deceived us! \n[1],
+ are you alright?"""
 "<アル>
 『ん、よかった♪
 　無理はしないで……って言いたいところだけど、
-　早くしないとあの子の奴隷になっちゃうんだよね………』",""
+　早くしないとあの子の奴隷になっちゃうんだよね………』","<Al>
+""Thank goodness♪ Please don't push yourself... Is what
+ I'd like to say, but we need to hurry or you'll become
+ that girl's slave..."""
 "<アル>
 『辛いと思うけど、がんばろっ！
-　私が一緒にいるよ。\n[1]！』",""
-"貴方はそう自分を励ますアルに、感謝の言葉を告げた。",""
+　私が一緒にいるよ。\n[1]！』","<Al>
+""It might be tough, but let's do our best! Remember
+ that I'm with you, \n[1]!"""
+"貴方はそう自分を励ますアルに、感謝の言葉を告げた。","You thanked Al when she cheered you up."
 "<凛>
 『くすくす♡
 　背中を見せて隙だらけなのに、
-　私のお尻に見惚れて攻撃できないんですね♡』",""
+　私のお尻に見惚れて攻撃できないんですね♡』","<Rin>
+""Ahaha♡ I have my back wide open for you, but you're
+ so charmed by my ass that you can't attack at all♡"""
 "凛は貴方に背を向けながら、
-可愛くお尻を左右に振って誘惑しながら貴方をそうからかう。",""
+可愛くお尻を左右に振って誘惑しながら貴方をそうからかう。","Rin made fun of you while she seductively shook her
+cute ass left and right with her back facing you."
 "<凛>
 『このお尻に顔を潰される快感が忘れられなくて、
-　もう一度私と試合してる変態マゾ♡』",""
+　もう一度私と試合してる変態マゾ♡』","<Rin>
+""You're a masochist pervert who couldn't forget how
+ amazing it felt when I crushed your face with my ass♡
+ That's why you challenged me into a rematch♡"""
 "<凛>
 『そんなお兄さんが、
 　私のエッチなお尻の誘惑に逆らえるわけないですよね♡
-　ほらほらぁ♡もっと見ていいんですよ♡』",""
+　ほらほらぁ♡もっと見ていいんですよ♡』","<Rin>
+""There's not a chance that you could resist the sexy
+ temptations of my ass because of that♡ Just go ahead
+ and keep looking at it♡"""
 "可愛らしく貴方を誘惑する様に左右に揺れるお尻に、
-ダメだと考えても目が吸い寄せられ、動けない。",""
+ダメだと考えても目が吸い寄せられ、動けない。","When Rin sweetly tempted you by shaking her ass left
+and right, your eyes were so drawn to it that you
+couldn't move even if you tried to."
 "<凛>
 『それじゃ、そうやって私のお尻に見惚れたまま♡
 　情けなーく負けちゃってくださいね♡
-　えいっ♡ヒップアタック♡』",""
+　えいっ♡ヒップアタック♡』","<Rin>
+""Now that you're charmed by my ass...♡ Miserably lose
+ to it♡ Hip Attack♡"""
 "<凛>
 『お尻が顔に当たるたびに、
-　試合中だっていうことも気持ちよくなっちゃう♡』",""
+　試合中だっていうことも気持ちよくなっちゃう♡』","<Rin>
+""You're getting turned on every time I smack your face
+ with my ass even when we're in a middle of a match♡"""
 "<凛>
 『このままじゃまた負けちゃう♡
 　それが分かってても、
-　私のお尻から目をそらせないんですよね？』",""
+　私のお尻から目をそらせないんですよね？』","<Rin>
+""At this rate, you're going to lose just like last
+ time♡ Even when you know that, you can't take your
+ eyes away from ass, right?"""
 "<凛>
 『ヒップアタックで攻撃されて、マゾおちんぽ勃起させて、
-　棒立ちになって私にされるがまま♡恥ずかしいお兄さん♡』",""
+　棒立ちになって私にされるがまま♡恥ずかしいお兄さん♡』","<Rin>
+""You're just standing still as a free target for my
+ Hip Attacks with your masochistic dick in boner♡
+ That's so shameful to watch♡"""
 "貴方の顔に先ほど打ち付けたお尻を貴方に見せつけながら、
-凛はくすくすと笑ってそう煽る。",""
+凛はくすくすと笑ってそう煽る。","After smacking you in the face with her ass, Rin made
+fun of you while shaking her ass."
 "<凛>
 『さ、もう一度ヒップアタックしてあげます♡
 　女の子のお尻に弄ばれて、
-　マゾおちんぽ気持ちよくなっちゃえ♡』",""
+　マゾおちんぽ気持ちよくなっちゃえ♡』","<Rin>
+""Here's another Hip Attack♡ Get your masochistic dick
+ rock hard as a girl toys you with her ass♡"""
 "<凛>
 『あっはは♡気持ちくなりすぎて射精までしちゃいましたね♡
 　お尻で攻撃されてるだけでイっちゃうところ、
-　みんなに見られちゃいましたよー♡』",""
+　みんなに見られちゃいましたよー♡』","<Rin>
+""Ahaha♡ Did it feel so good that you blew your load?
+ Everyone in the audience saw how you cummed from a
+ Hip Attack to the face♡"""
 "<凛>
 『マゾおちんぽギンギンに勃起させて、息も荒くして♡
-　もう私に負けちゃう準備は万端ですね♡』",""
+　もう私に負けちゃう準備は万端ですね♡』","<Rin>
+""Your masochistic dick is in full boner and your
+ breathing is ragged♡ Looks like you're fully ready
+ to lose against me♡"""
 "<凛>
 『それじゃ、お兄さんがお待ちかねのア・レ♡
 　してあげますね♡
-　ほら、まずはヒップアタックでダウンをとって♡えいっ♡』",""
+　ほら、まずはヒップアタックでダウンをとって♡えいっ♡』","<Rin>
+""It's time for what you've been waiting for♡ But first
+ we need to get you on the floor with a hip attack♡
+ There♡"""
 "凛はそう宣言しながら、貴方の顔を柔らかなお尻で打ち抜き、
-倒れた貴方の顔に体重を乗せてお尻で圧迫する。",""
+倒れた貴方の顔に体重を乗せてお尻で圧迫する。","After saying that, Rin knocked you down by smacking
+her soft ass on your face, and then she sat on your
+face with her full body weight behind it."
 "<凛>
 『はーい♡このままお兄さんの弱点虐めてあげます♡
 　この前のマゾおちんぽ公開処刑♡
-　思い出させてあげますね？シコシコ♡シコシコ♡』",""
+　思い出させてあげますね？シコシコ♡シコシコ♡』","<Rin>
+""There we go♡ Now I'm going to play with your weak
+ spot♡ I'm going to publicly execute your masochist
+ dick just like last time♡ Can you remember it?"""
 "<凛>
 『あっはは♡おちんぽビクビクさせて♡
 　みんなの前でお尻に潰されておちんぽシコシコされるのが、
-　そんなに気持ちいいんですね♡』",""
+　そんなに気持ちいいんですね♡』","<Rin>
+""Ahaha♡ Your dick is twitching♡ It feels just that
+ good when there's a girl sitting on your face and
+ giving you a handjob before an audience♡"""
 "<凛>
 『じゃ、この前みたいに♡
 　お兄さんのこのマゾおちんぽから降参精液でちゃうところ♡
-　みんなにも見てもらいましょうね♡シコシコ♡』",""
+　みんなにも見てもらいましょうね♡シコシコ♡』","<Rin>
+""Then let's give everyone a full show like before♡
+ Let's show them how your masochistic dick is going to
+ give up by shooting its cum again♡"""
 "凛はむっちりとした柔らかなお尻で、
 貴方の顔をむぎゅっと圧迫しながら、
-肉棒を握りしめてリズムカルに上下に動かし続ける。",""
+肉棒を握りしめてリズムカルに上下に動かし続ける。","Rin stroked your penis in a fixed rhythm while pinning
+down your face under her soft and thick ass."
 "<凛>
 『我慢なんてしても無駄ですからねー♡
 　よわーいお兄さんのマゾおちんぽじゃ私の技に勝てない、
-　それは前の試合でよく分かってるはずですよ♡』",""
+　それは前の試合でよく分かってるはずですよ♡』","<Rin>
+""Attempting to endure is pointless♡ Your weak
+ masochistic dick has no chance before my techniques♡
+ You should have realized that in the last match♡"""
 "<凛>
 『ま、お兄さんはそれが分かってるくせに、
 　もう一度私と試合してるお馬鹿さんなので、
-　言っても無駄だと思いますけど♡』",""
+　言っても無駄だと思いますけど♡』","<Rin>
+""But since you're so stupid that you challenged me to
+ a match even when you already knew that, I guess it's
+ pointless to say that♡"""
 "<凛>
 『だから、お兄さんじゃなくて、
 　このマゾおちんぽさんにもう一度、
-　私には勝てないって教えてあげますねー♡シコシコ♡』",""
+　私には勝てないって教えてあげますねー♡シコシコ♡』","<Rin>
+""That's why I'll ignore you and teach your masochist
+ dick how it has no chance to win against me instead♡"""
 "<凛>
 『はーい♡相変わらずおちんぽの方は素直ないい子ですね♡
-　上手に降参射精出来て偉いですよ♡あっはは♡』",""
+　上手に降参射精出来て偉いですよ♡あっはは♡』","<Rin>
+""Yes♡ Your dick is still a good obedient boy like
+ before♡ It's such a good boy for giving up and
+ shooting its semen♡ Ahaha♡"""
 "<凛>
 『どうですかぁ？
-　情けなーくお尻に潰されながらおちんぽシコシコされて♡』",""
+　情けなーくお尻に潰されながらおちんぽシコシコされて♡』","<Rin>
+""How is it? How does it feel to miserably lay on the
+ ground while a girl sit on your face and strokes your
+ dick?"""
 "<凛>
 『私に勝負を挑んだ自分を今更後悔してたりしてますか？
 　あぁ、なんで勝てるはずもないのに、
-　勝負しちゃったんだろうって♡くすくす♡』",""
+　勝負しちゃったんだろうって♡くすくす♡』","<Rin>
+""Are you regretting challenging me into a rematch?
+ Challenging me even when you have zero chance to win♡
+ Ahaha♡"""
 "凛はむっちりとしたお尻を貴方の顔に擦りつけ、
-細い指先で肉棒を艶めかしく上下に扱きながらそう尋ねる。",""
+細い指先で肉棒を艶めかしく上下に扱きながらそう尋ねる。","Rin asked how you felt while rubbing her ass on your
+face and stroking your penis with her slender finger
+tips."
 "<凛>
 『でも、私にはお兄さんが私にもう一度勝負を挑んだ理由、
-　よーくわかりますよ♡』",""
+　よーくわかりますよ♡』","<Rin>
+""However, I know the exact reason why you challenged me
+ into a rematch♡"""
 "<凛>
 『それは、お兄さんがこうやって、
 　みんなの前で女の子に負けるのが大好きな、
-　どうしようもない変態マゾだからです♡』",""
+　どうしようもない変態マゾだからです♡』","<Rin>
+""You're a hopeless masochistic pervert who loves to
+ lose to a girl while a lot of people are watching♡
+ That's the sole reason♡"""
 "貴方の顔にお尻を擦りつけながら、
 得意げに解説する凛の言葉に貴方は抗議の言葉をあげるが、
-やはり以前のようにお尻に封じ込められて言葉にならない。",""
+やはり以前のようにお尻に封じ込められて言葉にならない。","When Rin said the reason while rubbing her ass on your
+face, you tried to protest, but you couldn't speak when
+she was blocking your mouth with her ass just like
+before."
 "<凛>
 『あっはは♡ふがふが言ってみっともないですね♡
 　もしかして、違うって言いたいんですか？
-　シコシコ♡シコシコ♡』",""
+　シコシコ♡シコシコ♡』","<Rin>
+""Ahaha♡ It looks so shameful when you're mumbling
+ under my ass♡ Are you perhaps trying to say that's
+ not the reason?"""
 "<凛>
 『でも、おちんぽの先っぽをぬるぬるさせながら、
-　否定したって説得力がありませんよ♡この変態マゾ♡』",""
+　否定したって説得力がありませんよ♡この変態マゾ♡』","<Rin>
+""However, you can't really deny it when your dick is
+ dripping in precum♡ You masochistic pervert♡"""
 "<凛>
 『お兄さんはこうやって私に虐められるのが好き♡
 　みんなの前で無理やりイかされるのが好き♡
-　だからすぐに我慢汁が出てきちゃう♡』",""
+　だからすぐに我慢汁が出てきちゃう♡』","<Rin>
+""You love to be toyed like this♡ You love to be forced
+ to cum while everyone is watching♡ That's why your
+ precum started leaking so quickly♡"""
 "<凛>
 『ほら、ほら♡どうせすぐに我慢汁だけじゃなくて、
 　お尻に敷かれてこのまま白い精液まで出しちゃいますよね♡
-　シコシコ♡シコシコ♡』",""
+　シコシコ♡シコシコ♡』","<Rin>
+""Soon it won't be just your precum either♡ You're
+ going to shoot your white semen while laying under
+ my ass too♡"""
 "<凛>
 『くすくす♡おちんぽ負けて射精しちゃった♡
 　ね？私が言った通りだったでしょ？♡
-　変態マゾのお兄さん♡』",""
+　変態マゾのお兄さん♡』","<Rin>
+""Ahaha♡ Your dick lost and blew its load♡ It turned
+ out exactly as I said♡ You masochistic pervert♡"""
 "<凛>
 『おちんぽ情けなくビクビクさせて、
-　もうそろそろお尻に敷かれて敗北お射精の時間ですかー？』",""
+　もうそろそろお尻に敷かれて敗北お射精の時間ですかー？』","<Rin>
+""Your dick is starting to twitch so hard♡ Is it about
+ time you cum and lose while completely dominated under
+ my ass?"""
 "凛は貴方の顔を柔らかなお尻の下敷きにし、
-情けなく震えるあなたの肉棒を激しく手で扱く。",""
+情けなく震えるあなたの肉棒を激しく手で扱く。","Rin pushed her soft ass on your face and stroked your
+penis that was twitching non-stop."
 "<凛>
 『くすくす♡だから最初に言ったじゃないですか♡
 　よわーい変態マゾのお兄さんじゃ、
-　何回戦っても結果は変わらないって♡』",""
+　何回戦っても結果は変わらないって♡』","<Rin>
+""Ahaha♡ Didn't I say it at the start? A weak
+ masochistic pervert like you has no chance in beating
+ me no matter how many times you try♡"""
 "<凛>
 『ま、私としては、
 　お兄さんみたいな聞き分けのないお馬鹿さんは、
-　いいカモになるので助かりますけどね♡』",""
+　いいカモになるので助かりますけどね♡』","<Rin>
+""Althought, I'm thankful to have such an easy and
+ stupid prey who won't learn from his mistake♡"""
 "貴方を見下してお尻で顔をつぶしたまま、
-もうこのまま自分の勝利を疑わない様に凛はくすくすと笑う。",""
+もうこのまま自分の勝利を疑わない様に凛はくすくすと笑う。","While sitting on your face and looking down on you,
+Rin giggled with full confidence that she was going
+to win."
 "<凛>
 『ほら、女の子のお尻に敷かれた恥ずかしい恰好のまま、
-　気持ちよく負けさせてあげますから♡』",""
+　気持ちよく負けさせてあげますから♡』","<Rin>
+""I'll keep you shamefully lying under my ass as I make
+ you lose in an amazing orgasm...♡"""
 "<凛>
 『また私に7000Gの大金、くださいね♡
-　シコシコ♡シコシコ♡』",""
+　シコシコ♡シコシコ♡』","<Rin>
+""So give me another 7000G as prize money♡"""
 "<凛>
 『くすくす♡
 　今度こそ私に勝つつもりだったのに残念ですね♡
-　お兄さんのマゾおちんぽは返り討ち♡』",""
+　お兄さんのマゾおちんぽは返り討ち♡』","<Rin>
+""Ahaha♡ You were really trying to win the match this
+ time, but it's too bad♡ Your masochist dick won't
+ do it this time either♡"""
 "<凛>
 『ま、そもそもこんなものが付いてるのに、
 　私に勝とうとするのが間違いだったんですよ♡
-　負けて気持ちよくなっちゃう欠陥品なんか♡』",""
+　負けて気持ちよくなっちゃう欠陥品なんか♡』","<Rin>
+""To begin with, it's a mistake to think that you can
+ win against me when you have a masochistic dick♡ It's
+ a defective product that finds pleasure in losing♡"""
 "凛のそんな嘲りに悔しさを煽られても、
-限界を超えた快楽に精液がのぼってきてしまう。",""
+限界を超えた快楽に精液がのぼってきてしまう。","Even when Rin was making fun of you that badly, you
+were at the edge of orgasm from the overwhelming
+pleasure."
 "<凛>
 『ほら、この欠陥品、もうイきそうですよ♡
 　みんなに見られながら、恥ずかしいお射精しましょうねー♡
-　はい、シコシコ♡シコシコ♡びゅーびゅー♡』",""
+　はい、シコシコ♡シコシコ♡びゅーびゅー♡』","<Rin>
+""Hey, your defective dick is about to cum♡ Go ahead
+ and shamefully shoot your load while everyone is
+ watching♡ Blow it all over the arena♡"""
 "<凛>
 『あっはは♡結局お兄さんのマゾおちんぽ、
 　私にサクッとイかされちゃいましたね♡
-　口だけ立派でカッコ悪いお兄さん♡』",""
+　口だけ立派でカッコ悪いお兄さん♡』","<Rin>
+""Ahaha♡ After all, your masochist dick gave up so
+ quickly♡ You can say all that cool stuff with your
+ mouth but the rest of you screams masochism♡"""
 "<凛>
 『お兄さんは剣を振り回してるのに、
 　女の子のやわらかーいお尻なんかに、
-　ここまでボコボコにされて恥ずかしいですね♡』",""
+　ここまでボコボコにされて恥ずかしいですね♡』","<Rin>
+""It must be so embarrassing to be beaten up by a girl's
+ soft ass this hard when you're fighting with a real
+ sword♡"""
 "<凛>
 『まぁそれも、変態マゾなら仕方ないことです♡
 　変態マゾのお兄さんなら女の子に勝てなくても仕方ない♡
-　くすくす♡』",""
+　くすくす♡』","<Rin>
+""But that can't be helped when you're a masochistic
+ pervert♡ Your chances to win against a girl are
+ zero♡"""
 "貴方を見下したまま、くすくすと嘲笑を受けべる凛の言葉に、
-貴方は否定の言葉を返す。",""
+貴方は否定の言葉を返す。","When Rin made fun of you and looked down on you, you
+denied what she said."
 "<凛>
 『はいはい、お兄さんの口だけのそんな言葉♡
 　私どころか、観客のみんなだって信じてませんよ♡
-　だって、ほら♡』",""
+　だって、ほら♡』","<Rin>
+""Yes, yes♡ It's only your mouth says things like
+ that♡ There's no way me nor the audience will believe
+ that♡ After all...♡"""
 "凛は振り返ってお尻を突き出し、
-貴方を散々苦しめたお尻をアピールする様に見せつける。",""
+貴方を散々苦しめたお尻をアピールする様に見せつける。","Rin turned around, thrust out her ass, and showed it
+off."
 "<凛>
 『お兄さんを何度も恥ずかしい目に合わせた私のお尻に、
 　目がハートになっちゃてるじゃないですか♡
-　そんな隙だらけのお兄さんにヒップアタック♡』",""
+　そんな隙だらけのお兄さんにヒップアタック♡』","<Rin>
+""Your eyes turn into hearts when I show off my ass to
+ you♡ The ass that has grinded your face to the
+ ground♡ You're wide open, so have a hip attack♡"""
 "<凛>
 『ほら、ほら♡
 　女の子のお尻に滅多打ちにされたまま抵抗できない、
-　お兄さんのどこが変態マゾじゃないって言うんですか♡』",""
+　お兄さんのどこが変態マゾじゃないって言うんですか♡』","<Rin>
+""There♡ And there♡ You can't resist at all when a
+ girl is beating you up with her ass♡ Are you really
+ trying to say that you aren't a masochist?"""
 "柔らかく何度も彼女のお尻が貴方の顔面を襲う。
-甘く柔らかい衝撃に、嫌でも貴方は意志を溶かされていく。",""
+甘く柔らかい衝撃に、嫌でも貴方は意志を溶かされていく。","Rin smacked your face with her ass again and again.
+The soft sensation of it melted away your intention to
+fight even when you tried to resist."
 "<凛>
 『お顔も緩んできましたよ♡
 　自分が変態マゾじゃないって否定したいなら、
-　気持ちよくなっちゃいけないのに♡』",""
+　気持ちよくなっちゃいけないのに♡』","<Rin>
+""Now your face is also getting sloppy♡ If you want to
+ say that you aren't a masochist, you shouldn't enjoy
+ the sensation of my ass on your face like that♡"""
 "<凛>
 『ヒップアタックされるたびにおちんぽビクビクさせて、
-　恥ずかしいお兄さん♡やっぱり口だけですね♡』",""
+　恥ずかしいお兄さん♡やっぱり口だけですね♡』","<Rin>
+""Your dick is also twitches to my every hip attack♡
+ You're shameful pervert who's all talk♡"""
 "<凛>
 『あっはは♡ヒップアタックで射精しちゃったんですか♡
 　こんな恥ずかしい射精するくせに、
-　よく自分はマゾじゃないなんて言えましたね♡』",""
+　よく自分はマゾじゃないなんて言えましたね♡』","<Rin>
+""Ahaha♡ Did you cum with that hip attack? I can't
+ believe you can insist that you're not a masochist 
+ when you blow your load in such a shameful way♡"""
 "<凛>
 『お兄さんのマゾおちんぽ、もう待ちきれませんよね♡
-　そろそろあの技でもう一度♡公開処刑してあげますよ♡』",""
+　そろそろあの技でもう一度♡公開処刑してあげますよ♡』","<Rin>
+""Looks like your masochist dick can't wait any longer♡
+ I'm going to publicly execute you with the same
+ technique again♡"""
 "凛は貴方を押し倒し、顔の上に自分のお尻を乗せる。
-そのままビクビク震える肉棒にそっと手を添える。",""
+そのままビクビク震える肉棒にそっと手を添える。","Rin pushed you down and sat down on your face. Then
+she wrapped her fingers around your twitching penis."
 "<凛>
 『お兄さんがなんどもおちんぽ負けたこの体勢♡
 　こうなっちゃたら後はもう、
-　無様に敗北射精するしかないですよねー♡シコシコ♡』",""
+　無様に敗北射精するしかないですよねー♡シコシコ♡』","<Rin>
+""Your dick has already lost so many times in this
+ position♡ Now that I'm sitting on your face, your
+ only option is to shamefully cum and lose♡"""
 "<凛>
 『ほらほら、軽ーくシコシコしてるだけで、
 　息が荒くなっちゃってるじゃないですか♡
-　こんな調子じゃ、またすぐイっちゃいますよ♡』",""
+　こんな調子じゃ、またすぐイっちゃいますよ♡』","<Rin>
+""Your breathing is getting so hard from a little bit of
+ stroking♡ You're going to cum right away just like
+ before♡"""
 "<凛>
 『少しくらいは耐えてくださいね？
-　じゃないと、パフォーマンスとして面白くないので♡』",""
+　じゃないと、パフォーマンスとして面白くないので♡』","<Rin>
+""Why don't you try to endure and hang on a little?
+ This won't be an interesting performance for the
+ audience if you don't♡"""
 "凛は貴方の顔をお尻の下敷きにしたまま、
 自分かってん都合を貴方に言い聞かせながら、
-ニコニコと笑顔を観客に振りまく。",""
+ニコニコと笑顔を観客に振りまく。","Rin told you whatever she liked while sitting on your
+face and waving to the audience in smile."
 "<凛>
 『みんなー♡このお兄さんが私のお尻に敷かれて、
 　おちんぽシコシコされちゃってる恥ずかしい姿、
-　もう一度しっかり見ててあげてくださいね♡』",""
+　もう一度しっかり見ててあげてくださいね♡』","<Rin>
+""Everyone♡ Please closely watch how this masochist
+ wants to show off one more time how much he enjoys
+ getting a handjob while I sit on his face♡"""
 "<凛>
 『このお兄さんは、みんなの見てる前で女の子に虐められて、
-　興奮しちゃう変態マゾなので♡シコシコ♡シコシコ♡』",""
+　興奮しちゃう変態マゾなので♡シコシコ♡シコシコ♡』","<Rin>
+""He's just that hardcore of a masochist who gets turned
+ on when a girl toys him before an audience♡"""
 "<凛>
 『あっはは♡お兄さんに少しくらい耐えて、
-　なんて無理なお願いでしたね♡ごめんなさい♡』",""
+　なんて無理なお願いでしたね♡ごめんなさい♡』","<Rin>
+""Ahaha♡ Looks like my request to endure a little
+ longer wasn't possible for you♡ Sorry for asking
+ the impossible♡"""
 "<凛>
 『ほらほらぁ♡
 　私のお尻に敷かれてまた負けちゃいますよー♡
-　負けた後には………♡シコシコ♡シコシコ♡』",""
+　負けた後には………♡シコシコ♡シコシコ♡』","<Rin>
+""Hey♡ You're going to lose under my ass again♡ And
+ after you've lost...♡"""
 "凛は貴方の顔をお尻ですり潰すように擦りつけながら、
-肉棒を強く握って上下に扱く。",""
+肉棒を強く握って上下に扱く。","Rin rubbed her ass on your face and stroked your penis
+hard."
 "<凛>
 『変態マゾのお兄さんにとっては嬉しいご褒美♡
 　みんなに見られながらの公開処刑レベルドレインが、
-　待ってますからね♡シコシコ♡』",""
+　待ってますからね♡シコシコ♡』","<Rin>
+""I have a wonderful reward for a masochist pervert like
+ you♡ A public level draining before the whole
+ audience♡"""
 "肉棒を扱きながらくすくすと笑う凛の言葉に、
 前回のあの人としての尊厳を奪われるような、
-屈辱的な凌辱の記憶がフラッシュバックする。",""
+屈辱的な凌辱の記憶がフラッシュバックする。","When Rin giggled and reminded what happens after you
+lose, you got a flashback of the last time when she
+shattered your pride and humiliated you."
 "<凛>
 『あ、おちんぽびくって震えましたよ♡
-　思い出して、待ちきれなくなっちゃいましたか？』",""
+　思い出して、待ちきれなくなっちゃいましたか？』","<Rin>
+""Ah, your dick twitched just now♡ Did you remember
+ what happened last time and can barely wait for it?"""
 "<凛>
 『ほんとに変態マゾおちんぽですね♡
-　ほらほら、気持ちいいレベルドレインの前に♡』",""
+　ほらほら、気持ちいいレベルドレインの前に♡』","<Rin>
+""Your dick is full blown masochist pervert♡ But before
+ you can get the amazing level draining...♡"""
 "<凛>
 『コロシアムの真剣勝負で女の子に負けちゃう、
 　恥ずかしい敗北射精で気持ちよくなっちゃいましょうね♡
-　シコシコ♡シコシコ♡』",""
+　シコシコ♡シコシコ♡』","<Rin>
+""You need to shamefully lose and cum in our official
+ Colosseum match♡ That's how exactly what feels the
+ best for masochist like you, right?"""
 "<凛>
 『おちんぽまたぬるぬるしてきましたね♡
-　ちゃーんと敗北お射精の準備が出来て偉いですよ♡』",""
+　ちゃーんと敗北お射精の準備が出来て偉いですよ♡』","<Rin>
+""Your dick is getting wet again♡ It's such a good boy
+ for getting ready to cum and lose♡"""
 "凛はそう言いながら、あふれてくる我慢汁を塗りたくる様に、
-肉棒をすべすべの手のひらで撫でまわす。",""
+肉棒をすべすべの手のひらで撫でまわす。","After saying that, Rin spread the precum around your
+penis in her handjob."
 "<凛>
 『じゃ、そんな偉い偉いマゾおちんぽは、
 　このまま何も抵抗できずに、
-　女の子にイかされちゃいましょうね♡シコシコ♡』",""
+　女の子にイかされちゃいましょうね♡シコシコ♡』","<Rin>
+""Your good boy, your masochist dick, should continue
+ like that and cum without resisting at all♡"""
 "<凛>
 『あっはは♡敗北お射精もうまくできましたね♡
 　今度こそ勝つ、なんて言ってたくせに、
-　恥ずかしい負け方♡』",""
+　恥ずかしい負け方♡』","<Rin>
+""Ahaha♡ Yes, that's a good defeat orgasm♡ You said
+ that you would win this time, but you lost in such a
+ shameful way in the end♡"""
 "<凛>
 『あ、もうイきそうですね♡
 　お兄さんのマゾおちんぽのこと、
-　もう私には手に取るようにわかっちゃいます♡』",""
+　もう私には手に取るようにわかっちゃいます♡』","<Rin>
+""Ah, you're about to cum, right? I can clearly read
+ your masochist penis♡"""
 "<凛>
 『もう、何回もイかせちゃいましたから♡
 　弱点も、頼りない耐久力も♡
-　ぜーんぶ私には丸わかりです♡』",""
+　ぜーんぶ私には丸わかりです♡』","<Rin>
+""I've made you cum so many times that I've figured out
+ its weak spots and hopelessly low stamina too♡ I can
+ read it like open book♡"""
 "<凛>
 『だからぁ♡お兄さんはもうずっと、
 　私には勝てないんですよ♡
-　ずっとカモにされて、利用されるしかない♡シコシコ♡』",""
+　ずっとカモにされて、利用されるしかない♡シコシコ♡』","<Rin>
+""That's why you can never beat me because of your
+ dick♡ You'll always remain easy prey who I can
+ exploit for money and EXP♡"""
 "凛はまるでそれが事実だと断言するように言いながら、
-ぐちゅぐちゅと音を立て激しく肉棒を扱く。",""
+ぐちゅぐちゅと音を立て激しく肉棒を扱く。","Rin said that as if it was the undeniable truth while
+stroking your penis in loud wet sounds."
 "そんなこと認めたくない、
 そう思う貴方の意思に反して、肉棒は快感に震え、
-着実に追い詰められていく。",""
+着実に追い詰められていく。","You didn't want to admit it, but even then, your penis
+continued twitching in Rin's handjob as she was slowly
+but surely cornering it."
 "<凛>
 『ま、負けるのもお兄さんにとっては悪くないですよね♡
 　ちゃんと毎回こうして、
-　マゾおちんぽ気持ちよくしてあげますから♡シコシコ♡』",""
+　マゾおちんぽ気持ちよくしてあげますから♡シコシコ♡』","<Rin>
+""Well, it's not like losing is bad for you, right? 
+ I'll pleasure your masochist like this every time
+ you lose♡"""
 "<凛>
 『ほら、ほら♡
 　どうせ試合に負けて7000Gを私に取られるんだったら、
-　何回もイかされた方がお得ですよ♡』",""
+　何回もイかされた方がお得ですよ♡』","<Rin>
+""You're going to lose the match and the 7000G
+ participating money to me anyway, so you should
+ go all out and orgasm as many times as you can♡"""
 "<凛>
 『お兄さんが私に勝つなんてもう無理なんですから♡
 　ね？諦めてマゾおちんぽから何度も、
-　降参精液びゅーびゅーしちゃいましょう♡シコシコ♡』",""
+　降参精液びゅーびゅーしちゃいましょう♡シコシコ♡』","<Rin>
+""After all, you can't win at this point♡ So why not
+ give up? Give up and shoot your defeat semen as many
+ times as you can from your masochist dick♡"""
 "凛はむぎゅっと貴方の顔を押しつぶし、
 そう言い聞かせながらカリ首周辺を握りしめ、
-引っ掛けるようにしながら重点的に往復する。",""
+引っ掛けるようにしながら重点的に往復する。","After advising you what to do, Rin crushed your face
+under her ass and wrapped her fingers tightly around
+your glans as she began focused stroking on them."
 "<凛>
 『くすくす♡はい、またマゾおちんぽの負け♡
 　お尻に敷かれた恥ずかしい恰好のまま、
-　情けなーく射精しろ♡イけ♡シコシコ♡シコシコ♡』",""
+　情けなーく射精しろ♡イけ♡シコシコ♡シコシコ♡』","<Rin>
+""Ahaha♡ Yes, your masochist dick is losing♡
+ Shamefully cum while laying under my ass♡ Cum♡"""
 "<凛>
 『またみんなに見られながらイっちゃいましたね♡
 　まだ気持ちよくなりたいですか？
-　それとも、もう立てませんか？♡』",""
+　それとも、もう立てませんか？♡』","<Rin>
+""You cummed while everyone is watching again♡ Do you
+ want me to pleasure you into another orgasm Or maybe
+ you can't stand up anymore?"""
 "<凛>
 『まだ立ち上がれるなら、
 　またお尻でボコボコにしてあげますけど♡
-　どうしますか、変態マゾお兄さん♡』",""
+　どうしますか、変態マゾお兄さん♡』","<Rin>
+""If you'll stand up, I'll beat you up with my ass
+ again♡ What do you want to do? You masochist
+ pervert♡"""
 "凛は貴方の顔からお尻を放して立ち上がり、
-倒れ伏す貴方を覗き込みながら笑顔でそう問いかける。",""
+倒れ伏す貴方を覗き込みながら笑顔でそう問いかける。","Rin stood up and released your face from under her ass.
+Then she looked down on you in smile and asked what you
+wanted to do."
 "<凛>
 『みんなー、私がこの自分は強いんだって思いこんでる、
 　勘違いマゾお兄さんをこのまま、
-　ボッコボコにしちゃいますからねー♡んー……ちゅっ♡』",""
+　ボッコボコにしちゃいますからねー♡んー……ちゅっ♡』","<Rin>
+""Everyone♡ Please watch how I beat this masochists who
+ thinks he's strong enough to beat a girl in a fight♡
+ Mmmh... Smooch♡"""
 "凛は観客に可愛らしく投げキッスをしながらそう宣言し、
-貴方の方を見て、挑発する様に手のひらを曲げる。",""
+貴方の方を見て、挑発する様に手のひらを曲げる。","Rin spoke to the audience and blew a kiss at them. Then
+she taunted you by beckoning with her hand."
 "明らかに余裕だということをアピールされれば、
-貴方は頭に血がのぼり、やみくもに突っ込んでしまう。",""
+貴方は頭に血がのぼり、やみくもに突っ込んでしまう。","Rin's confident attitude made the blood rush to your
+head, and you blindly charged at her."
 "<凛>
 『くすくす♡ほんとに馬鹿の一つ覚え♡
-　挑発されたら、突進するしかできないんですか？』",""
+　挑発されたら、突進するしかできないんですか？』","<Rin>
+""Ahaha♡ You seriously won't learn♡ Can you do nothing
+ but charge at my taunts?"""
 "そんな貴方の突進を躱しながら、
-凛は貴方のほほに手を当て、至近距離で見つめてそう煽る。",""
+凛は貴方のほほに手を当て、至近距離で見つめてそう煽る。","While evading your charge, Rin placed her hand on your
+cheek and taunted you at close range."
 "<凛>
 『弱い人は弱い人なりに、考えて戦わないと♡
-　弱いくせにお馬鹿さんなんて、救いようがないですよ？』",""
+　弱いくせにお馬鹿さんなんて、救いようがないですよ？』","<Rin>
+""Weak people need to carefully think how they fight♡
+ There's no helping someone like you who's weak and
+ stupid♡"""
 "貴方余裕を見せつけるように攻撃することなく、
-上から目線で説教をする凛を貴方は力任せに振り払う。",""
+上から目線で説教をする凛を貴方は力任せに振り払う。","Rin preached you about fighting without attacking to
+show off how she has the high ground. After she said
+that, you attacked her with everything you have."
 "<凛>
 『あっはは♡そういうムキになるところがお馬鹿さんだって、
 　言ってるんですよ♡ほら、
-　隙だらけのお兄さんの顔にヒップアタック♡』",""
+　隙だらけのお兄さんの顔にヒップアタック♡』","<Rin>
+""Ahaha♡ You're stupid because you're get so easily
+ angry at my taunts♡ Since you're wide open, here's
+ a hip attack on your face♡"""
 "<凛>
 『あれ？またイっちゃったんですか？
 　もう私にボコボコにされるの、
-　癖になってるじゃないですか♡変態マゾ♡』",""
+　癖になってるじゃないですか♡変態マゾ♡』","<Rin>
+""Oh? Did you cum already? Have you become addicted to
+ getting beaten up by me? You masochist pervert♡"""
 "<凛>
 『ほらほら♡立ってください♡
 　こんなに簡単に終わったら、
-　盛り上がらないじゃないですかー♡』",""
+　盛り上がらないじゃないですかー♡』","<Rin>
+""Hey♡ Stand up♡ The crowd won't get excited if you're
+ finished this easily♡"""
 "凛はヒップアタックでしりもちをついてしまった貴方に、
-自分のお尻を軽く手のひらで叩く様子を見せつける。",""
+自分のお尻を軽く手のひらで叩く様子を見せつける。","When you fell down from Rin's hip attack, she slapped
+her ass at you in taunt."
 "<凛>
 『ほらほらぁ♡
 　思い出してくださーい♡
-　この前お兄さんのことをボコボコにしちゃった私のお尻♡』",""
+　この前お兄さんのことをボコボコにしちゃった私のお尻♡』","<Rin>
+""Hey♡ Can you remember my ass? The ass that beat you
+ up in our last match♡"""
 "凛は貴方を思いっきり見下した態度で振り返ると、
-そのままお尻を突き出して誘惑する様に軽く左右に振る。",""
+そのままお尻を突き出して誘惑する様に軽く左右に振る。","Rin said that in mocking attitude before turning around
+and shaking her ass at you in temptation."
 "ぷりんと揺れる柔らかなお尻での挑発に、
 貴方の脳裏に自分の顔をつぶしていた、
-彼女のお尻の感覚と屈辱が嫌でも蘇ってしまう。",""
+彼女のお尻の感覚と屈辱が嫌でも蘇ってしまう。","When Rin's taunted you by shaking her soft ass around,
+you instantly recalled how it felt to have it on your
+face last time and how humiliating it was even if you
+didn't want to remember it."
 "<凛>
 『今日も、お尻で追い詰めて、
 　気持ちいいお射精させてあげますからね♡
-　マゾの変態お兄さん♡』",""
+　マゾの変態お兄さん♡』","<Rin>
+""I'm going to corner you with my ass again today and
+ lead you to an amazing orgasm♡ You masochistic
+ pervert♡"""
 "お尻を突き出したまま嘲る様にそう告げる凛の言葉を、
-否定する様に貴方は彼女に飛び掛かった。",""
+否定する様に貴方は彼女に飛び掛かった。","When Rin made fun of you while shaking her ass, you
+jumped at her in order to deny what she said."
 "<凛>
 『やんっ♡
-　か弱い女の子に急に襲い掛かってくるなんてこわ～い♡』",""
+　か弱い女の子に急に襲い掛かってくるなんてこわ～い♡』","<Rin>
+""Yaah♡ How could you rush at a weak girl so suddenly♡
+ That's so scary♡"""
 "<凛>
 『でも♡マゾって言われて動揺してるのが丸わかりですよ♡
-　顔を真っ赤にしたそんなキレのない動きなんて……』",""
+　顔を真っ赤にしたそんなキレのない動きなんて……』","<Rin>
+""However♡ I can easily tell how you're getting mad
+ when I call you a masochist♡ If you attack me in
+ rage with your face bright red like that..."""
 "<凛>
 『えいっ♡ヒップアタックのカウンターで返り討ち♡
-　私のお尻の感触、また顔で感じちゃってください♡』",""
+　私のお尻の感触、また顔で感じちゃってください♡』","<Rin>
+""There♡ I'll counter with Hip Attack♡ Enjoy the
+ soft sensation of my ass with your face again♡"""
 "<凛>
 『あっはは♡変態マゾおちんぽ、
 　我慢できずに漏らしちゃいましたね♡
-　そんなに私にもう一度公開処刑されたかったんですか？』",""
+　そんなに私にもう一度公開処刑されたかったんですか？』","<Rin>
+""Ahaha♡ Your masochistic dick couldn't take any more
+ than that before shooting its load♡ Did you want to
+ get publicly humiliated that badly?"""
 "<凛>
 『はい、女の子のお尻で顔面を打ち抜かれてダウン♡
-　ほんとに情けないお兄さんですね♡』",""
+　ほんとに情けないお兄さんですね♡』","<Rin>
+""Yes, a girl's ass to the face and you got downed♡
+ You're just that weak and miserable♡"""
 "<凛>
 「もう動けないんですか？
 　最初から結果は分かってましたけど、
