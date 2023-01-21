@@ -43,9 +43,12 @@ nothing else to do."
  for a little longer♪"""
 "<アル>
 『今日はお疲れ様！
-　また明日も頑張ろうね！』",""
+　また明日も頑張ろうね！』","<Al>
+""\n[1], you worked so hard today! Let's do
+ our best tomorrow too!"""
 "<アル>
-『それじゃあお休み、\n[1]♪』",""
+『それじゃあお休み、\n[1]♪』","<Al>
+""Good night♪"""
 "EV017",""
 "EV018",""
 "窓から街が一望できる。","You can see the town from the window."
