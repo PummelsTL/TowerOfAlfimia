@@ -13,13 +13,19 @@
  Let's come here if we run into something that does!"""
 "『騙されて契約を結ばされた、と。
 　申し訳ありません、すでに結ばれてしまった契約は、
-　私達の方ではどうにもできません。』",""
+　私達の方ではどうにもできません。』","""You got cheated into a contract? I'm terribly sorry,
+ but we can do nothing about contracts that are already
+ in place."""
 "『誠に恐縮ですが、契約の履行をお願いします。
 　また、今後は軽率に契約を結ばないよう、
-　ご自身の方で気をつけてくださいませ。』",""
+　ご自身の方で気をつけてくださいませ。』","""Your only option is to fulfill the terms of contract.
+ I would also advice you not to sign contracts without
+ carefully thinking them through from now on."""
 "<アル>
 『ううー…………騙されるほうが悪いってこと？
-　酷いよ…………』",""
+　酷いよ…………』","<Al>
+""Uuuh... It's like she's pushing the blame on us...
+ That's horrible..."""
 "『奴隷の女の子を助けて欲しい、ですか…
 　立派な正義感ですね、尊敬に値します。』",""
 "『ですが、残念ながらそのお願いを聞くことはできません。
@@ -112,21 +118,30 @@
 ""E-Even the allies of justice have trouble with money?
  Life sure is tough..."""
 "『あら、浮かない顔ね。
-　どうしたの？』",""
+　どうしたの？』","""Oh, you're looking quite down. What happened?"""
 "『そう、騙されて契約を結ばされてしまったのね。
-　………それは、落ち込むのも無理はないわ。』",""
+　………それは、落ち込むのも無理はないわ。』","""I see. You got deceived into a contract... I guess
+ it can't be helped that you're feeling down then."""
 "『でもごめんなさい、私たちじゃ力になれないわね。
 　ゲームだからこそ、ある程度の自由は認められるべき……
-　それが、局長の方針なの。』",""
+　それが、局長の方針なの。』","""I'm sorry to say it but we can't help you with that.
+ It's our policy that everyone has a freedom over their
+ lives because this is a game."""
 "『私たちはその自由から倫理的に逸脱した犯罪を、
 　取り締まっているのだけれど……
 　契約を結んでしまったのならそれは合意の元、
-　と解釈されてしまうの。』",""
+　と解釈されてしまうの。』","""It's the crimes that violate that freedom were on look
+ out for... Since you formed a contract, it's
+ interpreted as mutual agreement between the both
+ parties."""
 "『……そう言われても、納得できないわよね？
-　ごめんなさい…………』",""
+　ごめんなさい…………』","""...But even when I explain it, I doubt that you are
+ content with it. I'm sorry."""
 "<アル>
 『契約は、この街ではそんなに重いんだ………
-　今後は、契約には気を付けようね………』",""
+　今後は、契約には気を付けようね………』","<Al>
+""The contracts hold such a heavy weight in this town...
+ We need to be careful about them from now on."""
 "『貴方も、奴隷の子を見たの？
 　かわいそうよね、あんなに小さいのに…………』",""
 "『あの子を見てると、自問しちゃうのよね。
@@ -157,8 +172,7 @@
 "『団長は普段はあまりここに顔を出さないんだ。
 　私なんてヴァンガードに入ってから、
 　2回しか顔を見たことないよ。』","""The captain rarely shows his face at the guild house.
- I've seen him only twice after I entered The
- Vanguard."""
+ I've seen him only twice after I joined The Vanguard."""
 "<アル>
 『偉い人って、
 　そんなに顔を出さないものなのかな？
