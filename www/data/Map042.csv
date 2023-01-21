@@ -33,31 +33,45 @@
  careful like she said!"""
 "<未来>
 『あ、\n[1]…………えっと、大丈夫？　
-　この前の試合…………』",""
+　この前の試合…………』","<Mirai>
+""Ah, \n[1]... Um, are you alright?
+ I saw your last match..."""
 "未来が貴方を案じるようにそう言葉を投げかける。
-どうやら彼女はあの試合を見ていたようだ。",""
+どうやら彼女はあの試合を見ていたようだ。","Mirai anxiously asked if you were alright."
 "<未来>
 『質の悪い新人狩りにあっちゃったね……
-　ごめん、注意しておくべきだったかも』",""
-"未来はそう気まずそうに謝罪する。",""
-"未来は悪くない",""
-"お前のせいだ",""
+　ごめん、注意しておくべきだったかも』","<Mirai>
+""It turned into a nasty newbie hunt... I'm sorry, I
+ should have warned you about that."""
+"未来はそう気まずそうに謝罪する。","Mirai apologized to you while looking down."
+"未来は悪くない","It's not your fault"
+"お前のせいだ","It's your fault"
 "<未来>
 『ありがと、そう言ってくれると気は楽になる、かな。
-　今更遅いと思うけど、コロシアムでは気を付けてね。』",""
+　今更遅いと思うけど、コロシアムでは気を付けてね。』","<Mirai>
+""Thank you. Hearing that makes me feel a bit easier.
+ It's a bit late, but be careful at the Colosseum."""
 "未来はぎこちない笑みでそう言葉を口にする。
-言葉とは裏腹にまだ後悔しているようだった。",""
+言葉とは裏腹にまだ後悔しているようだった。","Mirai said that with a slightly stiff smile. Seems
+like she's still feeling regretful for not warning
+you in time."
 "<アル>
 『この子、まだ結構気にしてるみたいだね…
-　次はあの子に勝って、安心させてあげよ！』",""
-"貴方はアルの言葉に頷いた。",""
+　次はあの子に勝って、安心させてあげよ！』","<Al>
+""It looks like she's still quite worried... Let's give
+ her a peace of mind by winning our next match!"""
+"貴方はアルの言葉に頷いた。","You nodded to Al."
 "<未来>
 『う、そうだよね、恨んでるよね………
-　ほんと、ごめん…………』",""
+　ほんと、ごめん…………』","<Mirai>
+""Uuh... Yes, you would resent me after all...
+ I'm really... Really sorry..."""
 "<アル>
 『\n[1]…その、気が立っちゃうのは分かるけど……
-　この子に八つ当たりしちゃダメだよ？』",""
-"あたりを気まずい沈黙が支配した。",""
+　この子に八つ当たりしちゃダメだよ？』","<Al>
+""\n[1]... I know that you're angry, but you
+ shouldn't take it out on her."""
+"あたりを気まずい沈黙が支配した。","Awkward air filled the room."
 "<未来>
 『なんだか、凄い強い人に当たっちゃったみたいだね。
 　大丈夫、\n[1]？』",""
