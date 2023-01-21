@@ -33,8 +33,8 @@ an announcement."
 敗北後に指名でリベンジすることにより、
 戦闘中、敗北後のセリフが変わります。","『Regarding Colosseum』
 Once you can nominate an opponent, if you challenge
-them to a rematch after losing to them, their combat
-and post combat lines will update to the current score."
+them to a rematch after losing, their combat and post
+combat lines will change to the situation."
 "EV009",""
 "試合会場に入場しますか？","Will you enter the arena?"
 "貴方は対戦相手の女性の姿を見て驚く。","You were taken by surprise the moment you saw your
@@ -192,26 +192,41 @@ feeling irritated at her attitude."
 　このまま私に負けてください♡』",""
 "<凛>
 『くすくす♡お兄さんに指名されたって連絡が来て、
-　私驚きましたよ♪』",""
+　私驚きましたよ♪』","<Rin>
+""Ahaha♡ I was really surprised when I heard that you
+ nominated me for a match♪"""
 "<凛>
 『そんなにもう一度、
 　私にみんなの前でおちんぽ気持ちよくされて、
-　ボコボコにされたくなっちゃったんですか？変態マゾ♡』",""
+　ボコボコにされたくなっちゃったんですか？変態マゾ♡』","<Rin>
+""Do you want me to pleasure your dick and beat you up
+ before the audience that badly again? You masochistic
+ pervert♡"""
 "くすくすと笑みを浮かべながらそう貴方を煽る凛に剣を向け、
-貴方は今度こそ勝つとそう宣言する。",""
+貴方は今度こそ勝つとそう宣言する。","You pointed your sword at Rin when she giggled and
+riled you up. You shouted that you would be the winner
+this time."
 "<アル>
 『うん！今度こそ負けないよ！
-　やっちゃえ、\n[1]！』",""
+　やっちゃえ、\n[1]！』","<Al>
+""Yeah! We're not going to lose this time! Go get her!
+ \n[1]!"""
 "貴方の気合を示すように、
-アルも彼女を睨みつけながらそう言った。",""
+アルも彼女を睨みつけながらそう言った。","After your shout, Al also followed with that and glared
+at Rin."
 "<凛>
 『あっはは♡
 　そんなことできるわけないじゃないですか♡
-　弱ーいお兄さんに♡』",""
+　弱ーいお兄さんに♡』","<Rin>
+""Ahaha♡ There's no way you'll be able to win♡
+ You're just that weak♡"""
 "<凛>
 『ま、挑んでくれるなら何でもいいですよ♡
 　お兄さんが私に勝つためにためた経験値とお金♡
-　もう一度みんなの前で搾り取ってあげますね♡』",""
+　もう一度みんなの前で搾り取ってあげますね♡』","<Rin>
+""But you're free to challenge me any number of times♡
+ I'm going to take the EXP and money that you grinded
+ for this match in front of everyone once more♡"""
 "<凛>
 『う、…………こんな、嘘…………
 　なんで、いきなりこんなに強く………！』",""
