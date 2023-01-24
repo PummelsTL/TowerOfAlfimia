@@ -372,8 +372,8 @@ she cheered for you, you thanked her for her support."
 "
 "『お金が足りません。』","""You don't have enough money."""
 "『現在待機中、
-　もしくは対戦募集中のプレイヤーはいません。』","""Currently there are no other players who are accepting
- matches from you."""
+　もしくは対戦募集中のプレイヤーはいません。』","""Currently there are no players who are accepting
+ nominations from you."""
 "『現在貴方の指名を受け付けているプレイヤーが1人います。
 　プレイヤー名「早瀬凛」です。』","""Currently there is one player who accepts nominations
  from you. The player's name is Hayase Rin."""
@@ -390,8 +390,9 @@ she cheered for you, you thanked her for her support."
 そちらの方を先に返したほうがいいだろう………","You haven't paid your debt to Rin yet. You should
 start with that."
 "『試合での勝利、おめでとうございます。
-　こちらが賞金と勝利の証です。』",""
-"貴方は14000Gと勝利の証(1人目)を受けとった。",""
+　こちらが賞金と勝利の証です。』","""Congratulations on winning your match. Here is your
+ prize money and the proof of your victory."""
+"貴方は14000Gと勝利の証(1人目)を受けとった。","You received 14000G and Arena Medal 1."
 "<アル>
 『おー……お金とアイテムゲットだね！
 　あ、そうだ。\n[1]は騙されてたわけだけど……
@@ -403,13 +404,19 @@ start with that."
 "<アル>
 『おー……これを3つ集めれば、
 　先にすすもことが出来るんだよね？
-　後2つ！がんばろ、\n[1]♪』",""
+　後2つ！がんばろ、\n[1]♪』","<Al>
+""Ooh! So if we collect three of these, we can advance
+ the game, right? Just two more to go! Let's get them,
+ \n[1]♪"""
 "まじまじと勝利の証を見つめたアルは、
 貴方にそう言葉を送った。
-そんなアルに、貴方は頷きを返す。",""
+そんなアルに、貴方は頷きを返す。","Al said that as she watched the medal. You nodded to
+her in agreement."
 "『それでは通常業務に戻ります。
 　現在マッチングを受け付けていますが、
-　登録していきますか？』",""
+　登録していきますか？』","""I'm returning to my normal duties now. Registering for
+ the matches is currently open. Would you like to
+ register?"""
 "『現在貴方の指名を受け付けているプレイヤーが1人います。
 　プレイヤー名「姫野六花」です。』",""
 "『ありがとうございます。貴方の番号は11番です。
@@ -554,14 +561,20 @@ start with that."
 ""What's up? If you want me to beat you up again,
  nominate me for a match at the arena reception♡"""
 "『貴方の試合、見てたわよ。
-　なかなか強いじゃない。応援してるわ。』",""
+　なかなか強いじゃない。応援してるわ。』","""I saw your match. You're pretty strong. I'll be
+ rooting for you."""
 "『もし、今以上に強くなれたら……そうね、
-　私たちバンガードの仲間になれるかもしれないわね♪』",""
+　私たちバンガードの仲間になれるかもしれないわね♪』","""If you become even stronger... Yes, you might be able
+ to join The Vanguard♪"""
 "『この街を守るバンガードは1人でも多いほうがいいわ。
-　期待してるわね、未来の新人君♡』",""
+　期待してるわね、未来の新人君♡』","""The more of us there are to protect the town, the
+ better. I'm looking forward to it, future new
+ recruit♡"""
 "<アル>
 『なんだか強そうな女の人だね！
-　バンガードかぁ…………かっこいいなぁ…………』",""
+　バンガードかぁ…………かっこいいなぁ…………』","<Al>
+""She seems like a really strong girl! The Vanguard,
+ huh? It's a bit cool!"""
 "『驚いたわ、まさかあの子に勝利するなんて……
 　貴方の実力は、大したものね。』",""
 "『貴方がその力を正しく使ってくれることを願うわ。
@@ -725,65 +738,104 @@ start with that."
 "EV019",""
 "<???>
 『この役立たず！
-　今日も試合に負けましたの？』",""
-"貴方が控室を出ると、辺りに女性の大声が響く。",""
+　今日も試合に負けましたの？』","<???>
+""You good-for-nothing! Did you lose your match again?"""
+"貴方が控室を出ると、辺りに女性の大声が響く。","You heard a loud voice of a woman when you exited the
+waiting room."
 "<???>
-『あう……申し訳ありません、恭子様………』",""
+『あう……申し訳ありません、恭子様………』","<???>
+""Auuh... I'm terribly sorry, Mistress Kyouko."""
 "<???>
 『こ、このままではずっと勝てません……
-　町の外でのレベル上げの、お許しを…………』",""
+　町の外でのレベル上げの、お許しを…………』","<???>
+""I-I'll never be able to win at this rate... So please
+ permit me to go level outside the town."""
 "金髪の女性に責められてる思しき少女が、
-そう懇願を口にする。",""
+そう懇願を口にする。","The young girl who seemed to be bullied by the blonde
+woman asked her for a permission."
 "<恭子>
 『ふん！そう言って逃げるつもりでしょう。
-　貴方の浅はかな考えなどお見通しですわ！』",""
+　貴方の浅はかな考えなどお見通しですわ！』","<???>
+""Hmph! You're just trying to escape by getting out of
+ the town! I can tell what someone as dumb as you is
+ thinking!"""
 "しかし、金髪の女性は文字通りそれを一蹴し、
-彼女の倒れた身体を蹴り上げた。",""
+彼女の倒れた身体を蹴り上げた。","However, the blonde woman kicked down the girl and her
+request. Then she kicked the girl on the ground once
+more."
 "<???>
-『あぐぅっ！そ、そんなことは決して…………』",""
+『あぐぅっ！そ、そんなことは決して…………』","<???>
+""Auugh! I-I would never do something like that..."""
 "<アル>
-『酷い………なにも、あんなことしなくても……』",""
-"そんな光景を見てアルは悲痛な表情で言葉を漏らす。",""
-"同感だ",""
-"羨ましい",""
+『酷い………なにも、あんなことしなくても……』","<Al>
+""That's horrible... There's no need to go as far as to
+ kick her..."""
+"そんな光景を見てアルは悲痛な表情で言葉を漏らす。","Al said that with a sad face as she watched the girl
+and the blonde woman."
+"同感だ","I agree"
+"羨ましい","I'm envious of the girl"
 "<アル>
-『だよね………止めに、入る？』",""
-"『無駄だ、やめておきな。』",""
+『だよね………止めに、入る？』","<Al>
+""Yes... Are you going to stop her?"""
+"『無駄だ、やめておきな。』","""It's pointless to try to help her."""
 "アルの言葉を聞いて、
-身を乗り出そうとした貴方を一人の男性が止める。",""
+身を乗り出そうとした貴方を一人の男性が止める。","Just as you were about to cut in, a man stopped you."""
 "『あの嬢ちゃんは契約奴隷だ、
-　お前さんが止めに入ったところで、どうにもなんねぇよ。』",""
+　お前さんが止めに入ったところで、どうにもなんねぇよ。』","""That girl is a contract slave. It wouldn't change
+ anything even if you stepped in."""
 "<アル>
-『契約、奴隷……？』",""
-"貴方とアルは頭に疑問符を浮かべた。",""
+『契約、奴隷……？』","<Al>
+""Contract slave?"""
+"貴方とアルは頭に疑問符を浮かべた。","Both you and Al had question mark pop on your heads."
 "『ま、普通の奴にゃ縁がないから聞きなれねぇ言葉か。
 　契約奴隷ってのは、己のすべてをかけた契約を、
-　遵守できなかった奴が落ちる奴隷だ。』",""
+　遵守できなかった奴が落ちる奴隷だ。』","""Well, I guess normal people don't often hear that
+ word. Contract slaves are those who have been unable
+ to fulfill the terms of a contract where they've
+ betted their whole lives."""
 "『あの嬢ちゃんはつい最近うまいことのせられて、
 　全財産以上の莫大な金を賭けた試合で負けちまった結果、
-　その契約奴隷に堕ちちまったのさ。』",""
+　その契約奴隷に堕ちちまったのさ。』","""In that girl's case, she made a lot of money with
+ betting in the matches, but then she lost a bet where
+ she wagered way more money than she owned. Then she
+ became a contract slave because of it."""
 "『あ？契約奴隷から解放される方法？
 　そうだな、契約を改めて順守するか、
-　主人が契約を破棄するしかねぇ。』",""
+　主人が契約を破棄するしかねぇ。』","""Huh? How can you freed as a contract slave? Well, you
+ can either fulfill the terms of your contract, or the
+ other party can cancel the contract. Those are the
+ only ways."""
 "『ま、そのどちらもあの嬢ちゃんは果たせそうにないけどな。
-　かわいそうに。1回のミスで破滅だよ。』",""
+　かわいそうに。1回のミスで破滅だよ。』","""But I don't think that girl can free herself in either
+ way. I feel sorry for her. Her life is basically in
+ ruin from one misstep."
 "<アル>
-『そんな…………どうにもならないのかな…………』",""
+『そんな…………どうにもならないのかな…………』","<Al>
+""Oh no... Isn't there anything we can do?"""
 "<アル>
 『え？さ、さすがにこのタイミングでのそんな冗談は、
-　いくら私でも引くよ…………？』",""
+　いくら私でも引くよ…………？』","<Al>
+""Eh? T-This isn't the time for jokes like that...
+ Even I got put off by it..."""
 "<恭子>
 『黙りなさい！
 　とにかく貴方は、ここで私への借金を返すことだけを、
-　考えていればいいんですわ！』",""
+　考えていればいいんですわ！』","<Kyouko>
+""Silence! All you need to think is how to repay your
+ debt to me at the arena!"""
 "<???>
-『うぐっ………分かりました、恭子様…………』",""
-"再び蹴り上げられた少女は、呻きながらそう返答する。",""
+『うぐっ………分かりました、恭子様…………』","<???>
+""Ugh... I understand, Mistress Kyouko..."""
+"再び蹴り上げられた少女は、呻きながらそう返答する。","The girl grunted and answered like that after she got
+kicked again."
 "<恭子>
 『ふん、分かればよくってよ。
 　それでは私は先に帰りますわね。貴女は、
-　ディナーの買い出しを済ませてから帰ってきなさい。』",""
-"女性はそう言うと踵を返してコロシアムから去っていった。",""
+　ディナーの買い出しを済ませてから帰ってきなさい。』","<Kyouko>
+""Hmph. Good that you managed to understand that. Then
+ I'm leaving. Go shop for the dinner ingredients before
+ you come back."""
+"女性はそう言うと踵を返してコロシアムから去っていった。","After those words, the woman left the Colosseum."
 "<恭子>
 『六花、今日も試合に負けたそうですわね！
 　一体いつまで負け続けるつもりですの？』",""
@@ -1069,12 +1121,16 @@ start with that."
 『\n[1]のこと騙そうとしたんだもん。
 　利子をつけてあげただけでも喜んで欲しいな！』",""
 "<凛>
-『はぁ……私のパフェがぁ……ケーキがぁ……』",""
-"凛は机に座りながら目に見えて落胆している……",""
+『はぁ……私のパフェがぁ……ケーキがぁ……』","<Rin>
+""Sigh... My parfaits... My cakes..."""
+"凛は机に座りながら目に見えて落胆している……","Rin looked really depressed as she sat at the table."
 "<アル>
 『こ、この子…\n[1]をだましたお金で、
 　パフェとかケーキとか食べるつもりだったのかな…？
-　勝ててよかったよね…』",""
+　勝ててよかったよね…』","<Al>
+""W-wait... Was she planning to buy sweets with the
+ money she tried to swindle from us? I think it's
+ much better that we won now."
 "<恭子>
 『あら、私に何か用かしら？』",""
 "確か、この人が六花の主人だったはずだ。",""
