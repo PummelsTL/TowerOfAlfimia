@@ -117,29 +117,35 @@ despite what she said in feeble and girlish voice."
 貴方は剣を構えて突進した。","You charged in with your sword pointing at Rin while
 feeling irritated at her attitude."
 "<凛>
-『う、…………こんな、嘘…………』",""
-"貴方に敗れ、凛はどさりと会場の真ん中で倒れこむ。",""
-"凛を犯さない",""
-"凛を犯す",""
+『う、…………こんな、嘘…………』","<Rin>
+""Ugh... T-This can't be..."""
+"貴方に敗れ、凛はどさりと会場の真ん中で倒れこむ。","After being defeated, Rin fell to the arena floor."
+"凛を犯さない","Leave her be"
+"凛を犯す","Violate Rin"
 "<アル>
 『えへへ♪\n[1]、優しいね！
 　やっぱり、こんなところで無理やりはだめだよね！』",""
 "貴方がそのまま凛に背を向けると、
-アルは嬉しそうにそう話しかけてくる。",""
+アルは嬉しそうにそう話しかけてくる。","Al happily said that when you turned your back to Rin."
 "<凛>
-『え…………お兄さん、どうして……』",""
-"凛は倒れたまま、目を丸くし、呆然とそうつぶやく。",""
-"今度から卑怯な真似をやめるように",""
-"女の子を犯すのは趣味じゃない",""
+『え…………お兄さん、どうして……』","<Rin>
+""Eh... Why?"""
+"凛は倒れたまま、目を丸くし、呆然とそうつぶやく。","Rin muttered that on the floor with her eyes wide open
+in surprise."
+"今度から卑怯な真似をやめるように","You'll need to stop swindling people from now on"
+"女の子を犯すのは趣味じゃない","It's not my style to violate girls"
 "<凛>
 『……分かりましたよ、
 　もう一度やって、お兄さんみたいな、
 　想定外の人に負けることもあるって分かりましたし。』",""
 "<凛>
 『もっと、身の丈に合った金策を探すとします……
-　…………はぁ…………』",""
+　…………はぁ…………』","<Rin>
+""I guess I'll look for some other way to make money
+ that's more fitting for my stature... Sigh..."""
 "安堵からか落胆からか、ため息を漏らす彼女を背に、
-貴方は会場を後にした。",""
+貴方は会場を後にした。","As Rin sighed from either relief or sorrow, you walked
+out of the arena."
 "<凛>
 『あ、なるほど。お兄さん、
 　犯すより犯したいという変態マゾなんですね？』",""
@@ -229,22 +235,34 @@ at Rin."
  for this match in front of everyone once more♡"""
 "<凛>
 『う、…………こんな、嘘…………
-　なんで、いきなりこんなに強く………！』",""
+　なんで、いきなりこんなに強く………！』","<Rin>
+""Ugh... T-This can't be... How did you become so
+ strong so quickly?!"""
 "<アル>
 『えへへ♪\n[1]は貴方に勝つために、
-　すごく頑張ったんだからね！』",""
+　すごく頑張ったんだからね！』","<Al>
+""Ehehe♪ \n[1] worked really hard to win this
+ match!"""
 "倒れた彼女に向かって、
-アルは腰に手を当てながらそう勝ち誇った。",""
+アルは腰に手を当てながらそう勝ち誇った。","Al faced Rin with her hands at her hips and boasted
+about your success."
 "<アル>
 『\n[1]、優しいね！自分は同じことはしない！
-　\n[1]のそういうところ、私大好きだよ♪』",""
+　\n[1]のそういうところ、私大好きだよ♪』","<Al>
+""\n[1], you're so gentle! You won't fall to
+ the same level as her, right! I love that part of
+ you♪"""
 "<凛>
 『……分かりましたよ、
 　もう一度やって、お兄さんみたいな、
-　想定外の強さの人に目を付けられても嫌ですし………』",""
+　想定外の強さの人に目を付けられても嫌ですし………』","<Rin>
+""...Okay. I don't want to end up losing to someone
+ who's unexpectedly strong like you again anyway."""
 "<凛>
 『私だって、
-　復讐されないほうが珍しいって分かってますから……』",""
+　復讐されないほうが珍しいって分かってますから……』","<Rin>
+""I also know how unusual it's for someone to not go for
+ the revenge in a situation like this..."""
 "<凛>
 『やっぱりお兄さん、
 　女の子に犯されるほうが好きな変態マゾじゃないですか♡』",""
@@ -395,33 +413,49 @@ at Rin."
 探してみよう。",""
 "<優香>
 『へぇ、今回の相手はアンタなんだ。
-　ラッキー♪これは勝負はもらったようなもんね♡』",""
-"今回の試合の相手も、貴方の見知った顔だった。",""
+　ラッキー♪これは勝負はもらったようなもんね♡』","<Yuuka>
+""Oh, you're my opponent today. How lucky♪ It's a free
+ victory for me♡"""
+"今回の試合の相手も、貴方の見知った顔だった。","Your next opponent was someone you recognized."
 "<アル>
 『うわっ！あ、あのときのすごく強い人！
-　わ、わ、ど、どうしよ！\n[1]！』",""
-"彼女の登場に、アルは露骨に慌てふためいてしまう。",""
+　わ、わ、ど、どうしよ！\n[1]！』","<Al>
+""Uah! I-It's that really strong girl from back then!
+ Waaah! W-What should we do! \n[1]!"""
+"彼女の登場に、アルは露骨に慌てふためいてしまう。","Al was in clear panic when she saw your opponent."
 "<優香>
 『しっかし、
 　あんなくそザコだったアンタが1層のボスを倒せたんだ？
-　すごいじゃん、褒めてあげる♡』",""
+　すごいじゃん、褒めてあげる♡』","<Yuuka>
+""However, a weak-ass like you managed to beat the first
+ floor boss? That's pretty amazing♡"""
 "優香はにやにやとからかうような笑みを浮かべながら、
-貴方に機嫌よさそうにそう言葉を投げかける。",""
+貴方に機嫌よさそうにそう言葉を投げかける。","Yuuka said that in good mood while grinning at you."
 "<優香>
 『アンタもまぁ、それなりには強くなったってことね。
-　で・も♡私はそれ以上に強くなってるけど♡』",""
-"余裕そうな笑みを浮かべたまま、優香は貴方を見下している。",""
+　で・も♡私はそれ以上に強くなってるけど♡』","<Yuuka>
+""That means you've become moderately strong...
+ However♡ I've also grown way stronger from back
+ then♡"""
+"余裕そうな笑みを浮かべたまま、優香は貴方を見下している。","Yuuka looked down on you with a smile with no concern."
 "<アル>
 『うー！
-　あ、あのときでもめちゃくちゃな強さだったのに……！』",""
+　あ、あのときでもめちゃくちゃな強さだったのに……！』","<Al>
+""Uuh! S-She was already really strong back then! And
+ now she's even stronger?!"""
 "貴方はそんな彼女の言葉を聞いて、
-冷や汗を流しつつ、剣を構えた。",""
+冷や汗を流しつつ、剣を構えた。","You held up your sword in cold sweat when you heard
+that."
 "<優香>
 『私に試合で当たったのが運の尽きとでも思っててよ。
 　前みたいに、かるーくぼこってあげるからさ♡
-　く・そ・ザ・コ・君っ♡ちゅっ♡』",""
+　く・そ・ザ・コ・君っ♡ちゅっ♡』","<Yuuka>
+""Your luck has ran out since you matched with me♡
+ I'm going to drain you dry just like before♡ 
+ Mr. Weak-ass♡ Smooch♡"""
 "優香は色っぽく貴方に投げキッスを行い、挑発する。
-貴方はそれを振り払うように突進した。",""
+貴方はそれを振り払うように突進した。","Yuuka taunted you by seductively blowing a kiss at you.
+You charged in to avoid being unfazed by it."
 "<優香>
 『うぐ…………そ、そんな…………
 　私が、負けるわけないのに…………』",""
