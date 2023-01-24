@@ -12,7 +12,7 @@
 "EV012",""
 "『負けた方は、
 　観客の前で犯されちゃうんだよねー♡
-　アンタももし試合するなら気を付けなよ？』","""The loser gets raped before the whole audience♡
+　アンタももし試合するなら気を付けなよ？』","""The loser gets violated before the whole audience♡
  Make sure to be careful if you're going to fight,
  okay?"""
 "『もし負けちゃったら、
@@ -28,7 +28,7 @@
 　みんなの前で犯されちゃうなんて、
 　きっとすっごく恥ずかしいよ！』","<Al>
 ""\n[1], you need to avoid losing with
- everything you have! I'm sure that getting raped
+ everything you have! I'm sure that getting violated
  before the audience would be too embarrassing!"""
 "『あ、女の子のお尻に敷かれて、
 　なっさけない負け方してた男じゃん♡
@@ -54,11 +54,15 @@
 "『なーに？
 　私、勝った男になんて興味ないんだけど。
 　私に興味を持ってもらいたかったら、
-　試合で負けなさいよね♡』",""
+　試合で負けなさいよね♡』","""What? I'm not interested in men who have won. If you
+ want to catch my interest, then you need to lose your
+ match♡"""
 "<アル>
 『ふーんだ！
 　\n[1]だって貴方になんか興味ないもん！
-　…………ないよね？』",""
+　…………ないよね？』","<Al>
+""Hmph! \n[1], isn't one bit interested in
+ someone like you! ...You aren't, right?"""
 "『この前投げキッスに完敗してた雑魚じゃん♡
 　なに？私に馬鹿にして欲しくて話しかけてきたの？
 　それとも……投げキッスのおねだりしに来たとか？♡』","""Aren't you the loser who lost to blown kisses♡ What?
@@ -144,8 +148,8 @@ her wet and plump lips."
 "『あーあ、またあの子の負けだろーなー。
 　つまんなーい。いい加減飽きてきたし、
 　誰か新しい見せものになる人とか出てこないかなー。』","""Aa-ah. Looks like that pig is going to lose again.
- It's becoming so boring to see that. Won't there be
- any new pig to put on a show?"""
+ Seeing that is starting to become boring. Won't there
+ be any new pig to put on a show?"""
 "<アル>
 『み、見せもの……
 　この子、可愛い顔してるのに、
@@ -167,12 +171,12 @@ her wet and plump lips."
  have seen your last match... I don't we should talk
  to them..."""
 "『次の試合まだかなー♡
-　面白い見せ物だったらいいなー♡』","""Isn't the match match starting yet? I can't wait to
- see some pigs lose♡"""
+　面白い見せ物だったらいいなー♡』","""Isn't it time for the next match already? I can't wait
+ to see some pigs lose♡"""
 "<アル>
 『……この子、
 　多分根っからのサディストだよねー……』","<Al>
-""...I think this girl is a sadist from the core."""
+""...I think this girl is a sadist to the core."""
 "『お兄ちゃーん♡
 　私の唇、よーく見てて？
 　んー……ちゅっ♡』","""Oh♡ Hey, look closely at my lips♡
@@ -215,15 +219,15 @@ her wet and plump lips."
 　き、気にしないほうがいいよ？\n[1]…』",""
 "『コロシアムでお気に入りの選手を見つけると、
 　なかなか楽しめるものなのよ。
-　最近はあまり出会えていないのだけれど……』","""Watching your favorite players fight in the arena is
- quite entertaining. It's just that they haven't 
- participated in a while..."""
+　最近はあまり出会えていないのだけれど……』","""Watching your favorite players duke it out in the
+ arena is quite an entertaining sport. Although, my
+ favorites haven't participated in a while..."""
 "<アル>
 『お気に入りの選手を応援するって、　
 　確かに楽しそうだよね♪
 　今度、探してみるー？』","<Al>
 ""Rooting for your favorite certainly sounds fun♪
- Why won't we find someone like that too?"""
+ Why won't we see if someone catches our eye too?"""
 "『あら……うふふ♡
 　貴方の投げキッスしてほしいっていうおねだり、
 　観客席にもよく聞こえてたわよ。
@@ -268,8 +272,8 @@ her wet and plump lips."
 "『自分じゃ参加する勇気はないけど…
 　観戦するのは好きなの…♡
 　たまに、すごく面白いショーが見れたりするんだよ？』","""I don't have the courage to fight in the arena, but I
- like to spectate the matches. Sometimes the fighters
- put on amazing shows to watch."""
+ like to spectate the matches. Sometimes the players
+ put on amazing shows."""
 "<アル>
 『そ、それは白熱した試合って意味なのかな？
 　それとも………』","<Al>
@@ -355,15 +359,14 @@ grin. You shook your head in refusal."
 ""E-Eh? Isn't she being really unreasonable?"""
 "EV016",""
 "『己のプライドをかけて戦う姿は、美しいものだよな。
-　私はそれを見にここによく来るんだ。』","""It's a beautiful sight to fight with your pride on the
- line. That's what I come to see at the Colosseum."""
+　私はそれを見にここによく来るんだ。』","""It's a beautiful sight when players fight with their
+ pride on the line. That's why I come to the arena."""
 "<アル>
 『熱いぶつかり合いってやつだね！
 　確かに誇りをかけて戦う姿って、
 　なんかひかれちゃうの分かるなー♪』","<Al>
-""It's that thing were you clash with everything you
- have, right! I can understand how that draws you
- in♪"""
+""They're clashing with everything they have, right?
+ I can understand how that draws you in♪"""
 "『ふふ…恥をさらした敗者じゃないか。
 　あまりここには来ないほうがいいぞ。
 　己の実力不足を反省して、また鍛え直すんだな。』",""
@@ -445,16 +448,16 @@ grin. You shook your head in refusal."
 ""No... That's not it... It has to be some mistake..."""
 "『なーに？もしかして、
 　試合に勝ったからって褒めてもらいに来たの？
-　ほんと、男って単純だよね♡』","""What? Did you come to get praise since you won your
- match or something? Men are just so simple♡"""
+　ほんと、男って単純だよね♡』","""What? Did you come to get praised after winning your
+ match or something? You men are so simple♡"""
 "『ま、せっかくだし褒めてあげまちゅよー♡
-　偉い偉い、凄かったでちゅねー♡』","""Well, I might as well since you're here♡ You were
- such a strong little boy who won your match♡"""
+　偉い偉い、凄かったでちゅねー♡』","""Well, I might as well praise you since you're here♡
+ You're such a strong little boy♡ A good little boy
+ who won your match♡"""
 "<アル>
 『う、うぅん……
 　なんか全然褒められてる気しないよね……』","<Al>
-""U-Uuuh... I don't feel like she's praising you at
- all..."""
+""U-Uuuh... I don't feel like that's praise at all..."""
 "『アンタのおねだり、
 　観客のみんなに笑われてたねー♡
 　ま、自分から投げキッスしてぇ、とか、
@@ -499,8 +502,9 @@ grin. You shook your head in refusal."
 "『ここで、
 　女の子に負けてる男を見ると………
 　胸がドキドキしちゃうんだ…
-　俺ってマゾなのかな…………』","""My heart starts racing for some reason when I see guys
- lose to girls in the arena Maybe I'm a masochist...?"""
+　俺ってマゾなのかな…………』","""For some reason, my heart starts racing whenever I see
+ a guy lose to a girl in the arena... Maybe I'm a
+ masochist...?"""
 "<アル>
 『………マゾだね！
 　\n[1]はどお？
@@ -512,7 +516,7 @@ grin. You shook your head in refusal."
 　観客もほとんど女性なのよね。
 　やっぱりみんな、自分と同じ性別の選手が、
 　異性に負ける姿は見たくないのかしら。』","""The audience being mostly women is probably because
- it's the men who lose matches of the time. I guess
+ it's the men who lose most of the time. I guess
  no one wants to see someone of the same sex lose."""
 "<アル>
 『んー、どうなんだろうね？
