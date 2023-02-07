@@ -315,16 +315,16 @@ her advice."
  good mood. Congratulations."""
 "『でも意外だわ。この街では、
 　そのままカモにされちゃう男の子が多いんだもの。
-　貴方は強くなれるかもしれないわね。』","""However, that's quite unexpected. You see, there are
- quite a lot of boys who continue to be exploited like
- that in this town. The fact that you managed to break
- free of it might be a sign that you'll become strong."""
+　貴方は強くなれるかもしれないわね。』","""However, that's quite unexpected. There are a lot of
+ boys who fall into such traps in this town. The fact
+ that you didn't fall for it might be a sign that
+ you'll become really strong one day."""
 "女性はくすくすと微笑みながら、
-そう貴方の勝利を称えた。","The owner praised you for your victory with a smile."
+そう貴方の勝利を称えた。","The owner smiled as she praised you for your victory."
 "<アル>
 『ふふ～ん♪
 　\n[1]はあんな卑怯な女の子に負けたりしないよ！』","<Al>
-""Ehe♪ \n[1] won't lose to those kind of
+""Ehehe♪ \n[1] won't lose to those kind of
  horrible girls!"""
 "そんな彼女の言葉に、
 アルが誇らしげに胸を張っている。","After hearing the owner's words, Al praised you with
@@ -333,65 +333,77 @@ her chest puffed with pride."
 "油断せずにこれからも頑張る","I'll continue to be careful"
 "『こら、そういう慢心はよくないわよ。
 　たまたまその子に勝てたからと言って、
-　全ての女の子に勝てるわけじゃないんだから。』","""Hey, you shouldn't get self-conceited like that. Just
- because you happened to win against that girl doesn't
- mean that you're going to win against all girls."""
+　全ての女の子に勝てるわけじゃないんだから。』","""Now now, you shouldn't get so self-conceited. Just
+ because you won against a single girl doesn't mean
+ that you're going to win against all of them."""
 "『この街には強い女の子もいっぱいいるの。
 　貴方もちゃんと、それを覚えとかなきゃダメよ？
-　勝って浮かれちゃうのはよく分かるんだけどね。』","""There are a lot of strong girls in this town. You need
- to keep that in mind... But I can understand how
- you're in high spirits after your victory."""
+　勝って浮かれちゃうのはよく分かるんだけどね。』","""You need to keep in mind that there are a lot of
+ strong girls in this town... But I can understand how
+ you're in high spirits after the victory."""
 "女性は貴方をそう軽くたしなめる。
 どこかそんな態度に反発を覚えて、
-貴方はもう一度女の子には負けないと告げた。","The owner slightly rebuked you for your attitude. That
-made you feel like opposing her for some reason, and
-you told her that you won't lost to girls once more."
+貴方はもう一度女の子には負けないと告げた。","The owner slightly rebuked you for your attitude. 
+However, her advice had the opposite effect on you.
+You wanted to fight back and told her the same thing
+again: I won't lose to girls."
 "『頑固ね……
 　そんな態度じゃいつか痛い目に合うと思うけど…
-　まぁ、私がしつこく言うのもお門違いかしら。』","""How stubborn... I think that you'll get hurt one day
- if you keep that attitude up, but I guess it's not
- my place to preach you about it."""
+　まぁ、私がしつこく言うのもお門違いかしら。』","""How stubborn... You'll most likely get hurt one day
+ because of that attitude, but I guess it's not my
+ place to preach about it."""
 "『それに今は勝っていい気分なんだものね。
 　水を差してしまってごめんなさい。
 　ほら、せっかくの勝利祝い……
-　ぜひ私の店で料理を食べていって頂戴。』","""And besides, you're in a good mood after your victory
+　ぜひ私の店で料理を食べていって頂戴。』","""And besides, we should be celebrating your victory
  right now. Sorry for pouring water on you like that.
- Since you won a match, you should by all means eat 
- my food to celebrate."""
+ Please eat some delicious food at my shop."""
 "『今ならさっきのお詫びに、
-　一品無料で追加サービスしてあげるわよ♡』","""As an apology to before, I'll throw in an additional
- dish as an extra service for you♡"""
+　一品無料で追加サービスしてあげるわよ♡』","""As an apology, I'll throw in a extra dish on whatever
+ you order♡"""
 "<アル>
 『わーい♪
 　ね、賞金ってまだ残ってた？
 　ここで美味しいご飯食べていこうよー♪』","<Al>
-""Yay♪ Hey, do we still have some prize money left?
- Let's eat delicious food here♪"""
+""Yay♪ Hey, do we still have prize money left?
+ I want to eat the delicious food at this shop♪"""
 "『あら、
 　勝って兜の緒をなんとやら……ということね。
-　勝利に浮かれないなんて偉いじゃない。』",""
+　勝利に浮かれないなんて偉いじゃない。』","""Oh my. You're still cautious after the victory.
+ It's admirable not to let the victory go to your
+ head."""
 "『そんな貴方だからこそ、
 　今回もコロシアムで勝てたのかもしれないわね。
-　うん、なんだか納得できる気がするわ。』",""
+　うん、なんだか納得できる気がするわ。』","""You might be able to win your next round as well.
+ Yes, that's the feeling I'm getting from you."""
 "女性は柔らかく微笑んだままそう言葉を続ける。
-そんな彼女の褒め言葉に貴方は照れ臭くなってしまった。",""
+そんな彼女の褒め言葉に貴方は照れ臭くなってしまった。","The owner said that in a gentle smile. You felt
+slightly bashful when she praised you."
 "『くす♪もしかして照れてるの？　
 　コロシアムで勝つくらい強い男の子なのに、
-　案外かわいいところもあるのね。』",""
+　案外かわいいところもあるのね。』","""Ehehe♪ Are you feeling bashful? You've got
+ unexpectedly cute side side despite being strong
+ enough to win at the Colosseum."""
 "『でもそういう素直さ、私は嫌いじゃないわ。
 　そういうところを見せられると、
-　ついつい貴方のことを応援したくなっちゃうわね。』",""
+　ついつい貴方のことを応援したくなっちゃうわね。』","""I don't hate that kind of honesty. Rather, it makes me
+ want to support you even more."""
 "『ね、私に勝利祝いさせてちょうだい？
-　料理を頼んでくれたら一品サービスしてあげるわ♡』",""
+　料理を頼んでくれたら一品サービスしてあげるわ♡』","""Would you let me celebrate your victory? I'll throw
+ in an extra dish on whatever you order♡"""
 "『お祝いなのに無料じゃないのか？
 　ふふ、それはまぁ私も商売なんだもの。
-　大目に見てちょうだいな。』",""
+　大目に見てちょうだいな。』","""Oh? Can't I make it a free meal? Sorry, but I have a
+ shop to run, so I can't do it. Please overlook that."""
 "貴方の疑問に女性は茶目っ気たっぷりに、
-そう返答してウィンクした。",""
+そう返答してウィンクした。","After answering your question, the owner playfully
+winked at you."
 "<アル>
 『えへへー♪
 　せっかくだからお祝いしてもらおうよ！
-　美味しい料理♪楽しみー♡』",""
+　美味しい料理♪楽しみー♡』","<Al>
+""Ehehe♪ We should celebrate since we won the match!
+ I'm looking forward to delicious food♡"""
 "『あら、そうなの。
 　機嫌よさそうな顔だったから、
 　何かあったと思ったのだけれど。』",""
