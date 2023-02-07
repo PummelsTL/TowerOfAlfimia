@@ -41299,1160 +41299,1487 @@ she wouldn't be able to last."
 "<六花>
 『はぁ……これじゃいつまでも……
 　どうしたら……』","<Rikka>
-""Sigh... At this rate I'll never win... What should I
- do..."""
+""Sigh... At this rate I'll never be able to...
+ What should I do..."""
 "先ほど主人であろう女性に、
-酷い扱いを受けていた少女が力なくそううなだれている。","The girl who was mistreated by her master just now was
-hanging her head."
+酷い扱いを受けていた少女が力なくそううなだれている。","Rikka, the young girl who got mistreated by her master
+earlier, was hanging her head."
 "<六花>
 『……？
 　あの、私に何か用ですか…？』","<Rikka>
 ""...? Um, do you have some business with me?"""
 "そんな少女を見つめていると、
-彼女は貴方に気が付いたようでそう顔をあげて尋ねた。","As you were watching the girl, she seemed to notice
-your gaze when she lifted her head and asked you a
-question."
+彼女は貴方に気が付いたようでそう顔をあげて尋ねた。","Rikka seemed to notice your gaze. She lifted her head
+and asked you a question."
 "用はない","Never mind"
 "<六花>
 『え…？あぁ、さっきのを見てたんですね…
 　大丈夫…じゃないですよ……
-　でも、どうしようもないんです……』",""
+　でも、どうしようもないんです……』","<Rikka>
+""Eh? Oh, did you see that just now? I'm... Not okay...
+ But there's nothing I can do about it..."""
 "<六花>
 『私、恭子様の奴隷なんですけど…
 　目標の経験値を稼げたら、
-　解放してくれるという契約になってるんです。』",""
+　解放してくれるという契約になってるんです。』","<Rikka>
+""I'm a slave of Mistress Kyouko... I have a contract
+ with her where I will be released if I earn certain
+ amount of EXP..."""
 "<六花>
 『でも、町の外でのレベル上げを禁止されてて…
 　ここで稼ぐしかないのに、弱いから負けっぱなしで……
-　このままじゃずっと奴隷のままなんです……』",""
+　このままじゃずっと奴隷のままなんです……』","<Rikka>
+""However, I'm forbidden from going outside of the town.
+ I can only earn EXP from the arena, but I'm too weak
+ to win. At this rate I'll always stay as a slave..."""
 "六花はぽつぽつと自身の境遇を語り始める。
-その語り草は、少女が背負うにはあまりに重いように思えた。",""
+その語り草は、少女が背負うにはあまりに重いように思えた。","Rikka began to talk about her situation little by
+little. You found what she said to be too heavy burden
+for someone so young."
 "<アル>
 『かわいそうだね…
-　この子のために何かしてあげられればいいんだけど…』",""
+　この子のために何かしてあげられればいいんだけど…』","<Al>
+""I feel sorry for her... Isn't there anything we could
+ do to help her?"""
 "アルは気の毒そうにそう告げる。
 貴方自身も同様の想いに囚われ、
 何かできることはないか……そう思考をめぐらせる。
-彼女はレベルを望んでいる……",""
+彼女はレベルを望んでいる……","Al said that as she felt sorry for Rikka. You also
+shared that feeling and started thinking if there's
+anything you can to help her gain experience."
 "そこで、ふと、
 自分のレベルを恵んであげられないだろうか、
-とそんな考えが思い浮かんだ。","Then you realized that there's the option of you
-giving her your levels."
+とそんな考えが思い浮かんだ。","Then it came to you. If she needs levels, then you have
+the option to directly give them to her."
 "<アル>
 『え？自分のレベルを？
 　…あ、なるほど……その、この子に、
 　えっちなことをしてもらえばそれもできるかも…』","<Al>
-""Eh? Giving your levels?
- Ah, I see. That's possible if she agrees to do
- sexy things with you..."""
+""Eh? \n[1], your levels? Ah, I see...
+ That's possible if she agrees to... Um, do sexy stuff
+ to you..."""
 "<アル>
 『でもそれって……
 　当たり前だけど\n[1]のレベルは下がっちゃうよ…？
 　本当にいいの……？』","<Al>
-""However, that would mean your levels is also going
- down... Are you really sure about doing it?"""
+""However, you will lose levels if you do that. Are you
+ really sure?"""
 "アルの問いに貴方は再度考える。
 この少女は自分がレベルを恵まなければ、
-もしかしたらずっと奴隷のままかもしれない……","Al's warning made you think it over again.
-If she won't gain any levels, she may remain
-as a slave forever."
+もしかしたらずっと奴隷のままかもしれない……","Al's warning made you think it over again: She might
+remain a slave forever if she can't gain levels..."
 "しかし、レベルを恵むという行為は、
 それなりにリスクがあるのは確かだ。
-どうしようか……","However, allowing her to drain your levels comes
-with its own risks. What will you do?"
+どうしようか……","However, giving away your levels poses some risks.
+What will you do?"
 "六花にレベルを恵む","Give levels to Rikka"
 "やめておく","Stop"
 "<六花>
 『え……？貴方が…お兄さんがレベルを恵んでくれる…？
 　えっと……どういうことですか？』","<Rikka>
-""Eh? You will give levels to me?
- Um... What do you mean by that?"""
+""Eh? You will... You will give levels to me? Um...
+ What do you mean by that?"""
 "貴方の言葉に俯いていた六花は顔をあげる。
 少女に告げるには道徳的に問題がある気がしたが、
-貴方は六花にレベルドレインをしてくくれればいいと告げた。","Rikka raised her head after hearing your suggestion.
-You felt slightly guilty on telling this to such a
-young girl, but you told her that she could drain your
-levels."
+貴方は六花にレベルドレインをしてくくれればいいと告げた。","Rikka raised her head after hearing what you said. You
+felt slight guilt for telling it to a girl as young as
+her, but you told her her than she can drain levels
+from you."
 "<六花>
 『……っ！ほ、本当ですか？
 　…………すごく、嬉しい、ですけど……
 　その、本当にいいんですか？』","<Rikka>
-""?! C-Can I really? That would make me really happy...
- But Are you really sure about that?"""
+""...?! C-Can I really? I would be really happy if you
+ helped like that... But are you really sure?"""
 "六花は恐る恐るそう貴方に尋ねる。
 貴方はそんな六花に大丈夫、自分は外に出られるから、
-下がった分はまたレベルをあげればいいとそう告げた。","Rikka timidly asked if you were sure about letting her
-level drain you. You reassured her that it would be okay
-since you could go out of the town to raise your levels
-again."
+下がった分はまたレベルをあげればいいとそう告げた。","Rikka timidly asked if you really sure about the level
+draining. You reassured her that you would be fine
+since you can just go grind some levels outside of
+town."
 "<六花>
 『あ、ありがとうございます！
 　その……えっと、どこでやりますか…？』","<Rikka>
-""T-Thank you so much!
- So, um... Where should we do it?"""
+""T-Thank you so much! So, um... Where should we do it?"""
 "六花の問いに貴方は考える。
 流石にここでやるわけにはいかない。
 やはり2人きりになれる場所……
-宿屋でやろう、とそう告げた。","Rikka's question of the place made you think.
-Your current location was out of the question.
-You told her about the inn since you could be alone
-there."
+宿屋でやろう、とそう告げた。","Rikka's question made you think. Your current location
+was out of the question, so you suggested the inn since
+you could be alone there."
 "<六花>
 『わ、分かりました！
 　ありがとうございます！』","<Rikka>
 ""U-Understood! Thank you so much!"""
 "笑顔で六花はそうお礼を言う。
 そんな彼女に気にしなくていいと言いながら、
-貴方たちは宿屋に向かった。","Rikka thanked you with a smile. You told her
-that it's not a big deal as you started heading
-towards the inn."
+貴方たちは宿屋に向かった。","Rikka thanked you with a big smile. You told her that
+it's not a big deal and started heading towards the
+inn."
 "<六花>
 『あの……宿代もないのに、
 　私にレベルを恵んでもいいんですか？
-　先にお金に変えたほうがいいんじゃ…………』",""
+　先にお金に変えたほうがいいんじゃ…………』","<Rikka>
+""Um... Should you really give levels to me when you
+ can't afford a room at the inn? Wouldn't it be better
+ to exchange them for money?"""
 "宿代を貴方の代わりに立て替えた六花が、
 そう貴方を心配するように告げる。
-貴方は羞恥を感じながらも、大丈夫だと言い張った。",""
+貴方は羞恥を感じながらも、大丈夫だと言い張った。","Rikka said that in worry as she paid the room charge
+for you. You insisted that you were fine with giving
+your levels to her while also feeling shameful for not
+being able to afford it."
 "<六花>
 『そ、そうですか？
 　お兄さんがそう言うならそれでいいですけど……
-　え、えっと、よろしくお願いします。』",""
+　え、えっと、よろしくお願いします。』","<Rikka>
+""R-Really? If you say so, then I guess it's fine...
+ So... U-Um, please take good care of me."""
 "<六花>
 『お兄さん………
 　その、最後の確認なんですけど、
 　ほんとにレベルドレインしてもいいんですか？』","<Rikka>
-""Um... I want to make sure one last time...
- Can I really drain your levels?"""
+""Um... I confirm it one more time... Is it really okay
+ for me to drain your levels?"
 "部屋に入ると、六花がそう貴方に尋ねる。
 そんな六花に貴方は再度大丈夫だと告げた。
-すると、六花は胸をなでおろす。","After you entered the room, Rikka posed you a question.
+すると、六花は胸をなでおろす。","Rikka posed you a question after you entered a room.
 When you gave your okay once more, she breathed a sigh
 of relief."
 "<六花>
 『ありがとうございます……！
 　え、えっと…よろしくお願いします！』","<Rikka>
-""Thank you so much!"""
+""Thank you so much! So... U-Um, please take good care
+ of me."""""
 "<六花>
 『じゃ、じゃあ……
 　その、レベルを搾り取るので、
 　おちんちん出してもらえますか…？』","<Rikka>
-""So, um... I'd like to start with the level drain...
- So can you take out your penis?"""
+""Then, um... I'll drain your levels... So can you take
+ out your penis...?"""
 "六花はおずおずとそう貴方にお願いする。
 ……今更ながらに、
 レベルを恵むからとこんな少女を宿屋に連れ込んで、
-えっちなことをするということに良心が痛んだ。","Rikka timidly asked you to undo your pants. You were
-already alone, but it still pained your heart to ask
-such a pure girl to do sexy things to you even if it's
-for her own benefit."
+えっちなことをするということに良心が痛んだ。","Rikka timidly asked you to undo your pants. Although
+it was a bit late, it still pained your heart to bring
+a girl so young and pure as Rikka to a inn and have sex
+with her even if it was for her benefit."
 "しかし、そういうことをしなければ、
 この少女は助けられない……
-貴方は自分にそう言い聞かせると肉棒を取り出した。","However, there's nothing else that you can do to help
-her. That's how you persuaded yourself and took out
-your penis."
+貴方は自分にそう言い聞かせると肉棒を取り出した。","However, that was the only way you could help her.
+While trying to persuade yourself with that, you took
+out your penis."
 "<六花>
 『そう、ですよね…
-　…いえ、仕方ないと思います…』",""
-"六花はがっかりしたようにうつむいてしまった…",""
+　…いえ、仕方ないと思います…』","<Rikka>
+""Yes... There's nothing to be done..."""
+"六花はがっかりしたようにうつむいてしまった…","Rikka sadly hung her head."
 "<六花>
 『そうですか…
 　…私は、どうしたら…』","<Rikka>
 ""I see... What should I do..."""
 "六花は再びうつむくと、
-思考の海に潜りながらぶつぶつとつぶやいている…","Rikka started muttering and thinking of her situation
-with her head hung again."
+思考の海に潜りながらぶつぶつとつぶやいている…","Rikka hung her head, and then she began muttering once
+more."
 "MP_SET_MOVIE rokka_1_1",""
 "<六花>
 『わ、もう大きくなってますね…
 　お兄さん、期待してたんですか……？
 　…ふふ♡期待に応えられるよう頑張りますね……♡』","<Rikka>
-""Woah... It's already so big...
- Could it be you were getting excited?
- Ehehe♡ I'll do my best to meet your expectations♡"""
+""Woah! It's already so big... \n[1],
+ did get excited...? Ehehe♡ I'll do my best to meet
+ your expectations♡"""
 "<六花>
 『私のレベルが低いので、
 　時間がかかっちゃうかもしれないですけど…
 　お兄さんが気持ちよくなれるよう、ご奉仕します…♡』　","<Rikka>
-""I'm really low level, so it might take a lot of time,
- but I'll lick you so that you'll feel good♡"""
+""It might take a lot of time since I'm so low level...
+ But I'll do my best to make you feel good...♡"
 "六花はそう言うと肉棒の先端に優しくキスをして、
 竿の部分を小さな手のひらで扱き始める。
 どことなくぎこちないその手つきに、
-貴方はむず痒いような快感を覚えた。","After saying that, Rikka gave a gentle kiss on the tip
-of your penis while also starting to stroke your shaft.
-You felt itchy pleasure as she inexperiencedly stroked
-you."
+貴方はむず痒いような快感を覚えた。","After saying that, Rikka gentle kissed the tip of your
+penis while also starting to stroke your shaft. You
+felt weak and itchy pleasure when she stroked you with
+her inexperienced hands."
 "<六花>
 『んっ♡……ど、どうですか？
 　こんな感じでちゃんと気持ちよくなれますか……？
 　あんまり自信はないんですけど……』","<Rikka>
-""Mmmh♡ H-How does it feel? Does it feel good when I
- do this? I don't have much experience in these
- things..."""
+""H-How does it feel...? Does it feel good when I
+ do this...? I don't have much experience in these
+ kind of things..."""
 "不安げにそう尋ねる六花に、
 貴方は大丈夫、気持ちいいとそう言葉をかける。
-そんな貴方の言葉に六花は嬉しそうに微笑んだ。","Rikka looked unease as she asked that. You replied
-that she's doing great and it feels good.
-She showed you a happy smile when she heard your
-answer."
+そんな貴方の言葉に六花は嬉しそうに微笑んだ。","Rikka looked uneasy when she asked that. You replied
+that she was doing great and it felt good, and her face
+turned into a happy smile when she heard your answer."
 "<六花>
 『よかったです…♡
 　こんな風に舐めてあげると、
 　おちんちん気持ちよくなるんですね…♡』","<Rikka>
-""I'm glad you like it♡ So your penis feels good
- when I lick it like this♡"""
+""I'm happy to hear that...♡ So your penis feels good
+ when I lick it like this...♡"""
 "<六花>
 『それなら、お礼の気持ちを込めて……
 　魅了の魔力を込めていっぱい舐めてあげますから…♡
 　おちんちんたくさん気持ちよくなってください♡』","<Rikka>
-""Since it feels good, let me put all of my feelings of
- gratitude into this... I'll apply charm magic into
- my licking... So please enjoy it♡"""
+""Let me put all of my feelings of gratitude into this
+ too... I'll cast charm spell while I'm licking...
+ So please feel good with your penis♡"""
 "六花はそう言いながら、口元に魅了の魔力集める。
 生温かい口内に包まれた肉棒に、
-その甘い魔力がじんわり広がり、貴方は少し声を漏らした。","After saying that, Rikka gathered her mana inside her
-mouth. The sweet-feeling mana gradually spread into
-your penis from her warm mouth, and it made you moan
-lightly."
+その甘い魔力がじんわり広がり、貴方は少し声を漏らした。","After Rikka that, mana began to gather inside her
+mouth. You felt a sweet tingling sensation spread
+across your penis inside Rikka's warm mouth, and it
+made you moan lightly."
 "<六花>
 『えへへ…♡気持ちいいですか？
 　これ、私の得意技なんです……♡
 　甘くおちんちんを溶かしちゃう魅了フェラ♡』","<Rikka>
-""Ehehe♡ Does it feel good? This is my special
- technique♡ Charming blowjob for sweetly melting
- your penis♡"""
+""Ehehe...♡ Does it feel good? This is my special
+ technique...♡ A charming fellatio where I sweetly
+ melt your penis in pleasure♡"""
 "<六花>
 『……ま、まぁ……
 　得意技って言ってもできるのがこれくらいで、
 　それにこの技を使っても全然勝てないんですけど……』","<Rikka>
-""W-Well... Even if I call it special technique, this is 
- the limit of its power... I haven't managed to beat 
- anyone with it either..."""
+""B-But well... This is about the extent of its power...
+ I haven't won any match even when I've used it..."""
 "自分でそう言いながら落ち込む六花に、
 貴方はちゃんと気持ちいいとそう伝える。
 実際、小さなお口で肉棒を愛撫される感覚は、
-間違いなく貴方に快楽を与えていた。","Rikka was starting to look down as she was saying that
-to which you said that it feels good. You could feel
-pleasure from her small mouth caressing your penis
-without fail."
+間違いなく貴方に快楽を与えていた。","Rikka looked down when she said that, but you told her
+that it felt good to cheer her up. It wasn't a lie
+either. You felt slight pleasure when she sucked your
+penis inside her small mouth."
 "<六花>
 『そ、そうですか？
 　えへへ……ありがとうございます…♡
 　それじゃあ、もっと味わってくださいね……♡』","<Rikka>
-""R-Really? Ehehe... Thank you♡
- Then please enjoy it more as I suck your penis♡"""
+""R-Really? Ehehe...♡ Thank you♡ Then please enjoy my
+ special technique even more...♡"""
 "<六花>
 『んっ♡お口の中で、
 　舌も使ってたくさん舐めますから…♡
 　おちんちんは、先っぽが敏感なんですよね……？』","<Rikka>
-""Mmmh♡ I'll use my tongue to lick your penis too♡
- The tip of your penis is sensitive, isn't it?"""
+""I'll also use my tongue to lick your penis while I'm
+ holding it in my mouth...♡ It's really sensitive on
+ the tip, right...?"""
 "MP_SET_MOVIE rokka_1_2",""
 "<六花>
 『んっ♡んっ♡
 　やっぱりこうしてお口で咥えたまま、
 　先っぽを舐められるのは気持ちいいですか…？』","<Rikka>
-""Mmmh♡ Mmmh♡ As I thought... It feels good when I
- suck your penis and lick it's tip, right?"""
+""Mmmh♡ Mmmh♡ Does this feel good...? When I suck your
+ penis and lick the tip like this?"""
 "六花は竿の部分を手で扱きながら、
 あむあむと口を動かして肉棒を愛撫する。
 亀頭をくすぐるような彼女の小さな舌の動きに、
 貴方は気持ちいいとそう答えた。","Rikka moved her mouth to suck your penis while stroking
-your shaft with her hand. You told her that it feels
-good when she tickles your glans with her small tongue."
+your shaft with her hand. When she used her tiny tongue
+to tickle your glans, you told her that it feels good."
 "<六花>
 『…………♪嬉しいです。
 　やっぱり戦いの最中だと、
 　みんな気持ちいいなんて言ってくれないので…』","<Rikka>
-""I'm so happy to hear that♪ No one has ever said
- that my blowjob feels good when I fight them..."""
+""...That makes me so happy♪ No one says what feels good
+ during a fight after all..."""
 "<六花>
 『そうやって気持ちいいって言ってもらえると、
 　なんだか自信が湧いてきます…♡私でも、
 　ちゃんとおちんちんを気持ちよくできるんだって…♡』","<Rikka>
-""When I hear you say how it feels good... I'm starting
- to find confidence in myself♡ How even someone like
- me can manage to pleasure a penis♡"""
+""When you say that this feels good, I'm starting to
+ find confidence in myself...♡ How even someone like
+ me can make your penis feel good♡"""
 "<六花>
 『だからお兄さん、
 　気持ちいい時は素直に気持ちいいって言ってもらえると…
 　嬉しいです…♡お願いしますね♡ちゅっ♡』","<Rikka>
-""That's why it makes me so happy to hear you say it
- feels good when it feels good...♡ Please continue
- saying that♡ Smooch♡"""
+""That's why it makes me really happy when you honestly
+ say what feels good...♡ Please keep saying what feels
+ good♡"""
 "肉棒を吸ってそうお願いする六花に貴方は頷きを返す。
 少女が自身の肉棒を気持ちよくしようと、
 一生懸命ほおばっている……
-それは微笑ましさと淫靡さが入り混じった光景だった。","Rikka begged you to voice your feelings while sucking
-your penis, and you nodded her in reply. The sight of
-a such a young girl sucking and pleasuring your penis
-was lewd and heartwarming at the same time.
-"
+それは微笑ましさと淫靡さが入り混じった光景だった。","When Rikka begged you to voice your feelings while
+sucking your penis, you nodded. The sight of such a
+young girl doing her everything to pleasure your penis
+was both lewd and heartwarming at the same time."
 "<六花>
 『んっ♡
 　頑張ってお兄さんのおちんちんの弱いところ、
 　お口で探しますね……♡』","<Rikka>
-""Mmh♡ I'll do my best to find your sensitive spots
- with my mouth♡"""
+""I'll do my best to find your sensitive spots with my
+ mouth...♡"""
 "<六花>
 『…こ、こうやって…
 　先っぽをゆっくり舐められながら、
 　おちんちんをシコシコされるのとかどうですか？』","<Rikka>
-""Do you like it when I slowly lick your tip and
- stroke your shaft like this?"""
+""D-Do you like it when I slowly lick the tip while
+ stroking the shaft like this?"
 "<六花>
 『それとも、んっ♡じゅるるっ♡
 　こんな風にシコシコされながら、
 　思いっきりお口で吸われるほうがいいんでしょうか…？』","<Rikka>
-""Or maybe you prefer it when I suck you hard like
- this while stroking?"""
+""Or maybe you like it when I stroke the shaft while
+ sucking your penis hard like this...?"
 "六花は様々な技法を試しながら、
 貴方が気持ちいいと思えるものを尋ねる。
 そのどちらも甘く精液をねだられるようで、
-甲乙がつけがたかった。","Rikka asked for your view while she was trying various
-techniques on your penis. Both of them were sweetly
-pushing out your semen, so you told her they were
-both good."
+甲乙がつけがたかった。","Rikka asked for your feedback while trying different
+techniques on your penis. Both of the things she tried
+felt good, so you told her exactly that."
 "<六花>
 『どっちも気持ちいい、ですか？
 　もう、そんなこと言って……♡
 　……えへへ…♡でも、嬉しいです…♡』","<Rikka>
-""Both of them felt good?
- Geez, even if you say that...
- Ehehe... But hearing that makes me happy."""
+""Eh? Both of them felt good...? Geez, if you flatter me
+ like that...♡ Ehehe♡ But that makes me so happy♡"""
 "<六花>
 『それじゃ…♡どっちもしてあげますね……♡
 　おちんちんからお兄さんの精液を吸い出すように…♡
 　いっぱい吸って、舐めながらシコシコしてあげます♡』","<Rikka>
-""Then I'll do them both♡ I'll suck your penis
- while licking and stroking it... So that your
- semen will fly out."""
+""Then... I'll keep doing both of them♡ I'll keep
+ stroking your penis while sucking and licking it
+ until your semen flies out♡"""
 "六花は嬉しそうに目を細めながら、
 じゅるじゅると下品な音を立てながらフェラを続ける。
 可憐な少女の搾り取るようなフェラに、
-貴方の興奮は高まっていく。","Rikka happily squinted her eyes while continuing her
-blowjob in loud wet noises. Having such a sweet girl
-milk you in blowjob was turning you on hard."
+貴方の興奮は高まっていく。","Rikka continue loudly slurping your penis in blowjob
+while happily squinting her eyes. Having such a sweet
+and adorable girl sucking you off was turning you on
+hard."
 "<六花>
 『んっ♡じゅるっ♡
 　お兄さんのおちんちんこんなに舐めてるのに…♡
 　まだまだ勇ましくて凄いです…♡』","<Rikka>
-""Mmmh♡ Even when I'm licking your penis so much...
- It's still staying so strong and hard..."""
+""Even when I've licked your penis so much...♡
+ It's still holding on so strongly...♡"
 "<六花>
 『私のフェラじゃ、
 　やっぱり搾り取るのにも時間がかかっちゃいますよね…
 　でも…それでも……♡』","<Rikka>
 ""As I thought, it will take a lot of time to drain
- anyone with my blowjob... But even then..."""
+ anyone with my blowjob... But even when it takes so
+ long...♡"""
 "<六花>
 『ちゃんと気持ちいいって言ってくれるから、
 　まだまだ頑張れます…♡このまま精一杯……♡
 　んっ♡お口でおちんちんにご奉仕しますね……♡』","<Rikka>
-""Since you said how it feels good, it makes me want to try
- harder... I'll give it my everything in pleasuring your
- penis with my mouth."""
+""I can keep going when you keep saying how it feels
+ good...♡ I'll put my everything in pleasuring your
+ penis with my mouth...♡"""
 "六花はその言葉通り、
 精一杯の気持ちを込めてフェラをしてくれている。
 そんな彼女の健気なお口による奉仕に、
-貴方は徐々に、少しずつ快感を感じていく。","Rikka was putting her everything into the blowjob like
-she said. When she was working so hard to suck you,
-the pleasure was starting to little by little sink
-in."
+貴方は徐々に、少しずつ快感を感じていく。","Like she said, Rikka was putting her everything into
+the blowjob. The pleasure was starting to accumulate
+little by little when she was working so earnestly
+to suck you off."
 "そんな健気なフェラを六花は続け、
 気が付けば行為を始めてからもう15分は経っていた。
 六花もフェラをし続けて疲れているだろうに、
-彼女はみじんもその疲れを表に出していない。","Rikka continued and continued her blowjob, and before
-you realized, she had been going at it for 15 minutes
-already. She was surely starting to get tired, but it
-wasn't showing at all on her face."
+彼女はみじんもその疲れを表に出していない。","Rikka continued her earnest blowjob, and before you
+realized, she had been going at it for 15 minutes.
+She was surely starting to get tired, but it wasn't
+showing on her face at all."
 "貴方の方も徐々に快楽が蓄積し、
-肉棒の先端からとろりと我慢汁をあふれさせた。","After going on it for so long, the pleasure had started
-to affect you as well. The tip of your penis started
-leaking precum."
+肉棒の先端からとろりと我慢汁をあふれさせた。","As a sign of the accumulated pleasure starting to
+affect you little by little, precum leaked from your
+penis."
 "<六花>
 『んっ♡こ、これ…♡
 　我慢汁、ですよね♡
 　おちんちんが気持ちよくなってる証拠…♡』","<Rikka>
-""Mmh♡ T-This... This is precum, right?
- It's the proof that your penis feels good♡"""
+""T-This is precum, right? It's the proof that your
+ penis feels good...♡"""
 "<六花>
 『や、やった！
 　男の人のおちんちんをここまで追いつめたのって、
 　奴隷にされてからはきょ、今日が初めてです…！』","<Rikka>
-""Y-Yay! It's my first time pushing a man this far
- ever since I became a slave!"""
+""Y-Yay...! I-It's my first time pushing a man's penis
+ this far after becoming a slave!"""
 "<六花>
 『嬉しい…♡
 　お兄さん、このまま精液まで、
 　お口で搾りだしてあげますね…♡』","<Rikka>
-""I'm so happy♡ I'll continue sucking you like this
- until I've made you cum♡"""
+""I'm so happy...♡ I'll continue sucking your penis
+ just like this until your semen flies out...♡"""
 "<六花>
 『だからじっくり、たっぷり…♡
 　お兄さんの体力を精液に溶かしてください♡
 　んっ♡じゅるっ♡じゅるるっ♡』","<Rikka>
-""That's why... Please let your strength slowly and
- firmly melt away into your semen♡"""
+""That's why... Please let lots of your powers slowly
+ melt into your semen♡"""
 "六花は嬉しそうにしながら、
 水音を立てて我慢汁を吸い上げる。
 小さな口内で圧迫されながらの快楽に、
-貴方は次第に息が荒くなり、余裕がなくなっていく。","Rikka looked really happy as she loudly slurped on your
-precum. The pleasure from her tiny mouth was starting
-to make you gasp for air as you were losing your
-footing."
+貴方は次第に息が荒くなり、余裕がなくなっていく。","Rikka looked really happy when she loudly slurped on
+your precum. The pleasures of her tiny mouth were
+slowly starting to make you pant and loose footing."
 "自身のHPが少しずつ、少しずつ……
 少女のフェラによって削られていく光景に、
-貴方は何とも言えない興奮を感じてしまった。","Seeing your HP reduce little by little to Rikka's
-blowjob was turning you on in an indescribable way."
+貴方は何とも言えない興奮を感じてしまった。","It was also turning you on in an indescribable way
+when you could see Rikka's blowjob slowly chipping
+away on your HP bar."
 "<六花>
 『んっ♡んっ♡
 　お兄さん、息が荒くなってますね…♡
 　えへへ…私がお兄さんを追い詰めてるんだ…♡』","<Rikka>
-""Mmmh♡ You're starting to breathe hard♡
- Ehehe... I'm about to beat your dick♡"""
+""You're panting...♡ Ehehe... I'm about to beat your
+ penis...♡"""
 "<六花>
 『ちょっと、ゾクゾクしちゃいます…♡
 　いっぱいご奉仕頑張った甲斐がありますね♡
 　んっ♡んっ♡じゅるっ♡じゅるるっ♡』","<Rikka>
-""It's starting to get the chills.
- Like it's the fruits of my labors for sucking
- you off for so long."""
+""I feel slight chills when I think about that...♡
+ It's like sucking you off for so long is starting
+ to pay off♡"""
 "六花はくすりと小さく笑うと、
 肉棒から精液を吸い出すように激しくフェラする。
 如何にレベル差があれど、散々舐られ、
-敏感になった肉棒にその激しい動きは耐えられなかった。","Rikka showed you a small smile before moving on to
-suck you hard for your semen. Even when there was
-the massive level difference, you couldn't take it
-when she licked so much and turned your penis sensitive."
+敏感になった肉棒にその激しい動きは耐えられなかった。","After lightly giggling, Rikka sucked you off in an
+intense blowjob. Even when there was the huge level
+difference, you couldn't resist any more when your
+penis had become so sensitive from so much licking."
 "気持ちいい、と息を荒くしながら彼女にそう告げ、
 腰がびくびくと痙攣してくる。
 このまま彼女の口に出してしまいたい、
-そんな欲求で頭の中が埋め尽くされた。","You told her how it feels good while gasping for air.
-Your hips were already trembling.
-The desire to cum inside her mouth was completely
-taking over your mind."
+そんな欲求で頭の中が埋め尽くされた。","Your hips were trembling, and you told Rikka how her
+blowjob feels so good while gasping for air. Your mind
+was completely filled with the desire to cum inside her
+mouth."
 "<六花>
 『んっ♡おちんちんすごく辛そうです…♡
 　お兄さん、もうそろそろイっちゃいそうですか？
 　…いいんですよ、私のお口にたくさん出してください…♡』","<Rikka>
-""Mmmh♡ Your penis look to be in so much pain♡
- Are you going to cum soon? Please do and pour
- a massive load inside my mouth."""
+""Your penis looks like it's in pain...♡ Are you about
+ to cum? ...Please do♡ Pour a massive load inside my
+ mouth...♡"""
 "<六花>
 『全部受け止めてあげますから…♡
 　ちゃんとイくって言いながら射精してください♡
 　ほら、吸い出してあげますね♡じゅるるっ♡』","<Rikka>
-""I'll be sure to catch it all♡ Please make sure to
- yell 'cumming' when you cum♡
- Hey♡ I'll suck it all out♡"""
+""I'll catch it all with my mouth...♡ So please yell
+ 'cumming' when you do it♡ Now, I'll suck it out♡"""
 "MP_SET_MOVIE rokka_1_3",""
 "六花の激しいフェラに吸い出されるように、
 貴方は「イくっ！」と言いながら彼女の口に射精する。
 六花はくぐもった声をあげながらも貴方の精液を受け止め、
-しっかりと肉棒を咥えこんだ。","You yelled 'cumming' as you ejaculated to Rikka's intense
-blowjob. She let out a muffled voice as she held your
-penis deep in her mouth and caught your semen."
+しっかりと肉棒を咥えこんだ。","When Rikka sucked you off hard, you yelled 'Cumming'
+and poured your load inside her mouth. She was making
+muffled noises while firmly holding your penis inside
+her mouth to catch all your semen."
 "<六花>
 『んくっ…♡ぷはぁ…♡
 　たくさん出ましたね…♡
 　お兄さん、今のでちゃんとHP削れましたか？♡』","<Rikka>
-""Mmmmh♡ Phew♡ You shot so much♡
- Did you lose all your HP from that?"
+""Mmmmh...♡ Phew...♡ There was so much of it...♡
+ Hey...♡ Is your HP completely gone now?"""
 "六花は嬉しそうに微笑みながら、
 貴方にそう尋ねる。貴方は確かにHPが0になっており、
-彼女にもうHPがなくなったと告げた。","Rikka smiled when she asked that. You checked your
-HP that had gone to zero, and told her how you
-had no HP remaining."
+彼女にもうHPがなくなったと告げた。","Rikka was happily smiling when she asked you to check
+your HP. You checked it and told her that you had no
+HP remaining."
 "<六花>
 『やった…！私の勝ちです♡
 　……なんて、調子に乗りすぎですね…♡
 　すごく時間かかっちゃいましたし…』","<Rikka>
-""Yay! That means I won♡
- I'm just kidding♡ It took so much time after all♡"""
+""Yay...! I won♡ ...Sorry, I shouldn't get carried away
+ like that♡ It took so much time after all...♡"""
 "<六花>
 『でも、私でもおちんちんに勝てるんだって、
 　そう思うと嬉しくて嬉しくて…♡
 　お兄さん、ありがとうございます……♡』","<Rikka>
-""But I'm so happy to know that even I can win against
- a penis♡ Thank you so much for showing that to me♡"""
+""But it makes me so indescridably happy to know that
+ even someone like me an win against a penis...♡
+ Thank you so much for showing me that...♡"""
 "<六花>
 『…っと、喜んでる場合じゃないですよね！
 　ペナルティタイムが終わるまでに、
 　お兄さんからレベルをドレインしないと……！』","<Rikka>
-""Wait, this isn't the time to celebrate!
- I need to level drain you before the penalty
- time is over!"""
+""...Wait, this isn't the time to celebrate! I need to
+ level drain you before the penalty time is over!"""
 "<六花>
 『ここからが正念場です…！
 　お兄さんのレベル…頑張ってお口で吸い出しますね♡
 　…………あむっ♡』","<Rikka>
-""This is where the real things happens!
- I need to give my everything to drain your levels♡"""
+""This is where the main part starts...! I need to work
+ hard to drain your levels now♡"""
 "六花はそう自身に気合を入れると、
 再び貴方の肉棒を小さなお口で咥える。
 最初の頃よりも随分となれた舌使いで、
 肉棒の先端をちろちろとくすぐった。","Rikka psyched up herself before swallowing your penis
-again. She had become much more skilled in using her
-tongue to tickle your glans compared to the start."
+again. Compared to the start, she had become
+surprisingly good at tickling the tip of your penis
+with her tongue."
 "<六花>
 『んっ♡
 　す、ステータス的には変わらないですけど…
 　どんな風にフェラすればいいのか…少し分かりました♡』","<Rikka>
-""Mmh♡ There's still the huge status difference...
- But I've noticed how sucking like this words
- really well♡"""
+""T-There's the huge status difference in the way...
+ But I've started to understand how to give fellatio
+ a little bit♡"""
 "<六花>
 『だ、だから今度は、
 　さっきよりも時間はかからないはずです…♡
 　ちゃんとペナルティタイム内に、イかせますね…♡』","<Rikka>
-""T-That's why it shouldn't take as long as before.
- I'll properly make you cum within the penalty time."""
+""T-That's why this shouldn't take as long as
+ before...♡ I'll make you properly cum before the
+ penalty time is over...♡"""
 "六花は小さなお口でほおばるようなフェラを続ける。
 変わらずじんわりとした快感でありながらも、
-確かに最初のころよりは快感が強い気がした。","Rikka continued sucking you with your whole penis in
-her mouth. The pleasure was slowly increasing just
-like before, but it was certainly growing much
-faster than then."
+確かに最初のころよりは快感が強い気がした。","Rikka continued the blowjob by stuffing your penis
+inside her small mouth. The pleasure spreading across
+your penis was still weak and tingly, but it was surely
+stronger compared to the start."
 "<六花>
 『…えへへ…♡
 　お兄さん、お顔が緩んでます…♡
 　私のお口、気持ちいいんですよね？♡』","<Rikka>
-""Ehehe♡ Your face is getting sloppy♡
- My mouth feels really good, doesn't it?"""
+""Ehehe...♡ Your face is getting sloppy...♡ My mouth
+ feels good, right?"""
 "<六花>
 『嬉しいです…♡
 　おちんちん負けちゃう男の人の顔…♡
 　私がお兄さんに、そんな顔をさせてるなんて…♡』","<Rikka>
-""I'm so happy to see that♡ The face of a man when he's
- about to lose with his penis♡ I can't believe I've
- managed to make you put on that♡"""
+""I'm so happy to see that♡ The face of a man who's
+ about to lose with his penis...♡ I can't believe
+ I've managed to make you put on such a face...♡"""
 "<六花>
 『もちろんそんな顔になってるのは、
 　お兄さんが何もしないでいてくれたからって…
 　それはちゃんと分ってますけど…』","<Rikka>
-""But I remember that I've only managed to make you
- put that face since you've just let me do my thing."""
+""But I naturally haven't forgotten... It only possible
+ because you're letting me level drain you..."""
 "<六花>
 『それでも私のフェラで、
 　お兄さんにそんな顔をさせられるんだって思うと…♡
 　ちょっと、自信がわいてくるんです♡』","<Rikka>
-""But even when that is the case, I'm starting to get
- confident in myself when I've managed to make you show
- that face."""
+""Even when that's the case, I'm starting to feel 
+ slightly confident when I've managed to make you put
+ on that face...♡"
 "六花はそう表情を明るくしながら、
 肉棒の先端に吸い付いて竿の部分を手で扱き続ける。
 敏感な肉棒に与えられる彼女の責めに、
-貴方は確かに快感を覚えていく。","Rikka happily talked about her feelings while
-continuing to suck on your glans and stroking your
-shaft. She was pleasuring you without fail by
-playing with your sensitive penis."
+貴方は確かに快感を覚えていく。","Rikka talked how happy she felt while sucking your
+glans and stroking your shaft. What you felt was
+certainly pleasure when she accurately touchedyour
+sensitive penis."
 "貴方はそんな六花に改めて、
 気持ちいいよとそう告げた。
 六花のような少女にはやはり、
-暗い顔よりも明るい顔の方が似合っている…そう感じる。","You once more told her how it feels so good.
-You strongly felt that a smile suited such a 
-young girl the best."
+暗い顔よりも明るい顔の方が似合っている…そう感じる。","You once more told Rikka how her blowjob felt so good.
+You strongly believed that a smile suited a young girl
+like her the best."
 "<六花>
 『ふふ♡ありがとうございます…♡
 　お兄さんのおちんちんをもっと気持ちよくできるように…♡
 　お兄さんのレベル、私にください♡じゅるるっ♡』","<Rikka>
-""Ehehe♡ Thank you♡ I will pleasure your penis
- much more, so please give me your levels♡"""
+""Ehehe♡ Thank you so much...♡ I'll make your penis
+ feel even better, so please give me your levels♡"""
 "六花は長いフェラで疲れているだろうに、
 明るい表情を浮かべながら丁寧に肉棒を舐る。
 そんな彼女を微笑ましく思いながら、
-彼女のお口による奉仕を受け続けた。","Rikka was surely getting tired from the long blowjob,
-but she still showed a bright face while thoroughly
-licking your penis. You found her really charming
-as you let her suck you off."
+彼女のお口による奉仕を受け続けた。","Rikka was surely starting to tired from the long
+blowjob, but she was still earnestly licking your
+penis in a smile. You found that really charming."
 "そんな快楽の中、時間が過ぎていく。
 気が付けば再び時間は10分ほどが経ち、
-あたりにはフェラの水音が響き続ける。","And so time continued to pass as Rikka pleasured you.
-When you looked, 10 minutes had passed."
+あたりにはフェラの水音が響き続ける。","And so, time passed while Rikka was giving you a
+blowjob. When you looked at the clock, she had been
+loudly slurping on your penis for 10 minutes already."
 "<六花>
 『んっ♡んっ♡
 　やっぱり私が弱いせいで、
 　レベルドレインにも時間がかかっちゃいます…』","<Rikka>
-""Mmmh♡ As I thought, the level drain still takes a
- lot of time because I'm so weak..."""
+""As I thought, the level drain also takes a lot of time
+ because I'm so low level..."""
 "フェラを続けていた六花がそう言葉を漏らす。
 貴方は長くフェラされるのも気持ちいい、
-そう六花に告げた。","Rikka sighed a complaint while sucking you off.
-You told her how it feels good to cheer her up."
+そう六花に告げた。","Rikka was starting to feel slightly down after
+continuing the blowjob for so long. You told her how
+it feels good to cheer her up."
 "<六花>
 『………ふふ♡ありがとうございます♡
 　落ち込んでる場合じゃないですよね♡
 　おちんちんもびくびくしてきましたし……♡』","<Rikka>
-""Ehehe♡ Thank you♡ This isn't the time to feel down♡
- Your penis has began twitching too♡"""
+""...Ehehe♡ Thank you♡ Yes, this isn't the time to
+ feel down♡ Your penis started twitching...♡"""
 "<六花>
 『お兄さんの息も荒くなってますから…♡
 　あとちょっと、あともうちょっとです…♡
 　お口でのご奉仕、頑張りますね♡お兄さん♡』","<Rikka>
-""Your breathing harder... So it shouldn't be much
- longer. I'll do my best to pleasure you until the
- end♡"""
+""And you're starting to gasp for air too...♡
+ It shouldn't be much longe...♡ I'll do my best to
+ pleasure your penis until the end♡"""
 "<六花>
 『ちゃんとお兄さんを、
 　ペナルティタイムの間にイかせますから…♡
 　お兄さんはただ気持ちよくなっててください♡』","<Rikka>
-""I'll make you cum within the penalty time...
- So please just stay still and enjoy♡"""
+""I'll make you cum within the penalty time... So please
+ just sit there and enjoy♡"""
 "六花は貴方の言葉に笑みを浮かべると、
 小さなお口で一生懸命肉棒を頬張るようにフェラをする。
 じゅるじゅると小さなお口で吸い上げられるようなフェラに、
-貴方は次第にイきそうになっていく。","Rikka brigthened up when she heard your words before
-starting to suck you as hard as she could. It didn't
-take long before you were close to your limit in her
-slurping blowjob."
+貴方は次第にイきそうになっていく。","Rikka cheered up from your praise, and then she began
+sucking your penis as hard as she could. Your orgasm
+was gradually closing in when she was giving you such
+an intense blowjob."
 "<六花>
 『んっ♡お兄さん、今おちんちんがびくってしました♡
 　私のお口でイきそうになってくれたんですか？♡
 　これならなんとか……間に合いそうです♡』","<Rikka>
-""Mmmh♡ Your penis twitched really hard just now♡
- Are you about to cum in my mouth? It looks like I
- can make it in time♡"""
+""Your penis twitched really hard just now♡ Are you
+ about to cum from my fellatio? Looks like I can make
+ it in time♡"""
 "<六花>
 『ほら♡
 　お兄さんの経験値がたっぷり詰まった精液…♡
 　私のお口で吸い出してあげますね♡』","<Rikka>
-""I'll put my everything to sucking out your semen
- packed with loads of EXP♡"""
+""Now♡ I'll suck out your semen that's packed with so
+ much EXP with my mouth♡"""
 "<六花>
 『我慢せずお口に出してください♡
 　お兄さんのレベル…私に恵んでください♡
 　んっ♡じゅるっ♡じゅるるっ♡』","<Rikka>
-""Please cum in my mouth without holding back♡
+""So, please don't hold back and shoot it in my mouth♡
  Please give me your levels♡"""
 "貴方は六花の吸い出しに促されるように、
 大量の白濁液を彼女の口内に注いだ。
-それと同時に、レベルドレインの喪失感が貴方を襲う。","Prompted by Rikka's sucking, you released a massive
-load of semen in her mouth. At the same time, you
-were overcome with the sensation of losing your
-level."
+それと同時に、レベルドレインの喪失感が貴方を襲う。","Rikka's intense sucking made you finally shoot your
+white load inside her mouth. At the same time, you
+felt a sensation of losing your level to level drain."
 "<六花>
 『んっ…んくっ♡…はぁ…♡
 　…っ♡き、来ました！お兄さんのレベル…♡
 　凄い、久々のレベルアップ…♡』","<Rikka>
-""MMmh...Nngh♡ Haah♡ I-I did it! I got your level♡
+""Mmmh...Nngh♡ Haah♡ I-I did it! I got a level...♡
  Amazing! It's been so long since I've gained a level
- up!"""
+ up...♡"""
 "六花は逆に貴方の経験値を受け止め、
 レベルアップの恍惚感に浸っているようだった。
 そして、それからすぐに、
-貴方の身体を支配していたペナルティタイムが終了する。","In comparison to your sense of loss, Rikka was looking
-really elated from her level up after gaining
-experience from you. Right after that, you felt the
-penalty time end and freedom return to your body."
+貴方の身体を支配していたペナルティタイムが終了する。","In contrary to your sense of loss, Rikka was really
+hyped up from leveling up with the experience she
+gained from you. Right after that, the penalty time
+ended and freedom returned to your body."
 "<六花>
 『あ…動けるようになったんですか？
 　ふふ♡かなりギリギリでしたね……♡
 　でも、頑張った甲斐がありました…♡』","<Rikka>
-""Ah... Can you move now? Ehehe♡
- That was so close♡ But it was worth the effort♡"""
+""Ah... Can you move now? Ehehe♡ I was cutting it so
+ close..♡ But it was worth the effort...♡"""
 "<六花>
 『お兄さんのおかげで、
 　久々にレベルアップです……！
 　本当にありがとうございます♡』","<Rikka>
-""I managed to level up after so long with your help!
- I'm honestly so thankful to you!"""
+""It's thanks to you that I managed to level up after so
+ long...! I can't thank you enough♡"""
 "六花は嬉しそうにぺこりとそう挨拶をする。
 そんな六花に貴方は頬を緩めながらも、
-気にしなくていいとそう告げた。","Rikka bowed and showered you in thanks. You couldn't
-help feeling happy from her happiness, and told her
-not to worry about it."
+気にしなくていいとそう告げた。","Rikka bowed and showered you in gratitude. You couldn't
+help breaking into a smile and told her not to worry
+about it."
 "<六花>
 『ふふ♡……優しいんですね。
 　ありがとうございます、このレベルは、
 　大切にしますね…♡』","<Rikka>
-""Ehehe♡ You're so gentle♡ Thank you♡ I'll treasure
- the level I gained from you♡"""
+""Ehehe♡ ...You're so gentle♡ Thank you♡ I'll
+ treasure this level you gave me♡"""
 "そう言う六花に貴方は照れながらも、
 本当に気にしなくていい…そう告げる。
-そしてそのまま貴方と六花は宿を出た。","You felt slightly bashful when you heard Rikka say that,
-and repeated that it wasn't a big deal.
-After that, you left the inn with her."
+そしてそのまま貴方と六花は宿を出た。","You felt bashful when Rikka said that, and you told her
+again that it wasn't a big deal. After that, you left
+the inn with her."
 "<六花>
 『私はこのまま恭子様の元に戻りますね。
 　お兄さん、今日は本当にありがとうございました！』","<Rikka>
-""I'm going back to Kyouko now.
- I'll never forget your help today!"""
+""I need to return back to Mistress Kyouko now.
+ Thank you so much for your help today!"""
 "そう六花は再度ぺこりと頭を下げて、
 下町へと向かっていく。
-貴方はそんな彼女に手を振って見送った。","Rikka bowed once more before heading to the downtown.
-You waved as you saw her off."
+貴方はそんな彼女に手を振って見送った。","Rikka bowed once more before heading to the southern
+part of the town. You waved as you saw her off."
 "<アル>
 『ふー……いいこと？だったよね？
 　あの子、あんなに喜んでくれてよかったね！』","<Al>
-""Hmmm... I guess it worked out fine?
- That girl looked so happy after all!"""
+""Hmmm... I guess that worked out fine. She looked so
+ happy after all!"""
 "アルがニコニコと笑顔でそう告げる。
 行為はともかく、六花が喜んでくれたことには違いない。
 だが、1レベルではおそらくほぼ何も変わらないだろう。
-気が向けばまた、彼女にレベルを恵んであげよう。","Al said that with a smile. Even if you had sex with
-young girl, there's no mistake that she was happy.
-However, a single level probably won't make much
-difference, so you might need to give her more."
+気が向けばまた、彼女にレベルを恵んであげよう。","Al said that with a smile. Rikka was certainly happy
+even when it involved sex. However, you didn't think
+that a single level makes much difference, so perhaps
+you should give her more if you have time and levels."
 "六花は恭子という女性の家にいるだろうか？
-時間があればその家を探してみてもいいかもしれない。","She's probably staying at this Kyouko's house.
-You might find her there again."
+時間があればその家を探してみてもいいかもしれない。","You can probably find her at Kyouko's house again."
 "<六花>
 『それじゃ、お兄さん♡
 　早速お口でご奉仕してあげますので…
-　前みたいにおちんちん出してください♡』",""
+　前みたいにおちんちん出してください♡』","<Rikka>
+""Well then, \n[1]♡ I will service you
+ with my mouth right away... So please take out your
+ penis just like before♡"""
 "部屋につくと理六花はニコニコと笑いながら、
 そう貴方に肉棒を取り出すように促す。
 すっかり慣れた様子の六花にどぎまぎしながらも、
-貴方はすでに勃起した肉棒を取り出した。",""
+貴方はすでに勃起した肉棒を取り出した。","When you reached the room, Rikka told you to take out
+your penis in smile. The way she was starting to get
+assertive made you slightly panic, but you took out
+your penis that was already fully erect."
 "<六花>
 『ふふ…♡お兄さん、
 　今回も始まる前からおちんちん大きくなってますね♡
-　すぐ大きくなっちゃうおちんちん…♡』",""
+　すぐ大きくなっちゃうおちんちん…♡』","<Rikka>
+""Ehehe♡ Your penis is big before we've even started
+ again♡"""
 "<六花>
 『今日は私も成長しましたから、
 　10分以内にイかせることを目標にしてみます♡
-　…それじゃ、始めますね……♡あむっ♡』",""
+　…それじゃ、始めますね……♡あむっ♡』","<Rikka>
+""Now I'm going to try to make your big penis cum in
+ 10 minutes since I've grown stronger♡ Then... I'm
+ going to start♡"""
 "六花はくすりと笑ってそう言うと、
 大きく口を開けてあなたの肉棒の先端を咥えこむ。
 生温かい六花の口に包み込まれる快感を感じながらも、
-貴方は六花の言葉に笑みを漏らす。",""
+貴方は六花の言葉に笑みを漏らす。","Rikka said that and giggled. Then she opened her mouth
+wide and swallowed the tip of your penis. The insides
+of her warm mouth felt good, but you couldn't help
+laughing over what she said."
 "いくらレベルを恵んだとはいえ、たかが数レベル…
 そんな彼女が最初は15分以上もかかっていたのに、
-今回で10分以内に射精させられるとは思わなかった。",""
+今回で10分以内に射精させられるとは思わなかった。","You had given Rikka levels, but it was still only few
+at that. That was why you didn't think she could make
+you cum inside 10 minutes when it had taken her 15
+minutes on the first time."
 "<六花>
 『んっ♡むー………お兄さん、今笑いましたね？　
 　私は冗談のつもりありませんから…！
-　絶対に10分以内にイかせてみせます…！』",""
+　絶対に10分以内にイかせてみせます…！』","<Rikka>
+""Mmmh! Did you laugh just now?
+ I didn't mean it as a joke! I'll show you
+ that I can make you cum inside 10 minutes!"""
 "<六花>
 『……そうです！10分以内にイかせることができたら、
 　お兄さん…私に参ったって言ってくださいね？♡
-　私のお口に参りました……って♡』",""
+　私のお口に参りました……って♡』","<Rikka>
+""...I know! If I can make you cum in 10 minutes, you'll
+ need to say that you lost to me♡ You'll need to say
+ that you lost to my mouth♡"""
 "自信ありげな六花が挑発的にそう発言する。
 負けず嫌いな子供が背伸びしているような発言に、
 分かった、けど10分は無理だと思うよ、
-そう貴方は苦笑しながら返答した。",""
+そう貴方は苦笑しながら返答した。","Rikka said that with full confidence. You saw her
+as a child who hates to lose trying to stretch oneself,
+so you agreed to it, but you also said that 10 minutes
+might be impossible in a wry smile."
 "<六花>
 『…せ、成長したからできますもん…！
 　本気でお兄さんの精液搾り取っちゃいますよ…！
-　…ほら♡私のお口でおちんちん溶かしてあげます…♡』",""
+　…ほら♡私のお口でおちんちん溶かしてあげます…♡』","<Rikka>
+""I-I've become stronger so I can do it! I'm going to
+ seriously suck out your semen! Here♡ I'll melt your
+ penis with my mouth♡"""
 "<六花>
 『先っぽを吸いながら、んっ♡…おちんちんシコシコ……♡
 　レベルが上がったおかげでどんな風に責めればいいのか、
-　少しは分かるようになったんですから…♡』",""
+　少しは分かるようになったんですから…♡』","<Rikka>
+""I'll stroke your shaft...♡ While sucking the tip♡
+ I've started to understand how I should do it after
+ getting higher level♡"""
 "<六花>
 『…これもお兄さんのおかげです…♡
 　感謝の気持ちを込めてお口でご奉仕しますから、
-　私の成長…たっぷりおちんちんで感じてくださいね♡』",""
+　私の成長…たっぷりおちんちんで感じてくださいね♡』","<Rikka>
+""That's also thanks to your help♡ I'll put all my
+ feelings of thanks into servicing you with my mouth,
+ so feel my growth with your penis♡"""
 "六花は唇を窄めると、
 唾液を絡めるようにしてカリ首の部分を吸い上げる。
 以前はどこかぎこちなかった竿を握る手つきも、
-ピンポイントで貴方の弱点を責め立てる。",""
+ピンポイントで貴方の弱点を責め立てる。","Rikka narrowed her lips and sucked your glans while
+smearing saliva all over them. Her somewhat clumsy
+handjob had also become better at stroking your
+sensitive spots."
 "前回とはすっかり違う六花のフェラ…
 その快楽に貴方は驚き、思わず感じた声を出してしまう。
-そんな声を聴いて、六花は笑みを浮かべた。",""
+そんな声を聴いて、六花は笑みを浮かべた。","You were taken by completely surprise when Rikka's
+blowjob felt so much better than before. You couldn't
+help moaning, and Rikka smiled when she heard that."
 "<六花>
 『んっ♡声出すの、早いですね♡
 　先っぽを吸われるのがそんなに気持ちよかったんですか？
-　それならもっと…吸ってあげますね…♡じゅるるっ♡』",""
+　それならもっと…吸ってあげますね…♡じゅるるっ♡』","<Rikka>
+""You're moaning so early♡ Did it feel so good when
+ I sucked the tip? In that case... I'll suck it even
+ more♡"""
 "<六花>
 『じゅるっ♡ほら、お兄さん…どうですか？♡
 　私のフェラでもっと声出しちゃっていいんですよ…♡
-　遠慮せず、感じてください♡じゅるるっ♡』",""
+　遠慮せず、感じてください♡じゅるるっ♡』","<Rikka>
+""How do you like it? You can moan even louder while
+ I suck your penis♡ Don't hold back and enjoy it♡"""
 "六花は小さな舌で亀頭を撫でまわすと、
 不規則に唇を窄めて唾液ごと吸い上げる。
 そんな彼女のフェラに快楽を感じつつも、
-貴方は思わずでそうになる声を抑え込む。",""
+貴方は思わずでそうになる声を抑え込む。","After licking through your glans, Rikka narrowed her
+lips and sucked your penis. The blowjob was starting
+to feel really good, but you instinctively held down
+your voice to hide it."
 "この前まではあまりフェラが上手とは言えず、
 健気に、一生懸命肉棒を舐めていた……
 そんな六花のフェラで早々に声をあげるのは、
-貴方のプライドが許さなかった。",""
+貴方のプライドが許さなかった。","Rikka's earlier blowjobs couldn't be called good.
+That's why your pride didn't allow you to moan
+already when she had improved all of a sudden."
 "<六花>
 『じゅるっ…♡うー………
 　や、やっぱりこれくらいじゃお兄さんには、
-　あんまり効きませんか……』",""
+　あんまり効きませんか……』","<Rikka>
+""Uuh... L-Looks like this isn't really working on you."""
 "<六花>
 『でも、この前よりは気持ちいいですよね…？
 　お兄さんのおちんちん、
-　私のお口の中でびくびくしてますから…♡』",""
+　私のお口の中でびくびくしてますから…♡』","<Rikka>
+""But it still feels way better than before, right?
+ I can feel how your penis is twitching in my mouth♡"""
 "<六花>
 『目標は10分…！
 　まだ始まって間もないですし、焦ってもダメですよね♡
-　このままじっくり吸い上げてあげますから…♡』",""
+　このままじっくり吸い上げてあげますから…♡』","<Rikka>
+""My goal is 10 minutes ! I've only got started so I
+ shouldn't get inpatient... I'm going to take my time
+ in sucking your penis♡"""
 "六花はそう自身に気合を入れながら、
 じゅるじゅると音を立てて肉棒を吸い上げる。
 小さな彼女の口による激しい吸引に、
-貴方はすぐに追い詰められていく。",""
+貴方はすぐに追い詰められていく。","Rikka cheered herself up while loudly sucking your
+penis. When she was sucking you so hard with her
+tiny mouth, you were' starting to get cornered
+right away."
 "必死に歯を食い縛りながら、貴方はちらりと時計に目をやる。
 まだ始まってから2分と少ししか経っていない…
 それにも関わらず貴方は気を抜けば、
-すぐに声を漏らして快楽に溺れてしまいそうだった。",""
+すぐに声を漏らして快楽に溺れてしまいそうだった。","You clenched your teeth and took a look at the clock.
+It's only been 2 minutes since the start, and yet you
+were already about to lose your head over the pleasure
+and moan if you let your guard down."
 "<六花>
 『んっ♡んっ♡…あ、あの、お兄さん…？
 　すごく険しい顔してますけど…
-　も、もしかして痛かったりしますか……？』",""
+　も、もしかして痛かったりしますか……？』","<Rikka>
+""Mmh♡ Mmh♡...U-Um? You're making a really grim
+ face... D-Did I do something that hurt?"""
 "必死に快楽を抑え込むために険しくなった顔を、
 六花はそう勘違いして不安そうにそう尋ねる。
 そんな彼女に大丈夫、痛くない、と、
-搾りだすようにそう告げた。",""
+搾りだすようにそう告げた。","Rikka misunderstood your steep face that you made while
+desperately enduring the pleasure as something else and
+uneasily asked that. You told her that you were fine
+and it wasn't hurting."
 "<六花>
 『ほ、ほんとに大丈夫ですか？
 　このままお口でご奉仕を続けますけど…
-　痛かったら遠慮なく言ってくださいね…？』",""
+　痛かったら遠慮なく言ってくださいね…？』","<Rikka>
+""A-Are you really fine? Then I'll continue servicing
+ you with my mouth... But please don't hesitate to say
+ if it hurts."""
 "そう告げる六花に、貴方はこくりと頷きを返す。
 そんな貴方を気遣うように見上げるも、
-六花が気を取り直してフェラを続けた。",""
+六花が気を取り直してフェラを続けた。","You nodded to Rikka after she said that. She looked
+up at you in worry before pulling herself together
+and continuing the blowjob."
 "六花の小さな舌が先端をくすぐり、
 柔らかな唇が肉棒を締め付け、じゅるじゅると吸い上げる。
 そんな激しいフェラに貴方はついに我慢できず、
-思わず情けない声が出てしまった。",""
+思わず情けない声が出てしまった。","Rikka tickled your tip with her tiny tongue while
+squeezing and sucking your penis with her soft lips.
+The blowjob was so intense that you finally couldn't
+hold back anymore and shamefully moaned out loud."
 "<六花>
 『あっ♡ふふ…♡
 　よかったです、ちゃんと気持ちよくできてるんですね♡
-　……お兄さん、もしかして…声、我慢してました？♡』",""
+　……お兄さん、もしかして…声、我慢してました？♡』","<Rikka>
+""Ah♡ Ehehe♡ Thank goodness♡ I'm properly making you
+ feel good♡ ...Hey, could it be that you were holding
+ back your moans?"""
 "<六花>
 『だからさっきまで、あんなに険しい顔だったんだ…♡
 　一生懸命、声出ちゃうの我慢してたんですね…♡
-　そんな、我慢なんてしなくていいのに…♡』",""
+　そんな、我慢なんてしなくていいのに…♡』","<Rikka>
+""That would explain why you made that scary face♡
+ You were holding back your voice with everything you
+ have♡ But there's no need for something like that♡"""
 "六花はそう告げて肉棒を咥えこみ、
 貴方にもっと情けない声を出させようと激しく吸引する。
 貴方はもう我慢できず、声を出しながら……
-呆気なく我慢汁を先端からあふれ出させてしまった。",""
+呆気なく我慢汁を先端からあふれ出させてしまった。","Rikka said that and swallowed your penis deeper. She
+sucked you even harder to make you moan in even more
+shameful voices. You couldn't stop your voice anymore
+and soon your precum also leaked from your tip."
 "<六花>
 『んっ♡じゅるっ♡
 　お兄さん、まだ5分も経ってないのに…♡
-　もう我慢汁が出てきちゃいましたね♡』",""
+　もう我慢汁が出てきちゃいましたね♡』","<Rikka>
+""It's only been 5 minutes but you're already leaking
+ precum♡"""
 "<六花>
 『もう少しギリギリになると思ってたんですが…♡
 　この調子だとお兄さんを10分以内にイかせるのは、
-　思ったよりも余裕そうです…♡』",""
+　思ったよりも余裕そうです…♡』","<Rikka>
+""I thought I would cut it really close, but it's going
+ to be easy to make you cum in 10 minutes if you're
+ already like this♡"""
 "<六花>
 『私…お兄さんが思うより、
 　私自身が思う…よりずっと成長してたみたいですね♡
-　えへへ…♡嬉しいです♡じゅるるっ♡』",""
+　えへへ…♡嬉しいです♡じゅるるっ♡』","<Rikka>
+""It looks like I've grown way stronger than I or
+ you thought♡ Ehehe♡ I'm so happy♡"""
 "六花は笑みを浮かべながら、
 肉棒を丁寧に舐りつつ我慢汁を吸い上げる。
 もう勝ち誇った様子の六花に、
-貴方はまだイかされてない、と強がった。",""
+貴方はまだイかされてない、と強がった。","Rikka smiled while she licked and sucked your penis.
+Since she was so sure she would make the 10 minute
+mark, you strongly insisted that she hadn't made
+you cum yet."
 "<六花>
 『ふふっ♡最初にあれだけ余裕そうにしてましたから…
 　あっという間に気持ちよくなってすぐイっちゃうのが、
-　恥ずかしいって気持ちも分かりますけど…♡』",""
+　恥ずかしいって気持ちも分かりますけど…♡』","<Rikka>
+""Ehehe♡ I can understand why you would feel shameful
+ when it feels so much better all of a sudden and you're
+ about to cum when you had so much leeway on our first time♡"""
 "<六花>
 『強がりは情けないですよ…♡
 　お兄さんももう分かってますよね？
-　自分のおちんちんじゃ、10分なんて耐えられないって…♡』",""
+　自分のおちんちんじゃ、10分なんて耐えられないって…♡』","<Rikka>
+""However, it's lame to pointlessly bluff like that♡
+ You can tell it, right? Your penis won't be able to
+ last 10 minutes♡"""
 "<六花>
 『ほら、こんな風に舌で舐められながら…
 　じゅるじゅるってえっちに吸われたら……♡すぐ、
-　我慢なんてできなくなっちゃうはずです♡じゅるるっ♡』",""
+　我慢なんてできなくなっちゃうはずです♡じゅるるっ♡』","<Rikka>
+""When I lick your tip like this... And suck your
+ penis like this... You're quickly reaching
+ your limit♡"""
 "六花の激しいフェラと手コキに、
 貴方は彼女の言葉通りすぐに我慢できなくなる。
 耐えなければ、と思いつつも、
-肉棒は射精の準備を整えてしまう。",""
+肉棒は射精の準備を整えてしまう。","Like Rikka said, you were instantly losing your ground
+when she was giving you such an intense blowjob and
+handjob. You tried to endure with everything you have,
+but your penis was about to reach the edge anyway."
 "<六花>
 『ほらほら♡一気に吸い上げちゃいますよ♡　
 　お兄さんのおちんちん、これには耐えられませんよね？
-　私のお口に降参しちゃってください♡じゅるるっ♡』",""
+　私のお口に降参しちゃってください♡じゅるるっ♡』","<Rikka>
+""Hey♡ I'll suck as hard as I can♡ Your dick won't be
+ able to take this, right? Please surrender to my
+ mouth♡"""
 "六花の吸い上げにあなたの肉棒はたやすく屈し、
 彼女の口内に大量の精液を放ってしまう。
 それと同時に貴方のHPは0になり、
-身体全体が重くなってしまった……",""
+身体全体が重くなってしまった……","Your penis instantly gave in to Rikka's harder sucking
+and you shot massive load of semen inside her mouth.
+At the same time, your HP hit zero and your body felt
+heavy."
 "<六花>
 『んっ♡…………んくっ♡
 　えへへ…♡やりました…！え～と……
-　…！ふふっ♡6分と少しくらいですね♡』",""
+　…！ふふっ♡6分と少しくらいですね♡』","<Rikka>
+""Nngh♡ Nngh♡ Ehehe♡ I did it! Let's see... Ehehe!
+ That took a little over 6 minutes♡"""
 "<六花>
 『この早さなら…♡ペナルティタイム中に、
 　2回くらいレベルドレインできちゃいそうです♡
-　それじゃ、お兄さん…ここからが本番ですよ♡』",""
+　それじゃ、お兄さん…ここからが本番ですよ♡』","<Rikka>
+""With this speed, I might be able to drain you twice
+ during the penalty time♡ Then... Let's get started
+ on the main part♡"""
 "<六花>
 『お兄さんの経験値…♡
 　私のお口でたくさん吸い出してあげますから♡
-　吸い取られすぎないよう、気をつけてください♡ちゅっ♡』",""
+　吸い取られすぎないよう、気をつけてください♡ちゅっ♡』","<Rikka>
+""I will suck a lot of EXP from you with my mouth♡
+ Please be careful not to give away too much♡"""
 "六花は肉棒に口づけをすると、
 そのまま先端を小さな口内に招き入れる。
-敏感な肉棒への刺激に貴方はびくりと身体を震わせた。",""
+敏感な肉棒への刺激に貴方はびくりと身体を震わせた。","Rikka first kissed your penis, and then she swallowed
+your tip inside her small mouth. Your body jumped when
+she sucked your sensitive glans so suddenly."
 "六花のそんな振る舞いに…
 貴方は恵んであげている立場のはずの自分が、
-六花よりも下の立場であるのではないかと錯覚してしまう。",""
+六花よりも下の立場であるのではないかと錯覚してしまう。","When Rikka behaved like she did, it gave you an
+illusion as if you were in the lower position than
+her even when you were the one giving levels to her."
 "その錯覚を振り払うように、
 さっきはこの前は時間がかかっていたから、
 なるべく早くイくよう協力しただけだ…
-と、ついそう強がってしまう。",""
+と、ついそう強がってしまう。","In order to shake off that feeling, you insisted that
+you helped her to make you orgasm since it took so
+long last time."
 "<六花>
 『ふふっ♡その割には、
 　すごく必死に我慢してるように見えましたよ？
-　こんなに早くイかされたくないって……♡』",""
+　こんなに早くイかされたくないって……♡』","<Rikka>
+""Ehehe♡ You say that, but to me it looked like you
+ tried to endure pretty hard♡ It was as if you didn't
+ want me to make you cum so quickly♡"""
 "<六花>
 『この前のどれだけご奉仕しても、
 　余裕をずっと保っていた勇ましいおちんちん…♡
-　そんなイメージを崩したくなかったんですよね？♡』",""
+　そんなイメージを崩したくなかったんですよね？♡』","<Rikka>
+""Last time you had so much leeway no matter how much
+ I serviced your strong penis, so you didn't want to
+ shatter that image, right?"""
 "<六花>
 『でも結局我慢できなくて…♡
 　びゅーって私のお口の中にすぐ出しちゃいましたよね♡
-　……なんだかお兄さん…可愛いです……♡じゅるっ♡』",""
+　……なんだかお兄さん…可愛いです……♡じゅるっ♡』","<Rikka>
+""But you couldn't resist in the end♡ You shot your
+ load inside my mouth so quickly♡ ...That makes you
+ kind of adorable♡"""
 "六花はそう微笑み、貴方の肉棒を吸い上げる。
 健気に、一生懸命、自身の肉棒に奉仕していた少女……
 そんな六花に「可愛い」と言われ、
-貴方は羞恥に顔を赤くしてしまう。",""
+貴方は羞恥に顔を赤くしてしまう。","Rikka smiled and sucked your penis. When Rikka, the girl
+who sucked off your penis so earnestly last time, called
+you cute, your face turned bright red from shame."
 "<六花>
 『ふふ♡可愛いって言われて恥ずかしいですか？
 　でも仕方ないですよね…♡頑張って耐えても、
-　こんなにすぐイっちゃったんですから…♡』",""
+　こんなにすぐイっちゃったんですから…♡』","<Rikka>
+""Ehehe♡ Is it embarrassing when I call you adorable?
+ But I can't help seeing you that way♡ After all, you
+ orgasmed so quickly no matter how hard you resisted♡"""
 "<六花>
 『でももう無理しなくていいんですよ♡
 　無理に我慢しなくてもいいんです…♡イきたくなったら、
-　何度でも、好きな時に出してください♡じゅるっ♡』",""
+　何度でも、好きな時に出してください♡じゅるっ♡』","<Rikka>
+""But there's no need to push yourself with me♡ There's
+ no need to endure♡ Please cum as many times as you
+ like and whenever you like♡"""
 "六花は貴方にそう促しながら、
 精液をねだる様に激しく肉棒を舐り、手で扱く。
 貴方はその快楽に身体を震わせながらも、
-プライドが邪魔して彼女の言葉に頷けず、強がりを続ける。",""
+プライドが邪魔して彼女の言葉に頷けず、強がりを続ける。","Rikka told that you could cum whenever you liked while
+stroking your penis and trying to suck out your semen.
+Your body quivered from the pleasure, but your pride
+didn't allow you to do as she said and you endured."
 "<六花>
 『え……？レベルドレインは1回だけ……ですか？
 　えっと……お兄さん、それは私に1回で済むよう、
-　手加減してほしいってことですか…？』",""
+　手加減してほしいってことですか…？』","<Rikka>
+""Eh? I can level drain you just once? Um... Do you mean
+ to say that I should hold back so that we'll finish
+ with just one time?"""
 "フェラを続ける六花に投げかけた貴方の言葉に、
 六花は困惑する。そんな彼女に首を横に振り、
 自分はこのペナルティタイム中には、
-1回しか射精しない…とそう宣言した。",""
+1回しか射精しない…とそう宣言した。","Rikka got confused over what you said while sucking
+your penis. You shook your head and asserted that she
+won't be able to make you orgasm more than once within
+the penalty time."
 "<六花>
 『…お兄さん……あの、
 　このおちんちんじゃ私のフェラには耐えられないって、
-　ついさっき分かったばっかりですよね…？』",""
+　ついさっき分かったばっかりですよね…？』","<Rikka>
+""Um... Didn't we just see that your penis has no chance
+ in enduring my fellatio?"""
 "<六花>
 『えっと…お兄さんが1回にして欲しいって言うなら……
 　そんな風に無茶なこと言わなくても、
-　私、1回で済むように手加減しますよ…？』",""
+　私、1回で済むように手加減しますよ…？』","<Rikka>
+""If you want to limit this to just a single level
+ drain, there's no need to say such unreasonable
+ things. I'll hold back for you, okay?"""
 "困惑したように首を傾げる六花のしぐさが、
 まるで自分を2度イかせるなんて簡単だ……
 そう言っているようで貴方のプライドを刺激し、
-貴方はもう一度1回しかイかないと繰り返した。",""
+貴方はもう一度1回しかイかないと繰り返した。","When Rikka tilted her head in trouble face, it was as
+if it would be easy for her to make you orgasm twice.
+That stung your pride, and you asserted once more that
+she won't be able to make you orgasm more than once."
 "<六花>
 『……そうですか。
 　そんなにおちんちんで勝負したいなら、いいですよ…♡
-　もう一度、おちんちん降参させてあげます♡』",""
+　もう一度、おちんちん降参させてあげます♡』","<Rikka>
+""...Is that so? If you want to fight with your penis
+ that badly, I'll take it♡ I'll make your penis
+ surrender to me again♡"""
 "<六花>
 『私のお口でこのまま経験値を2回…♡
 　吸い出しちゃいますね♡
-　搾られてから後悔しても遅いですから♡……じゅるるっ♡』",""
+　搾られてから後悔しても遅いですから♡……じゅるるっ♡』","<Rikka>
+""I'll drain your EXP with my mouth twice♡ It's already
+ too late to regret it because I'm going to do it♡"""
 "六花は先端を舐り続け、
 精液をねだる様に唾液ごと強く吸引する。
 貴方の弱点を執拗にくすぐる彼女の舌と吸引に、
-貴方の腰は跳ねてしまう。",""
+貴方の腰は跳ねてしまう。","Rikka continued licking your tip and then she also
+sucked hard to get out your semen. When she was
+relentlessly sucking and licking your weak spots,
+your hips start to thrust forward."
 "<六花>
 『んっ♡ほら…♡
 　ちょっと強くお口で吸ってあげたら、
-　もうそんなに感じちゃってるじゃないですか…♡』",""
+　もうそんなに感じちゃってるじゃないですか…♡』","<Rikka>
+""See? I just need to suck a little harder and it feels
+ so good for you♡"""
 "<六花>
 『おちんちんもびくびくってして…♡
 　気持ちいい気持ちいいってアピールしてます♡お兄さんも、
-　これくらい素直に気持ちいいって言っていいんですよ？』",""
+　これくらい素直に気持ちいいって言っていいんですよ？』","<Rikka>
+""Even your penis is twitching as if saying how it feels
+ so good♡ Why don't you also follow its example and
+ honestly tell me how good it feels?"""
 "<六花>
 『じゅるるっ♡以前はあんなに、
 　たくさん気持ちいいって言ってくれたのに…♡
-　どうして今回は全然言ってくれないんですか？♡』",""
+　どうして今回は全然言ってくれないんですか？♡』","<Rikka>
+""Before you said so many times how good it feels♡ Why
+ haven't you said it even once this time?"""
 "六花は激しくフェラを行い、手コキで肉棒を追い詰める。
 以前は確かに主導権は自分の方にあった…
-だけれど、今はそう確信できない…",""
+だけれど、今はそう確信できない…","Rikka continued the intense blowjob and handjob to
+corner your penis. Last time you were certainly the
+one leading the act, but now you couldn't confidently
+say the same."
 "そんな状態では以前とは、
 「気持ちいい」と言う言葉の意味すら変わってしまう…
 行ってしまえば六花に主導権を渡してしまうようで、
-貴方は「気持ちいい」と言えないでいた。",""
+貴方は「気持ちいい」と言えないでいた。","That made the meaning of saying if it feels good
+completely change. If you said it now, it would be
+like you giving up the leadership to Rikka."
 "<六花>
 『…まぁ、別にいいんですけどね♡
 　私のご奉仕でちゃんと気持ちよくできるのか、なんて、
-　今ではそんな不安はありませんもん…♡』",""
+　今ではそんな不安はありませんもん…♡』","<Rikka>
+""...Well, I don't really mind if you don't say it♡
+ Right now I'm not doubting it at all if you're feeling
+ good from my fellatio♡"""
 "<六花>
 『それもお兄さんが、
 　おちんちんって案外大したことないんだって…♡
-　私に教えてくれたおかげです♡』",""
+　私に教えてくれたおかげです♡』","<Rikka>
+""That's all thanks to your help in showing me how
+ penises aren't as of a big deal as I thought♡"""
 "<六花>
 『こうやって先っぽを舐めて、
 　ちょっとじゅるじゅる吸ってあげれば…♡
-　可愛くびくびくって降参アピールしちゃうんですもんね♡』",""
+　可愛くびくびくって降参アピールしちゃうんですもんね♡』","<Rikka>
+""I just need to suck and lick the tip like this and it
+ will start adorably twitching and appealing for
+ surrender♡"""
 "六花は妖艶な舌使いで肉棒をくすぐりながら、
 小さなお口で弱点を丁寧に吸い上げていく。
 小馬鹿にしたような彼女の発言を否定しようにも、
-与えられる快楽にすぐに肉棒は追い詰められてしまう。",""
+与えられる快楽にすぐに肉棒は追い詰められてしまう。","Rikka accurately sucked your weak spots while
+seductively using her tongue on your tip. Even when you
+tried to deny what she teasingly said, your penis
+instantly edged from the pleasure."
 "<六花>
 『んっ♡んっ♡おちんちん気持ちよくて、
 　もう何も言えないですか？…可愛いお兄さん♡
-　それじゃあ…このままお口で吸い出しちゃいますよ♡』",""
+　それじゃあ…このままお口で吸い出しちゃいますよ♡』","<Rikka>
+""Does your dick feel so good already that you can't say
+ anything? That's so adorable♡ Then, I'll keep going
+ and suck you off with my mouth♡"""
 "<六花>
 『お兄さんのおちんちんが我慢できなかった、
 　私のじゅるじゅる吸い上げフェラ…♡
-　もう一度してあげますから…♡』",""
+　もう一度してあげますから…♡』","<Rikka>
+""I'll give you the same sucking fellatio that you
+ couldn't endure again♡"""
 "<六花>
 『イかされちゃう心構え…♡
 　我慢できずにびゅーって経験値出しちゃう覚悟…♡
-　してくださいね、お兄さん♡』",""
+　してくださいね、お兄さん♡』","<Rikka>
+""Get ready to shoot your load♡ Please prepare to
+ shoot your EXP when I suck you harder than you can
+ take♡"""
 "六花のそんな予告に、貴方は身体に力を入れる。
 次の吸引を耐えることができたら、
 この調子に乗った六花のペースを崩せるはず…
-ここが、我慢の勝負時だった。",""
+ここが、我慢の勝負時だった。","When Rikka warned you, you braced your body. If you can
+endure the next sucking, then it should knock her down
+from her high horse. It was time to endure the
+showdown."
 "<六花>
 『ふふっ……♡準備は良いですか？
 　それじゃあ…いきますよ♡おちんちん、
-　また降参しちゃってください♡じゅるるっ♡じゅるっ♡』",""
+　また降参しちゃってください♡じゅるるっ♡じゅるっ♡』","<Rikka>
+""Ehehe...♡ Are you ready? Then, here it goes♡ Please
+ surrender with your penis again♡"""
 "<六花>
 『んっ♡……んくっ♡ごちそうさまです♡
 　またおちんちん我慢しようとしたのに、
-　私のお口に無理やり吸い出されちゃいましたね♡』",""
+　私のお口に無理やり吸い出されちゃいましたね♡』","<Rikka>
+""Ngh...♡ Ngh...♡ Thank you for the treat♡ You tried
+ to endure, but I sucked your EXP so hard that you
+ couldn't take it again♡"""
 "MP_SET_LOOP 6 on",""
 "六花は貴方の肉棒が吐き出した精液を、
 全て小さなお口で飲み込む。
 結局耐えきれずにイかされてしまった自分に、
-貴方は羞恥を感じて顔を赤くした。",""
+貴方は羞恥を感じて顔を赤くした。","Rikka gulped down all the semen you shot inside her
+tiny mouth. Your face dyed red from shame when you
+couldn't endure and she made you orgasm."
 "<六花>
 『……恥ずかしいですか？
 　でも、射精の余韻に浸ってる暇なんかないですよ♡
-　2回目もこのまま吸い出しちゃいます♡』",""
+　2回目もこのまま吸い出しちゃいます♡』","<Rikka>
+""...Is it embarrassing? But this isn't the time to
+ enjoy the after orgasm♡ I'm going to suck out the
+ second load next♡"""
 "<六花>
 『私のお口のご奉仕…♡
 　敏感なおちんちんでたっぷり味わってくださいね♡
-　たくさん気持ちよくしてあげますから♡じゅるるっ♡』",""
+　たくさん気持ちよくしてあげますから♡じゅるるっ♡』","<Rikka>
+""Please thoroughly enjoy my mouth services with your
+ sensitive penis♡ I'll make you feel really amazing♡"""
 "六花は射精直後の肉棒を休ませることなく、
 先端を丁寧に舌で舐っていく。
 敏感な肉棒に絶え間なく与えられる刺激に、
-貴方はみっともない声を出してしまった。",""
+貴方はみっともない声を出してしまった。","Rikka didn't give your penis any time to cooldown from
+the sensitive post-orgasm period when she started
+carefully licking your tip straight away. You couldn't
+help miserably moaning when you were hyper sensitive."
 "<六花>
 『ふふっ♡レベルドレインは1回だけ…でしたよね？
 　それなのにそんな声出しちゃってていいんですか？♡
-　もう射精できないんですから、耐えなきゃ、ですよね♡』",""
+　もう射精できないんですから、耐えなきゃ、ですよね♡』","<Rikka>
+""Ehehe♡ I won't be able to drain you twice, was it?
+ Why are you moaning so hard then? You shouldn't cum
+ another time, so you need to endure, right?"""
 "六花はからかうようにそう貴方に告げる。
 そう言われても激しい快楽に貴方は我慢できず、
-ただ情けない声を出すことしかできなかった。",""
+ただ情けない声を出すことしかできなかった。","Rikka teased you like that. However, even when she
+said that, you couldn't resist the intense pleasure
+and simply moaned your heard out shamelessly."
 "<六花>
 『んっ♡それが分かっていても、
 　我慢しなきゃって思っても…声抑えられないんですか？♡
-　おちんちん吸われて、恥ずかしい声でちゃってますよ…♡』",""
+　おちんちん吸われて、恥ずかしい声でちゃってますよ…♡』","<Rikka>
+""Can you not hold down your moans even when you know
+ that you shouldn't orgasm again? You're making such
+ shameful noises when I'm sucking your penis♡"""
 "<六花>
 『ふふっ♡最初のころはお兄さんも、
 　手が届かないプレイヤーという感じでしたけど…
-　今ではちょっと、親近感も湧いてます…♡』",""
+　今ではちょっと、親近感も湧いてます…♡』","<Rikka>
+""Ehehe♡ At first I saw you as someone who's strong
+ and beyond my reach... But now I'm feeling slightly
+ closer to you♡"""
 "<六花>
 『お兄さんも雲の上の人じゃなくて、
 　私のお口でおちんちんにご奉仕されたら…♡こんなに、
-　情けなくなっちゃう1人のプレイヤーなんだなって……♡』",""
+　情けなくなっちゃう1人のプレイヤーなんだなって……♡』","<Rikka>
+""You're not someone who's beyond the reach of clouds♡
+ You're just a player who moans so miserably when I
+ service your penis with my mouth♡"""
 "そう笑いながら告げる六花に貴方は羞恥を覚える。
 こんな少女にいいように弄ばれ、
-情けないと言われてしまっている……",""
+情けないと言われてしまっている……","When Rikka said that and giggled, you were overcome
+with shame. Such a small girl was having her way with
+you and calling you miserable."
 "<六花>
 『あ、ごめんなさい！馬鹿にしてるわけじゃないんですよ？
 　おちんちんは男の人の弱点ですもん…♡
-　こんな風に情けなくなっちゃっても仕方ないです♡』",""
+　こんな風に情けなくなっちゃっても仕方ないです♡』","<Rikka>
+""Ah, I'm sorry! I didn't mean to look down on you.
+ A penis is a man's weak spot after all♡ There's no
+ helping that you become so miserable when I suck it♡"""
 "<六花>
 『でも、私はこれまでそれができなかった…
 　それが今では…まだきっとお兄さんには及びませんけど、
-　対等な土俵に立てたようで嬉しいんです…♡』",""
+　対等な土俵に立てたようで嬉しいんです…♡』","<Rikka>
+""But that's been impossible for me until now. I might
+ not be able to beat you yet, but I'm happy that I can
+ kind of face you off on an even ground♡"""
 "六花ははにかみながらフェラを続ける。
 六花はそう言うが、貴方の中の六花は……
 たどたどしくフェラをしていた最初の六花であり…
-今の現状を受け入れることはできなかった。",""
+今の現状を受け入れることはできなかった。","Rikka bashfully said that while sucking your penis.
+Even when she said that, the Rikka in your mind was the
+one who timidly gave you a blowjob, not someone who was
+on an even ground with you."
 "<六花>
 『でも、お兄さんはまだ……
 　私のことをずっとずっと弱い奴隷だって思ってますよね？
-　……そう、顔に書いてあるんですもん…♡』",""
+　……そう、顔に書いてあるんですもん…♡』","<Rikka>
+""But it seems like you're thinking still thinking of
+ me as a weak slave♡ That's what I can see from your
+ face♡"""
 "<六花>
 『そんなお兄さんの認識…♡
 　2回目の経験値を吸い出して、私が変えてあげますね♡
-　私だって……私だって1人の女プレイヤーなんですから♡』",""
+　私だって……私だって1人の女プレイヤーなんですから♡』","<Rikka>
+""I'm going to change your perception of me by sucking
+ draining your EXP for the second time♡ I'll show
+ you how I'm a female player, not just a slave♡"""
 "六花の激しい吸引に肉棒は追い詰められ、
 貴方は情けない声を漏らし続ける。
 もはや完全に六花に主導権を握られ、
-貴方はただイかされる瞬間が近づくのを感じるしかない。",""
+貴方はただイかされる瞬間が近づくのを感じるしかない。","Rikka cornered your penis with intense sucking, making
+you continue your shameless moans. At this point, she
+had completely seized the control as you could feel
+your orgasm nearing."
 "<六花>
 『んっ♡んっ♡
 　おちんちん、びくびくしてきました♡
-　もうイっちゃいそうですよ……？♡』",""
+　もうイっちゃいそうですよ……？♡』","<Rikka>
+""Your penis is twitching♡ Are you going to cum?"""
 "<六花>
 『私に2回目のレベルドレイン…されちゃいますね♡
 　えへへ…♡お兄さんの経験値が詰まった精液…♡
-　全部お口で受け止めてあげます♡』",""
+　全部お口で受け止めてあげます♡』","<Rikka>
+""You're going to get level drained for the second
+ time♡ Ehehe♡ I'll catch all the semen packed with
+ your EXP with my mouth♡"""
 "<六花>
 『情けない顔しながら…♡
 　びゅーっておちんちん降参しちゃってくださいね♡
-　……ほら、イっちゃえ♡じゅるるっ♡』",""
+　……ほら、イっちゃえ♡じゅるるっ♡』","<Rikka>
+""Please show me your miserable face when your penis
+ surrenders and shoots its load♡ Now♡ Cum♡"""
 "MP_SET_LOOP 7 on",""
 "MP_SET_PAUSE 6 on",""
 "貴方はまたもや六花の吸引に耐えきれず、
 大量の白濁液を彼女の口内にはなってしまった。
-彼女はそれを受け止めると、笑顔を浮かべる。",""
+彼女はそれを受け止めると、笑顔を浮かべる。","You couldn't resist Rikka's intense sucking once more
+and released your massive load of white juices inside
+her mouth. Her face beamed into a smile after she 
+caught them."
 "<六花>
 『んくっ♡…ごちそうさまです♡
 　やっぱり2回目も我慢できませんでしたね…♡
-　……お兄さん、何か言う事あるんじゃないですか？♡』",""
+　……お兄さん、何か言う事あるんじゃないですか？♡』","<Rikka>
+""Ngh♡ ...Thank you for the treat♡ You couldn't endure
+ the second time after all♡ ...Isn't there something
+ you should say now?"""
 "六花は肉棒から口を放すと、
 妖艶に自身の唇を舌で舐め取ってそう告げる。
 快楽と情けなさにぼーっとした頭では、
-貴方は何も考えられず、疑問符を浮かべてしまった。",""
+貴方は何も考えられず、疑問符を浮かべてしまった。","After releasing your penis from her mouth and
+seductively licking her lips, Rikka said that.
+Your mind was blanking out so hard from the pleasure
+and shame that you didn't understand what she meant."
 "<六花>
 『もう……忘れたんですか？
 　ほら、10分以内にイっちゃったら…♡
-　参りましたって降参宣言、してくれるんですよね？♡』",""
+　参りましたって降参宣言、してくれるんですよね？♡』","<Rikka>
+""Geez... Did you forget? Since I made you cum in
+ 10 minutes... You need to say that you lost to
+ me♡"""
 "そんな貴方に六花はニコニコとしながらそう告げる。
 貴方は最初の約束を思い出し、言葉に詰まった。
 ここまでいいように弄ばれた末に、
-そんな発言をしてしまったら……",""
+そんな発言をしてしまったら……","Rikka said that in a bright smile. You recalled the
+promise you made with her at start and were lost for
+words. If you were to say that after she had her
+way with you so badly..."
 "<六花>
 『……ふふっ♡
 　ほら、約束なんですからちゃんと言ってください♡
-　「おちんちん参りました」って♡』",""
+　「おちんちん参りました」って♡』","<Rikka>
+""...Ehehe♡ Hey♡ It was a promise so please say it♡
+ Say how your penis lost to me♡"""
 "少女を相手に約束を破るような真似はしたくない…
 貴方はプライドが崩れていくのを感じながら、
-か細く「おちんちん参りました」とそうつぶやいだ。",""
+か細く「おちんちん参りました」とそうつぶやいだ。","You didn't want to break your promise with a young
+girl. While feeling your pride shattering into pieces,
+you told her: My penis lost to you."
 "<六花>
 『はい♡ありがとうございます♡
 　…私、お兄さんのおかげでここまで成長したんですよ？
-　最初は全然うまくできなかったですけど……』",""
+　最初は全然うまくできなかったですけど……』","<Rikka>
+""Yes♡ Thank you♡ ...Please remember that it all
+ thanks to your help that I've grown this far.
+ I could barely do anything when we started..."""
 "<六花>
 『今では無抵抗なお兄さんが相手なら、
 　簡単におちんちんをやっつけることができるくらい……♡
-　お兄さんからレベルをもらって強くなれたんです…♡』",""
+　お兄さんからレベルをもらって強くなれたんです…♡』","<Rikka>
+""But right now I'm strong enough to easily beat your
+ penis and drain your levels if you don't try to stop
+ me♡"""
 "六花はそうにこりと笑いながら、
-小さな身体で貴方を抱きしめる。",""
+小さな身体で貴方を抱きしめる。","Rikka smiled brightly and hugged you with her small
+body."
 "<六花>
 『ありがとうございます…♡お兄さん…♡
 　私はもう、大丈夫です…♡
-　何もできない奴隷の女の子じゃありません…♡』",""
+　何もできない奴隷の女の子じゃありません…♡』","<Rikka>
+""Thank you so much...♡ I'm fine now♡ I'm not a weak
+ slave who can't do anything anymore♡"""
 "貴方を抱きしめながら六花はそう言う。
 そんな彼女に貴方はこくりと頷いた。
 今の彼女なら、
-自力で奴隷から抜け出すこともできるかもしれない……",""
+自力で奴隷から抜け出すこともできるかもしれない……","Rikka said that while hugging you. You nodded to her
+in agreement. Right now it might be possible for her
+to break free from slavery."
 "<六花>
 『えへへ…♡お兄さんからもらったレベル…♡
 　無駄にしないよう、ちゃんとコロシアムでは、
-　勝てそうな人を選ぶことにしますね♡』",""
+　勝てそうな人を選ぶことにしますね♡』","<Rikka>
+""Ehehe♡ I won't waste the levels I gained from you♡
+ I'll look for an opponent who I can beat at the
+ Colosseum♡"""
 "<六花>
 『それじゃ、今日はありがとうございました♡
 　私はもう戻らなきゃですけど…
-　お兄さんはもう少しゆっくり休んでてください♡』",""
+　お兄さんはもう少しゆっくり休んでてください♡』","<Rikka>
+""Well then, thank you for today♡ I need to go back,
+ but please take your time to rest a little longer♡"""
 "六花はそうぺこりと貴方に挨拶をすると、
-もう一度感謝の言葉を告げて部屋を出ていった…",""
+もう一度感謝の言葉を告げて部屋を出ていった…","Rikka bowed and said her thanks once more before
+leaving the room."
 "<アル>
 『い、いいようにされちゃってたけど…
 　あの子が自分に自信を持てたのはいいことだよね？
-　うん、それじゃあこの関係ももう終わりかな♪』",""
+　うん、それじゃあこの関係ももう終わりかな♪』","<Al>
+""S-She had her way with you, but it's a good thing that
+ she gained self-confidence, right? Yes, it looks like
+ she won't need any more help♪"""
 "<アル>
 『あの子はあの子で、
-　\n[1]は\n[1]で…これからも頑張っていこうね！』",""
+　\n[1]は\n[1]で…これからも頑張っていこうね！』","<Al>
+""She can work hard now on her own with the help you
+ gave her, \n[1]!"""
 "アルがそう貴方に声をかけるが、
-貴方は彼女の言葉に耳を傾けることができなかった。",""
+貴方は彼女の言葉に耳を傾けることができなかった。","Al said that, but none of her words entered your ears."
 "六花は今回のレベルドレインでさらに強くなった…
 つまり、もっとフェラが上手になっただろう。
 そんな彼女にまたお口で奉仕してもらえたら……
-そう考えて貴方はごくりと生唾を飲み込んだ。",""
+そう考えて貴方はごくりと生唾を飲み込んだ。","Rikka became even strong with today's level drains,
+which means her blowjobs also should have become
+better. You thought that and gulped from the idea
+of getting her to service you with her mouth again.
+"
 "<アル>
-『…………あれ？\n[1]、聞いてる？』",""
+『…………あれ？\n[1]、聞いてる？』","<Al>
+""...Eh? \n[1], are you listening?"""
 "惚けている貴方に気が付いたアルが、
 貴方の頬をぺちぺちと叩いてくる。
-その軽い衝撃に気を取り直すと、貴方はアルに頷いた。",""
+その軽い衝撃に気を取り直すと、貴方はアルに頷いた。","Al noticed that you were still in daze, and she slapped
+your cheeks. The small impact from her hands made you
+regain your senses, and you nodded to her."
 "……………ああ言ってはいたが、六花はまだ奴隷だ。
 いくらレベルがあっても足りないはずだ。
-…………気が向いたらまた、六花に会いに行こう。",""
+…………気が向いたらまた、六花に会いに行こう。","Rikka may have said that she's fine, but she's still a
+slave. No matter how many levels she gains, it still
+shouldn't be enough. You decided to go see her again 
+when you have time."
 "貴方はそんなことを考えながら、
-アルとともに部屋から退出した………",""
+アルとともに部屋から退出した………","While thinking about such things, you left the room
+with Al."
 "<六花>
 『ほら…早くおちんちん出してください♡
 　この部屋に来るまでもずーっと勃起したままだった、
