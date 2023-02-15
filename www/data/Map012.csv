@@ -337,7 +337,7 @@ Colosseum or not."
 "EV021",""
 "『我らは町の秩序の守護者、バンガード！
 　我らがいる限り、
-　この町では安全に過ごせることを約束しよう！』","""We, The Vanguard, are the protectors of this town!
+　この町では安全に過ごせることを約束しよう！』","""We, Vanguard, are the protectors of this town!
  As long as we are here, I can promise that you'll
  have a peaceful life here!"""
 "『もちろん、君が秩序を破壊する側でなければだがな！
@@ -352,7 +352,7 @@ Colosseum or not."
 ""Mmmh! \n[1], would never do bad stuff!"""
 "EV022",""
 "『バンガードって、確かに強いし、
-　みんなのために働いてるから尊敬できるんだけど………』","""The Vanguard is certainly strong and it's respectable
+　みんなのために働いてるから尊敬できるんだけど………』","""Vanguard is certainly strong, and it's respectable
  how they're working for everyone's sake..."
 "『たまにあの偉そうな態度にイラっとくるのよね。』","""However, sometimes their stuck-up attitude pisses me
  off."""
@@ -460,8 +460,8 @@ were clearly showing on his face."
  hard to leave after you get used to the life here."""
 "EV029",""
 "『この町で悪いことなんで出来ないぜ？
-　すぐにバンガードに制圧されちまうからな。』","""You can't do bad things in the town because The
- Vanguard will instantly come to arrest you."""
+　すぐにバンガードに制圧されちまうからな。』","""You can't do bad things in the town because Vanguard
+ will come to arrest you right away."""
 "『おかげで、最近は平和そのものさ。
 　感謝してもし足りないな。』","""It's thanks to them that the town is so peaceful.
  I'm so glad that they are here."""
@@ -474,8 +474,8 @@ were clearly showing on his face."
 "EV030",""
 "『パトロール中のバンガードよ。
 　何か困ったことがあればいつでもいいなさい。
-　すぐに助けてあげるわ。』","""I'm a Vanguard on patrol. Don't hesitate to tell me if
- you find yourself in trouble. I'll help you right
+　すぐに助けてあげるわ。』","""I'm Vanguard member on patrol. Don't hesitate to tell me
+ if you find yourself in trouble. I'll help you right
  away."""
 "<アル>
 『おー！頼もしいね！
@@ -486,7 +486,7 @@ were clearly showing on his face."
 "EV031",""
 "『あぁやっぱりカッコよくて美しくて、すてきだなぁ……
 　俺も、バンガードに入ったら仲良くできるかなぁ。』","""Aah... She's so amazing, cool, and beautiful... Maybe
- I can hang out with her if I joined The Vanguard..."""
+ I can hang out with her if I joined Vanguard..."""
 "<アル>
 『この人、向こうにいる綺麗な女の人を見てるみたいだね！
 　彼女のファンなのかな？』","<Al>
@@ -496,7 +496,7 @@ were clearly showing on his face."
 "EV032",""
 "『この奥は牢獄だ。
 　バンガードが捕らえた悪人を収容している。』","""The prison is right over there. Any criminals that
- The Vanguard have caught are kept there."""
+ Vanguard have arrested are kept there."""
 "<アル>
 『わ、悪い人たちがいるんだよね？
 　怖いから、あんまり近づかないでおこうよ！』","<Al>
