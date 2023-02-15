@@ -4,120 +4,147 @@
 "EV004",""
 "EV005",""
 "『ここはバンガードの詰め所です。
-　何かお困りごとですか？』","""This is The Vanguard's guild house. Are you troubled
- by something?"""
+　何かお困りごとですか？』","""This is Vanguard's guild house. Are you troubled by
+ something?"""
 "<アル>
 『今は特に困ってることはないよね？
 　何かあったらここにこよ！』","<Al>
-""There's nothing troubling us right now, right?
+""\n[1], there's nothing troubling us, right?
  Let's come here if we run into something that does!"""
 "『騙されて契約を結ばされた、と。
 　申し訳ありません、すでに結ばれてしまった契約は、
-　私達の方ではどうにもできません。』","""You got cheated into a contract? I'm terribly sorry,
- but we can do nothing about contracts that are already
- in place."""
+　私達の方ではどうにもできません。』","""You have been tricked into a contract? I'm terribly 
+ sorry, but we can do nothing about contracts that are 
+ already in place."""
 "『誠に恐縮ですが、契約の履行をお願いします。
 　また、今後は軽率に契約を結ばないよう、
 　ご自身の方で気をつけてくださいませ。』","""Your only option is to fulfill the terms of contract.
- I would also advice you not to sign contracts without
- carefully thinking them through from now on."""
+ I would also advice against carelessly signing any
+ contracts from now on."""
 "<アル>
 『ううー…………騙されるほうが悪いってこと？
 　酷いよ…………』","<Al>
-""Uuuh... It's like she's pushing the blame on us...
- That's horrible..."""
+""Uuh... Does she mean that it's our fault for getting 
+ tricked? That's horrible..."""
 "『奴隷の女の子を助けて欲しい、ですか…
-　立派な正義感ですね、尊敬に値します。』","""You would like to save a slave girl? You have an
- amazing sense of justice. I respect you for that."""
+　立派な正義感ですね、尊敬に値します。』","""You want to save a slave girl? You have a great sense 
+ of justice. I can respect you for that."""
 "『ですが、残念ながらそのお願いを聞くことはできません。
 　彼女が他に何かこの街の秩序を脅かさないか、
-　気を付けて観察することはできますが…………』","""However, I'm sorry to inform that we can't help with
- that. If she was about to endanger the order in the
- town, we could observe her, but..."
+　気を付けて観察することはできますが…………』","""However, I'm sorry to inform you that we can't help 
+ you with that. If she was about to endanger the order 
+ in the town, we could put guards to watch her, but..."""
 "『すでに結ばれてしまった契約は、
 　私たちの方ではどうにもできないのです。
-　ご期待に沿えず申し訳ございません…………』","""There's nothing we can do about contracts that have
- already been signed. I'm sorry that we couldn't meet
- your expectations."""
+　ご期待に沿えず申し訳ございません…………』","""We can do nothing about contracts that are already in 
+ place. I'm sorry that we couldn't meet your 
+ expectations."""
 "<アル>
 『そんな………
 　正義の味方なのに………？』","<Al>
-""How can that be... Aren't they the allies of justice?"""
+""How can that be... Isn't Vanguard an ally of justice?"""
 "<アル>
 『今は特に困ってることはないよね？
 　何かあったらここにこよ！
-　……助けてくれるかは、怪しいけど。』",""
-"『………何か、ご用ですか？』",""
-"受付の女性は警戒した目で貴方を見つめている。",""
-"『奴隷に何をしても許されるのか、ですか…』",""
+　……助けてくれるかは、怪しいけど。』","<Al>
+""\n[1], there's nothing troubling us, right?
+ Let's come here if we run into something that does!
+ ...Although, I'm doubtful if they can help."""
+"『………何か、ご用ですか？』","""...Do you need something?"""
+"受付の女性は警戒した目で貴方を見つめている。","The receptionist cautiously watched over you."
+"『奴隷に何をしても許されるのか、ですか…』","""Are you permitted to do anything you want to a slave,
+ you ask?"""
 "『…………この、外道。
 　確かに私たちに貴方を止めることはできません。
-　ですが、貴方に人の心はないのですか？』",""
-"何もできない正義の味方よりはマシだ",""
-"助けられないお前たちも同罪だ",""
-"『ぐ…………何もできない、わけでは…………』",""
+　ですが、貴方に人の心はないのですか？』","""...You monsters. It's true that we can't do anything
+ to stop you, but are you that inhuman?"
+"何もできない正義の味方よりはマシだ","Better than allies of justice who can't do anything"
+"助けられないお前たちも同罪だ","You're just as bad since you're not helping"
+"『ぐ…………何もできない、わけでは…………』","""Ugh... It's not that we can't do anything..."""
 "『…………覚えていてください、
-　貴方の行動には我々バンガードの目が付いています。』",""
+　貴方の行動には我々バンガードの目が付いています。』","""...Remember this well: We, Vanguard, have our eyes on
+ you."""
 "『それは……………………
-　局長、どうして私たちは…………』",""
+　局長、どうして私たちは…………』","""That's... Office chief, why can't we..."""
 "貴方は恭子に、
-バンガードの団長が籠絡されているという話を行った。",""
+バンガードの団長が籠絡されているという話を行った。","You told the receptionist how Kyouko has the captain of
+Vanguard wrapped around her little finger."
 "『…………は？
-　いきなり何を言い出すのですか？』",""
+　いきなり何を言い出すのですか？』","""...Huh? What are you saying all of a sudden?"""
 "バンガードの女性はキョトンとした表情を浮かべている。
 そんな彼女に貴方は改めて、
-恭子の屋敷で聞いた話を伝えた。",""
+恭子の屋敷で聞いた話を伝えた。","The receptionist blankly stared at you. That's why you
+told her again what you heard in Kyouko's mansion."
 "『…………それで？
-　言いたいことはそれだけですか？』",""
+　言いたいことはそれだけですか？』","""...And so? Is that all you wanted to say?"""
 "貴方の話を黙って聞いていた女性は、
-気が付けば冷ややかな目で貴方を見つめている。",""
+気が付けば冷ややかな目で貴方を見つめている。","After silently listening to your talk, you noticed that
+the receptionist was looking at you in cold gaze all of
+a sudden."
 "『…はぁ……そんな嘘をついてまで、
 　バンガードの権威を貶めたいのですか？
 　生憎と私たちも、
-　そんな悪戯に付き合うほど暇じゃないんですよ。』",""
+　そんな悪戯に付き合うほど暇じゃないんですよ。』","""Sigh... Do you want to shake Vanguard's influence so
+ badly that you would make up such lies? Sorry but we
+ don't have time to go along your slander."""
 "『団長が籠絡？
 　ふざけたことを言わないでください。
 　次そんなことを口にしたら、
-　公務執行妨害で逮捕しますからね。』",""
+　公務執行妨害で逮捕しますからね。』","""The captain wrapped around someone's little finger?
+ Please stop it with such lies. The next time we hear
+ you saying such things, we'll arrest you for
+ interfering with our peacekeeping."""
 "<アル>
 『そ、そんな…
 　嘘なんてついてないのに…！
-　ど、どうして信じてくれないの？』",""
+　ど、どうして信じてくれないの？』","<Al>
+""W-what... It's not a lie! W-Why won't they believe
+ us?"""
 "アルがショックを受けたようにそう言葉を漏らす。
 だが、受付の女性は本気のようだ。
 これ以上食い下がったら本当に逮捕されかねない…
-貴方は仕方なく、身を引くことにした。",""
+貴方は仕方なく、身を引くことにした。","Al was really shocked by the receptionist's attitude.
+She didn't seem to be joking about the arresting part,
+so trying to talk to them any more felt risky. You had
+no other option than to walk away."
 "『貴方ですか。
 　まだ何か他に用があるんですか？
 　…忠告しますが、内容には気を付けてくださいね。
-　またあのようなくだらない嘘であれば……』",""
+　またあのようなくだらない嘘であれば……』","""You again? Do you still have some other business with
+ us? ...Let me warn you that you should be careful in
+ what you say. If I hear a word of slander like
+ before..."""
 "女性は冷ややかな目で貴方を見つめている。
-団長についての話はもう出来なさそうだ……",""
+団長についての話はもう出来なさそうだ……","The receptionist looked at you in cold gaze. It looks
+like trying to convince her about the matter involving
+the captain of Vanguard is impossible."
 "<アル>
 『うー…正義の味方なのに…
-　どうして信じてくれないんだろ………』",""
+　どうして信じてくれないんだろ………』","<Al>
+""Uuh... Why won't they listen to us when they're the
+ allies of justice?"""
 "EV006",""
 "『ヴァンガードには強さが求められる……
 　けどレベルはもう上がりづらくなっちゃったし、
-　どうすればいいのかが悩みの種なんだよね…』","""The Vanguard requires strength from its members.
- However, I'm at the point where leveling up is 
- starting to get difficult... I'm not sure what to
- do at this point."""
+　どうすればいいのかが悩みの種なんだよね…』","""Vanguard requires great strength from its members. 
+ However, I'm starting to have difficulty getting my 
+ level any higher. I'm not sure what to do at this 
+ point..."""
 "<アル>
 『確か、強くなればなるほど、
 　あんまり経験値手に入らなくなるんだよね？』","<Al>
-""Is it that thing? The higher your level gets, the more
- difficult it's to earn experience?"""
+""I guess it gets harder to obtain experience the 
+ higher your level is."""
 "EV007",""
 "『ふぅ……最近、バンガードへの寄付金が減ってきているの。
-　みんな、私たちの警備になれてしまったのね。』","""Sigh... Lately the donations to The Vanguard have been
- going down. It's like everyone is getting to us as
- guards."""
+　みんな、私たちの警備になれてしまったのね。』","""Sigh... Lately, the donations we've been getting have 
+ been decreasing. I guess everyone is starting to get
+ used to  Vanguard's peacekeeping."""
 "『今の平穏な生活が当たり前だと思い始めている。
 　それはいいことなのだろうけれど……
 　やっぱり少し、悩ましいわね。』","""They're starting to think that the current peaceful
- life is the norm. That's not bad in itself... But it
- makes our lives slightly difficult..."""
+ life is the norm. That's not bad in itself, but 
+ maintaining that peace is starting to get difficult."""
 "<アル>
 『正義の味方もお金に悩まされるんだね…
 　せ、世知辛い…………』","<Al>
@@ -126,67 +153,80 @@
 "『あら、浮かない顔ね。
 　どうしたの？』","""Oh, you're looking quite down. What happened?"""
 "『そう、騙されて契約を結ばされてしまったのね。
-　………それは、落ち込むのも無理はないわ。』","""I see. You got deceived into a contract... I guess
- it can't be helped that you're feeling down then."""
+　………それは、落ち込むのも無理はないわ。』","""I see, you got tricked into a contract... It can't be 
+ helped that you're feeling down then."""
 "『でもごめんなさい、私たちじゃ力になれないわね。
 　ゲームだからこそ、ある程度の自由は認められるべき……
-　それが、局長の方針なの。』","""I'm sorry to say it but we can't help you with that.
- It's our policy that everyone has a freedom over their
- lives because this is a game."""
+　それが、局長の方針なの。』","""I'm sorry to say that we can't help with that. Since 
+ this is a game, it's Vanguard's policy to allow a
+ certain degree of freedom."""
 "『私たちはその自由から倫理的に逸脱した犯罪を、
 　取り締まっているのだけれど……
 　契約を結んでしまったのならそれは合意の元、
-　と解釈されてしまうの。』","""It's the crimes that violate that freedom were on look
- out for... Since you formed a contract, it's
- interpreted as mutual agreement between the both
- parties."""
+　と解釈されてしまうの。』","""We're on the lookout for crimes that violate 
+ individual's freedoms, but contracts don't fall under 
+ that. It's because they're interpreted as mutual 
+ agreement."
 "『……そう言われても、納得できないわよね？
-　ごめんなさい…………』","""...But even when I explain it, I doubt that you are
- content with it. I'm sorry."""
+　ごめんなさい…………』","""...But I guess that you can't be content with my 
+ explanation. I'm sorry."""
 "<アル>
 『契約は、この街ではそんなに重いんだ………
 　今後は、契約には気を付けようね………』","<Al>
-""The contracts hold such a heavy weight in this town...
- We need to be careful about them from now on."""
+""Looks like contracts hold a really heavy weight in 
+ this town... We need to be really careful about them
+ from now on."""
 "『貴方も、奴隷の子を見たの？
-　かわいそうよね、あんなに小さいのに…………』","""Did you see that slave girl too? I feel so sorry for
- her... She's so young too..."""
+　かわいそうよね、あんなに小さいのに…………』","""Did you also see that slave girl? I feel so sorry for 
+ her. She's even so young and small..."""
 "『あの子を見てると、自問しちゃうのよね。
-　私は、何のためにバンガードになったんだろうって。』","""Seeing her makes me question myself what for did I
- join The Vanguard."""
+　私は、何のためにバンガードになったんだろうって。』","""Seeing someone like her enslaved makes me question 
+ why did I join Vanguard."""
 "『あの子みたいに、ゲームの中で虐げられる人を、
-　助けるためなんじゃなかったのかって…………』","""Wasn't it exactly to help people like that girl who
- are tormented in this game..."""
+　助けるためなんじゃなかったのかって…………』","""Wasn't it exactly to help people like her...?"""
 "<アル>
 『正義の味方も、規則に縛られて、
 　自分の気持ちの通りに動くことはできないんだね………』","<Al>
-""Looks like even the allies of justice are bound by
- rules that prevent them from everything they want..."""
+""Looks like even allies of justice are bound by rules.
+ They can't help anyone they want..."""
 "『あの奴隷の子を助けたんでしょう？
 　私がお礼を言うのも変だとは思うんだけど……
-　ありがとう。』",""
+　ありがとう。』","""You helped that slave girl, right? It might sound a
+ bit weird to come from me, but thank you."""
 "『貴方の方が、よっぽど正義の味方らしいわね。
 　………私もバンガードをやめて、
-　フリーで活動しようかしら。』",""
+　フリーで活動しようかしら。』","""You acted exactly like an ally of justice... Maybe I
+ should quit Vanguard so that I can act more freely
+ like you."""
 "<アル>
 『えへへ、私はそのほうがいいと思うな！
-　この人も、\n[1]みたいに優しそうだし！』",""
+　この人も、\n[1]みたいに優しそうだし！』","<Al>
+""Ehehe. I think that's a good idea! She seems like a
+ gentle person like you, \n[1]!"""
 "『…………あの人も自業自得、なのでしょうね。
-　何もできなかった私に、貴方を非難する資格はないわ。』",""
+　何もできなかった私に、貴方を非難する資格はないわ。』","""...I guess Kyouko paid the consequences of her own
+ actions. I'm not in position to criticize what you did
+ when I could do nothing about her.""
+###"
 "『それでも、
 　貴方が人道にのっとって行動することを私は願うわ。
-　どうか、お願い、ね…………』",""
+　どうか、お願い、ね…………』","""Even so, I ask you not to do inhuman things with her.
+ Please don't go too far..."""
 "<アル>
 『…………\n[1]、懲らしめるって言っても、
-　そんなにひどいことはしないよね…？そうだよね……？』",""
+　そんなにひどいことはしないよね…？そうだよね……？』","<Al>
+""...\n[1], we punished that woman, but we
+ didn't do anything too horrible, did we?"""
 "EV008",""
 "『団長は普段はあまりここに顔を出さないんだ。
 　私なんてヴァンガードに入ってから、
 　2回しか顔を見たことないよ。』","""The captain rarely shows his face at the guild house.
- I've seen him only twice after I joined The Vanguard."""
+ I think I've seen him only twice after joining
+ Vanguard."""
 "<アル>
 『偉い人って、
 　そんなに顔を出さないものなのかな？
 　どんな人なのか気になるなー♪』","<Al>
-""Do the people at the top make appearances that rarely?
- I wonder what kind of person he is♪"""
+""Are the bosses of organizations that busy that they 
+ rarely make appearances? I wonder what kind of person
+ he is♪"""
