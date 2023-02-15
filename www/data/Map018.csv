@@ -6,7 +6,7 @@
 "EV005",""
 "EV006",""
 "このベッドで一休みできそうだ。
-休憩していきますか？","You can rest at this bed. Will you take a nap?"
+休憩していきますか？","You can rest in this bed. Will you take a nap?"
 "はい","Yes"
 "いいえ","No"
 "EV007",""
@@ -32,9 +32,9 @@ an announcement."
 コロシアムでは、指名できる対戦相手の場合、
 敗北後に指名でリベンジすることにより、
 戦闘中、敗北後のセリフが変わります。","『Regarding Colosseum』
-Once you can nominate an opponent, if you challenge
-them to a rematch after losing, their combat and post
-combat lines will change to the situation."
+After losing to an opponent, their combat and post 
+combat lines will fully change when you nominate them 
+to a rematch."
 "EV009",""
 "試合会場に入場しますか？","Will you enter the arena?"
 "貴方は対戦相手の女性の姿を見て驚く。","You were taken by surprise the moment you saw your
@@ -42,7 +42,7 @@ opponent."
 "<凛>
 『あはは♡お兄さん、びっくりしました？
 　実は、お兄さんを指名したのは私です♡』","<Rin>
-""Ahaha♡ Did I surprise you? I'm the one who challenged
+""Ahaha♡ Did I surprise you? I'm the one who nominated
  you into a match♡"""
 "驚く貴方に、
 凛はくすくすと笑みを浮かべながら貴方にそう告げる。","Rin said that and giggled at your shocked face."
@@ -57,16 +57,16 @@ opponent."
 『そんなお兄さんになら、らくーに勝てるかなって♪
 　闘技場って、
 　みんな強いのでそういう相手は貴重なんです♡』","<Rin>
-""Since you've just arrived, you should be a push-over♪
+""Since you've just arrived, you should be an easy win♪
  Everyone at the arena are really strong, so weak
- opponents like you are precious finds♡"""
+ opponents like you are really precious♡"""
 "<凛>
 『だからぁ、お金を貸して、
 　お兄さんにはすぐに参加してもらいたかったんですよ♪』","<Rin>
-""That's also why I loaned money to you♡ I wanted to
- get you to participate right away♪"""
+""That's why I loaned money to you♡ I wanted to get you
+ to participate right away♪"""
 "凛は思い通りになったからか、
-上機嫌に自分の思惑を貴方に告げていく。","Rin explained her successful plot to you in good mood."
+上機嫌に自分の思惑を貴方に告げていく。","Rin explained her successful plot in good mood."
 "<凛>
 『ふふ♡あー、でも思い出したら笑っちゃう♡
 　ちょっとか弱い女の子のふりをしたら、
@@ -77,7 +77,8 @@ opponent."
 "<凛>
 『可愛い女の子に強いって言われて、
 　舞い上がっちゃったんですよね？』","<Rin>
-""Did it excite you when a cute girl called you strong?"""
+""Did it make you excited when such a cute girl called 
+ you strong?"""
 "<凛>
 『か弱い女の子に褒められて、嬉しかったんですよね？
 　くすくす♡ちょろいお兄さん♡』","<Rin>
@@ -86,8 +87,8 @@ opponent."
 "<凛>
 『ま、これも勉強代だと思って、
 　このまま私に負けてください♡』","<Rin>
-""You can think of this as a good learning experience♡
- Next you're going to lose against me♡"""
+""You can think of this as a learning experience♡
+ Now you're going to lose against me♡"""
 "<凛>
 『7000G、サクッと稼がせてもらいますね♡
 　おまけの利子共々、レベルドレイン付きで♡ちゅっ♡』","<Rin>
@@ -95,7 +96,7 @@ opponent."
  Not only is there the interest but level drain tax as
  well♡ Smooch♡"""
 "凛は余裕の笑みを浮かべながら、
-ちゅっと貴方に投げキッスをする。","Rin smiled confidently as she blew a kiss at you."
+ちゅっと貴方に投げキッスをする。","Rin smiled confidently and blew a kiss at you."
 "<アル>
 『むー！し、親切な人だと思ってたのに………！
 　こ、こんな子返り討ちにしちゃえー！』","<Al>
@@ -108,66 +109,83 @@ sword held up."
 『やん♡お兄さん、そんな目で睨まないでくださいよ♡
 　私、か弱い女の子だから泣いちゃいます♡怖ーい♡』","<Rin>
 ""Oh no♡ Please don't glare at me like that♡
- I'm such a weak girl that I might start crying♡
+ I'm such a frail girl that I might start crying♡
  It's so scary♡"""
 "言葉とは裏腹に、
-凛は余裕そうな笑みのままわざとらしい猫なで声を出す。","Rin's confident smile didn't falter for a moment
-despite what she said in feeble and girlish voice."
+凛は余裕そうな笑みのままわざとらしい猫なで声を出す。","Rin's confident smile didn't falter even for a moment
+when she said that in feeble and girlish voice."
 "そんな彼女にいら立ちを抱きつつも、
-貴方は剣を構えて突進した。","You charged in with your sword pointing at Rin while
-feeling irritated at her attitude."
+貴方は剣を構えて突進した。","You charged at Rin with your held up when her 
+irritating attitude was too much to take."
 "<凛>
 『う、…………こんな、嘘…………』","<Rin>
 ""Ugh... T-This can't be..."""
-"貴方に敗れ、凛はどさりと会場の真ん中で倒れこむ。","After being defeated, Rin fell to the arena floor."
+"貴方に敗れ、凛はどさりと会場の真ん中で倒れこむ。","Rin fell to the ground after being defeated."
 "凛を犯さない","Leave her be"
 "凛を犯す","Violate Rin"
 "<アル>
 『えへへ♪\n[1]、優しいね！
-　やっぱり、こんなところで無理やりはだめだよね！』",""
+　やっぱり、こんなところで無理やりはだめだよね！』","<Al>
+""Ehehe♪ \n[1] is so gentle! No one should
+ violate girls at a place like this after all!"""
 "貴方がそのまま凛に背を向けると、
 アルは嬉しそうにそう話しかけてくる。","Al happily said that when you turned your back to Rin."
 "<凛>
 『え…………お兄さん、どうして……』","<Rin>
 ""Eh... Why?"""
-"凛は倒れたまま、目を丸くし、呆然とそうつぶやく。","Rin muttered that on the floor with her eyes wide open
-in surprise."
+"凛は倒れたまま、目を丸くし、呆然とそうつぶやく。","Rin's muttered that in surprise with her eyes wide 
+open while laying on the floor."
 "今度から卑怯な真似をやめるように","You'll need to stop swindling people from now on"
 "女の子を犯すのは趣味じゃない","It's not my style to violate girls"
 "<凛>
 『……分かりましたよ、
 　もう一度やって、お兄さんみたいな、
-　想定外の人に負けることもあるって分かりましたし。』",""
+　想定外の人に負けることもあるって分かりましたし。』","<Rin>
+""...Okay. I know that I might run into someone who's 
+ unexpectedly strong like you again even if I did."""
 "<凛>
 『もっと、身の丈に合った金策を探すとします……
 　…………はぁ…………』","<Rin>
-""I guess I'll look for some other way to make money
- that's more fitting for my stature... Sigh..."""
+""I guess I'll need to look for some other way to make
+ money that's more fitting for my stature... Sigh..."""
 "安堵からか落胆からか、ため息を漏らす彼女を背に、
-貴方は会場を後にした。","As Rin sighed from either relief or sorrow, you walked
-out of the arena."
+貴方は会場を後にした。","Rin sighed as you walked out of the arena, but you 
+weren't sure if she did it out of relief or sorrow."
 "<凛>
 『あ、なるほど。お兄さん、
-　犯すより犯したいという変態マゾなんですね？』",""
-"凛は貴方の言葉に納得したようにそう口にする。",""
+　犯すより犯したいという変態マゾなんですね？』","<Rin>
+""Oh, I see. You're a masochistic pervert who wants to
+ be violated rather than be the one doing it, right?"""
+"凛は貴方の言葉に納得したようにそう口にする。","Rin understood your words a such after hearing what you
+said."
 "<アル>
 『ち、違うよ！確かに\n[1]は女の子に責められて、
 　気持ちよさそうにしてることが多いけど………
-　た、多分そんなんじゃないよ！』",""
-"凛の言葉にアルが微妙なフォローをいれる。",""
+　た、多分そんなんじゃないよ！』","<Al>
+""T-That's not it! I mean, \n[1] seems to
+ feel good pretty often when girls toy with him... 
+ B-But that's probably not true!"""
+"凛の言葉にアルが微妙なフォローをいれる。","Al added a weird follow-up to Rin's line."
 "<凛>
 『くす♡そんな顔しないでください、
-　冗談ですよ、冗談♡』",""
-"貴方の微妙な反応を見て、凛はくすくすと笑みを漏らす。",""
+　冗談ですよ、冗談♡』","<Rin>
+""Ahaha♡ Please don't make such a face♡ It was a
+ joke♡ A joke♡"""
+"貴方の微妙な反応を見て、凛はくすくすと笑みを漏らす。","Rin giggled and smiled when she saw you slightly react
+to what she said."
 "<凛>
 『自分を倒した相手にこういうのは癪ですけど……
-　ありがとうございます、お兄さん。』",""
+　ありがとうございます、お兄さん。』","<Rin>
+""It's slightly annoying to say this to the opponent who
+ beat you, but thank you."""
 "凛は柔らかく微笑んでそう言葉を告げる。
-そんな彼女の声に貴方は頷くと、会場を後にした。",""
+そんな彼女の声に貴方は頷くと、会場を後にした。","Rin thanked you with a gentle smile. You nodded to her
+and left the arena."
 "本当に凛を犯しますか？
-【注意！:取り返しがつきません】",""
+【注意！:取り返しがつきません】","Will you really violate Rin?
+【Warning: This cannot be undone】"
 "やめておく","Stop"
-"犯す",""
+"犯す","Violate her"
 "<凛>
 『う、や、やめて、お兄さん、こないで…………』",""
 "<凛>
@@ -255,9 +273,10 @@ about your success."
 "<凛>
 『……分かりましたよ、
 　もう一度やって、お兄さんみたいな、
-　想定外の強さの人に目を付けられても嫌ですし………』","<Rin>
-""...Okay. I don't want to end up losing to someone
- who's unexpectedly strong like you again anyway."""
+　想定外の強さの人に目を付けられても嫌ですし………』"," <Rin>
+""...Okay. I wouldn't want to have someone who's 
+ unexpectedly strong like you have their eyes on me 
+ after trying to do it again..."""
 "<凛>
 『私だって、
 　復讐されないほうが珍しいって分かってますから……』","<Rin>
