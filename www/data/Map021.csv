@@ -191,11 +191,14 @@ is the type that punches the machine on loss."
 ""N-No! \n[1], I'm sure you can't beat her at
  cards! We shouldn't play with her anymore..."""
 "<バニーガール>
-『っっ…！』",""
+『っっ…！』","<Bunny Girl>
+""Uuh..."""
 "貴方を見たバニーガールは、
-とっさにお尻を隠して顔を赤くした。",""
+とっさにお尻を隠して顔を赤くした。","The bunny hid her butt with flushed face the moment she
+saw you."
 "<アル>
-『そりゃ、こんな反応されちゃうよね…』",""
+『そりゃ、こんな反応されちゃうよね…』","<Al>
+""I guess that's the expected reaction after all that."""
 "EV028",""
 "『最初はこんなにぎやかなところじゃ、
 　落ち着いて飲めないと思ってたんだけど……
