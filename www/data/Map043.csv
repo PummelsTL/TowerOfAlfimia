@@ -1113,16 +1113,15 @@ in smile."
 "『ご飯を食べて、
 　女将さんと話をしていくと………
 　そのうち親しくなれるかもしれないね。
-　それが目当ての常連客も多そうだわ。』","""If you keep coming to eat and chatting with the
- innkeeper, you might get close with her. That's what
- most of the regular customers seem to be aiming at."""
+　それが目当ての常連客も多そうだわ。』","""You might get close with the owner if you keep coming 
+ to eat and chat with her. That's what a lot of 
+ regulars seem to be aiming for."""
 "<アル>
 『いっぱいご飯を食べたら、
 　女将さんと仲良くなれるってことかな？
 　えへへー、それならいっぱい食べるしかないよね♪』","<Al>
-""So, you get close with her if you keep eating lots of
- food? Ehehe♪ Looks like our only option is to eat a
- lot♪"""
+""Does that mean we should also come to eat often? 
+ Ehehe♪ Let's eat lots of delicious food♪"""
 "EV007",""
 "『ふぃ～……
 　このせわしくなく働く感じ、
@@ -1140,9 +1139,9 @@ in smile."
 　私はできれば、ゆっくりするしたいな～…
 　\n[1]はどう？』","<Al>
 ""Looks like she's a hard worker. I would rather have
- a job where I can go at my own pace.
- \n[1], what about you?"""
-"自分もゆっくりしたい","I want it at my own pace too"
+ a job where I can go at my own pace. \n[1],
+ what about you?"""
+"自分もゆっくりしたい","I want to work at my own pace too"
 "自分の中の社畜魂がうずく…","My inner corporate slave is throbbing..."
 "<アル>
 『うん、
@@ -1153,458 +1152,669 @@ in smile."
 "『分かってくれるっすか！？
 　私、他の人に共感されたことないんで、
 　お兄さんにそう言ってもらえるとめっちゃ嬉しいっす！』","""Do you also share that feeling?! I haven't met anyone
- who has felt the same before, so it makes me really
- happy when you say that!"""
+ who has felt the same before! It makes me really happy
+ when you say that!"""
 "<アル>
 『わ、顔近い近い！？
 　そ、そんなに\n[1]が共感してくれたことが、
 　嬉しかったのかな。』","<Al>
-""Woah! She's getting so close! Did it make her that
- happy to find someone who felt the same?"""
+""Woah! She's getting so close! Is it making her so
+ happy to find someone who shares that feeling?"""
 "『最近よくここに来てるっすよね。
 　アンタも女将さんの料理の虜になったっすか？
 　それとも……にしし♡
-　虜になったのは料理じゃなくて女将さんだったり？』","""I've seen you coming often recently. Did you also
- become captive of the owner's dishes? Or perhaps...
- Ehehe♡ What captured you isn't the dishes but the
- owner herself?"""
+　虜になったのは料理じゃなくて女将さんだったり？』","""I've seen you around often recently. Have you also 
+ become hooked by the owner's dishes? Or perhaps... 
+ It's not the food but the owner herself that has you 
+ hooked?"""
 "なれなれしい店員はにやにやと笑いながら、
-そう貴方に言葉をかけてくる。","The overly familiar waitress said that to you with a
-grin."
+そう貴方に言葉をかけてくる。","The overly familiar waitress grinned as she said that."
 "料理が美味しいから","The food is delicious"
-"女将さんがきれいだから","The owner is beautiful woman"
+"女将さんがきれいだから","The owner is beautiful"
 "『あ、そっちっすか。
 　まぁ女将さんの料理おいしいっすもんね～。
-　こう、懐かしくも新鮮な味って感じで！』","""Oh, so it's that? The owner's dishes just taste that
- good. They have this nostalgic but also fresh taste!"""
+　こう、懐かしくも新鮮な味って感じで！』","""So it's that? Well, the owner's dishes are just that
+ amazing after all. They have this nostalgic but fresh
+ taste!"""
 "『私がここでバイトしてるのも、
 　半分くらいそれが理由っすね。
-　従業員はまかないとして無料で食べられるんっすよ！』","""That's also the reason why I've been working here
- for the last half year. The employees get to eat
- those delicious foods for free!"""
+　従業員はまかないとして無料で食べられるんっすよ！』","""For me, that was also half of the reason why I 
+ started working part-time here. The employees get to 
+ eat the daily special for free!"""
 "『アンタも女将さんの料理が食べたいなら、
 　ここで働いてみるのはどうっすか？
-　私が先輩としてビシビシ扱いてやるっすよ。』","""If you also want to keep eating the owner's dishes,
- how about working here? I'll show you the ropes as
- your senpai."""
+　私が先輩としてビシビシ扱いてやるっすよ。』","""If you also want to keep eating the owner's dishes, 
+ why don't you also work here? I'll show you the ropes 
+ as your senpai."""
 "『それはもう、
 　社畜魂が心の底まで身につくまで……
-　ビシバシどころかボコボコになるまでっす！』",""
+　ビシバシどころかボコボコになるまでっす！』","""I'll guide you so thoroughly that you'll engrave the 
+ spirit of corporate slave down to your soul!"""
 "<アル>
 『こ、この誘い文句で働きたいって思う人、
-　あんまりいないと思うな～……』",""
+　あんまりいないと思うな～……』","<Al>
+""I-I don't think anyone would want to work here after
+ hearing that..."""
 "『ふふーん、正直な男は嫌いじゃないっすよ！
 　まぁ女将さんは綺麗っすもんね。
 　その上優しいし、茶目っ気もあるし、
-　男なら惹かれても無理ないっす。』","""Oh-hoo♡ I don't hate honest men like you! Well, the
- owner is such a beauty after all. She's also gentle
- and playful so it's no wonder that men get attracted
+　男なら惹かれても無理ないっす。』","""Oh? I don't hate honest men like you! The owner is 
+ such a beauty after all. She's also gentle and 
+ playful, so it's no wonder that men get attracted
  to her."""
 "『でも女将さんを落とすのはなかなか難しいっすよ？
 　これまでも何人もの常連客の魔の手を、
-　ぬらりくらりと躱してきてるっすからね。』","""However, swiping her off her feet is quite difficult.
- She's evaded the evil hands of countless regular
- customers without difficulty."""
+　ぬらりくらりと躱してきてるっすからね。』","""However, trying to swipe her off her feet will be 
+ really difficult. She's easily evaded countless 
+ advances from the customers so far."""
 "『意外とああ見えて魔性の女っす。
 　………あ、こ、これ、
-　私が言ってたっていうのは内緒っすよ？』","""Despite her looks, she's actually a devilish woman.
- ...Ah. Y-You need to keep it a secret that I said
- that, okay?"""
+　私が言ってたっていうのは内緒っすよ？』","""She's unexpectedly quite devilish woman... Ah! You
+ need to keep it a secret that I said that, okay?"""
 "声を潜めてそういう彼女に貴方は頷く。
 今更声を潜めたところで、
-この狭い店内、女将さんに聞こえていたかもしれないが……",""
+この狭い店内、女将さんに聞こえていたかもしれないが……","You nodded when the waitress lowered her voice and
+asked that. However, the shop isn't all that large, so
+the owner might have heard it."
 "『恩に着るっす。
 　女将さんの無言の笑顔、超怖いんっすよね……
-　つまみ食いがバレた時とか。』","""Thank you. The owner's silent smile is really scary...
- I've seen it the one time I snitched some food..."""
+　つまみ食いがバレた時とか。』","""Thank you. It's super scary when she gives you the 
+ silent smile... This one time I snitched food and 
+ then..."""
 "『……うぅ、思い出しただけで寒気が……
 　こういう時はがむしゃらに働くに限るっす。
-　それじゃ、アンタのことは陰ながら応援してるっすよ！』",""
+　それじゃ、アンタのことは陰ながら応援してるっすよ！』","""Uuh... Just remembering it gives me the chills...
+ Nothing is better than working hard at times like
+ this. Then see you around. I'll be secretly cheering
+ for your success!"""
 "<アル>
 『優しそうなあの人が、
 　本気で怒ったところってあんまり想像できないよね。
-　そんなに怖いのかな？』",""
+　そんなに怖いのかな？』","<Al>
+""I can't really imagine someone so gentle getting 
+ really angry. Is it really that scary?"""
 "『ん？ここで働く気になったっすか？
-　毎日毎日せわしなく働く日々は最高っすよ！』",""
+　毎日毎日せわしなく働く日々は最高っすよ！』","""Oh? Did you decide to work here? I'm sure you'll also
+ have the time of your life working without rest every 
+ day with me! It's the best!"""
 "<アル>
 『ま、毎日働きづめはちょっと…
-　意外と女将さんって厳しい人なのかな？』",""
+　意外と女将さんって厳しい人なのかな？』","<Al>
+""W-Working non-stop every day sounds a bit too much...
+ Is the owner actually a really strict person?"""
 "『今日も女将さん目当てっすか？
 　ふっふ～ん♪それならいっぱい料理を頼まなきゃっすよ！
-　いっぱい頼んで、私のお給料に貢献するっす！』",""
+　いっぱい頼んで、私のお給料に貢献するっす！』","""Did you come to give it a shot with the owner again?
+ Ehehe♪ Then you need to make sure to order lots of
+ her dishes! Order a lot so it shows in my salary too!"""
 "『アンタもすっかり常連っすよね～。
 　見慣れた顔ってやつっす。
-　………こう、仮装とかしないんすか？』",""
+　………こう、仮装とかしないんすか？』","""You've become totally regular here, a face that I've
+ got used to seeing... Aren't you going to ever put on a
+ disguise or something like that?"""
 "なれなれしい店員は突然そんなことを聞いてくる。
 質問の意図がくみ取れず、
-貴方は疑問符を浮かべながら質問を返した。",""
+貴方は疑問符を浮かべながら質問を返した。","The overly familiar waitress suddenly asked that from
+you. You didn't understand what she meant by that, so
+you returned the question."
 "『いやー、ここで働いてると、
 　いろんな人の顔を見るんすけど………
 　ずーっと同じ顔だとつまんないなーっと思っただけっす。
-　こう、意外性がないというか…………』",""
+　こう、意外性がないというか…………』","""Well, you see... I see many people when working, but
+ it's kind of boring to always see the same faces.
+ It's kind of like there's nothing to surprise me any
+ more..."""
 "『アンタの顔は平凡だから、
 　余計にそう思うと言うっすか…
-　とにかく、なんか新鮮味が欲しいっす。』",""
+　とにかく、なんか新鮮味が欲しいっす。』","""Your face is really ordinary, so it just makes me
+ think like that... At any rate, I kind of want
+ something new to spice things up."""
 "<アル>
 『そ、そんな無茶苦茶な…
-　何気に傷つくこと言われてるし……』",""
+　何気に傷つくこと言われてるし……』","<Al>
+""I-Isn't it a bit unreasonable to ask such a thing from
+ a customer? Also, the comment she made hurts!"""
 "彼女のあんまりな言い草に、
 アルが愚痴をこぼす。
-確かに、これは失礼じゃないだろうか……",""
+確かに、これは失礼じゃないだろうか……","Al complained at the waitress' unfiltered words. You
+also thought that she was certainly being quite rude."
 "彼女の失礼な物言いに、
-思わず貴方は顔をしかめてしまう。",""
+思わず貴方は顔をしかめてしまう。","You frowned at the waitress' rude comment."
 "『…う、か、軽い冗談っすよ！
 　だからそんな顔で見ないで欲しいっす…
-　ご、ごめんなさい。』",""
+　ご、ごめんなさい。』","""Uh... It was just a joke! P-Please don't look at me
+ like that... I'm sorry..."""
 "『…ごめんなさいついでに、1つ相談があるっす。
 　私、実はあんまり人とのかかわり方が分からなくて…
-　いつもついつい距離感を間違えちゃうんっすよ。』",""
+　いつもついつい距離感を間違えちゃうんっすよ。』","""...Also there's something I would like to consult
+ about. You see, I don't really know how to judge the
+ distance I have with other people, so I often end up
+ coming across overly familiar..."""
 "『女将さんは自分も似たものだって慰めてくれるんすけど、
 　私から見たら全然違うように見えるっす。
 　やっぱり私みたいな態度は、
-　結構嫌われたりするんすかね……？』",""
-"君は君のままでいい",""
-"直したほうがいいかも",""
+　結構嫌われたりするんすかね……？』","""The owner praised me for such attitude since she
+ apparently has the same thing going for her, but I
+ can't see it as anything similar. The familiar attitude
+ I take with people isn't something to like, right?"""
+"君は君のままでいい","You're good as yourself"
+"直したほうがいいかも","You might want to work on fixing that"
 "『え？ほ、ほんとっすか？
 　ふ、ふふーん♪まぁ、私も一応ここの看板娘っすからね。
-　男をメロメロにするなんて楽勝っす！』",""
+　男をメロメロにするなんて楽勝っす！』","""Eh? R-Really? E-Ehehe♪ Well, I guess I'm more or less
+ the poster girl of this shop. It's simple thing for me
+ to attract men with my charms!"""
 "『でも、私はみんなの私っすからね～。
 　アンタの好意には応えられないっす。
-　申し訳ないっす♪』",""
+　申し訳ないっす♪』","""But remember that I belong to all of the customers.
+ I can't respond to your feelings. Sorry♪"""
 "店員はニマニマと笑いながら、
-上機嫌にそう言葉を続けた。",""
+上機嫌にそう言葉を続けた。","The waitress smiled widely and said that in good mood
+after hearing what you said."
 "<アル>
 『わぁ～……凄い嬉しそう……
-　分かりやすい態度だね～………』",""
+　分かりやすい態度だね～………』","<Al>
+""Woah... She looks super happy... It's showing so
+ clearly from her face."""
 "『んんっ！
 　でもありがとうっす。
 　なんか元気でたっすよ。
-　私は私、これも個性っすよね！』",""
+　私は私、これも個性っすよね！』","""Mmmh! Thank you for your input. I feel so much easier
+ after talking about it. I am my own self after all!"""
 "『これからもビシバシボコボコ、
 　人との距離感をつめまくるっすよ！
 　……ま、まぁ最初はアンタで練習っすね。
-　嫌だって思ったら言って欲しいっす。』",""
+　嫌だって思ったら言って欲しいっす。』","""I'm going to keep closing distance and being familiar
+ with people! ...W-Well, I'll start by practicing with
+ you. Please tell me if it makes you feel bad."""
 "そう遠慮がちに聞く彼女に、
-貴方は分かったと返答した。",""
+貴方は分かったと返答した。","You gave the waitress your okay when she reservedly
+asked that."
 "『感謝っす！
 　それじゃ、改めて……
-　これからもよろしくお願いするっすね、常連さん♡』",""
+　これからもよろしくお願いするっすね、常連さん♡』","""Thank you! Then once more... Please look after me
+ well, Mr. Regular♡"""
 "『うぅ～……そうっすよね…
 　自分でも分かってるっすけど、
-　なかなか性格はなおらないものっす。』",""
+　なかなか性格はなおらないものっす。』","""Uuh... I figured as much... I've been trying to fix
+ it, but it's so difficult to change."""
 "『はぁ～………
 　おしとやかで可憐で儚い女の子に、
-　私もなりたいっすよ…………』",""
-"店員はため息をついて落ち込んでしまった。",""
+　私もなりたいっすよ…………』","""Sigh... I want to become lovely and graceful girl..."""
+"店員はため息をついて落ち込んでしまった。","The waitress sighed and looked down."
 "<アル>
 『な、なんかちょっとかわいそうかも…
 　そこまでまるごと、
-　性格を変えなくてもいいんじゃないかな……？』",""
+　性格を変えなくてもいいんじゃないかな……？』","<Al>
+""I-I feel a bit sorry for her... Is there really need
+ to change her personality as a whole?"""
 "そういうアルに貴方は頷き、
 何も正反対な性格になる必要はない、
 その性格のまま、コミュニケーションを練習すればいい、
-そう彼女に伝えた。",""
+そう彼女に伝えた。","You agreed with Al's view: There was no need to turn
+the waitress' personality to the polar opposite. You
+told her that she would just need to practice
+communication with her current personality."
 "そのあまりの落ち込み様に気の毒になり、
 何も正反対な性格になる必要はない、
 その性格のまま、コミュニケーションを練習すればいい、
-と貴方はそう彼女に伝えた。",""
+と貴方はそう彼女に伝えた。","You felt sorry for the waitress, but there was no need
+to turn her personality to the polar opposite. You
+told her that she would just need to practice
+communication with her current personality."
 "『む、難しいことを言うっすね…
 　でも、ちょっとやる気が出たっす。
 　正反対にならなくてもいいなら、
-　私でもできる気がしてきたっすよ！』",""
+　私でもできる気がしてきたっすよ！』","""Y-You're saying something really difficult... I'm
+ getting a bit motivated with that. If there's no need
+ to fully change my character, then I think I can do
+ it!"""
 "『距離感に気をつける……
 　ふわっとしててよく分かんないっすけど、
-　さっきみたいなことを言っちゃダメってことっすよね？』",""
+　さっきみたいなことを言っちゃダメってことっすよね？』","""I need to watch my distance with the people... It's
+ kind of fuzzy concept, but it means that I can't say
+ things like I just did, right?"""
 "『1つ1つ学んでいくっす！
-　私頑張るっすから、応援しててほしいっす！』",""
+　私頑張るっすから、応援しててほしいっす！』","""I'll learn things one thing at a time! I'll do my
+ best, so please cheer for me!"""
 "そう握りこぶしを作って気合を入れる彼女に、
-貴方は頑張れとそう伝えた。",""
+貴方は頑張れとそう伝えた。","When the waitress held her fist up in high spirits,
+you told her to do her best."
 "<アル>
 『す、すごい気合いだね！
 　でも悩み事が解決できたなら、
-　よかったのかな？』",""
+　よかったのかな？』","<Al>
+""S-She's getting really fired up! I guess we managed
+ to clear out her worries."""
 "『ふんふ～ん♪
 　あ、常連さん。どうしたっすか？
-　私とおしゃべりしたいっすか？』",""
+　私とおしゃべりしたいっすか？』","""Mmmh-mmmh♪ Ah, Mr. Regular. What's up? Do you want to
+ chat with me?"""
 "『私もアンタとおしゃべりしたいっすけど、
 　いまちょっと注文が多くて忙しいっす。
 　あの、今は話せないっすけど………で、できればまた、
-　後で話しかけてくれたら嬉しいな、なんて…』",""
+　後で話しかけてくれたら嬉しいな、なんて…』","""I also want to chat with you, but I'm really busy with
+ many orders right now. Um, we can't do it right now,
+ but if possible... I would be happy if you chatted
+ with me later..."""
 "『…………うぁぁ！
 　な、なんかこういうの恥ずかしいっすよ！
-　こういう時はがむしゃらに働くっす！』",""
+　こういう時はがむしゃらに働くっす！』","""...Uaaah! T-This is making me feel really embarrassed
+ for some reason! At times like this, I'll focus on
+ working my ass off!"""
 "<アル>
 『な、なんかいつもと違って、
 　ちょっとドキドキしちゃったね。
-　こ、これがギャップ萌えってやつなのかな…！？』",""
+　こ、これがギャップ萌えってやつなのかな…！？』","<Al>
+""T-The way she acted different from usual made kind of
+ my heart skip a beat... Could this be that thing
+ called gap moe?!"""
 "『私は私のままで、距離感に気を付ける……
 　……やってやるっす！　
-　見事に成長して、良い女になるっすよ！』",""
+　見事に成長して、良い女になるっすよ！』","""Pay attention to the distance in my own way...
+ I'll do it! I'll grow and become a good woman!"""
 "<アル>
 『気合入ってるね♪
-　がんばれー！』",""
+　がんばれー！』","<Al>
+""She's working hard on it♪ Do your best!"""
 "『ふんふ～ん♪
 　あ、常連さん。
-　聞いてほしいことがあるっす！』",""
+　聞いてほしいことがあるっす！』","""Mmmh-mmmh♪ Ah, Mr. Regular. There's something I want
+ you to hear!"""
 "上機嫌な店員は、
-貴方を見つけるとそうニコニコと笑顔で話しかけてくる。",""
+貴方を見つけるとそうニコニコと笑顔で話しかけてくる。","When the happy-looking waitress spotted you, she came
+to talk to you in smile."
 "『私、アンタにああ言われてから、
 　私は私のままで距離感を考えたっす。
 　失敗も多かったっすけど……
-　最近、お客さんからの評判もいいっすよ！』",""
+　最近、お客さんからの評判もいいっすよ！』","""After the advice you gave me, I've been trying to work
+on the distance with other people in my own way. I've
+made many mistakes, but recently I've started to become
+popular among the customers!"""
 "『えへへ～♪
 　これは私もこのお店の看板娘になる日も近いっすね♪
 　常連さんたちを女将さん派か私派かで、
-　二分してしまいそうなほどの勢いっす♪』",""
+　二分してしまいそうなほどの勢いっす♪』","""Ehehe♪ It won't be long before I really become the
+ poster girl of this shop♪ I'll be so amazing that
+ the customers will split into my and the owner's
+ factions♪"""
 "<アル>
 『ふふ♪すごい嬉しそうだね。
 　悩みが解決したんなら、
-　私たちまでつい嬉しくなっちゃう♪』",""
+　私たちまでつい嬉しくなっちゃう♪』","<Al>
+""Ehehe♪ She looks really happy. I'm also happy that
+ we managed to help with her worries♪"""
 "上機嫌にニコニコと笑顔で報告する店員に、
 アルが頬を緩める。
 確かにここまで笑顔の彼女を見ていると、
-此方まで元気がもらえそうなほどだった。",""
+此方まで元気がもらえそうなほどだった。","Al's face was also turned into a smile when the
+waitress reported on her success in smile. She was
+looking so happy that it was also making you feel so."
 "『で、まぁ、　
 　アンタに感謝の言葉を改めて言いたかったっす。
 　私は私のままで、ってアンタの言葉で、
-　道が切り開けた気がするっすよ。』",""
+　道が切り開けた気がするっすよ。』","""And so... I want to say thank you once more. I think
+ I managed to find my own path after you told me I
+ should try things my own way."""
 "『……もちろん、まだ発展途上っす。
 　でも、こう、個人的にはいろいろ手ごたえがあるというか…
 　それもアンタのおかげっす。
-　だから、ありがとうって言いたくて。』",""
+　だから、ありがとうって言いたくて。』","""...Of course, I'm still working to improve. But all
+ of it was kind of thanks to your help... So thank
+ you."""
 "少し照れたように笑いながら、
 店員は貴方にそう感謝の言葉を告げる。
 そんな彼女に、貴方は力になれたならよかったと、
-そう返した。",""
+そう返した。","The waitress thanked you in a slightly bashful smile.
+You told her that you were happy to help."
 "『それはもう、力になったすよ！
 　……そ、その、一応聞いておきたいだけっすけど……
 　もし女将さん派か私派かってあれば、
-　アンタはどっち派っすか？』",""
-"女将さん派",""
-"店員さん派",""
+　アンタはどっち派っすか？』","""Hearing that gives me so much strength! Also...
+ Um, there's something I want to ask... If there
+ were factions for me and the owner, which side are
+ you on?"""
+"女将さん派","The owner faction"
+"店員さん派","Your faction"
 "『…………うー！
 　そ、そこは嘘でも私派っていうところっすよ！？
-　ほら、こう、成長した私を褒める的な意味で！』",""
+　ほら、こう、成長した私を褒める的な意味で！』","""...Uuuh! S-Shouldn't you say here that you're in my
+ faction even if its a lie?! Like to show how much I've
+ grown!"""
 "『…………まぁ、気持ちは分かるっすけど。
 　正直私も誰かに同じ質問されたら、
-　女将さん派って答える気がするっす。』",""
+　女将さん派って答える気がするっす。』","""...But well, I can understand your answer. If someone
+ were to ask the same from me, I would probably say the
+ owner faction too."""
 "店員は恨み節を貴方にぶつけながらも、
-どこか納得するようにそう答えた。",""
+どこか納得するようにそう答えた。","The waitress first begrudgingly shouted at you, but
+then she told that she understood your answer."
 "『でも、女将さんと張り合ってもしょうがないっすよね。
 　自分の性格が看板娘からほど遠いっていうのは、
-　ちゃんと自覚してるっすよ。』",""
+　ちゃんと自覚してるっすよ。』","""However, competing with the owner will be difficult.
+ I'm aware how I'm still far off from becoming the
+ poster girl of the shop."""
 "『でも私は私のまま、先を目指したらいい。そうしたら、
 　いつか私の魅力を分かってくれる人が出てくるはず……
-　そう言ってくれたのはアンタっすもんね！』",""
+　そう言ってくれたのはアンタっすもんね！』","""But I just need to keep going forward in my own way.
+ When I do that, there will surely appear people who
+ understand my charms... You're the one who said that
+ after all!"""
 "彼女は表情を戻し、笑顔を浮かべると、
-握りこぶしを浮かべながらそう自分に気合を入れている。",""
+握りこぶしを浮かべながらそう自分に気合を入れている。","The waitress' face returned into a smile and she raised
+her fist in high spirits."
 "<アル>
 『…………あれ？\n[1]、
-　そんなことまで言ったっけ？』",""
+　そんなことまで言ったっけ？』","<Al>
+""...Eh? \n[1], did you say something like
+ that?"""
 "……正直そこまでのことを言った記憶は貴方にはない。
 彼女は思い込みが激しい性格なのだろう。それでも、
-彼女がやる気を出しているならそれでいいような気もした。",""
+彼女がやる気を出しているならそれでいいような気もした。","You honestly couldn't remember saying such a thing. She
+probably misunderstood something you said because of
+her intense personality, but you saw no reason point
+that out if it cheered her up."
 "<アル>
 『……そうだね！
-　頑張ることは悪いことじゃないもんね♪』",""
+　頑張ることは悪いことじゃないもんね♪』","<Al>
+""...I guess that's right! There's nothing bad in
+ working hard♪"""
 "『それじゃ、
 　今後とも私の成長は要チェックっす！
-　いつかお客さんからちやほやされるようになるっすよ！』",""
+　いつかお客さんからちやほやされるようになるっすよ！』","""Then please come to check on my growth again! One day
+ I'll become so charming that the customers will make
+ a big fuss over me!"""
 "『ふぇ………！？
 　ほ、ほ、ほんとっすか！？
-　その、えっと、あの、…う、嬉しいっす…』",""
+　その、えっと、あの、…う、嬉しいっす…』","""Eeeh?! R-R-Really?! That... Um... That makes me
+ happy..."""
 "『私なんかを女将さんよりって言ってくれて……
-　あぅあぅ……な、なんか頭の中がぐるぐるするっす～…』",""
+　あぅあぅ……な、なんか頭の中がぐるぐるするっす～…』","""Hearing you pick someone like me over the owner...
+ Auuh.. I-It makes my head spin for some reason..."""
 "貴方の返答は思ってもいない者だったのか、
 店員は珍しく顔を赤くしながら、
-目をぐるぐるとまわしている。",""
+目をぐるぐるとまわしている。","The waitress didn't seem to be expecting you to answer
+like that at all because her face turned unusually red
+and her eyes were spinning."
 "『うぅ～………ふぅ～……平常心…
 　………うん、少し落ち着いたっす。けど意外っすね、
-　ぜったい女将さん派って答えるって思ったっす。』",""
+　ぜったい女将さん派って答えるって思ったっす。』","""Uuh... Haah... Calm yourself... Okay, I've calmed
+ down a bit. But that was really unexpected. I was
+ sure that you would say that you belong to the owner
+ faction."""
 "少ししてから落ち着いた彼女は、
 そう言葉を漏らした。
 自分の中では、自分より女将さんの方が魅力的だと、
-そう思っている部分があったのだろう。",""
+そう思っている部分があったのだろう。","The waitress said that after calming down a little.
+Part of her probably saw herself as less charming
+than the owner."
 "『…たとえ気遣いだとしても、
 　嬉しいっすよ。うん、ますます元気出たっす。
-　私はこのまま、精進するっすよ！』",""
+　私はこのまま、精進するっすよ！』","""...Even if you said it out of consideration for me,
+ it made me happy. Yes, I'm getting even more
+ energetic. I'm going to charge forward with everything
+ I have!""
+ "
 "『そしたらもしかしたら、
 　アンタのことをメロメロにしちゃうかもしれないっすね♡
-　ん～、私ってば罪な女っす♪』",""
+　ん～、私ってば罪な女っす♪』","""Maybe I'll be able to make you fall head over heels
+ for me by doing so♡ Oh, I'm such a sinful woman♪"""
 "<アル>
 『す、すぐ調子に乗るんだから…
 　……まぁ、これくらいの方が、
-　この子らしいってことなのかな。』",""
+　この子らしいってことなのかな。』","<Al>
+""S-She's immediately getting carried away... But I
+ guess that's like her."""
 "アルは困ったような笑みを浮かべる。
-……アルの大人っぽい対応は初めて見たかもしれない。",""
+……アルの大人っぽい対応は初めて見たかもしれない。","Al made a slightly troubled smile. That might have been
+the first time you saw her react in such an adult-like
+manner."
 "『…まぁ、そういうわけでありがとうっす。
 　また元気もらっちゃったっすね。
-　私はこれからも頑張るっすよ！』",""
+　私はこれからも頑張るっすよ！』","""...And so, thank you. I got even more energy to go
+ forward from you. I'm going to work so hard from now
+ on!"""
 "『だからこれからも、
 　私の成長を見守ってくれると嬉しいっす。
 　あと、ついでに料理を頼んでくれれば、
-　私の給料も増えるので一石二鳥っす♪』",""
+　私の給料も増えるので一石二鳥っす♪』","""That's why I would be happy if you dropped by to check
+ on my growth again. If you ordered food on top of
+ it, it would help to increase my salary too♪"""
 "ニコニコと笑顔でそう告げる店員に、
-貴方は気が向いたらまた来てご飯を食べると答えた。",""
+貴方は気が向いたらまた来てご飯を食べると答えた。","When the waitress said that in smile, you told her that
+you would come and eat when you felt like it."
 "『はい♪お待ちしてるっすよ！
-　………というか、今日も食べていって欲しいっす！』",""
+　………というか、今日も食べていって欲しいっす！』","""Yes♪ I'll be waiting! ...Also, I want you to eat today
+ too!"""
 "『いらっしゃいませ～♡
 　…………って、アンタっすか。ふふ～ん♪
-　さっきの私の渾身スマイル、どうだったっすか？』",""
+　さっきの私の渾身スマイル、どうだったっすか？』","""Welcome♡ ...Oh, its' you. Ehehe♪ How did you like my
+ all-out smile that I gave you just now?"""
 "『最近、笑顔が大事ってことに気が付いたっす。
 　だから可愛い笑顔で挨拶することにしたっすよ！
-　ふっふっふ…これでお客さんの心を鷲掴みっす♪』",""
+　ふっふっふ…これでお客さんの心を鷲掴みっす♪』","""Recently I noticed how important smiles are. That's
+ why I've started to welcome people with a cute smile!
+ Ehehe... I can take a firm grip of the customers'
+ heart like that♪"""
 "<アル>
 『確かに可愛い笑顔だったよね！
 　私も負けてられないなー♪ほら、こうやって…
-　えへへー♪』",""
+　えへへー♪』","<Al>
+""It was certainly really cute! But I won't lose in
+ smiles either! Look here... Ehehe♪"""
 "『ひゃ、ひゃうっ！
-　な、何か御用っすか？』",""
+　な、何か御用っすか？』","""U-Uah! D-Do you need something?"""
 "『……え？どうしてそんな反応なのか？
 　そ、それは、だって、この前常連さんが……
-　私派だ、なんて言うから意識しちゃって………』",""
+　私派だ、なんて言うから意識しちゃって………』","""...Eh? What's with my reaction? W-Well... It's because
+ you said last time that you were in my faction, so it
+ made me weirdly conscious of you..."
 "『…うぅぅ！！
 　何でもないっすよ！
 　と、とにかく、たくさん料理を頼むっす！
-　お伺いするっすから！』",""
+　お伺いするっすから！』","""...Uuuh! Please forget all that! A-At any rate,
+ please order a lot of food! """
 "<アル>
 『顔真っ赤だね……
-　こ、この反応ってもしかして…！？』",""
+　こ、この反応ってもしかして…！？』","<Al>
+""Her face was red as an apple... W-wait, that couldn't
+ mean?!"""
 "『じょ、じょ、じょ、常連さん！！
 　大変っす！大変な出来事があったっす！
-　大事件っすよ！！』",""
+　大事件っすよ！！』","""M-Mr. Regular! S-Something really big happened!
+ A really big thing!"""
 "店員は貴方の顔を見ると、
-慌てたようにそう小声でまくしたてる。",""
+慌てたようにそう小声でまくしたてる。","When the waitress saw you, she said that in quiet and
+panicked voice."
 "『じ、実はっすね。
 　その……お客さんから誘われちゃったっすよ！
-　デートに！私がっす！』",""
+　デートに！私がっす！』","""T-The thing is... I got, um... Invited by a customer!
+ Invited to a date!"""
 "『女将さんが、じゃなくて私がっすよ！？
 　も、もうびっくりやら驚きやらで、
-　頭の中がいっぱいいっぱいっす！』",""
-"おめでとう",""
-"確かに驚きだ",""
+　頭の中がいっぱいいっぱいっす！』","""Not the owner but me?! I-I got so surprised by it
+ that I don't know what to do!"""
+"おめでとう","Conratulations"
+"確かに驚きだ","That's certainly surprising"
 "『うぇ？あ、ありがとうっす。
 　その、聞かないっすか？
-　その誘いを受けたかどうか、とか………』",""
+　その誘いを受けたかどうか、とか………』","""Ueh? T-Thank you. Um, aren't you going to ask?
+ Ask if I accepted the invitation..."""
 "そう言われれば確かに気になる。
 この反応から貴方はてっきり、
-彼女が誘いを受けたものだと思っていたが………",""
+彼女が誘いを受けたものだと思っていたが………","You were certainly curious now that she said it.
+However, you thought that she had accepted it since
+she came to talk about it."
 "『えーと……断ったっすよ。
 　理由は……そうっすね、えーと………あれっす。
-　私はみんなの看板娘っすし…………』",""
+　私はみんなの看板娘っすし…………』","""Um... I refused. The reason is... Well... I'm
+ everyone's poster girl..."""
 "『後は、うん！
 　私を自分のものにしたいなら、
-　私を倒せるくらい強くなきゃってやつっす！』",""
+　私を倒せるくらい強くなきゃってやつっす！』","""Also... Yes, if someone wants to take me, they need to
+ be strong enough to beat me in a fight!"""
 "<アル>
 『な、なんだろ、
 　凄い残念感がある…
-　自分より強い人のほうがいいのかな？』",""
+　自分より強い人のほうがいいのかな？』","<Al>
+""S-She seems really disappointed for some reason...
+ Is she really fine with anyone who's stronger than
+ herself?"""
 "店員の言葉にアルが言葉を漏らす。
 なんとなく彼女が相手に求める条件が気になった貴方は、
-彼女に率直に聞いてみることにした。",""
+彼女に率直に聞いてみることにした。","Al muttered that when she hear the waitress' words. You
+were somewhat curious if that was what she really
+sought in her partner and directly asked about it."
 "なんとなく彼女が相手に求める条件が気になった貴方は、
-彼女に率直に聞いてみることにした。",""
+彼女に率直に聞いてみることにした。","You were somewhat curious if that was what she really
+sought in her partner and directly asked about it."
 "『あ、相手に求める条件っすか……？
 　それを聞くってことは……
-　って、ううん！何でもないっす！』",""
+　って、ううん！何でもないっす！』","""W-What do I seek in my partner...? Since you're
+ asking that, does it mean... Wait, no, never mind!"""
 "『そ、そうっすね！
 　私も乙女っすから、
-　自分より弱い男はちょっとお断りっす！』",""
+　自分より弱い男はちょっとお断りっす！』","""Y-Yes, that's right! S-Since I'm a maiden so, I can't
+ accept anyone who's weaker than myself!"""
 "『だから、えーと、
 　アンタが私を自分のものにしたいなら、
-　私を倒してからじゃないとだめっすよ！！』",""
+　私を倒してからじゃないとだめっすよ！！』","""T-That' why... Um... If you want to take me for
+ yourself, you need to defeat me!"""
 "貴方の疑問に店員はそう答える。
-心なしか顔が赤くなっているような気がした。",""
+心なしか顔が赤くなっているような気がした。","The waitress answered your question like that. You felt
+like her face was slightly flushed as she said it."
 "『ま、まぁもしアンタが私よりも弱かったとしても、
-　強くなるまで待つくらいの懐の大きさはあるっすけどね。』",""
+　強くなるまで待つくらいの懐の大きさはあるっすけどね。』","""W-well... If you happen to be weaker than me, I 
+ wouldn't mind waiting until you're grown stronger
+ either..."""
 "『私、最近バイトばっかりやってるっすし、
 　全然レベル上げできてないっすから……
-　頑張れば簡単に私より強くなれると思うっす！』",""
+　頑張れば簡単に私より強くなれると思うっす！』","""I've been only doing my part-time job recently, so my
+ level hasn't been going up... I'm sure you can easily
+ become stronger than me if you work hard!"""
 "<アル>
 『…………あれ？
 　い、いつの間にか話の流れが、
-　\n[1]がこの子を誘った感じになってない？』",""
+　\n[1]がこの子を誘った感じになってない？』","<Al>
+""...Eh? W-Why does it seem like you invited her for
+ a date all of sudden, \n[1]?"""
 "貴方はアルの言葉に頷き、
-彼女の話の軌道修正を行った。",""
+彼女の話の軌道修正を行った。","You agreed with Al and nodded to her. Then you got
+your talk with the waitress back on track."
 "……いつの間にか自分が彼女を誘ったような流れに…
-貴方は彼女の話の流れの軌道修正を行った。",""
+貴方は彼女の話の流れの軌道修正を行った。","...For some reason, it felt like you were trying to 
+invite the waitress to a date all of sudden. You got
+the talk with her back on track because of that."
 "『え？あ、うー…………！
 　と、とにかく、そういうことっす！
-　うん、あの、ようは！ありがとうってことっすよ！』",""
+　うん、あの、ようは！ありがとうってことっすよ！』","""Eh? Ah... Uuh! A-At any rate! That's how it is!
+ I mean to say, thank you!"""
 "『アンタのおかげで、
 　私も男から誘われるような女になったっす！
-　これからも魔性の女を目指して頑張るっすよー！！』",""
-"店員はそう気合を入れている…",""
+　これからも魔性の女を目指して頑張るっすよー！！』","""It's thanks to your help that I've become a woman
+ who receives invitations from me! I'm going to
+ continue working hard to become a devilishly charming
+ woman!"""
+"店員はそう気合を入れている…","The waitress pumped herself up like that."
 "『ひ、ひどいっすよ！
 　いや、分かるっすけど！
-　なんなら私も驚いたっすけど……！』",""
+　なんなら私も驚いたっすけど……！』","""W-What a horrible thing to say! ...But I understand
+ what you mean. Even I got surprised by it."""
 "『でもまぁ、これもあれっすよね！
-　私の女としての魅力が爆上がりしたってことっすよね。』",""
+　私の女としての魅力が爆上がりしたってことっすよね。』","""But that's a proof of that, right! That my charm as
+ a woman has grown explosively!"""
 "『ふっふ～ん♪
 　どうっすか？アンタも私と2人で話していると、
-　メロメロのムラムラになっちゃうんじゃないっすか？』",""
+　メロメロのムラムラになっちゃうんじゃないっすか？』","""Ehehe♪ How does it seem for you? Do you feel
+ butterflies in your stomach and get horny when you're
+ talking alone with me?"""
 "店員はニマニマと笑いながら、貴方の顔を覗き込む。
-容姿は整っているながらも、やはり言動が…",""
+容姿は整っているながらも、やはり言動が…","The waitress stared at your face in wide smile. Her
+looks were certainly good, but you found her act and
+conduct a bit..."
 "<アル>
 『メロメロはともかくムラムラは、
-　あんまり言わないほうがいいんじゃないかな～…』",""
+　あんまり言わないほうがいいんじゃないかな～…』","<Al>
+""I don't think asking someone if they're getting horny
+ is something you should do..."""
 "貴方の内心を代弁するようにアルがつぶやく。
-そんなアルに同意しつつ、店員の言葉に首を横に振った。",""
+そんなアルに同意しつつ、店員の言葉に首を横に振った。","Al's mutterings were exactly as you thought. You shook
+your head to the waitress."
 "『むー、まだ私の魅力に気付かないっすか。
 　なかなか高い壁っすね～。
 　でもいいっすよ、いつかアンタにも、
-　私が良い女だって言わせて見せるっす！』",""
+　私が良い女だって言わせて見せるっす！』","""Mmmh! Do you still not notice my charms? You're got
+ quite a high defense. But that's fine. One day I'll
+ make you say how good of a woman I am!"""
 "店員は貴方の態度に気合を入れている。
 そんな彼女を見ていると、
-ふと先ほどの誘いをどうしたのか時になった。",""
+ふと先ほどの誘いをどうしたのか時になった。","Your attitude seemed to pump up the waitress spirit.
+While watching that happen, you asked her what she
+did with the date invitation."
 "『え？あぁ、断っちゃったすよ。　
 　理由は…………えーと…………
 　私はみんなのものっすから………そう、
-　独り占めしたいなら私より強くないとっす！』",""
+　独り占めしたいなら私より強くないとっす！』","""Eh? Oh that. I refused. The reason being... Um...
+ I'm everyone's poster girl... So... Yes... You
+ need to be stronger than me if you want to take me
+ for yourself!"
 "『……強さが関係あるのか？
 　そ、それは…な……いや、あるっすよ！
-　うん、うん……私は自分より強い男じゃないと嫌っす！』",""
+　うん、うん……私は自分より強い男じゃないと嫌っす！』","""...Did I refused because of his strength? W-Well...
+ Yes! I don't want a man who's weaker than me!"""
 "貴方の疑問に彼女はそう答える。
-意外と彼女は強さというものを重視するようだ。",""
+意外と彼女は強さというものを重視するようだ。","The waitress answered your question like that. It was
+slightly unexpected how heavily she valued strength."
 "『ま、まぁ私は最近レベル上げしてないっすし、
 　勝つのはそう難しくないというか…
 　多分、簡単に勝てるというか……
-　だから、遠慮しなくていいっすよ？』",""
-"…………何を？",""
+　だから、遠慮しなくていいっすよ？』","""W-Well... I haven't leveled up at all recently, so 
+ winning against me shouldn't be so difficult... Or
+ it might actually be quite easy... That's why don't
+ don't back, okay?"""
+"…………何を？","...Hold back what?"
 "『う、うぁぁぁぁ！！
 　な、何でもないっす！何でもないっす！
-　とりあえず女将さんの料理でも頼んでいけっす！！』",""
+　とりあえず女将さんの料理でも頼んでいけっす！！』","""U-Uaaaaah! N-Nothing! I meant nothing by that!
+ H-Hey, why not ask the owner to cook something for
+ you!"
 "<アル>
-『…………むー……………………』",""
+『…………むー……………………』","<Al>
+""...Mmmh..."""
 "『あ、いらっしゃいませっす！
 　……その、この前の話はあんまり気にしないで欲しいっす。
-　あの時は私もてんぱってたというか…』",""
+　あの時は私もてんぱってたというか…』","""Ah, welcome! ...Um, please don't think too deeply into
+ our earlier talk. I was really clumsy with my words
+ back then..."""
 "『…だ、だから、
 　普通に接してほしいっすよ！
-　これまで通りに、うん！』",""
+　これまで通りに、うん！』","""...T-That's why, please interact with me normally!
+ Just like you've used to! Yes!"""
 "<アル>
 『これまで通りー？
 　…まぁ、この子がそれでいいならそれでいいんだけど。
-　…………なんか、複雑な気分。』",""
+　…………なんか、複雑な気分。』","<Al>
+""Just like we've used to? ...Well, I guess that fine
+ if she's fine with it... But I'm feeling slightly
+ complicated over it."
 "EV008",""
 "『女将さんの料理、
 　食べるとなんだか力が湧いてくる気がするんだよね。
 　すっごい美味しいし…つい通いつめちゃうよ。』","""It feels like I'm overflowing with power after eating
  the owner's dishes. They also taste amazing, so I
- can't help visiting frequently."""
+ can't help coming to eat them."""
 "<アル>
 『……じゅるり♪
 　ねぇ\n[1]、私も食べたくなってきた！
 　ご飯頼もうよー♪』","<Al>
 ""...Slurp♪ Hey, \n[1]♪ Those dishes look so
- good that it made me want to try some! Let's order
- something♪"""
+ good that I want to try some! Let's order something♪"""
 "EV009",""
 "『女将さんもいいんだけど、
 　俺は店員の子の元気な感じに癒されるよ。
 　この前なんか、俺のこと覚えてくれてて……』","""I like the owner too, but it's the cheerful waitress
  who really makes me feel healed. I was so happy when
- she remembered me on my last visit."""
+ she remembered my face."""
 "『こじんまりとした店だから、
 　常連客のことは覚えてくれるのかもな。
 　ますますここに通いつめちゃうよ。』","""I guess it's because the shop is so small and snuggly
@@ -1615,15 +1825,15 @@ grin."
 　\n[1]も一杯ご飯食べたら、
 　覚えてもらえるのかな？』","<Al>
 ""They have the spirit of service, right!
- \n[1], they will probably remember you too
- if we eat here often."""
+ \n[1], they might remember you too if we
+ ate here often."""
 "EV010",""
 "EV011",""
 "『ここの女将さんには話しかてみた？
 　話題に困ったら………
 　コロシアムでの近況とかが定番かな？』","""Did you try chatting with the owner yet? If you can't 
  think of any topics, it's standard to talk about the 
- recent fights at the Colosseum."""
+ fights at the Colosseum."""
 "『○○に勝ったとか負けたとか、
 　そういう話も女将さんは聞いてくれると思うわよ。』","""I'm sure that she'll happily listen if you tell her
  how your recent matches have gone."""
@@ -1631,9 +1841,9 @@ grin."
 『ふむふむ。
 　そういう話題が定番なのかな？
 　コロシアムで何か変化があったら話しかけてみる？』","<Al>
-""Hmmm. Those are the standard topics around here?
- Why don't we try chatting with her after visiting the
- Colosseum?"""
+""Hmmm. So those are the standard topics around here?
+ Why don't we try chatting with her after fighting at 
+ the arena?"""
 "EV012",""
 "EV013",""
 "EV014",""
