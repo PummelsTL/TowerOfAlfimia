@@ -6,24 +6,39 @@
 "『はいは～い♪
 　うちは親切真心をモットーにした宿屋ですよ～。
 　街の出入り口に近いから、起きたらすぐに冒険へ行ける…
-　冒険者様ご用達の宿となっておりま～す♪』",""
+　冒険者様ご用達の宿となっておりま～す♪』","""Welcome♪ Our inn is made with devoted kindness as a
+ motto♪ The town entrance is really close, so you can
+ go on an adventure right away after waking up, which
+ makes this the perfect place to stay for adventurers♪"""
 "『1階には絶品料理を提供する食事処♪
 　あそこの料理、美味しいですよ～？
-　私も何度か食べたことあります♪』",""
+　私も何度か食べたことあります♪』","""The first floor is restaurant with superb dishes♪ 
+ The food is so good that I eat there nearly every
+ day♪"""
 "『あ、ついでに宿の女将……
 　つまり私が可愛い♪
-　こんな好条件の宿、泊まるしかないと思いません？』",""
+　こんな好条件の宿、泊まるしかないと思いません？』","""Oh, and the innkeeper, that is me, is also really
+ cute♪ There's no way you wouldn't want to stay in
+ such a good inn, right?"""
 "<アル>
-『す、すごい営業トークだね…』",""
+『す、すごい営業トークだね…』","<Al>
+""S-She's got some amazing business talk..."""
 "貴方が話しかけると、
 立て板に水のように言葉を続ける女性にアルは引き気味だ。
-確かに、凄い熱量を感じる………",""
+確かに、凄い熱量を感じる………","When you went to the innkeeper, she started the long,
+but smooth introduction of the inn, which put Al 
+slightly off. You also felt how much passion she had 
+for her work."
 "貴方が話しかけると、
 立て板に水のように言葉を続ける女性。
-凄い熱量を感じる………",""
+凄い熱量を感じる………","When you went to the innkeeper, she started the long,
+but smooth introduction of the inn. You clearly felt
+how much passion she had for her work."
 "『ありゃ、結構引いちゃってます？
 　それは失礼を。まぁまぁとにかく、
-　ぜひうちに泊まっていってくださいよ♪冒険者様♡』",""
+　ぜひうちに泊まっていってくださいよ♪冒険者様♡』","""Oh, did I end talking your ears off? Excuse me for
+ that. At any rate, please stay at our inn by all
+ means, Mr. Adventurer♡"""
 "『いらっしゃいませ～♡
 　ご宿泊ですか？1泊100Gになりま～す♪』","""Welcome♡ Are you looking for a room? A single night
  will be 100G♪"""
@@ -48,10 +63,10 @@
 "『おやおや？なるほどー、
 　ではでは……怪しい人じゃないかチェックしますので、
 　ステータス画面を全部見せてください♡』　","""Oh? First I must confirm that you're not a suspicious
- person, so please show me your status screen♡"""
+ person♪ Please show me your status screen♡"""
 "そういう女将に貴方はステータス画面を見せた。","You showed the innkeeper your status screen."
 "『……はい、ありがとうございま～す♪
-　無事確認できましたよ～♡』","""...Yes, thank you very much♪ There aren't any
+　無事確認できましたよ～♡』","""...Yes, thank you very much♪ I don't see any
  problems♡"""
 "『それじゃマーシャさんのお部屋は……
 　え～と、ここですね♪202号室に向かってください♪
@@ -65,15 +80,14 @@
 "………………………………","............"
 "『ふむふむ……あ、すみません！
 　私としたことが、ついうっかりしてました！
-　今、マーシャさんお出かけになってたんでした♡』","""Hmm... Hmm... Oh, excuse me! I completely forgot
- that Masha is currently out♡"""
+　今、マーシャさんお出かけになってたんでした♡』","""Hmm... Hmm... Oh, excuse me! I completely forgot that
+ Masha is currently out♡"""
 "『ですのでご案内できませんね～。
 　彼女が返ってくるのを待つ間に……
 　店員さんにレベルドレインでも受けて、
-　時間をつぶしてきてはどうでしょう？』","""I'm terribly sorry for my mistake♪ If you'd like
- to see her, I would recommend asking shopkeeper's
- for level draining to pass some time until she
- returns♡"""
+　時間をつぶしてきてはどうでしょう？』","""I'm terribly sorry for my mistake♪ How about asking
+ the NPC shopkeepers to level drain you until she
+ returns?"""
 "<アル>
 『レベルドレイン…？
 　なんでそんなこと勧めてくるんだろ……』","<Al>
@@ -85,8 +99,8 @@
  three knocks♪"""
 "『ふむふむ……あ、すみません！
 　私としたことが、ついうっかりしてました！
-　今、桃香さんお出かけになってたんでした♡』","""Hmm... Hmm... Oh, excuse me! I completely forgot
- that Momoka is currently out♡"""
+　今、桃香さんお出かけになってたんでした♡』","""Hmm... Hmm... Oh, excuse me! I completely forgot that
+ Momoka is currently out♡"""
 "<アル>
 『え？あれ？お出かけ……？
 　部屋にいるんじゃないのかな……？』","<Al>
