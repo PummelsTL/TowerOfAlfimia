@@ -59,14 +59,15 @@ opponent."
 　みんな強いのでそういう相手は貴重なんです♡』","<Rin>
 ""Since you've just arrived, you should be an easy win♪
  Everyone at the arena are really strong, so weak
- opponents like you are really precious♡"""
+ opponents like you are precious finds♡"""
 "<凛>
 『だからぁ、お金を貸して、
 　お兄さんにはすぐに参加してもらいたかったんですよ♪』","<Rin>
-""That's why I loaned money to you♡ I wanted to get you
- to participate right away♪"""
+""That's also why I loaned money to you♡ I wanted to
+ get you to participate right away♪"""
 "凛は思い通りになったからか、
-上機嫌に自分の思惑を貴方に告げていく。","Rin explained her successful plot in good mood."
+上機嫌に自分の思惑を貴方に告げていく。","Rin seemed to be in good mood as she explained her
+successful plot."
 "<凛>
 『ふふ♡あー、でも思い出したら笑っちゃう♡
 　ちょっとか弱い女の子のふりをしたら、
@@ -88,7 +89,7 @@ opponent."
 『ま、これも勉強代だと思って、
 　このまま私に負けてください♡』","<Rin>
 ""You can think of this as a learning experience♡
- Now you're going to lose against me♡"""
+ Now go ahead and lose against me♡"""
 "<凛>
 『7000G、サクッと稼がせてもらいますね♡
 　おまけの利子共々、レベルドレイン付きで♡ちゅっ♡』","<Rin>
@@ -100,23 +101,23 @@ opponent."
 "<アル>
 『むー！し、親切な人だと思ってたのに………！
 　こ、こんな子返り討ちにしちゃえー！』","<Al>
-""Mmmmh! I-I trusted her too! \n[1],
- we need to beat up people like her!"""
+""Mmmmh! I-I trusted her too! \n[1], we need
+ to beat up people like her!"""
 "貴方はアルと同じ気持ちで、
-剣を構えながら彼女のことを睨みつける。","You felt the same as Al and glared at Rin with your
-sword held up."
+剣を構えながら彼女のことを睨みつける。","You felt the same as Al and glared at Rin with a sword
+in your hand."
 "<凛>
 『やん♡お兄さん、そんな目で睨まないでくださいよ♡
 　私、か弱い女の子だから泣いちゃいます♡怖ーい♡』","<Rin>
-""Oh no♡ Please don't glare at me like that♡
- I'm such a frail girl that I might start crying♡
- It's so scary♡"""
+""Oh no♡ Please don't glare at me like that♡ I'm such
+ a frail girl that I might start crying♡ It's so
+ scary♡"""
 "言葉とは裏腹に、
-凛は余裕そうな笑みのままわざとらしい猫なで声を出す。","Rin's confident smile didn't falter even for a moment
-when she said that in feeble and girlish voice."
+凛は余裕そうな笑みのままわざとらしい猫なで声を出す。","Rin said that in feeble and girlish voice, but her
+confident smile didn't falter even for a moment."
 "そんな彼女にいら立ちを抱きつつも、
-貴方は剣を構えて突進した。","You charged at Rin with your held up when her 
-irritating attitude was too much to take."
+貴方は剣を構えて突進した。","You charged at Rin since her irritating attitude was
+too much to take."
 "<凛>
 『う、…………こんな、嘘…………』","<Rin>
 ""Ugh... T-This can't be..."""
@@ -187,33 +188,49 @@ and left the arena."
 "やめておく","Stop"
 "犯す","Violate her"
 "<凛>
-『う、や、やめて、お兄さん、こないで…………』",""
+『う、や、やめて、お兄さん、こないで…………』","<Rin>
+""Uh... No... Don't come any closer..."""
 "<凛>
 『あぁぁ♡んんっ♡んっ♡いやっ♡
-　こんな、コロシアムでっ♡いやっ♡やめっ♡』",""
+　こんな、コロシアムでっ♡いやっ♡やめっ♡』","<Rin>
+""Aaah♡ Nnnh♡ Mmmh♡ No♡ Not in front of everyone♡
+ No♡ Stop♡"""
 "<凛>
-『だめっ！もう、イ、っくぅぅぅぅ♡』",""
-"貴方は凛を犯した。",""
+『だめっ！もう、イ、っくぅぅぅぅ♡』","<Rin>
+""No! I'm going to... Cuuuuuum♡"""
+"貴方は凛を犯した。","You violated Rin."
 "<凛>
-『あっ♡あっ♡うぅぅぅ…………』",""
-"貴方は呻く彼女を背に、会場を後にした。",""
+『あっ♡あっ♡うぅぅぅ…………』","<Rin>
+""Ah♡ Ah♡ Uuuuh..."""
+"貴方は呻く彼女を背に、会場を後にした。","You turned your back to the panting Rin and left the
+arena."
 "貴方は怒りを覚え、
-剣を構えながら彼女のことを睨みつける。",""
+剣を構えながら彼女のことを睨みつける。","You felt anger and glared at Rin with a sword in your
+hand."
 "<凛>
 『7000G、サクッと稼がせてもらいますね♡
-　おまけのレベルドレイン付きで♡ちゅっ♡』",""
+　おまけのレベルドレイン付きで♡ちゅっ♡』","<Rin>
+""You'll need to earn that 7000G all over again♡
+ And it comes with extra level draining too♡ Smooch♡"""
 "<凛>
-『でも、お兄さんはお金、借りてくれませんでしたね？』",""
+『でも、お兄さんはお金、借りてくれませんでしたね？』","<Rin>
+""But you didn't take the loan."""
 "<凛>
 『断られた時は、
 　こんないいカモを誰かにとられるんじゃないかって、
-　ひやひやしてました♡』",""
+　ひやひやしてました♡』","<Rin>
+""When you refused, I was afraid that someone else might
+ take away my easy prey♡"""
 "<凛>
 『ま、結局こうしてお兄さんと戦えるので、
-　結果オーライだったんですけどね♡』",""
+　結果オーライだったんですけどね♡』","<Rin>
+""But everything is alright since I got to fight you in
+ the end♡"""
 "<凛>
 『これも勉強代だと思って、
-　このまま私に負けてください♡』",""
+　このまま私に負けてください♡』","<Rin>
+""You can think of this as a learning experience♡
+ Now go ahead and lose against me♡"""
 "<凛>
 『くすくす♡お兄さんに指名されたって連絡が来て、
 　私驚きましたよ♪』","<Rin>
