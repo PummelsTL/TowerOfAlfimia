@@ -313,56 +313,92 @@
 "EV026",""
 "『入り口でも注意喚起があったと思うんだけど、
 　ここの敵って異様に強いのよね。
-　1戦1戦、なかなか骨が折れるわ。』",""
+　1戦1戦、なかなか骨が折れるわ。』","""The person at the entrance should have said it too,
+ but the monsters around here are abnormally strong.
+ Every fight against them requires your full
+ attention."""
 "『……え？
 　一度倒したら敵の動きが見えるようになるんじゃないか？
-　貴方、一体何を言ってるのかしら。』",""
+　貴方、一体何を言ってるのかしら。』","""...Eh? Don't the monster's movements became easier to
+ see after defeating it once? ...What on earth are you
+ saying?"""
 "『……もしかして、そういうスキルがあるの？
 　あるのだとしたら羨ましいことこの上ないわね。
-　レベル上げし放題じゃない。』",""
+　レベル上げし放題じゃない。』","""...Could it be that you have that kind of skill?
+ If that's true, then I couldn't be more envious of
+ you. You could pretty much level up as much as you
+ like with such a skill."""
 "<アル>
 『んー？
 　1度倒した敵はすんなり倒せてるよね？
-　それって、みんながそうってわけじゃないんだね！』",""
+　それって、みんながそうってわけじゃないんだね！』","<Al>
+""Hmm? \n[1], you can defeat a monster that
+ you've defeated once without any difficulty, right?
+ Looks like it's not the same for everyone!"""
 "EV027",""
 "『ちょっと、私は敵じゃないからね！
-　……え？分かってる？それならいいのよ。』",""
+　……え？分かってる？それならいいのよ。』","""W-Wait! I'm not an enemy! ...Eh? You realized that?
+ Phew... I'm glad that you did."""
 "『ここの敵と私の格好、
 　結構似てるからたまに間違えられるのよね。
-　危ないったらありゃしない。』",""
+　危ないったらありゃしない。』","""My equipment makes me look similar to the monsters of 
+ this stage, so sometimes players mistake me for one.
+ I need to be careful of both players and monsters 
+ here."""
 "<アル>
 『それなら服装を変えちゃえば……
 　とは気楽に言えないよね。
-　今の装備が一番強いんだろうし。』",""
+　今の装備が一番強いんだろうし。』","<Al>
+""Couldn't she just change her clothes? ...But if it's
+ her strongest equipment, I guess she wouldn't want
+ to."""
 "<アル>
 『…ねぇ、\n[1]はもし、
-　一番強い装備がすっごいへんな見た目だったらどうする？』",""
-"使う",""
-"使わない",""
+　一番強い装備がすっごいへんな見た目だったらどうする？』","<Al>
+""...Hey, \n[1]. If you found a really strong
+ equipment but it looked really strange, would you 
+ still wear it?"""
+"使う","Yes"
+"使わない","No"
 "<アル>
 『あ、やっぱり性能重視なんだ。
 　そりゃそうだよね、負けたら終わりなんだし！
-　……仮装の\n[1]とか見てみたいかも』",""
+　……仮装の\n[1]とか見てみたいかも』","<Al>
+""So you place importance on the status. I guess you
+ can't help it since losing means dying! ...I kind of
+ want to see how you would look with something silly."""
 "<アル>
 『恥ずかしくて戦いに集中できなかったりする？
 　まぁ、見た目も結構大事だよね！
-　どうせならかっこいい剣のほうがいいし♪』",""
+　どうせならかっこいい剣のほうがいいし♪』","<Al>
+""Would it make you feel so embarrassed that you can't
+ focus on fighting? Well, the looks are important too!
+ Putting on something cool makes you feel better♪"""
 "EV028",""
 "『ぐねぐね入り組んでて、
 　迷っちゃいそうな森だね………。
-　森でも右手法って使えるのかな。』",""
+　森でも右手法って使えるのかな。』","""The paths of this forest are so winding that I'm
+ starting to feel lost... I wonder if the right-hand
+ rule works for forests too?"""
 "<アル>
 『右手法って、
 　壁に手をつけてなぞっていくって迷路の脱出方法だよね！
-　……あれ？左手じゃなかったっけ？』",""
+　……あれ？左手じゃなかったっけ？』","<Al>
+""Putting your right hand against a wall and following
+ that is the basic method to escape a maze, right!
+ ...Wait, wasn't it the left hand?"""
 "EV029",""
 "『はぁ、はぁ……♡
 　やばい、魅了されるの気持ちよすぎる……♡
-　このままじゃいつかやられちまう…♡』",""
+　このままじゃいつかやられちまう…♡』","""Haah♡ Haah♡ Crap, the charm spells feel way too
+ good...♡ I might lose a fight at this rate...♡"""
 "<アル>
 『だ、大丈夫かなこの人…
 　このままじゃ負けちゃいそう……
-　近くの敵、倒してあげる？』",""
+　近くの敵、倒してあげる？』","<Al>
+""W-Will this person be fine? It seems like he's going
+ to lose soon... How about we clear the enemies near
+ him?"""
 "EV030",""
 "回想部屋に移動しますか？
 【回想部屋でのレベルの上下は、
