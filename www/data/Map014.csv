@@ -74,130 +74,209 @@ the tea cup."
 "EV020",""
 "<アル>
 『明日は絶対に負けられないよね！
-　たっぷり休んで、英気を養わないと！』",""
+　たっぷり休んで、英気を養わないと！』","<Al>
+""There's no way we'll lose tomorrow! Rest well and
+ regain your strength for the fight!"""
 "そう気合を入れるアルに貴方は頷く。
 明日は、負ければ奴隷にされてしまう戦い…
 自分から挑んだものとはいえ、
-少し緊張して身体がこわばっているような気がした。",""
+少し緊張して身体がこわばっているような気がした。","You nodded to Al when when cheered you on. If you
+lose the tomorrow's match, you'll become a slave.
+Even when you were the one to take take it, you
+couldn't help being a little tense."
 "<アル>
 『\n[1]、やっぱり緊張してる？
 　ほら、リラックスリラックス♪
-　このお茶とかこんな風に飲んで……あちゅっ！？』",""
+　このお茶とかこんな風に飲んで……あちゅっ！？』","<Al>
+""\n[1], are you feeling nervous after all?
+ Please relax♪ Relax♪ Sit down and drink some
+ tea like this... Hot?!"""
 "そんな貴方を落ち着かせようと、
 アルは部屋に備えてあったお茶を貴方に渡し、
-自身も口を付けてすぐに顔を上げる。",""
+自身も口を付けてすぐに顔を上げる。","Al tried to get you calm down by pouring you some tea,
+but burned her lips as she took a sip herself."
 "熱さに少し涙目になっているアルの姿に、
-クスリと笑いが込み上げて緊張がほぐれた。",""
+クスリと笑いが込み上げて緊張がほぐれた。","You couldn't help smiling at the teary eyed Al
+and some of your tension came loose in the process."
 "<アル>
 『う～……熱い……
-　こう、顔いっぱいに感じるから死ぬかと思った…』",""
+　こう、顔いっぱいに感じるから死ぬかと思った…』","<Al>
+""Uuh... It was so hot... I thought I was going to
+ die..."""
 "アルがそう恨み言を言いながらカップを見つめていると、
-部屋の扉がノックされる。来客だろうか。",""
+部屋の扉がノックされる。来客だろうか。","Al was begrudgingly stared at the tea cup when you
+heard a knock on the door."
 "貴方が扉を開けると、
 そこには見知らぬ女性が立っていた。
-清楚な雰囲気を纏いつつも、扇情的な服装の女性だ。",""
+清楚な雰囲気を纏いつつも、扇情的な服装の女性だ。","When you went to open the door, you found a woman
+who you didn't recognize behind it. She carried
+a pure aura although she wore some revealing clothes."
 "<アリサ>
 『あ、あの…！こんな夜中に突然すみません！
-　私、アリサって言います！\n[1]さん、ですか？』",""
+　私、アリサって言います！\n[1]さん、ですか？』","<Arisa>
+""U-Um! I'm sorry for intruding so late in the night!
+ My name is Arisa! Um... Are you \n[1]?"
 "その女性は貴方の前で頭を下げると、そう遠慮がちに尋ねる。
 貴方はそんな彼女にそうだと肯定を返した。
-貴方のその返事に、女性は花が咲くような笑顔を浮かべる。",""
+貴方のその返事に、女性は花が咲くような笑顔を浮かべる。","The woman named herself and bowed down before shyly
+confirming who you were. When you told her she had
+the right person, her face bloomed into a wide smile."
 "<アリサ>
 『よかった……♪実は私、\n[1]さんのファンなんです♡
 　\n[1]さんが明日試合をすると聞いて、
-　どうしても応援したくて……』",""
+　どうしても応援したくて……』","<Arisa>
+""Thank goodness...♪ The thing is... \n[1],
+ I'm your biggest fan♡ When I heard you had a match
+ tomorrow, I couldn't help but want to support you..."""
 "<アリサ>
 『ついつい、
 　宿で\n[1]さんの部屋を聞いちゃいました！
-　その、ご迷惑でしたか？』",""
+　その、ご迷惑でしたか？』","<Arisa>
+""I happened to hear where you were staying and that's
+ why I'm here... Um, did my sudden arrival trouble
+ you?"""
 "アリサは上目づかいでそうおずおずと尋ねる。
 貴方は可憐な彼女の上目遣いに少しどきりとしつつも、
-大丈夫だとそう答えた。",""
+大丈夫だとそう答えた。","Arisa watched you in upturned eyes as she timidly asked
+that. Having such a sweet girl suddenly look up to you
+like that made your heart skip a beat, but you managed
+to say that it was fine."
 "<アル>
 『ふふー♪\n[1]のファンかー♪
 　あんまり意識してなかったけど、
-　コロシアムだとそう言うのもできるんだね！』",""
+　コロシアムだとそう言うのもできるんだね！』","<Al>
+""Ehehe♪ \n[1], you've got yourself a fan♪
+ I didn't pay much attention to the audience, but it's
+ natural to get one at the colossium, right!"""
 "アルはニコニコと笑顔で彼女を見ている。
 確かに、こんな女性にファンだと言われれば、
-貴方も悪い気はしなかった。",""
+貴方も悪い気はしなかった。","Al watched Arisa with a smile. You didn't feel
+bad to have such a girl as your fan either."
 "<アリサ>
 『あ、あの！その、よろしければ、
-　私も\n[1]さんの力になれたらなって…』",""
+　私も\n[1]さんの力になれたらなって…』","<Arisa>
+""U-um... If possible... I wanted to help you..."""
 "<アリサ>
 『私、\n[1]さんが、
 　明日戦う相手の試合を見たことあるんです！
-　だから、部屋でアドバイス出来たらなと思うんですが…』",""
+　だから、部屋でアドバイス出来たらなと思うんですが…』","<Arisa>
+""I've seen your tomorrow's opponent fight before!
+ That's why I thought I could give you some advice
+ in your room..."""
 "<アル>
 『おー！それはありがたいよね！
 　明日は絶対負けられないんだし、
-　アドバイスを聞くのもいいんじゃないかな？』",""
+　アドバイスを聞くのもいいんじゃないかな？』","<Al>
+""Ooh! That will really help! We aren't going to lose,
+ but there's no hurt in hearing her advice."""
 "貴方はそう言うアルに頷き、
-彼女の提案を受け入れてアリサを部屋の中に入れた。",""
+彼女の提案を受け入れてアリサを部屋の中に入れた。","You nodded back to Al. You accepted Arisa's proposal
+and invited her to your room."
 "<アリサ>
 『ありがとうございます♪
 　それではさっそく、
-　対戦相手についての情報をお教えしますね♪』",""
+　対戦相手についての情報をお教えしますね♪』","<Arisa>
+""Thank you so much♪ Then let me tell you what I know♪"""
 "<アリサ>
 『彼女の名前は、夢咲恭子……
 　この街でも有数のお金持ちです。
-　ヴァンガードですら容易に手を出せないとか…』",""
+　ヴァンガードですら容易に手を出せないとか…』","<Arisa>
+""Her name is Yumesaki Kyouko... She's famous for being
+ really rich. So much so that even Vanguard won't have
+ easy time dealing with her..."""
 "<アリサ>
 『なんでも、裏で買収してるとか、
 　ヴァンガードのリーダーの愛人だとか、
-　色々な噂が囁かれています。』",""
+　色々な噂が囁かれています。』","<Arisa>
+""There are many rumors surrounding her like she does
+ backhanded deals or she's the mistress of the leader
+ of Vanguard."""
 "<アル>
 『う～…なんだか、巨悪って感じがするよ！
-　\n[1]、ますます負けられないね…』",""
+　\n[1]、ますます負けられないね…』","<Arisa>
+""Uuh... She sound like an evil villain!
+ \n[1], that's all the more reason not to lose."""
 "アリサの話を聞いて、
 アルはぐっと握りこぶしを作りながらそう言う。
 貴方はそれに同意しながら、
-彼女はどんな風に戦うのかをアリサに尋ねた。",""
+彼女はどんな風に戦うのかをアリサに尋ねた。","After hearing Arisa's talk, Al said so while gripping
+her fist. You agreed with her comment and asked Arisa
+on how does she usually fight."
 "<アリサ>
 『恭子さんは、男性が相手だと大きなおっぱいを使って、
 　嫐るように戦うことが多いみたいです！
-　………こんな風におっぱいに顔をうずめさせたりとか♡』",""
+　………こんな風におっぱいに顔をうずめさせたりとか♡』","<Arisa>
+""When it comes to male opponent, Kyuko often uses her
+ massive breasts to break them into submission!
+ ...She smothers their face like this and stuff♡"""
 "アリサはそう言うと、
 貴方の後頭部に手をまわし、
-ぽふっと貴方の顔を自身の柔らかな胸にうずめさせる。",""
+ぽふっと貴方の顔を自身の柔らかな胸にうずめさせる。","As she said that, Arisa wrapped her arms around you
+head and buried your face in her breasts."
 "<アル>
-『ちょっと！？！？』",""
+『ちょっと！？！？』","<Al>
+""W-what?!"""
 "アルが驚きに声をあげるが、貴方はそれどころではない。
 甘い谷間の香りととろけるような柔らかさに、
-いきなり顔を包み込まれて思考がショートする。",""
+いきなり顔を包み込まれて思考がショートする。","Al yelled in shock, but you couldn't do the same.
+When your face was suddenly surrounded in sweet
+scent and soft breasts, your mind completely froze."
 "<アリサ>
 『ふふ♡実演したほうが分かりやすいかと思いまして♪
 　恭子さんはこんな風におっぱいを使った技が得意ですので、
-　気を付けながら戦ってくださいね♡』",""
+　気を付けながら戦ってくださいね♡』","<Arisa>
+""Ehehe♡ I thought it would be easiest to show you♪
+ Kyouko is skilled in using her breasts like this, so
+ you need to pay attention to it during your fight♡"""
 "<アリサ>
 『こうやって、おっぱいで甘ーく顔をビンタして、
 　男の人を脱力させちゃうことも多いみたいですね♡
-　…ぺちん♡ぺちん♡』",""
+　…ぺちん♡ぺちん♡』","<Arisa>
+""She also often uses her breasts to sweetly slap the
+ man in the face like this to make him powerless♡
+ Slap♡ Slap♡"""
 "アリサはそのまま顔を甘く乳房ではたく。
 柔らかく、甘い質量による突然の攻撃に、
-貴方の脳はくらくらとしてしまう。",""
+貴方の脳はくらくらとしてしまう。","Arisa then proceeded to sweetly slap her breasts on
+your face. The sudden impact from her soft and sweet
+masses made you dizzy."
 "<アリサ>
 『でも……彼女の一番の得意技は、
 　このおっぱいビンタではありません。
-　おっきなおっぱいを使った……パイズリ♡』",""
+　おっきなおっぱいを使った……パイズリ♡』","<Arisa>
+""However... Her best technique isn't the breasts slap.
+ It's when she uses her massive breasts in...
+ Boobjob♡"""
 "<アリサ>
 『情けなく勃起した対戦相手から、
 　柔らかくておっきなおっぱいを使って、
-　ミルクを搾り取っちゃうんですよ♡』",""
+　ミルクを搾り取っちゃうんですよ♡』","<Arisa>
+""She uses her massive soft breasts when her opponent
+ is hopelessly erect to drain your milk♡"""
 "そう言いながら、
 アリサはそのパイズリを実演するため、
-手を動かして貴方のズボンを下ろそうとする。",""
+手を動かして貴方のズボンを下ろそうとする。","As she was saying that, Arisa put her hand on your
+pants as she was about to pull them down and give
+you a real demonstration of the boobjob."
 "<アル>
 『\n[1]！！し、しっかりして！
-　一旦落ち着いたほうがいいよ！』",""
+　一旦落ち着いたほうがいいよ！』","<Al>
+""\n[1]! Keep your calm!
+ You need to keep clear head!"""
 "アルの焦ったような声が聞こえる。
 このままではまずい…、
-自分のわずかに残っていた理性も警鐘を鳴らしていた。",""
+自分のわずかに残っていた理性も警鐘を鳴らしていた。","You heard Al's panicked voice. You realized the way
+the things were going was bad as the last bits of
+your remaining reason alerted you."
 "<アリサ>
 『動かないでくださいね、\n[1]さん♡
 　大丈夫ですよ、彼女のパイズリがどんなものなのか…
-　実際に私のおっぱいで説明してあげるだけですから♡ね？』",""
-"動けない",""
-"アリサを振りほどく",""
+　実際に私のおっぱいで説明してあげるだけですから♡ね？』","<Arisa>
+""\n[1], please don't move♡
+ Please let me show you with my breasts how terrible
+ Kyouko's boobjob is♡"""
+"動けない","Don't move"
+"アリサを振りほどく","Push Arisa off"
 "<アリサ>
 『ふふ♡
 　敵の技を知るのは大事なことですから♡
@@ -524,42 +603,64 @@ the tea cup."
 "アルもグッと握りこぶしを作ってそう言う。
 そんなアルに貴方は頷き、
 必ず勝って見せるとそう自分に言い聞かせた。",""
-"貴方は嫌な予感に従い、アリサを振りほどいた。",""
+"貴方は嫌な予感に従い、アリサを振りほどいた。","You had a bad feeling about the whole thing and pushed
+off Arisa."
 "<アリサ>
 『きゃっ……！
 　ど、どうしたんですか？
-　実演してあげようとしただけですよ……？』",""
+　実演してあげようとしただけですよ……？』","<Arisa>
+""Kyah! W-What's wrong? I was just going to help you
+ practice..."""
 "アリサはそんな貴方を驚きの視線で見つめながら、
 そう言葉を漏らす。
 そんな彼女に、実演はしなくて大丈夫、
-と貴方は返事した。",""
+と貴方は返事した。","Arisa said that while watching you in surprise. You
+told her back that you were fine without practice."
 "<アル>
 『うんうん♪
 　わざわざ実演までしてもらう必要はないもんね！
-　相手の攻撃手段とかもわかったし！』",""
+　相手の攻撃手段とかもわかったし！』","<Al>
+""Yes♪ There's no need for us to practice! We already
+ know how she's going to attack!"""
 "アルのいう通りだ。それに、
 むしろここで流されてしまえば不利になるかもしれない…
-貴方はその判断から、アリサにアドバイスは十分だと告げる。",""
+貴方はその判断から、アリサにアドバイスは十分だと告げる。","It was as Al said. Besides, you might end up tired
+if you got carried away here now. You decided thus
+and told Arisa that her advice was more than enough."
 "<アリサ>
 『……そうですか、分かりました。
-　それでは明日の試合、応援してますね？』",""
+　それでは明日の試合、応援してますね？』","<Arisa>
+""...Is that so? Okay. Then I'm going to cheer you
+ in the tomorrow's match."""
 "アリサは残念そうにしながらも、
 貴方の意思を変えるのは難しいと感じたのか、
-しぶしぶとそう言いながら部屋を出ていった。",""
+しぶしぶとそう言いながら部屋を出ていった。","Arisa must have noticed that it would be difficult
+to make you change your mind, so she reluctantly left
+the room while looking disappointed."
 "<アル>
 『…なんか、ちょっと怪しかったよね？
 　とにかく、\n[1]が冷静な判断できてよかったよ！
-　この調子で明日も頑張ろうね！』",""
+　この調子で明日も頑張ろうね！』","<Al>
+""...\n[1], that was kind of suspicious,
+ right? At any rate, I'm glad that you managed to make
+ a calm judgement! Let's keep our calm tomorrow too!"""
 "ぐっと握りこぶしを作りながらそう言うアルに、
-貴方は頷き、今日はもう休むことにした。",""
+貴方は頷き、今日はもう休むことにした。","When Al said that while clenching her fist, you nodded
+to her and went to sleep."
 "<アル>
 『おはよ♪いよいよ本番だね！
-　昨日はしっかり寝られた？』",""
+　昨日はしっかり寝られた？』","<Al>
+""Good morning♪ It's finally the time! Did you sleep
+ well?"""
 "<アル>
 『ん♪それならよかった！
-　今日の試合、頑張ろうね♪』",""
+　今日の試合、頑張ろうね♪』","<Al>
+""Mmh♪ That's good to hear! Let's go all out on today's
+ match♪"""
 "<アル>
 『緊張しちゃったのかな？
-　大丈夫、\n[1]ならきっと勝てるよ！！頑張ろ♪』",""
+　大丈夫、\n[1]ならきっと勝てるよ！！頑張ろ♪』","<Al>
+""Did you feel nervous? Don't worry, I'm sure that you
+ can win, \n[1]! Let's go♪"""
 "アリサ",""
 "EV022",""
