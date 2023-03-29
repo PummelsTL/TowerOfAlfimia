@@ -786,59 +786,87 @@ You charged in to avoid being fazed by it."
 『私、殿方には負けたことありませんの♡
 　貴方もすぐに屈服させて、
 　身も心も私色に染めて差し上げますわ♡』",""
-"恭子を犯さない",""
-"恭子を犯す",""
+"恭子を犯さない","Spare Kyouko"
+"恭子を犯す","Violate Kyouko"
 "『ぐ…………どこまでも正義漢ぶって………
-　本当に腹立たしい男ですわね…………』",""
+　本当に腹立たしい男ですわね…………』","<Kyouko>
+""Ugh... You would stay righteous even in this
+ situation... You're such an irritating man..."""
 "貴方の態度を見て、
-恭子は倒れたまま顔を歪ませてそう吐き捨てる。",""
+恭子は倒れたまま顔を歪ませてそう吐き捨てる。","When Kyouko saw you spare her, she spat that out with
+a twisted face."
 "<アル>
 『違うよ、\n[1]は正義に酔ってるそんな人じゃない。
 　こんなところで無理やり犯すなんて嫌だ、
-　ただ、そう思ってるだけだよ。』",""
+　ただ、そう思ってるだけだよ。』","<Al>
+""That's not it. \n[1] isn't overly
+ righteous. He just doesn't like violating girls by
+ force."""
 "<アル>
-『そうだよね、\n[1]?』",""
+『そうだよね、\n[1]?』","<Al>
+""Isn't that right, \n[1]?"""
 "<アル>
 『うん♪えへへ、以心伝心！
 　\n[1]が優しいってこと、
-　ちゃんと私は分かってるからね♪』",""
+　ちゃんと私は分かってるからね♪』","<Al>
+""Yeah♪ Ehehe, I'm glad we're on the same wave length!
+ I've clearly understood how gentle you are♪""
+ "
 "<アル>
 『あれ？ええー？ち、違うの？
-　…………んんっ、違っても、そういうことなの！』",""
-"アルは顔を赤くしながらそう言い切った。",""
+　…………んんっ、違っても、そういうことなの！』","<Al>
+""Eh? Um? I-Is it not right? Mmmm... Well, even if
+ it's not true, that's how it is!"""
+"アルは顔を赤くしながらそう言い切った。","Al declared that with a slightly blushed face."
 "とにかく、契約通り六花を奴隷から解放するように、
-貴方はそう恭子に促した。",""
+貴方はそう恭子に促した。","At any rate, you demanded Kyouko to release Rikka from
+slavery like she had promised."
 "<恭子>
 『ふん、分かっていますわ。
 　もう六花を縛る契約は貴方に負けたことで、
-　消えているはずですわよ。』",""
+　消えているはずですわよ。』","<Kyouko>
+""Hmph. I know. The contract binding Rikka should
+ already be gone when I lost to you."""
 "<恭子>
-『はぁ…………』",""
-"恭子は落ち込んだようにため息を漏らす。",""
+『はぁ…………』","<Kyouko>
+""Sigh..."""
+"恭子は落ち込んだようにため息を漏らす。","Kyouko sighed and looked down."
 "<アル>
 『よかった！これで、
 　あの子はもう苦しまなくて済むんだね♪
- ありがとう、\n[1]♪』",""
-"嬉しそうに笑顔をこぼし、お礼を告げるアルに貴方は頷く。",""
+ ありがとう、\n[1]♪』","<Al>
+""Yay! Now that girl doesn't need to suffer any more♪
+ Thank you, \n[1]♪"""
+"嬉しそうに笑顔をこぼし、お礼を告げるアルに貴方は頷く。","You nodded to Al when she thanked you in a wide smile."
 "<恭子>
 『なぶり甲斐のある奴隷でしたのに……
-　まったく、災難ですわ…………』",""
+　まったく、災難ですわ…………』","<Kyouko>
+""She was such a good slave to make fun of...
+ This truly is the worst..."""
 "そんな危ない愚痴をこぼす恭子に、
 この女性を放っておいて大丈夫かと不安になりながら、
-貴方は背を向けて控室に戻っていった。",""
+貴方は背を向けて控室に戻っていった。","You left the arena while feeling slightly uneasy about
+leaving Kyouko alone when she muttered something so
+dangerous."
 "本当に恭子を犯しますか？
-【注意:取り返しはつきません】",""
+【注意:取り返しはつきません】","Do you really violate Kyouko?
+【Warning: This will be irreversible.】"
 "<恭子>
 『く……私がこんな辱めを……！
-　うぅ………や、やめなさ…………』",""
+　うぅ………や、やめなさ…………』","<Kyouko>
+""Ugh... I won't stand such humiliation... Uuh...
+ S-Stop...!"""
 "<恭子>
 『あぁぁ♡うっ、や…………やめっ♡
-　い、イく、イっちゃうからぁぁぁ♡』",""
-"貴方は恭子を犯した。",""
+　い、イく、イっちゃうからぁぁぁ♡』","<Kyouko>
+""Aaaah♡ Uh... N-No♡ I-I'm going to cum♡ Aaaaaaaah♡"""
+"貴方は恭子を犯した。","You violated Kyouko."
 "<恭子>
-『うぅ…………あぅ…………』",""
+『うぅ…………あぅ…………』","<Kyouko>
+""Uuh... Auh..."""
 "貴方は屈辱に涙を流す恭子に背を向け、
-会場を後にした。",""
+会場を後にした。","You turned your back to Kyouko who was shedding tears
+from the humiliation and left the arena."
 "<恭子>
 『うふふ♡
 　アリサから聞いていますわ。
