@@ -536,10 +536,15 @@ that you found it."
  a later point."""
 "『ん……確かに勝利の証を確認したよ。　
 　繰り返しになるが、この先の敵は強いから。
-　油断しないようにね？』",""
+　油断しないようにね？』","""Mmh... Yes, I've confirmed that you have the medals.
+ I'm going to remind you one more time: The monsters
+ in the next area are really strong, so don't let your
+ guard down."""
 "<アル>
 『よーし、レベル上げ頑張ろ♪
-　さっきの人も言ってたように、油断しないようにね！』",""
+　さっきの人も言ってたように、油断しないようにね！』","<Al>
+""Okay! Let's go level up♪ And let's make sure to be
+ careful like that person said!"""
 "小悪魔B","Imp B"
 "EV020",""
 "メガミックスポーションを手に入れた！","Obtained Mega Mixed Potion!"
