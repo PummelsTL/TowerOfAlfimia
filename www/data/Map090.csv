@@ -1,42 +1,54 @@
-"EV001"
+"EV001",""
 "扉には文字が書かれてある。
 『汝、3つの証を示せ』
-そう書かれてある文字の下に、くぼみが3つあった。"
+そう書かれてある文字の下に、くぼみが3つあった。","Something is written on the door:
+""Thou, take out thy three medals.""
+Then there are three round cavities below the words."
 "<アル>
 『これが、あの子が言ってた証が必要な扉なのかな？
-　またコロシアムで3つ集めたらここに来ようね♪』"
+　またコロシアムで3つ集めたらここに来ようね♪』","<Al>
+""Is this the door what that woman told us about? The
+ one that needs three medals to open. Let's come again
+ after we've gained all three from the Colosseum♪"""
 "<アル>
 『ここに3つの証を埋め込めばいいのかな！
-　\n[1]、先に進む準備はできてる？』"
+　\n[1]、先に進む準備はできてる？』",""
 "ここにもらった3つの証を埋め込めば、先に進めそうだ。
-準備は良いだろうか。"
-"先に進む"
-"準備をする"
+準備は良いだろうか。",""
+"先に進む",""
+"準備をする",""
 "<アル>
 『よーし、じゃあ、先にすすも！
-　中はどんな感じになってるのかな…！』"
+　中はどんな感じになってるのかな…！』",""
 "7月体験版はここまでとなります。
-ご支援、プレイ、ありがとうございました！"
+ご支援、プレイ、ありがとうございました！",""
 "<アル>
 『街でやり残したことがあった？
 　もしかしたらもう戻ってこれないかもだから、
-　気が済むまで準備しようね！』"
-"EV002"
-"EV003"
-"街まで戻りますか？"
-"はい"
-"いいえ"
-"EV004"
-"EV005"
-"EV006"
-"EV007"
+　気が済むまで準備しようね！』",""
+"EV002",""
+"EV003",""
+"街まで戻りますか？",""
+"はい",""
+"いいえ",""
+"EV004",""
+"EV005",""
+"EV006",""
+"EV007",""
 "『この先に進むなら、よく準備したほうがいいわよ。
-　何せこの先に進んで返ってきた人はいなんだもの。』"
+　何せこの先に進んで返ってきた人はいなんだもの。』","""You should prepare really well if you're going to
+ enter the mansion. Not a single person has returned
+ after going in."""
 "『みんなゲームオーバーになったのか、
 　それともクリアしたのかは分からないけど……
 　どちらにせよ先に進んだら、
-　戻ってこれないって考えたほうがいいでしょうね。』"
+　戻ってこれないって考えたほうがいいでしょうね。』","""We don't know if they cleared the game or got a game
+ over... But in either case, you should enter with the
+ resolve that you're not coming back."""
 "<アル>
 『な、なんかちょっと怖いね……
 　\n[1]、町でやり残したことはない？
-　しっかり準備してから先に進もうね！』"
+　しっかり準備してから先に進もうね！』","<Al>
+""T-That's a bit scary... \n[1], do you still
+ have things to do in the town? Let's go in only after
+ we are fully ready!"""
