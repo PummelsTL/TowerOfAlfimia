@@ -4,7 +4,7 @@
 "EV004",""
 "EV005",""
 "恭子はこのコロシアムのどこかにいるはずだ。
-探し出そう。",""
+探し出そう。","Kyouko should be in the Colosseum. Let's find her."
 "EV006",""
 "EV007",""
 "EV008",""
@@ -436,13 +436,20 @@ her in agreement."
 "『現在貴方の指名を受け付けているプレイヤーが1人います。
 　プレイヤー名「夢咲恭子」です。
 　時間指定がありまして、
-　明日の午前10時からの試合のみ受付可能です。』",""
+　明日の午前10時からの試合のみ受付可能です。』","""There is 1 player who accepts nominations from you.
+ The players name is 「Yumesaki Kyouko」.
+ It has time appoinment set, and you can only accept
+ it tomorrow at 10 a.m.."""
 "<アル>
 『時間指定…？
 　そんなことできるんだね。でも、うん、ゆっくり休んで、
-　試合に備えられるのは悪くないんじゃないかな！』",""
+　試合に備えられるのは悪くないんじゃないかな！』","<Al>
+""Time appointment? I guess that's also possible.
+ I guess it's not bad since we can take our time
+ to rest and get ready before the match!"""
 "『ありがとうございます。貴方の番号は11番です。
-　明日の午前9時30までに控室への入場をお願いします。』",""
+　明日の午前9時30までに控室への入場をお願いします。』","""Thank you very much. Your player number is 11.
+ Please enter the waiting room tomorrow before 9:30."
 "<アル>
 『それじゃ、
 　今日はもう明日に備えて宿でやすもっか♪
@@ -616,12 +623,16 @@ her in agreement."
 　この人のことも、いつか見返そう！』",""
 "『貴方の対戦相手…
 　弱かったからこその奴隷堕ち、
-　ゲームのルール上、仕方のないことよ。』",""
+　ゲームのルール上、仕方のないことよ。』","""The opponent you faced in the last match... She became
+ a slave because she's so weak."""
 "『……まぁ、あんなに小さな子が苦しんでるのに、
-　何もできないことに思うことがないわけではないけれど。』",""
+　何もできないことに思うことがないわけではないけれど。』","""...But I believe there's something we can do to help
+ such a small girl from suffering."""
 "<アル>
 『きっとこの人も、内心では助けたいんだね…
-　私たちが、何とかしよう！ね？\n[1]♪』",""
+　私たちが、何とかしよう！ね？\n[1]♪』","<Al>
+""I'm sure that she also wants to help...
+ \n[1], we'll do something about it, right!"""
 "『ごめんなさい、以前の言葉を謝罪するわ。
 　負けた相手に挑んで、
 　勝利をつかむのは簡単なことじゃない。』",""
@@ -899,80 +910,127 @@ kicked again."
 "<恭子>
 『は？六花を解放してあげて欲しい？
 　いきなり何を言い出すんですの？
-　貴方にそんなことを言われる筋合いはありませんわ。』",""
+　貴方にそんなことを言われる筋合いはありませんわ。』","<Kyouko>
+""Huh? You want me to release Rikka? What are you
+ saying all of a sudden? You have no right to say
+ that."""
 "恭子は意味が分からないと言った不思議そうな顔をした後、
-貴方の顔をじっと見てにやりと笑う。",""
+貴方の顔をじっと見てにやりと笑う。","After making a weird face at your sudden demand, Kyouko
+looked at your face for a while and began grinning."
 "<恭子>
 『この子に同情でもしたのかしら。
 　お優しい人ですこと♡』",""
 "<恭子>
 『しかし、あの子は私が手に入れた財産。
 　解放しろと言われて、
-　はい分かりましたと答えるわけにはいきませんわ。』",""
+　はい分かりましたと答えるわけにはいきませんわ。』","<Kyouko>
+""However, that girl is a possession I've obtained.
+ There's no way I'm going to let her go just because
+ you ask me to."""
 "恭子は目を細めて、
-くすくすと笑いながらそう答える。",""
+くすくすと笑いながらそう答える。","Kyouko said that while narrowing her eyes."
 "<アル>
 『うぅ……やっぱりだめなのかな……
-　良心に訴えかけても難しそうだし…………』",""
+　良心に訴えかけても難しそうだし…………』","<Al>
+""Uuuh... I guess it won't work just like that...
+ It looks difficult even if we appealed for the
+ good of her heart..."""
 "アルはうんうんとうなっているが、
-いい案は思い浮かばないようだ。",""
+いい案は思い浮かばないようだ。","Al wondered about your options, but she didn't seem to
+come up with any good ideas."
 "貴方はなんと彼女にいうことを聞いてくれないか思案するも、
-何も思い浮かばず、焦燥に駆られる。",""
+何も思い浮かばず、焦燥に駆られる。","You also thought over what would make Kyouko listen,
+but you couldn't come up with anything either and began
+getting impatient."
 "<恭子>
 『うふふ♡まぁ、1つだけ、
 　貴方がある条件をのんでくれるなら、
-　考えてあげてもよくってよ？』",""
+　考えてあげてもよくってよ？』","<Kyouko>
+""Ohoho♡ Well, if you accept one condition of mine,
+ I can consider it."""
 "恭子は笑みを浮かべて貴方の様子を見て、
-そう言葉を投げかける。",""
+そう言葉を投げかける。","Kyouko said that in a smile after looking at your
+state for a while."
 "<恭子>
 『私と六花の開放を掛けて、コロシアムで戦う…
-　これが私が貴方に差し出す条件ですわ。』",""
+　これが私が貴方に差し出す条件ですわ。』","<Kyouko>
+""Fight me in the Colosseum with Rikka's release on
+ the line... That's the condition I have for you."""
 "<恭子>
 『私が負けたら六花を解放しましょう。
 　ただし、貴方が負けたら…
-　貴方も私の奴隷になってもらいますわ♡』",""
+　貴方も私の奴隷になってもらいますわ♡』","<Kyouko>
+""I will release Rikka if you win. However, if you
+ lose... You're also going to become my slave♡"""
 "<アル>
 『え、ええ！？\n[1]が、奴隷に……？
 　この人の奴隷になったら、もう先には進めないよね……
-　ど、どうしよう？』",""
+　ど、どうしよう？』","<Al>
+""E-Eeeh?! Slave?! \n[1], if you become her
+ slave, we won't be able to advance the game any
+ more... W-What should we do?"""
 "アルは慌てたように声を漏らしながら、
-貴方と恭子を交互に見つめている。",""
+貴方と恭子を交互に見つめている。","Al cried in panicked voice while alternating looking
+between you and Kyouko."
 "<恭子>
 『うふふ♡私は負けたら大事な奴隷を失うんですもの。
 　貴方も要求を通したいのなら、
-　これくらいの条件は飲むべきなのではなくって？』",""
+　これくらいの条件は飲むべきなのではなくって？』","<Kyouko>
+""Ohoho♡ I would lose my important slave on defeat.
+ That's why you should accept such terms at minimum."""
 "<恭子>
 『それとも、貴方はこれくらいの覚悟すらなく、
-　都合のいいことを私に頼んだ、ただの偽善者なのかしら♡』",""
-"恭子は試すように挑発的な視線で貴方を見つめている。",""
+　都合のいいことを私に頼んだ、ただの偽善者なのかしら♡』","<Kyouko>
+""Or can you not accept such terms? Are you just a
+ hypocrite who demands something for me that's
+ convenient for you?"""
+"恭子は試すように挑発的な視線で貴方を見つめている。","Kyouko watched you with a provocative gaze to test you."
 "<アル>
-『ど、どうする？\n[1]…………』",""
+『ど、どうする？\n[1]…………』","<Al>
+""W-What should we do? \n[1]..."""
 "困ったようにアルは貴方を見つめている。
-そんなアルに貴方は力強く頷いた。",""
+そんなアルに貴方は力強く頷いた。","When Al looked at you with a troubled face, you gave
+her a reassuring nod."
 "<恭子>
 『そう♡この条件をのむんですわね♡
 　なら、受付で私を指名しなさい。
-　貴方との試合、楽しみにしていますわよ♡』",""
+　貴方との試合、楽しみにしていますわよ♡』","<Kyouko>
+""I see♡ You'll accept these terms♡ Then nominate me
+ to a match at the reception♡ I'm looking forward to
+ a match with you♡"""
 "<恭子>
 『余計な正義感に動かされるとどうなるか、
-　私がたっぷりと教えてあげますわね♡』",""
+　私がたっぷりと教えてあげますわね♡』","<Kyouko>
+""I'll thoroughly show you what happens when you let
+ sense of justice move you♡"""
 "そう貴方に告げると恭子は受付により、
 その後に六花を連れて去っていった。",""
 "<アル>
 『う、ぅぅ……なんだか大変なことになっちゃったね。　
-　この人、強そうだしできるだけの準備はしておかないと！』",""
+　この人、強そうだしできるだけの準備はしておかないと！』","<Al>
+""U-Uuh... It turned into a big thing all of sudden.
+ That woman looked really strong, so we need to prepare
+ as much as possible!"""
 "<アル>
 『そうだ！あの森の奥でレベル上げはどお？
 　2人に勝利したわけだから、
-　あの通せんぼの人も通してくれるだろうし♪』",""
+　あの通せんぼの人も通してくれるだろうし♪』","<Al>
+""Oh right! How about leveling deep in the forest?
+ We  got 2 medals, so we should be able to pass there
+ now♪"""
 "アルは貴方にそう提案する。
-確かに、今のレベルでは心もとないかもしれない。",""
+確かに、今のレベルでは心もとないかもしれない。","Al suggested such. You were certainly feeling uneasy
+fighting Kyouko with your current level."
 "森の先に進みますか？
 【賞金とアイテムを入手し、
-　自動で道をふさいでいたバンガードの前に移動します。】",""
+　自動で道をふさいでいたバンガードの前に移動します。】","Advance to the forest?
+【Obtain prize money and item, and teleport to the path
+ leading deep into the forest.】"
 "<アル>
 『ん♪負けるわけにはいかないし、
-　レベル上げ、頑張ろーね♪』",""
+　レベル上げ、頑張ろーね♪』","<Al>
+""Mmh♪ We can't afford to lose here, so let's work hard
+ to raise our level♪"""
 "貴方は14000Gと勝利の証(2人目)を手に入れた。",""
 "<アル>
 『大丈夫？
@@ -1132,27 +1190,40 @@ kicked again."
  money she tried to swindle from us? I think it's
  much better that we won now."
 "<恭子>
-『あら、私に何か用かしら？』",""
-"確か、この人が六花の主人だったはずだ。",""
+『あら、私に何か用かしら？』","<Kyouko>
+""Oh? Do you have some business with me?"""
+"確か、この人が六花の主人だったはずだ。","You were sure that this woman was Rikka's master."
 "<恭子>
 『あらあら、よく見たら貴方…
 　さっきの六花の試合相手じゃない。
-　あの子に同情でもしたのかしら。お優しいことですわね。』",""
+　あの子に同情でもしたのかしら。お優しいことですわね。』","<Kyouko>
+""Oh my, now that I take a look of you... Aren't you
+ Rikka's last opponent? Did you sympathize with her
+ situation or something? How gentle of you."""
 "<恭子>
 『そう♡この条件をのむんですわね♡
 　分かりました、それでは会場で白黒つけましょうか♡』",""
 "<恭子>
 『余計な正義感に動かされるとどうなるか、
 　私がたっぷりと教えてあげますわね♡
-　試合までのつかの間の自由を楽しみなさい♡』",""
+　試合までのつかの間の自由を楽しみなさい♡』","<Kyouko>
+""I'll thoroughly show you what happens when you let
+ sense of justice move you♡ Please enjoy your short
+ moment of freedom until the match♡"""
 "<恭子>
 『それでは、今日のところはこれで失礼いたしますわ。
-　自宅で六花の折檻をしないといけませんので♡』",""
+　自宅で六花の折檻をしないといけませんので♡』","<Kyouko>
+""Then, I will excuse myself here. I have to return
+ to my house to scold Rikka on her actions♡"""
 "そう言うと恭子は医務室に向かっていった。
-六花を連れて自宅に帰るようだ。",""
+六花を連れて自宅に帰るようだ。","After saying that, Kyouko headed for the infirmary.
+It seems like she's going to get Rikka and return to
+her house."
 "<アル>
 『できるだけ経験値を稼いで、　
-　強くなってから挑もうね！』",""
+　強くなってから挑もうね！』","<Kyouko>
+""Let's earn as much EXP as we can to get stronger and
+ then challenge that woman!"
 "<恭子>
 『あの子の境遇に同情でもしましたの？
 　お優しいことですわね♡』",""
