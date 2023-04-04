@@ -4,33 +4,33 @@
 "EV004",""
 "『いらっしゃい。
 　ここは上の町の酒場の無機質さが嫌になった人のための、
-　懐かしさを感じる酒屋を目指した場所よ。』","""Welcome. This is a cozy bar designed for those who
- don't like the business-like bar at the north side of
- the town."""
+　懐かしさを感じる酒屋を目指した場所よ。』","""Welcome. This is a cozy restaurant made for those who
+ don't like the more business-like restaurant at the 
+ north side of the town."""
 "『メニューも毎日日替わりで作っているの。
 　貴方も気楽にくつろいでちょうだいね。歓迎するわ。』","""Our menu also consists of rotating daily special.
- You can sit down and relax without worry like the
- other customers."""
+ You can come sit down for a meals at your own
+ leisure."""
 "<アル>
 『優しそうな人だね！
 　それに……ん～♪おいしそうな料理の香り！
 　ねぇ\n[1]、何か頼んでいこうよ！』","<Al>
-""She seems like a gentle girl! And also... Mmmmh♪
+""She seems like a gentle woman! Also... Mmmmh♪
  The food smells so good! Hey, \n[1]♪
  Let's order something!"""
 "『いらっしゃい。
 　何か食べていく？
-　それとも私とお話する？』","""Welcome. Would you like to eat? Or perhaps sit to
- chat?"""
+　それとも私とお話する？』","""Welcome. Would you like to eat? Or perhaps sit down
+ to chat?"""
 "日替わりメニューを頼む（500G）","Daily Special (500G)"
 "お話する","Chat"
 "特に用はない","Never mind"
 "『ふふ、ありがとう。
 　それじゃ…………どうぞ、召し上がれ。
-　貴方の舌に合うといいんだけれど。』","""Ehehe. Thank you. Then... Please eat up. I hope the
+　貴方の舌に合うといいんだけれど。』","""Ahaha. Thank you. Then please eat up. I hope the
  taste is to your liking."""
-"貴方の最大HPが10増加した！","Your HP increased by 10!"
-"貴方の最大MPが2増加した！","Your MP increased by 2!"
+"貴方の最大HPが10増加した！","Your MAX HP increased by 10!"
+"貴方の最大MPが2増加した！","Your MAX MP increased by 2!"
 "貴方の攻撃力が1増加した！","Your ATK increased by 1!"
 "貴方の防御力が1増加した！","Your DEF increased by 1!"
 "貴方の魔法力が1増加した！","Your MATK increased by 1!"
@@ -40,8 +40,8 @@
 "貴方の経験値が300増加した！","You gained 300 experience!"
 "貴方の経験値が400増加した！","You gained 400 experience!"
 "『お粗末さまでした。
-　また来てちょうだいね？』","""Thank you for eating my cooking. I'll look forward
- to seeing you again."""
+　また来てちょうだいね？』","""Thank you for eating my cooking. I look forward to
+ seeing you again."""
 "<アル>
 『ん～♪美味しかったね！
 　私もたくさん食べちゃった～♪』","<Al>
@@ -51,145 +51,143 @@
 "『お話……そうね、
 　貴方、この街に来てまだ間もないわよね？
 　そういうお上りさんって顔してるもの。』","""A chat, is it? Let's see... You haven't been in the 
- town for long, have you? You have a face of a country
- bumpkin."""
+ town for long, have you? You look pretty much like
+ a country bumpkin."""
 "女性は貴方の顔をまじまじと見つめると、
-くすりと柔らかく微笑んでそう告げる。","The owner said that with a gentle smile after staring
-at your face for a while."
+くすりと柔らかく微笑んでそう告げる。","After staring at your face for a while, the owner said
+that with a gentle smile."
 "『気を悪くされたのならごめんなさいね。
 　ただ、そんな貴方に1つ忠告させて頂戴。
-　この街は一見平和そのものに見えるんだけど……』","""I'm sorry if I offended you. However, let me give you
- one piece of advice. This town might seem peaceful at
- glance..."""
+　この街は一見平和そのものに見えるんだけど……』","""I'm sorry if I offended you. However, I've got a piece
+ of advice since you're new around here. This town 
+ might look peaceful at glance..."""
 "『一定の自衛能力が求められるわ。
 　他の人に騙されても誰も助けてくれない…
 　そう考えておくくらいじゃないと、
-　いつか痛い目にあうかもしれないわね。特に男の子は♡』","""But you need a certain degree of strength to defend
- yourself here. If someone deceives you, no one will
- come for your help. You need to be careful or you'll
- get hurt. And it's even more likely for boys♡"""
+　いつか痛い目にあうかもしれないわね。特に男の子は♡』","""But you need strength to defend yourself. If you get
+ deceived by someone, no one will come to your help.
+ You need to be mindful of that or you'll get hurt,
+ and it's even more so for boys♡"""
 "『自分の色香を使って、
 　男の子を騙したり利用したり……
-　そういうことを企む女の子もこの街には結構多いのよ。』","""In this town, there are many girls who seek to use
+　そういうことを企む女の子もこの街には結構多いのよ。』","""There are many girls in this town who seek to use 
  their charm and beauty to deceive and exploit boys."""
 "『だから、
 　甘い誘惑なんかに負けてしまったら……
-　取り返しのつかないことになっちゃうかもね。』","""That's why there might be no coming back if you lose
- to the temptation as a girl sweetly seduces you."""
+　取り返しのつかないことになっちゃうかもね。』","""That means if you were to go along with some girl's
+ sweet seduction... There might be no coming back from
+ it."""
 "<アル>
 『\n[1]ならきっと大丈夫だよ！
 　私が淫気の影響を抑えてあげてるんだもん♪
 　…………ね、そうだよね？\n[1]？』","<Al>
 ""\n[1], I'm sure you'll be fine! After all,
  you have me to protect you from the sex gas♪
- ...Isn't that right?"""
+ Isn't that right?"""
 "アルが胸を張りながらそう言っている。","Al said that with her chest puffed out with pride."
 "自分は大丈夫だ","I'll be fine"
-"自信ない…","That sound bad..."
+"自信ない…","That sounds bad..."
 "『あら、そう？
 　余計なおせっかいだったかしら。
 　でも……そういう人ほど、
-　案外誘惑に弱かったりするのよね。』","""Oh? Maybe I had no need worry about that... However,
- it's usually people like that who are unexpectedly
- weak to temptations."""
+　案外誘惑に弱かったりするのよね。』","""Oh, is that so? Maybe my warning was unneeded... 
+ However, the people who are sure of themselves are 
+ also the ones who are usually weak to temptations."""
 "そう言いながら女性はカウンターから乗り出し、
 貴方の顔をじっと端正な顔で見つめる。
 瑞々しく柔らかそうな唇や、整った温和な雰囲気に、
-貴方は次第に自分の顔が赤くなるのを感じる。","After saying that, the owner leaned on the counter and
-closely stared at your face. When you were face-to-face
-with her beautiful face and soft-looking lips, you
-could feel your cheeks gradually getting hotter."
+貴方は次第に自分の顔が赤くなるのを感じる。","After saying that, the owner leaned over the counter to
+closely stare at your face. When you were face-to-face
+with her beautiful looks and soft-looking lips, you 
+could feel your cheeks getting hotter."
 "『ふふ♡
 　見つめられるだけで赤くなっちゃうの？
-　強がってたのに、可愛いわね。』","""Ahaha♡ I just needed to stare at you to make you
- blush♡ Acting tough like that makes you so adorable."""
+　強がってたのに、可愛いわね。』","""Ahaha♡ I'm making you blush by simply staring at your
+ face♡ It's adorable when you react like that after 
+ acting so tough♡"""
 "そう言いながら店員は貴方の耳元に唇を近づけ、
-温かい吐息を吹きかける。","After saying that, the owner brought her lips close to
-your ear and blew a hot breath."
+温かい吐息を吹きかける。","After saying that, the owner brought her lips to your
+ear and blew a hot breath."
 "『ねぇ、私の料理…食べていかない？
-　たっぷりサービス♡してあげるわよ♡』","""Hey... Wouldn't you like to eat my cooking? I'll give
- you an extra-large serving♡"""
+　たっぷりサービス♡してあげるわよ♡』","""Hey...♡ Won't you order my cooking? I'll give you an
+ extra special serving♡"""
 "艶やかな声でそうねだられれば、
 貴方は顔を赤くしたままこくんと頷くしかなかった。","When the owner seductively coaxed you to order food,
-you couldn't do anything but nod while your face was
-red as an apple."
+you could only nod while your cheeks were feeling
+burning hot."
 "『……くす♪ごめんなさい。
 　あまりに反応がいいからちょっとからかっちゃった。
-　冗談よ、気にしないで頂戴。』","""...Ahaha♪ Sorry. Your reactions were just so adorable
- that I couldn't help teasing you. That was a joke.
- Don't worry about it."""
+　冗談よ、気にしないで頂戴。』","""...Ahaha♪ Sorry, you reacted so adorably that I 
+ couldn't help to tease. It was just a joke, so don't
+ worry about it."""
 "貴方が頷くのと同時に、
-女性は顔を離して朗らかにそう笑った。","After you had nodded, the owner moved back behind the
-counter in cheerful laugh.
+女性は顔を離して朗らかにそう笑った。","Just as you had nodded, the owner got up from the
+counter and cheerfully laughed.
 "
 "『ふふ、そんな顔しないで。　
 　これで自分が女の色香に弱いんだってこと、
-　少しは自覚できたでしょ？』","""Ahaha. Please don't make that face. You should be
- aware how you're weak to women's advances after that,
+　少しは自覚できたでしょ？』","""Ahaha. Please don't make such face. That should have
+ made you realize how you're weak to women's' advances,
  right?"""
 "『よかったじゃない。
 　慢心したままだと、
-　あっという間に女の子に利用されてたかもしれないわよ♡』","""It's better to be self-aware of it. If you kept your
- closed attitude, you might find yourself exploited by
- girls in no time♡"""
-"くすくすと微笑む女性を貴方は釈然としない思いで見つめた。","You couldn't help watching the owner with complicated
-feelings after she explained herself and smiled."
+　あっという間に女の子に利用されてたかもしれないわよ♡』","""It's better that you're self-aware of it. Otherwise
+ you might find yourself getting exploited by a girl
+ before you even realize it♡"""
+"くすくすと微笑む女性を貴方は釈然としない思いで見つめた。","You couldn't help feeling complicated after the owner
+smiled and explained herself like that."
 "<アル>
 『うぅ～……
 　な、なんかいいようにからかわれた気がする……』","<Al>
-""Uuh... S-She's making out to be like teasing you is
- fine, ""\n[1]..."""
+""Uuh... \n[1], I have a feeling that she's
+ still teasing you for the fun of it..."""
 "『あんまり女性慣れしてないの？
 　そう……それならここにきて、
-　私とお話するのはどう？』","""Oh? Are you worried that you might not be able to
- resist since you have little experience with women?
- Hmm... How about coming here to chat with me every
- now and then?""As the owner smiled and laughed"
+　私とお話するのはどう？』","""Oh? Do you not have much experience with women? 
+ I see... Then how about you come here to chat with
+ me every now and then?"""
 "『少しは耐性がつくように……
 　心を鬼にして、貴方のことをからかっちゃおうかしら。
-　例えばこんな風に貴方のお耳に唇を近づけて…ふぅ～♡』","""I could help you build resistance little by little...
- I would steel my heart and tease you a bit every time.
- For example... I might bring my lips close to your ear
- like this... And then blow... Fuuuh♡"""
+　例えばこんな風に貴方のお耳に唇を近づけて…ふぅ～♡』","""I can try teasing you so that you can build up 
+ resistance little by little. For example... I would 
+ got close to your ear like this and then blow on 
+ it... Fuuuh♡"""
 "女性は貴方の耳に唇を近づけ、
 艶やかな唇を窄めると温かい吐息を耳に吹きかける。
 貴方は思わずその熱っぽい吐息に、
-身体をびくりと反応させてしまう。","The owner brought her face close to your ear. Then she
-narrowed her glossy lips and blew a warm breath in your
-ear. When you felt it, your body instantly jumped in
-reflex."
+身体をびくりと反応させてしまう。","The owner brought her glossy lips close to you before 
+narrowing them and blowing a hot breath on your ear.
+The amorous breath made you instantly jump by reflex."
 "『ふふ♡
 　お耳に吐息を吹きかけられるだけで、
-　そんな反応しちゃうのね。』","""Ahaha♡ Just a blow of breath in your ear makes you
- jump so easily."""
+　そんな反応しちゃうのね。』","""Ahaha♡ A single blow of breath on your ear makes you
+ react so strongly."""
 "『これは弄び甲斐……じゃなくて♡
-　鍛え甲斐があるわ。』","""Looks like you're a worth to tease... Sorry, I mean
- this is a worthwhile way to to build your
- resistance♡"""
+　鍛え甲斐があるわ。』","""You're so worth to tease... I mean, worth to train♡"""
 "店員は貴方の反応に満足すると、
-顔を離してクスリと柔らかくそう微笑む。","After the owner seemed satisfied by your reaction,
-she moved away and showed a gentle smile."
+顔を離してクスリと柔らかくそう微笑む。","The owner seemed to be satisfied by your reaction as
+she moved away from you and gently smiled."
 "『いきなりはやめて欲しい？
 　いいじゃない、訓練よ、訓練♡
 　私に貴方を陥れるつもりはないんだし、
-　いい練習になると思ってちょうだい。』","""What? Do you want me to stop already? Please think of
- it as a training♡ It's just training♡ I have no
- intention to make you dance on the palm of my hand,
- so it'll surely be a good way for you to train."""
+　いい練習になると思ってちょうだい。』","""Eh? You don't want me to do any of that again? But I
+ think it would be really good training for you. After
+ all, I'm not trying to make you dance of the palm of
+ my hand like the other bad girls♡"""
 "貴方の文句に、
-女性は笑みを崩さないままそう返答する。","When you complained about the owner's action, she
-answered like that without breaking her smile."
+女性は笑みを崩さないままそう返答する。","The tease made you complaint to the owner, but she
+said that back to you without breaking her smile."
 "『……あ、もしかしたら、
 　料理を注文するように誘導するかもしれないけれど♡
 　耳元で吐息吹きかけながら、
-　甘ったるくおねだりしたりして、ね？』","""...Oh, but I might lead you by the nose to order a
- meal♡ I might do things like blowing into your ear
- while sweetly begging you to order something♡"""
+　甘ったるくおねだりしたりして、ね？』","""...Oh, but I might lead you on to order a meal♡
+ I would beg you in sweet whispers while blowing on 
+ your ear until you ordered food♡"""
 "女性はそう言うと、
 妖しく唇を窄めて貴方にウインクする。
-その色気にぞくりと背筋が震えてしまった。","After saying that, the owner seductively narrowed her
-lips and winked at you. The sex appeal from that made
-a shiver run across your spine."
+その色気にぞくりと背筋が震えてしまった。","After saying that, the owner seductively winked at you 
+while narrowing her lips. What she did looked so sexy
+that you felt a shiver run down your spine."
 "<アル>
 『\n[1]、ダメだよー！！
 　ゆ、誘惑には負けないようにしないと！
@@ -204,123 +202,125 @@ a shiver run across your spine."
 『……それくらいなら、別にいいかも？
 　私も美味しいもの、たくさん食べられるし！
 　うん、誘惑に負けちゃえー♡』","<Al>
-""...Wait, wouldn't that be fine? I would get to eat
- lots of delicious foods too! Okay! \n[1]!
- Lose to the temptation♡"""
+""...Wait, wouldn't that actually be fine? I would
+ get to eat all the delicious foods too! Yeah!
+ \n[1]! Lose to the temptation♡"""
 "『あら、そうなの。
 　ふふ、私の店は冷やかしも歓迎よ。
-　遠慮せず店内に入ってきてね。』",""
+　遠慮せず店内に入ってきてね。』","""Oh? Ahaha. Window-shopping and chatting with other
+ customers are also welcome in my shop. Come on in."""
 "『随分落ち込んだ顔をしてるわね。
 　一体何があったの？
-　私でよければ話くらいなら聞くわよ。』","""You're looking quite down. Did something happen?
- I can listen if you want to talk.""
+　私でよければ話くらいなら聞くわよ。』","""You're looking down. Did something happen? I can
+ listen if you want to talk.""
  "
 "貴方の目の前にお水が入ったコップを出しながら、
 女性はそう貴方に尋ねた。
-そんな女性に貴方はコロシアムでの顛末を話した。","The owner asked that as she placed a cup of water on
-the counter. You told her what recently happened at
-the Colosseum."
+そんな女性に貴方はコロシアムでの顛末を話した。","The owner asked that and placed a cup of water in front
+of you. You told her what happened at the Colosseum."
 "『そう……
 　コロシアムでそんなことが……
-　貴方、初心者狩りにあっちゃったのね。』","""I see... That kind of thing happened... You fell prey
- to newbie hunters."""
+　貴方、初心者狩りにあっちゃったのね。』","""I see. That kind of thing happened... You fell prey 
+ to a newbie hunter at the Colosseum."""
 "『この街ではそういうことが多いのよ。
 　特に現実世界と違って、
-　女の子の方が男の子より強い場合が多いから…………』","""That kind of thing happens often in this town. It
- might be because girls are often stronger than boys
- in this world."""
+　女の子の方が男の子より強い場合が多いから…………』","""Those kind of things are quite common in this town.
+ Unlike in real world, girls are often stronger than
+ boys in this game..."""
 "『元の世界の認識のまま、
 　男が力勝負で女に負けるわけがない、
 　女の子は可憐で護ってあげなきゃいけないんだ…
-　なんて考えの人はあっという間にカモにされちゃうの。』","""If you follow the principles of real world in that men
- are stronger than women, and cute girls need to be
- protected, you can easily fall for such traps."""
+　なんて考えの人はあっという間にカモにされちゃうの。』","""That's why people who think that men won't lose to 
+ women and girls need to be protected quickly fall to
+ such traps."""
 "『貴方もどこか、
 　そういう風なことを思ってたんじゃないかしら？
-　だから、簡単に女の子の罠にはまってしまった。』","""Did you also perhaps follow that thought process? That
- might explain why you fell for it so easily."""
+　だから、簡単に女の子の罠にはまってしまった。』","""Did you also happen to think like that? That would
+ explain why that girl managed to take advantage of 
+ you."""
 "『きつい言い方をするようで悪いのだけれど、
 　考えを改める必要があると思うわよ。
 　ここでは女の子の方が男の子より強い、
-　ちゃんとそんな風に意識しておくことをお勧めするわ。』","""This might come across a bit harsh, but I believe you
- need to change the way you think. You need to realize
- that girls are stronger than boys in this world."""
-"そうする","I'll do so"
-"余計なお世話だ","It's none of your business"
+　ちゃんとそんな風に意識しておくことをお勧めするわ。』","""This might sound a bit harsh, but I believe you need 
+ to change the way you think. You need to realize that
+ girls are stronger than boys in this world."""
+"そうする","I will do that"
+"余計なお世話だ","That's none of your business"
 "『ふふ、素直なのはいいことよ。
 　案外人からこういわれても、
-　納得できないって人も多いんだもの。』","""Ehehe. Thank you for listening to my advice. There
- are many who won't listen when I tell them the same."""
+　納得できないって人も多いんだもの。』","""Ahaha. Thank you for listening to my advice. You see,
+ there are unexpectedly many who can't accept that 
+ fact."""
 "『貴方がそう思えたってことは、
 　今回の負けは無駄じゃなかったってこと……
-　あまり恥ずかしがる必要はないわ。』","""Since you found my advice useful, it means that your
- last loss wasn't in vain. There's no need to be 
- ashamed about it."""
-"貴方の返答に女性は柔らかく微笑んだ。","The owner showed a gentle smile when you seriously took
-her advice."
+　あまり恥ずかしがる必要はないわ。』","""Now that you've understood why it happened, your loss
+ wasn't pointless and you don't need to feel ashamed
+ over it."""
+"貴方の返答に女性は柔らかく微笑んだ。","The owned looked at you with gentle smile when you
+seriously took her advice."
 "『大丈夫、
 　油断せず着実に努力すれば、
-　必ず実力がついてくるのがこの世界…………』","""The power will certainly come to you as long as you
- keep steadily working hard in this world. That's why
- there's no need to worry."""
+　必ず実力がついてくるのがこの世界…………』","""Don't worry. This world rewards those who steadily
+ work hard with power..."""
 "『自分を見失わないで努力を続ければ、
 　一度負けてしまった相手にもきっと勝てるようになるわ。
-　私も応援してるわね♡』","""Continue to improve without losing the sight of
- yourself, and you'll surely be able to beat any
- opponent who you couldn't before. I'll also be
- cheering for you♡"""
+　私も応援してるわね♡』","""As long as you don't lose the sight of your goal and
+ work hard, you'll be able to defeat an opponent who
+ you previously couldn't. I'll also be here to cheer
+ for your success♡"""
 "<アル>
 『そう、だよね。
 　努力した分だけレベルが上がって強くなれるんだもん！
 　次はもっとレベルを上げて挑めばいいだけだよね！』","<Al>
-""Yes, she's right. You can increase your level and get
- stronger as long as you work hard! We just need to
- challenge that girl after our level is higher!"""
+""That's right. You can get stronger and increase your 
+ level as long as you put the effort behind it! We just
+ need to challenge that girl after leveling up more!"""
 "<アル>
 『この人の言う通り、
 　今は相手の方が強いんだって認めて……
 　そんなあの子にも勝てるように頑張ろ、\n[1]♪』","<Al>
-""\n[1], like she said, we should recognize
- that our opponent was stronger and work hard to
- overcome that difference♪"""
+""Like she said, we should accept that our opponent is
+ stronger than us right now... And we should work hard
+ to overcome that power difference, \n[1]♪"""
 "『…そうね、出過ぎた言葉だったわ。
 　傷心中の貴方に言っていい言葉じゃなかったかも。
-　ごめんなさい、謝るわね。』","""...I see. That might have been too forward of me
- and not something to say when you're feeling down
- from your loss. I'm sorry."""
+　ごめんなさい、謝るわね。』","""...I see. I'm sorry, that might have been a bit too 
+ much to say when you're feeling down from your loss."""
 "『…さ、気分転換に美味しいご飯でもどう？
 　今日のメニューは自信作よ、
-　嫌な思い出なんて美味しい料理で忘れさせてあげる♡』","""...Why not eat some delicious food for a change of
- mood? I'm really confident in today's menu. I'll make 
- you forget all about your bitter memories with my
- dishes♡"""
+　嫌な思い出なんて美味しい料理で忘れさせてあげる♡』","""Hey, why not eat some delicious food for a change of  
+ pace? I'm really confident in today's menu. So much
+ as to say that it will make you forget all about your 
+ bitter experience♡"""
 "<アル>
 『\n[1]…
 　うん、私も気分転換は大事だと思うよ！
 　美味しい料理を食べて、元気だそ♪』","<Al>
-""\n[1]... I also think it's important to
- change the mood! Let's eat delicious food to cheer
- up♪"""
+""\n[1]... I also think that a change of mood
+ is important! Let's eat some delicious food to
+ cheer up♪"""
 "『あら、そうなの。
 　………顔色、よくないわね。
 　話くらいなら聞くから、
-　いつでも遠慮なく声をかけてちょうだい。』",""
+　いつでも遠慮なく声をかけてちょうだい。』","""Oh... If you want to talk, don't hesitate to say so.
+ You're looking a bit pale."""
 "『機嫌がよさそうな顔ね。
-　何かいいことでもあった？』","""Looks like you're in good mood. Did something nice
+　何かいいことでもあった？』","""You seem to be in a good mood. Did something nice
  happen?"""
 "『そう………
 　自分を騙そうとした女の子に一泡吹かせることができたの。
-　なるほど、それは気分もよくなるわね。おめでとう。』","""I see... You managed to beat up a girl who tried to
- deceive you. That certainly would put anyone in a
+　なるほど、それは気分もよくなるわね。おめでとう。』","""I see... You managed to defeat a girl who tried to
+ deceive you. That would certainly put anyone in a
  good mood. Congratulations."""
 "『でも意外だわ。この街では、
 　そのままカモにされちゃう男の子が多いんだもの。
-　貴方は強くなれるかもしれないわね。』","""However, that's quite unexpected. There are a lot of
- boys who fall into such traps in this town. The fact
- that you didn't fall for it might be a sign that
- you'll become really strong one day."""
+　貴方は強くなれるかもしれないわね。』","""However, it's also a bit unexpected. It's quite common
+ for boys to fall prey into such traps in this town.
+ It might be a sign that you're going to become strong
+ when you didn't."""
 "女性はくすくすと微笑みながら、
-そう貴方の勝利を称えた。","The owner smiled as she praised you for your victory."
+そう貴方の勝利を称えた。","The owner congratulated you for your victory in gentle
+smile."
 "<アル>
 『ふふ～ん♪
 　\n[1]はあんな卑怯な女の子に負けたりしないよ！』","<Al>
@@ -1622,157 +1622,158 @@ you would come and eat when you had the time."
  it couldn't be?!"""
 "『じょ、じょ、じょ、常連さん！！
 　大変っす！大変な出来事があったっす！
-　大事件っすよ！！』","""M-Mr. Regular! S-Something really big happened!
- A really big thing!"""
+　大事件っすよ！！』","""M-Mr. Regular! A-A big thing happened! Something
+ really big!"""
 "店員は貴方の顔を見ると、
-慌てたようにそう小声でまくしたてる。","When the waitress saw you, she said that in quiet and
-panicked voice."
+慌てたようにそう小声でまくしたてる。","The waitress said that in a quiet and panicked voice
+when she saw you."
 "『じ、実はっすね。
 　その……お客さんから誘われちゃったっすよ！
-　デートに！私がっす！』","""T-The thing is... I got, um... Invited by a customer!
- Invited to a date!"""
+　デートに！私がっす！』","""T-The thing is... Um... I got asked out by a customer!
+ I got invited to a date!"
 "『女将さんが、じゃなくて私がっすよ！？
 　も、もうびっくりやら驚きやらで、
-　頭の中がいっぱいいっぱいっす！』","""Not the owner but me?! I-I got so surprised by it
- that I don't know what to do!"""
+　頭の中がいっぱいいっぱいっす！』","""It wasn't the owner who got asked out but me! I-I got 
+ so surprised that my head was about to explode!"""
 "おめでとう","Conratulations"
 "確かに驚きだ","That's certainly surprising"
 "『うぇ？あ、ありがとうっす。
 　その、聞かないっすか？
-　その誘いを受けたかどうか、とか………』","""Ueh? T-Thank you. Um, aren't you going to ask?
- Ask if I accepted the invitation..."""
+　その誘いを受けたかどうか、とか………』","""Ueh? T-Thank you. Um... Aren't you going to ask what
+ happened then? If I accepted the invitation or not..."""
 "そう言われれば確かに気になる。
 この反応から貴方はてっきり、
-彼女が誘いを受けたものだと思っていたが………","You were certainly curious now that she said it.
-However, you thought that she had accepted it since
-she came to talk about it."
+彼女が誘いを受けたものだと思っていたが………","You were certainly curious what happened when asked,
+but you had thought that she had accepted based on her 
+reaction."
 "『えーと……断ったっすよ。
 　理由は……そうっすね、えーと………あれっす。
 　私はみんなの看板娘っすし…………』","""Um... I refused. The reason is... Well... I'm
  everyone's poster girl..."""
 "『後は、うん！
 　私を自分のものにしたいなら、
-　私を倒せるくらい強くなきゃってやつっす！』","""Also... Yes, if someone wants to take me, they need to
- be strong enough to beat me in a fight!"""
+　私を倒せるくらい強くなきゃってやつっす！』","""Also... Let's see... If someone wants to take me,
+ they need to be strong enough to beat me in a fight!"
 "<アル>
 『な、なんだろ、
 　凄い残念感がある…
 　自分より強い人のほうがいいのかな？』","<Al>
-""S-She seems really disappointed for some reason...
- Is she really fine with anyone who's stronger than
- herself?"""
+""It's kind of regrettable he turned him down...
+ Is she really fine with just anyone who's stronger
+ than herself?"""
 "店員の言葉にアルが言葉を漏らす。
 なんとなく彼女が相手に求める条件が気になった貴方は、
-彼女に率直に聞いてみることにした。","Al muttered that when she hear the waitress' words. You
-were somewhat curious if that was what she really
-sought in her partner and directly asked about it."
+彼女に率直に聞いてみることにした。","Al muttered that over the waitress' words. You got 
+somewhat curious in her requirement for her partner 
+and asked her about it."
 "なんとなく彼女が相手に求める条件が気になった貴方は、
-彼女に率直に聞いてみることにした。","You were somewhat curious if that was what she really
-sought in her partner and directly asked about it."
+彼女に率直に聞いてみることにした。","You got somewhat curious in her requirement for her
+partner and asked her about it."
 "『あ、相手に求める条件っすか……？
 　それを聞くってことは……
-　って、ううん！何でもないっす！』","""W-What do I seek in my partner...? Since you're
- asking that, does it mean... Wait, no, never mind!"""
+　って、ううん！何でもないっす！』","""M-My requirement for my partner...? When you're asking
+ that, does it mean... Wait, no, never mind!"""
 "『そ、そうっすね！
 　私も乙女っすから、
-　自分より弱い男はちょっとお断りっす！』","""Y-Yes, that's right! S-Since I'm a maiden so, I can't
- accept anyone who's weaker than myself!"""
+　自分より弱い男はちょっとお断りっす！』","""Y-Yes! I'm a maiden, so I can't accept anyone who's
+ weaker than myself!"""
 "『だから、えーと、
 　アンタが私を自分のものにしたいなら、
 　私を倒してからじゃないとだめっすよ！！』","""T-That' why... Um... If you want to take me for
  yourself, you need to defeat me!"""
 "貴方の疑問に店員はそう答える。
-心なしか顔が赤くなっているような気がした。","The waitress answered your question like that. You felt
-like her face was slightly flushed as she said it."
+心なしか顔が赤くなっているような気がした。","When the waitress answered your question, you felt like
+her face was getting slightly red."
 "『ま、まぁもしアンタが私よりも弱かったとしても、
-　強くなるまで待つくらいの懐の大きさはあるっすけどね。』","""W-well... If you happen to be weaker than me, I 
- wouldn't mind waiting until you're grown stronger
- either..."""
+　強くなるまで待つくらいの懐の大きさはあるっすけどね。』","""W-Well... Even if you happened to be weaker than me 
+ right now, I wouldn't mind waiting until you became
+ stronger."""
 "『私、最近バイトばっかりやってるっすし、
 　全然レベル上げできてないっすから……
-　頑張れば簡単に私より強くなれると思うっす！』","""I've been only doing my part-time job recently, so my
- level hasn't been going up... I'm sure you can easily
- become stronger than me if you work hard!"""
+　頑張れば簡単に私より強くなれると思うっす！』","""I haven't been doing anything but working recently, so
+ my level hasn't been increasing... If you work hard,
+ I'm sure that you can easily become stronger than me!"""
 "<アル>
 『…………あれ？
 　い、いつの間にか話の流れが、
 　\n[1]がこの子を誘った感じになってない？』","<Al>
-""...Eh? W-Why does it seem like you invited her for
- a date all of sudden, \n[1]?"""
+""...Eh? \n[1], why does it seem like you
+ invited her to a date all of sudden?"""
 "貴方はアルの言葉に頷き、
-彼女の話の軌道修正を行った。","You agreed with Al and nodded to her. Then you got
-your talk with the waitress back on track."
+彼女の話の軌道修正を行った。","You felt the same with Al and got the waitress back on
+track."
 "……いつの間にか自分が彼女を誘ったような流れに…
-貴方は彼女の話の流れの軌道修正を行った。","...For some reason, it felt like you were trying to 
-invite the waitress to a date all of sudden. You got
-the talk with her back on track because of that."
+貴方は彼女の話の流れの軌道修正を行った。","All of a sudden, the current flow of the conversation 
+felt like you were trying to invite the waitress to a 
+date, so you got her back on track."
 "『え？あ、うー…………！
 　と、とにかく、そういうことっす！
 　うん、あの、ようは！ありがとうってことっすよ！』","""Eh? Ah... Uuh! A-At any rate! That's how it is!
- I mean to say, thank you!"""
+ Also, I meant to thank you!"""
 "『アンタのおかげで、
 　私も男から誘われるような女になったっす！
-　これからも魔性の女を目指して頑張るっすよー！！』","""It's thanks to your help that I've become a woman
- who receives invitations from me! I'm going to
- continue working hard to become a devilishly charming
- woman!"""
+　これからも魔性の女を目指して頑張るっすよー！！』","""It's thanks to your help that I'm starting to get 
+ asked out by men! I'm going to continue working hard 
+ and aim to become a devilishly charming woman!"""
 "店員はそう気合を入れている…","The waitress pumped herself up like that."
 "『ひ、ひどいっすよ！
 　いや、分かるっすけど！
-　なんなら私も驚いたっすけど……！』","""W-What a horrible thing to say! ...But I understand
- what you mean. Even I got surprised by it."""
+　なんなら私も驚いたっすけど……！』","""H-How horrible of you! ...But I can understand where
+ you are coming from. Even I was surprised by it."""
 "『でもまぁ、これもあれっすよね！
-　私の女としての魅力が爆上がりしたってことっすよね。』","""But that's a proof of that, right! That my charm as
- a woman has grown explosively!"""
+　私の女としての魅力が爆上がりしたってことっすよね。』","""But that proves it, right! It's the proof that my 
+ womanly charm has gone through an explosive growth!"""
 "『ふっふ～ん♪
 　どうっすか？アンタも私と2人で話していると、
-　メロメロのムラムラになっちゃうんじゃないっすか？』","""Ehehe♪ How does it seem for you? Do you feel
- butterflies in your stomach and get horny when you're
- talking alone with me?"""
+　メロメロのムラムラになっちゃうんじゃないっすか？』","""Ehehe♪ How does it look for you, Mr. Regular? When
+ you talk alone with me, does put butterflies in your 
+ stomach? Does it make you feel horny?"""
 "店員はニマニマと笑いながら、貴方の顔を覗き込む。
-容姿は整っているながらも、やはり言動が…","The waitress stared at your face in wide smile. Her
-looks were certainly good, but you found her act and
-conduct a bit..."
+容姿は整っているながらも、やはり言動が…","The waitress peeked at your face with a wide grin. Her
+looks were good, but you found what she said a bit off
+putting."
 "<アル>
 『メロメロはともかくムラムラは、
 　あんまり言わないほうがいいんじゃないかな～…』","<Al>
-""I don't think asking someone if they're getting horny
- is something you should do..."""
+""Putting the butterfly comment aside, I don't think you
+ should ask someone if they were getting horny."""
 "貴方の内心を代弁するようにアルがつぶやく。
-そんなアルに同意しつつ、店員の言葉に首を横に振った。","Al's mutterings were exactly as you thought. You shook
-your head to the waitress."
+そんなアルに同意しつつ、店員の言葉に首を横に振った。","Al seemed to share what you felt over the waitress' 
+words as you shook your head to her question."
 "『むー、まだ私の魅力に気付かないっすか。
 　なかなか高い壁っすね～。
 　でもいいっすよ、いつかアンタにも、
-　私が良い女だって言わせて見せるっす！』","""Mmmh! Do you still not notice my charms? You're got
- quite a high defense. But that's fine. One day I'll
- make you say how good of a woman I am!"""
+　私が良い女だって言わせて見せるっす！』","""Mmmh! Can you still not notice my charms? You've got
+ quite the high defense... But that's fine. One day 
+ I'll make you say that I'm a fine woman!"""
 "店員は貴方の態度に気合を入れている。
 そんな彼女を見ていると、
-ふと先ほどの誘いをどうしたのか時になった。","Your attitude seemed to pump up the waitress spirit.
-While watching that happen, you asked her what she
-did with the date invitation."
+ふと先ほどの誘いをどうしたのか時になった。","Your attitude seemed to pump the waitress' fighting 
+spirit. As you saw that, you realized you never asked
+what happened with the date invitation."
 "『え？あぁ、断っちゃったすよ。　
 　理由は…………えーと…………
 　私はみんなのものっすから………そう、
 　独り占めしたいなら私より強くないとっす！』","""Eh? Oh that. I refused. The reason being... Um...
  I'm everyone's poster girl... So... Yes... You
- need to be stronger than me if you want to take me
- for yourself!"
+ need to be strong enough to beat me if you want to
+ monopolize me!"""
 "『……強さが関係あるのか？
 　そ、それは…な……いや、あるっすよ！
-　うん、うん……私は自分より強い男じゃないと嫌っす！』","""...Did I refused because of his strength? W-Well...
- Yes! I don't want a man who's weaker than me!"""
+　うん、うん……私は自分より強い男じゃないと嫌っす！』","""Eh? Did I refuse him just because he's weak?
+ W-Well... Yes! I don't want a man who's weaker
+ than me!"""
 "貴方の疑問に彼女はそう答える。
-意外と彼女は強さというものを重視するようだ。","The waitress answered your question like that. It was
-slightly unexpected how heavily she valued strength."
+意外と彼女は強さというものを重視するようだ。","The waitress answered your question like that.
+You found it slightly unexpected how heavily she
+valued strength in her partner."
 "『ま、まぁ私は最近レベル上げしてないっすし、
 　勝つのはそう難しくないというか…
 　多分、簡単に勝てるというか……
 　だから、遠慮しなくていいっすよ？』","""W-Well... I haven't leveled up at all recently, so 
  winning against me shouldn't be so difficult... Or
- it might actually be quite easy... That's why don't
- don't back, okay?"""
+ it might actually be quite easy... That's why please
+ don't hold back, okay?"""
 "…………何を？","...Hold back what?"
 "『う、うぁぁぁぁ！！
 　な、何でもないっす！何でもないっす！
@@ -1784,20 +1785,19 @@ slightly unexpected how heavily she valued strength."
 ""...Mmmh..."""
 "『あ、いらっしゃいませっす！
 　……その、この前の話はあんまり気にしないで欲しいっす。
-　あの時は私もてんぱってたというか…』","""Ah, welcome! ...Um, please don't think too deeply into
- our earlier talk. I was really clumsy with my words
- back then..."""
+　あの時は私もてんぱってたというか…』","""Ah, welcome! ...Um, please don't think too deeply
+ into our earlier talk. I mixed up my words there..."""
 "『…だ、だから、
 　普通に接してほしいっすよ！
-　これまで通りに、うん！』","""...T-That's why, please interact with me normally!
- Just like you've used to! Yes!"""
+　これまで通りに、うん！』","""...T-That's why, please continue interacting with me
+ normally! Just like you've always have! Yes!"""
 "<アル>
 『これまで通りー？
 　…まぁ、この子がそれでいいならそれでいいんだけど。
 　…………なんか、複雑な気分。』","<Al>
-""Just like we've used to? ...Well, I guess that fine
- if she's fine with it... But I'm feeling slightly
- complicated over it."
+""Just like we've always have? ...Well, I guess it's
+ fine if that's what she wants...  But it's making me
+ feel slightly complicated."""
 "EV008",""
 "『女将さんの料理、
 　食べるとなんだか力が湧いてくる気がするんだよね。
@@ -1915,32 +1915,50 @@ went upstairs."
  Let's show her your real power!"""
 "<桃香>
 『げっ、お兄さん。
-　なーに？桃香に何か用？』",""
+　なーに？桃香に何か用？』","<Momoka>
+""Geh... It's you. What? Do you have some business
+ with me?"""
 "桃香は貴方を見ると露骨に顔を歪め、
 そうそっけなく言葉を返した。
-…本当に反省、してるのだろうか…",""
+…本当に反省、してるのだろうか…","Momoka grimaced and bluntly said that the moment she
+saw you. It made you wonder if she's really reflecting
+on her actions."
 "<桃香>
 『……心配しなくても、
 　もうお貢ぎは誰からももらってないよ。
-　お兄さんの時みたいになったら嫌だし…』",""
+　お兄さんの時みたいになったら嫌だし…』","<Momoka>
+""...You don't need to worry about that. I'm not taking
+ money from anyone anymore. I don't want the same thing
+ happening again..."""
 "<桃香>
 『桃香は桃花で、
 　ちゃんとしてるもん。
-　……おかげで贅沢できなくなったけど。』",""
+　……おかげで贅沢できなくなったけど。』","<Momoka>
+""I've been properly behaving... And it's meant that
+ I've had to give up all the luxury..."""
 "桃香はいぶかしむ貴方に、
 ぶっきらぼうにそう伝えた。
-その桃香の言葉に貴方はほっとする。",""
+その桃香の言葉に貴方はほっとする。","Momoka bluntly said that before your suspicious gaze.
+Her confession made you feel relieved."
 "<アル>
 『男の人から好き放題お金を奪うなんて、
 　いつか危険な目に合っちゃいそうだしね！
-　うんうん、反省してくれてよかったよ♪』",""
+　うんうん、反省してくれてよかったよ♪』","<Al>
+""You're bound to get in danger one day if you keep
+ extorting money from others! It's a good thing that
+ she's reflecting on what she's done♪"""
 "<桃香>
 『げっ、お兄さん。
-　なに？桃香に何か用？』",""
+　なに？桃香に何か用？』","<Momoka>
+""Geh... It's you. What? Do you have some business
+ with me?"""
 "<桃香>
 『……心配しなくても、
 　もうお貢ぎは誰からももらってないから。
-　お兄さんの時みたいになったら嫌だし…』",""
+　お兄さんの時みたいになったら嫌だし…』","<Momoka>
+""...You don't need to worry about that. I'm not taking
+ money from anyone anymore. I don't want the same thing
+ happening again..."""
 "<桃香>
 『…なんですか？ご主人様。
 　桃香に何か用？』","<Momoka>
