@@ -875,381 +875,607 @@ it might not be bad idea to order the other dishes."
 　話したくなったらいつでも遠慮しないでね。』","""Oh... Okay. But if you want to talk, I'm always here."""
 "『真剣な顔してる。
 　ここ一番って勝負の時の男の顔ね。
-　近々、何かあるの？』",""
+　近々、何かあるの？』","""You're having a serious face like a man who's about
+ to have a crucial fight. Did something happen
+ recently?"""
 "貴方の目の前にお水が入ったコップを出しながら、
 女性はそう貴方に尋ねた。
 そんな女性に貴方は六花のこと、
-そのご主人様と戦うことを話した。",""
+そのご主人様と戦うことを話した。","When the owner said that and placed a cup of water in
+front of you, you told her about Rikka and how you're
+going to fight her master."
 "『負けちゃったら奴隷に……
 　それは、確かに真剣な表情にもなるわ……
 　よくあまり関係のない少女のために、
-　そんな条件で決闘を申し込んだわね。』",""
+　そんな条件で決闘を申し込んだわね。』","""Losing means turning into a slave... That certainly
+ explains your serious face. You're quite brave to
+ fight under those conditions for the sake of a girl
+ who you've just met."""
 "『その判断はすごく甘くて、もしかしたら他の人に、
-　ヒーロー願望と揶揄されるかもしれないことよ。』",""
+　ヒーロー願望と揶揄されるかもしれないことよ。』","""That decision might be quite naive. Other people might
+ make fun of you for playing a hero too."""
 "貴方の話を聞いて、
-女性はほうっとため息をつきながらそう告げる。",""
+女性はほうっとため息をつきながらそう告げる。","The owner said that with a deep sigh when she heard
+your story."
 "『…でも、
 　その子にとって救いとなるのは貴方しかいない。
-　貴方が勝てば、その子にとっての救いとなるのは事実。』",""
+　貴方が勝てば、その子にとっての救いとなるのは事実。』","""...However, you might be the only one who can save
+ that girl. It's a fact that you can save her by
+ winning the fight."""
 "『うん、かっこいいじゃない。
 　私は応援するわよ。
-　今日は私の料理でいっぱい気力をつけてちょうだいね。』",""
+　今日は私の料理でいっぱい気力をつけてちょうだいね。』","""Yes, it's quite cool. I'm going to be cheering for
+ you. Make sure to gain lots of energy by eating my
+ meal today."""
 "女性はニコリと笑顔で貴方をそう応援する。
-そんな彼女に貴方はありがとうと告げた。",""
+そんな彼女に貴方はありがとうと告げた。","When the owner supported your decision with a smile,
+you thanked her."
 "<アル>
 『えへへー♪
 　応援してくれる人がいるのは嬉しいよね！
-　負けないように頑張ろう！』",""
+　負けないように頑張ろう！』","<Al>
+""Ehehe♪ It's great knowing that there are people to
+ support you, right? Let's do our everything to win!"""
 "そう言うアルに貴方は頷き、
-改めて恭子との試合に気合を入れる。",""
+改めて恭子との試合に気合を入れる。","You nodded to Al and once more fired yourself up for
+Kyouko's match."
 "『そうそう、料理と言えば。
 　貴方が奴隷になっちゃうと、
-　常連さんが一人減っちゃうってことになるのよね。』",""
+　常連さんが一人減っちゃうってことになるのよね。』","""Speaking of cooking, I would lose one of my regulars
+ if you became a slave."""
 "『…………負けたら売り上げに響くわね。
 　うん、貴方には絶対に勝ってもらわないと。
-　頑張ってね、ほんとに応援してる。』",""
+　頑張ってね、ほんとに応援してる。』","""...Your loss would affect my sales. Yes, I need to
+ have you by any means necessary. Please do your best.
+ I'm going to seriously cheer you on."""
 "女性は思い出したようにそうつぶやくと、
 貴方を改めてそう応援する。
-そんな女性の商魂たくましい姿に苦笑してしまう。",""
+そんな女性の商魂たくましい姿に苦笑してしまう。","The owner muttered as such as if just realizing the
+importance of the situation and cheered you on once
+more. You ended smiling wryly before her business
+spirit."
 "『あら、笑い事じゃないわよ。
 　貴方だってもう私の料理が食べられなくなるなんて、
-　そんなの嫌でしょ？』",""
-"確かに嫌だ",""
-"それは別に大丈夫",""
+　そんなの嫌でしょ？』","""Hey, this isn't a laughing matter. You wouldn't
+ want to lose your chance to eat my cooking ever
+ again, right?"""
+"確かに嫌だ","Yes, you're right"
+"それは別に大丈夫","I don't really mind that"
 "『うん、そうよね。
 　ふふ♡嬉しいこと言ってくれるじゃない。
 　そんなこと言ってくれるなら、
-　こんな風に一品サービスしちゃおうかな♡』",""
-"そう言いながら女性は貴方の前に小皿を置く。",""
+　こんな風に一品サービスしちゃおうかな♡』","""Ehehe♡ I'm glad to hear that you think it's
+ important. Let me give you a single dish as extra
+ service for that♡"""
+"そう言いながら女性は貴方の前に小皿を置く。","The owner placed a small bowl in front of you."
 "『はい、牛すじ煮込み。
 　これを食べてしっかり活力を付けて、
-　次の試合に臨んで頂戴ね。』",""
+　次の試合に臨んで頂戴ね。』","""It's beef tendon stew. Eat it up to gain energy for
+ your match."""
 "『もちろん、
 　サービスだから料金はいらないわ。
-　こんな太っ腹な女将、他にはいないわよ？』",""
+　こんな太っ腹な女将、他にはいないわよ？』","""This is extra service, so I won't charge you for it.
+ You won't find another big-hearted restaurant owner
+ like me in the town, you know?"""
 "女性はウインクをしながらそう言う。
 自分でそんなことを言う女性に貴方は苦笑しつつ、
-感謝を告げながら小皿にはしを付けた。",""
+感謝を告げながら小皿にはしを付けた。","The owner gave you a wink after saying that. You
+couldn't help to smile wryly when the owner called
+herself big-hearted, but you said thanks and began
+eating the dish."
 "程よく味噌が絡められた牛すじは柔らかく、
 まるで口の中で溶けてしまうようだ。
-付け合わせの野菜にもうまみが溶け込んでいる。",""
+付け合わせの野菜にもうまみが溶け込んでいる。","The beef tendon was seasoned with the perfect amount
+of miso and was so soft that it nearly melted in your
+mouth. The vegetables in the dish were also overflowing
+with umami."
 "<アル>
 『んー♪美味しい！
-　こんなお肉ならいくらでも食べられちゃうね♪』",""
+　こんなお肉ならいくらでも食べられちゃうね♪』","<Al>
+""Mmmh♪ Delicious! I could keep eating such delicious
+ meat forever♪"""
 "アルも貴方と同時に口を付け、
 満面の笑みをこぼしている。
-確かにそうだとアルに同意しつつ、貴方ははしを進めた。",""
+確かにそうだとアルに同意しつつ、貴方ははしを進めた。","Al also took a bite with you, and her face turned into
+a full smile. You shared Al's impression of the dish
+and you ate the rest of it."
 "『お粗末さまでした。
 　お口に合ったようで何よりよ。
 　………ほんと、試合頑張ってね。
-　その食べっぷりが見れなくなると寂しいもの。』",""
+　その食べっぷりが見れなくなると寂しいもの。』","""I'm glad to see that the dish was to your taste.
+ ...Please do your best in the match. I'm going to
+ be lonely if I can't see you eating my dishes again."""
 "くすりと微笑んでそう告げる女性に、
-貴方は必ず勝ってまたここに来ると告げた。",""
+貴方は必ず勝ってまたここに来ると告げた。","When the owner said that with a smile, you declared
+that you're going to win and then come here again."
 "『ええ、それじゃ、
 　腕によりをかけて料理を作っててあげる。
 　待っててあげるから、勝ったら絶対よってよね。
-　もちろん、賞金を握りしめてね？♡』",""
+　もちろん、賞金を握りしめてね？♡』","""Yes. Then I'll start preparing an amazing dish
+ for you. I'm going to wait, so make sure to come
+ back when you win. And don't forget to bring your
+ prize money as well♡"""
 "総茶目っ気たっぷりに微笑む女性に、
-結局賞金が目当てなのかと貴方はそう苦笑する。",""
+結局賞金が目当てなのかと貴方はそう苦笑する。","When the owner playfully said that and smiled at you,
+you couldn't help smiling wryly once more since her
+aim seemed to be your prize money."
 "『いいえ、貴方が来ないと寂しいのは本当。
 　でもお金の話はまた別問題よ。
-　貴方が来ないと財布が寂しくなるのも本当だから。』",""
+　貴方が来ないと財布が寂しくなるのも本当だから。』","""No, it's true that I'll be lonely if you won't come
+ again, and the thing about money is a different thing.
+ Naturally, my wallet is going to be lonely too if you
+ don't come back."""
 "『ぜひ勝った後はたくさん料理を頼んで、
-　私の財布に貢献して頂戴ね。大切な大切な常連客さん♡』",""
+　私の財布に貢献して頂戴ね。大切な大切な常連客さん♡』","""Once you've won, please come eat my meals and
+ contribute to my wallet. My precious, precious
+ regular customer♡"""
 "<アル>
 『ふふ♪この人はそういう人だよね。でも、
 　いっぱい美味しい料理を食べさせてもらったのも事実だし、
-　……また、たくさん頼もうね♪』",""
+　……また、たくさん頼もうね♪』","<Al>
+""Ehehe♪ I guess this is just the way she is. But she's
+ indeed made a lot of delicious food for us until
+ now... That's why let's keep ordering more♪"""
 "そういうアルに貴方は頷き、
 女性に必ず勝った後に寄らせてもらうと告げた。
-その時にはたくさん注文する、とも。",""
+その時にはたくさん注文する、とも。","You nodded to Al and promised the owner that you would
+drop by after your victory and order a victory feast."
 "『ええ、楽しみに待ってるわね。
 　それじゃ、試合頑張って。
-　食べたりないなら追加で注文していいから♡』",""
+　食べたりないなら追加で注文していいから♡』","""Yes, I'm going to be waiting for you. Then do your
+ best in the match. If you're still feeling hungry,
+ you can also order something right now too♡"""
 "そういう女性に貴方は笑い、
 必ず勝った後に寄らせてもらうと告げた。
-その時にはたくさん注文する、とも。",""
+その時にはたくさん注文する、とも。","You smiled at the owner and promised her that you would
+drop by after your victory and order a victory feast."
 "『あ、ひどい。
 　この思いは私の一方通行だったのね。
-　そんなお客さんなんて知らないんだから。』",""
+　そんなお客さんなんて知らないんだから。』","""Ah, how cruel. Then this feeling I had was one-sided.
+ I'm not going to remember such a customer anymore."""
 "『あーあ、せっかくこの牛すじ煮込み…
 　応援としてサービスしてあげようと思ってたんだけどなー。
-　食べたくないって言うなら、別に要らないわよね？』",""
+　食べたくないって言うなら、別に要らないわよね？』","""Aa-ah, how regrettable... I was even thinking of
+ serving you beef tendon stew as an extra service
+ to support you. But it's not like you need it since
+ you said you don't want to eat my dishes, right?"""
 "女性はわざとらしくそう言いながら、
 ことりと貴方の前に小皿を置く。
-そこからは甘辛いようないい香りが漂っていた。",""
+そこからは甘辛いようないい香りが漂っていた。","The owner purposefully said that while putting a small
+bowl in front of you. A sweet and spicy aroma drifted
+from it."
 "<アル>
 『………じゅるり♪
 　ねぇ、早く謝ろうよ！
-　そしたら食べさせてもらえるかもしれないよ！』",""
+　そしたら食べさせてもらえるかもしれないよ！』","<Al>
+""...Slurp♪ Hey, \n[1]! Hurry and apologize!
+ She might still let us eat that if you do!"""
 "これまでの料理で胃袋をつかまれたアルが、
 貴方にそう促す。
-貴方自身も目の前の料理に思わずはしが伸びそうになる。",""
+貴方自身も目の前の料理に思わずはしが伸びそうになる。","Al prompted you to apologize since the owner already
+had caught hold of her stomach with the dishes until
+now. You were also about to unconsciously reach for
+the dish with your chopsticks."
 "これまでの料理の味から、
 目の前の小皿の中の料理も絶品だろうと予想がつき、
-貴方は思わず小皿にはしをのばしてしまいそうになる。",""
+貴方は思わず小皿にはしをのばしてしまいそうになる。","Based on all the dishes you've eaten here, you could
+expect the dish in front of you to be another
+masterpiece. You couldn't help unconsciously reaching
+for the dish with your chopsticks."
 "『だーめ♡
 　酷いことを言うお客さんには食べさせてあげない。
-　私の料理が食べられなくても別にいいんでしょ？』",""
+　私の料理が食べられなくても別にいいんでしょ？』","""Nope♡ I won't let a customer who says such horrible
+ things to eat this. It's not like you wanted to eat
+ it anyway, right?"""
 "寸前で小皿を取り上げた女性は、
 にまにまと意地悪気な笑みを浮かべながら、
-貴方にそう告げる。",""
+貴方にそう告げる。","The owner picked up the bowl and said that with a mean
+smile."
 "『ふふ♡
 　食べたいならちゃんと私の料理が食べたいって、
-　そう言ってもらわないと。ほら、どうなの？』",""
+　そう言ってもらわないと。ほら、どうなの？』","""Ahaha♡ If you want to eat my dishes, then you need
+ to properly say that you do♡ So, how will you say
+ it?"""
 "にまにまと意地悪気な笑みを浮かべたまま、
 女性は貴方にそう返事を促す。
-そんな彼女に貴方は食べたいとそう告げた。",""
+そんな彼女に貴方は食べたいとそう告げた。","When the owner prompted you to reply with a mean smile,
+you confessed how you wanted to eat her dishes."
 "『はい、よろしい♡
 　それじゃ、食べさせてあげる。
-　貴方を応援するための料理、召し上がれ。』",""
+　貴方を応援するための料理、召し上がれ。』","""Yes, that's good♡ Then you can eat this. It's a dish
+ I made to support you, so eat up♡"""
 "貴方の言葉にくすりと破顔させた女性は、
 改めて小皿を貴方の前におく。
 子供っぽい女性の態度に苦笑しながらも、
-貴方はその小皿にはしをつけた。",""
+貴方はその小皿にはしをつけた。","Your reply made the owner's face turn into a wide smile,
+and she placed the bowl back in front of you. You
+couldn't help smiling slightly wryly at her childish
+attitude as you reached for the dish."
 "<アル>
 『わーい♪やっと食べられる！
 　ん………もぐ………ごくん………
-　んー♪美味しい！！』",""
+　んー♪美味しい！！』","<Al>
+""Yay♪ We finally get to eat it! Mmmm... Munch...
+ Delicious!"""
 "『お粗末さまでした。
 　ふふ♡ほんと美味しそうに食べてくれるわよね。
-　その食べっぷり、見てると嬉しくなるわ。』",""
+　その食べっぷり、見てると嬉しくなるわ。』","""Ahaha♡ Looks like you're really enjoying it♡
+ I'm happy to see you eat with such gusto♡"""
 "『それがもう見れなくなると少し寂しいかも。
 　こうして意地悪したり、
-　じゃれあうのも結構気に入ってるしね。』",""
+　じゃれあうのも結構気に入ってるしね。』","""I might get a bit lonely if I can't see that again.
+ I've also taken liking of slightly playing with you."""
 "貴方の食べっぷりを見ながら、
 女性はくすくすと笑ってそう言葉を漏らす。
-そんな彼女に貴方は少し照れ臭さを感じてしまう。",""
+そんな彼女に貴方は少し照れ臭さを感じてしまう。","The owner said that with a smile while watching you
+eat. You felt slightly embarrassed over it."
 "『あら、照れてるの？
 　意外なところで初心なのね。
-　それじゃ、もっと伝えてみましょうか。』",""
+　それじゃ、もっと伝えてみましょうか。』","""Oh? Are you getting embarrassed? You're innocent at
+ unexpected places. Then perhaps I'll tell you more
+ how I feel♡"""
 "『私は貴方が美味しそうに食べれくれるのが好きで、
 　どこか甘さの残る貴方の行動が好きで、
-　たまに意地悪したり意地悪されたりするのが好きよ。』",""
+　たまに意地悪したり意地悪されたりするのが好きよ。』","""I like seeing how you eat my dishes like they're the
+ most delicious thing ever. I like how you're slightly
+ naive. I like slightly toying with you."""
 "女性は貴方の顔をじっと見つめながら、
 愛を囁くように唇からそう言葉を紡ぐ。
-彼女のそのトーンに貴方の顔はみるみる赤くなってしまう。",""
+彼女のそのトーンに貴方の顔はみるみる赤くなってしまう。","The owner started speaking in a whisper as if
+confessing love while staring into your eyes. 
+Her tone made your cheeks quickly get hot and blushing."
 "『ふふ♡可愛い顔♡
 　好き好きって言われたらドキドキしちゃうのね。
-　これは、貴方の弱点発見かな？』",""
+　これは、貴方の弱点発見かな？』","""Ahaha♡ That's such an adorable face♡ Your heart
+ started racing when I said how much I like you, right?
+ Looks like I've discovered one of your weak points♡"""
 "そんな貴方をからかうように、
 女性はにやにやと笑みを浮かべる。
-そんな彼女に貴方は抗議の視線を送った。",""
+そんな彼女に貴方は抗議の視線を送った。","The owner grinned at you like the whole thing was meant
+to tease you. That made you glare back at her in
+protest."
 "『……少しからかいすぎた？
 　ごめんなさい、つい楽しくて。
 　…こんな風なやり取り、またしたいもの。
-　負けて奴隷になんかならないでよね。』",""
+　負けて奴隷になんかならないでよね。』","""...Oh, did I go too far with the teasing? Sorry,
+ it ended up being a bit too much fun... I want to
+ keep us having this kind of back-and-forth too.
+ Please don't go losing and becoming a slave, okay?"""
 "貴方の抗議の視線に女性は謝罪すると、
 そう貴方にエールを送る。
-貴方はそんな彼女にもちろん負けない、とそう返した。",""
+貴方はそんな彼女にもちろん負けない、とそう返した。","The owner apologized before your glare and then cheered
+for you. You told her that you weren't going to lose."
 "『うん、それならいいのよ。
 　腕によりをかけて料理を作って待ってるから、
-　賞金握りしめて私の店に来てちょうだいな♡』",""
+　賞金握りしめて私の店に来てちょうだいな♡』","""Yes, that's good. I'm going to put all my skills into
+ my dishes while waiting for your return. So make sure
+ to come back to my shop with the prize money♡"""
 "<アル>
 『…うん！\n[1]、勝って、
-　ここでたくさん美味しいご飯食べようね♪』",""
+　ここでたくさん美味しいご飯食べようね♪』","<Al>
+""...Yeah! \n[1], let's win and then come
+ here to eat a victory feast♪"""
 "そういうアルに貴方は頷き、
-楽しみにしていると女性に告げた。",""
+楽しみにしていると女性に告げた。","You nodded to Al and told the owner that you were
+looking forward to it."
 "そう告げる女性に、
-貴方は楽しみにしているとそう告げた。",""
+貴方は楽しみにしているとそう告げた。","You told the owner that you were looking forward to it."
 "『あら、そうなの。
 　ちょっとお話が聞きたかったのだけれど。
-　まぁ無理強いはよくないわよね。』",""
+　まぁ無理強いはよくないわよね。』","""Oh. I kind of wanted to hear your story...
+ But I guess there's no forcing it."""
 "『珍しくにやにやとして…
-　どうしたの？何かいいことがあったの？』",""
+　どうしたの？何かいいことがあったの？』","""You're smiling quite a lot today... Did something
+ good happen?"""
 "貴方の目の前にお水が入ったコップを出しながら、
 女性はそう貴方に尋ねた。
 そんな女性に貴方は恭子とお互い奴隷になるという条件で、
-コロシアムで試合をすることを伝えた。",""
+コロシアムで試合をすることを伝えた。","When the owner said that and placed a cup of water in
+front of you, you told her how you challenged Kyouko
+to a match with the bet that the loser will become
+the other's slave."
 "『…………え？そう、奴隷に……なるほど、
 　勝った後のことを考えてそんな顔をしていたわけね。
-　でも、まだ気が早いんじゃない？』",""
+　でも、まだ気が早いんじゃない？』","""...Eh? With slavery as a bet? So you must have been
+ smiling while thinking about what happens when you
+ win. But isn't it a bit too early to think of that?"""
 "『まだ試合も終わってないんだし、
 　こんなところで油を売ってないで……
-　試合の準備をした方が良いと思うんだけど……』",""
-"勝つから問題ない",""
-"景気づけだから問題ない",""
+　試合の準備をした方が良いと思うんだけど……』","""The match isn't over yet... And I think you should be
+ getting ready instead of loafing around here."""
+"勝つから問題ない","I'm going to win so there's no problem"
+"景気づけだから問題ない","I've prepared so there's no problem"
 "『…そう、
 　それなら私が何かいうのはお門違いね。
-　このお店でぜひ楽しんでいって頂戴。』",""
+　このお店でぜひ楽しんでいって頂戴。』","""...I see. Then it's not my place to say anything
+ about that. Please enjoy your time in my restaurant."""
 "女性はにこりと笑顔でそう告げる。
 色気を含んだ笑顔であったが、
-どこか初めて見るような笑顔だった。",""
+どこか初めて見るような笑顔だった。","The owner said that with a smile. The sexy smile she
+showed you wasn't something you had seen from her
+before."
 "『今日の料理は…………揚げ物よ。
-　ゲン担ぎにかつ丼でも食べていく？』",""
+　ゲン担ぎにかつ丼でも食べていく？』","""Today's meal is... Deep-fried food. Why not eat 
+ katsudon bowl to bring you good luck?"""
 "『おめでとう、
 　その嬉しそうな顔は…試合に勝てたのよね？
-　ふふ♡私まで嬉しくなっちゃうわ。』",""
+　ふふ♡私まで嬉しくなっちゃうわ。』","""Congratulations. Your happy face means that you won
+ the match, right? Ahaha♡ I'm so happy for you."""
 "女性はそう言いながら、
-貴方の注文前に飲み物や食べ物を貴方の前に並べていく。",""
+貴方の注文前に飲み物や食べ物を貴方の前に並べていく。","After saying that, the owner started placing food and
+drink in front of you before you could even order."
 "『……え？まだ何も頼んでない？
 　あら、この前言ってたじゃない。
-　賞金でたくさん注文してくれるって♡』",""
+　賞金でたくさん注文してくれるって♡』","""...Eh? You didn't order anything yet?
+ Oh, but didn't you say before that you're going
+ to order a lot of food with the prize money?♡"""
 "『貴方のためにたくさん作っておいたんだから、
 　しっかり食べてうちにお金を落としていってよね。
-　賞金、残ってるんでしょ？』",""
+　賞金、残ってるんでしょ？』","""I've prepared a feast for you, so make sure to eat it
+ all and pay for it too. You haven't spent all the
+ prize money yet, right?"""
 "くすくすと女性は笑いながら、
 料理を並べていく。
 以下にも高級そうなお皿に盛りつけられたそれは、
-値段を想像しただけで冷や汗が出てきそうになる。",""
+値段を想像しただけで冷や汗が出てきそうになる。","The owner giggled while continuing to place more food
+in front of you. Some of the dishes looked high-class
+and just imagining their price made you break into a
+cold sweat."
 "『……なんてね。冗談よ、冗談。
 　これは貴方の祝勝会、お代なんていらないわ。
-　遠慮せずに食べてね。』",""
+　遠慮せずに食べてね。』","""...I'm just kidding. This is your victory feast, so
+ I won't charge money for it. You can start eating
+ without reservations."""
 "貴方のその反応を見て、
 女性はくすりと悪戯が成功したような笑みを浮かべ、
-そう言葉を続けた。",""
+そう言葉を続けた。","The owner followed by saying that it was a joke with a
+teasing smile after seeing her prank succeed from your
+reaction."
 "<アル>
 『び、びっくりした～！
 　賞金なくなっちゃうかと思ったよね……
-　…ふふ♪無料なら遠慮なく食べちゃおうよ！』",""
+　…ふふ♪無料なら遠慮なく食べちゃおうよ！』","<Al>
+""T-That gave me the scare! I was sure we were going to
+ lose all the prize money to this... Ehehe♪ But since
+ it's free, let's dig right in!"""
 "アルは現金なもので、
 目の前に並べられた料理に目を輝かせ始めた。
-そんなアルに貴方は苦笑する。",""
+そんなアルに貴方は苦笑する。","Al was a self-centric girl, so her eyes started
+sparkling at all the dishes in front of her.
+You watched her sudden shift in attitude with a wry
+smile."
 "しかし、並べられた料理は高そうなものばかりだ。
-本当に無料で食べていいのかと、貴方は女性にそう尋ねた。",""
+本当に無料で食べていいのかと、貴方は女性にそう尋ねた。","However, the feast before you looked really expensive,
+so you asked the owner if it was really alright to it
+all for free."
 "『ええ、遠慮なく召し上がれ。
 　…実は、私もスカッとしちゃって。
-　貴方が戦った相手、結構悪評が多いのよね。』",""
+　貴方が戦った相手、結構悪評が多いのよね。』","""Yes, don't hold back and eat up... The thing is,
+ I've also had a weight lifted from my shoulders.
+ The opponent you fought today has many bad rumors
+ surrounding her."""
 "『いつもそばにいる子はかわいそうだったし…
 　貴方が助けてくれたこと、感謝しているの。
-　だからその分のお礼を含めたごちそうよ。』",""
+　だからその分のお礼を含めたごちそうよ。』","""I've always felt sorry for the girl who's always
+ following her... And I wanted to thank you for saving
+ her. That's why you can eat this for free."""
 "貴方の質問に女性はにこりと笑ってそう答える。
-そういうことなら遠慮なくいただこう。",""
+そういうことなら遠慮なくいただこう。","The owner answered your question with a bright smile.
+Now that you understood the reason, you stared eating
+without holding back.
+"
 "<アル>
 『えへへー♪
 　いいことしたらやっぱり、
-　ご褒美が待ってるんだね！いただきまーす♡』",""
+　ご褒美が待ってるんだね！いただきまーす♡』","<Al>
+""Ehehe♪ There's always a reward waiting after doing
+ a good deed, right? Let's dig in♡"""
 "<アル>
 『～～～！美味しー♪
-　すっごく美味しいよ、\n[1]！』",""
+　すっごく美味しいよ、\n[1]！』","<Al>
+""~~~! Delicious♪ It's the most delicious thing I've
+ ever eaten, \n[1]!"""
 "アルは目を輝かせながら料理を口に含む。
 そんな彼女の姿を微笑ましく見ながら、
-貴方自身も料理にはしをつけた。",""
+貴方自身も料理にはしをつけた。","Al began stuffing food in her mouth with sparkling
+eyes. You watched that sight with a smile and decided
+to try the food too."
 "栄養バランスが考えられた料理は、
 そのどれもが絶品だった。
 野菜は新鮮そのもので、肉は容易く嚙み切れるほど柔らかい。
-女性の手料理に貴方は舌鼓をうつ。",""
+女性の手料理に貴方は舌鼓をうつ。","All the dishes were works of art with balanced
+nutritional values. The vegetables were fresh and
+the meat was tender to easily bite through. You
+couldn't help smacking your lips at all the dishes."
 "貴方の最大HPが10上がった！
 貴方の最大MPが2上がった！
 貴方の攻撃力が1上がった！
-貴方の防御力が1上がった！",""
+貴方の防御力が1上がった！","Your MAX HP increased by 10!
+Your MAX MP increased by 2!
+Your ATK increased by 1!
+Your DEF increased by 1!"
 "貴方の魔法力が1上がった！
-貴方の敏捷性が1上がった！",""
+貴方の敏捷性が1上がった！","Your MATK increased by 1!
+Your AGI increased by 1!"
 "『お粗末さまでした。
 　改めておめでとう、これで3人目……
-　もう先に進めるようにはなったのよね？』",""
+　もう先に進めるようにはなったのよね？』","""I'm glad it was to your tastes. Let me congratulate
+ you once more. That was your third win at the arena,
+ right? Now you can advance past the town."""
 "『貴方はどうするの？
 　しばらくこの街にとどまる？
-　それとも、すぐに先に進んじゃう？』",""
-"しばらくとどまる",""
-"すぐに先に進む",""
+　それとも、すぐに先に進んじゃう？』","""What is your plan? Are you going to stay in the town
+ for a while or advance straight away?"
+"しばらくとどまる","Stay for a while"
+"すぐに先に進む","Head onwards"
 "『ふふ、そうなのね。
 　もうこれが最後なんじゃないかって、
-　少し寂しくなっちゃってたわ。』",""
+　少し寂しくなっちゃってたわ。』","""Ahaha. Is that so? I was starting to get a bit lonely
+ thinking that this might be the last time we see."""
 "『それじゃ、
 　またうちにきてくれるって思っていいのよね？
-　売り上げへの貢献にも期待しちゃおっかな～♡』",""
+　売り上げへの貢献にも期待しちゃおっかな～♡』","""But with that, I can think that you're going to drop
+ by again, right? Maybe I can expect you to contribute
+ to the sales too♡"""
 "女性は柔らかく微笑むと、
 悪戯っぽく笑ってそう告げる。
-そんな彼女に貴方は期待してくれていい、とそう返した。",""
+そんな彼女に貴方は期待してくれていい、とそう返した。","After watching you with a gentle smile, the owner added
+in a slight tease. You clearly said to her that she can
+expect that."
 "『そうよね、コロシアムで3勝したってことは、
 　貴方もこの街ではかなり上位の実力者……
-　ってことになるものね。稼ぎにも期待していいかも。』",""
+　ってことになるものね。稼ぎにも期待していいかも。』","""Yes... Now that you've won 3 matches in the arena,
+ it can be said that you're among the top of the town.
+ I'm sure that your earnings will also be among the
+ top."""
 "『…もしかして、
 　ヴァンガードになるつもりだったり、する？
-　多分貴方なら入団もできるだろうし……』",""
-"なるつもりはない",""
-"なってみてもいいかも",""
+　多分貴方なら入団もできるだろうし……』","""...Could it be that you were planning to join the
+ Vanguard? They would surely accept someone of your
+ level."""
+"なるつもりはない","I'm not planning on joining"
+"なってみてもいいかも","I guess I could try"
 "『そう、ちょっと安心したわ。
 　……私、バンガードってあんまり好きじゃないのよね。
-　うちのお店にくるときもいつも偉そうだし…』",""
+　うちのお店にくるときもいつも偉そうだし…』","""Oh. That's relieving. You see... I don't like the
+ Vanguard. They act so self-important even when they
+ come to eat at my shop."""
 "『それに貴方が助けた子のことだって、
 　見てみぬふりをしてたわけじゃない？
 　その子だけじゃない。彼らに見捨てられてる人も、
-　結構多かったりするのよ。』",""
+　結構多かったりするのよ。』","""Also, they turned a blind eye to the girl you saved,
+ right? And it's not just her either. There have been
+ many people in need that they've abandoned."""
 "『だから、あんまり私は好きじゃないの。
 　…………あ、この話はオフレコでね？
-　こんなこと言って目を付けられちゃったら困るし。』",""
+　こんなこと言って目を付けられちゃったら困るし。』","""That's why I don't like them... Ah, can we keep this
+ story off-the-record? I wouldn't like to have their 
+ eyes on me."""
 "そう貴方に顔を近づけて声を潜める女性に、
-貴方はこくり頷いた。",""
+貴方はこくり頷いた。","You nodded to the owner as she quietly spoke close
+to you."
 "<アル>
 『正義の味方も、
 　みんなから好かれてるわけじゃないんだね…
-　でも、ちょっとこの人の話も分かるかも…』",""
+　でも、ちょっとこの人の話も分かるかも…』","<Al>
+""Even the allies of justice have their haters...
+ But I can see where this person is coming from."""
 "『そう……まぁ、
 　それが順当な選択肢よね。
-　……出来れば貴方には選んでほしくなかったけど。』",""
+　……出来れば貴方には選んでほしくなかったけど。』","""I see... Well, that's also a reasonable choice...
+ But I wouldn't like you to join the if possible."""
 "愁いを帯びた顔で彼女はそうほうっとため息をつく。
-その意外な反応に、貴方は訳を尋ねた。",""
+その意外な反応に、貴方は訳を尋ねた。","The owner sighed with a sad face after saying that.
+You hadn't expected her to say something like that
+and asked for the reason for it."
 "『…………実は私、
-　個人的にバンガードはあまり好きじゃなくて……』",""
+　個人的にバンガードはあまり好きじゃなくて……』","""...The thing is, I don't personally really like the
+ Vanguard."""
 "『もちろん、良い団員がいるのは確かよ？
-　でも横暴な態度を取る人も多いし……』",""
+　でも横暴な態度を取る人も多いし……』","""Of course, there are also good people among their
+ members, but many of them take a really high-handed
+ attitude..."""
 "そこまで憂い顔で呟いた女性は、
-はっと顔を明るくしてごまかすように笑う。",""
+はっと顔を明るくしてごまかすように笑う。","The owner showed a really sad face as she spoke about
+the issue, but then her face brightened up as if to
+change the topic."
 "『ごめんなさい、
 　こんなこというとせっかくの貴方の意志に、
-　水を差しちゃうわよね。』",""
+　水を差しちゃうわよね。』","""Sorry. Talking about that would dampen your intention
+ of joining."""
 "『貴方ならきっといい団員になれる。
 　うん、そしたらバンガードの印象も、
-　私の中で変わるかもしれないわ。』",""
+　私の中で変わるかもしれないわ。』","""I'm sure that you would become a good member.
+ Yes, then my internal image of the Vanguard might
+ change for the better too."""
 "<アル>
 『正義の味方も、
 　みんなから好かれてるわけじゃないんだね…
-　良い人たちだ、って思うんだけど…』",""
+　良い人たちだ、って思うんだけど…』","<Al>
+""It's not like everyone likes the allies of justice...
+ I thought that all of them would be good people..."""
 "アルは正義の味方に憧れているのか、
 そう言葉を漏らす。
-しかし、完全に女性の意見を否定はできないようだ。",""
+しかし、完全に女性の意見を否定はできないようだ。","Al seemed to be a fan of allies of justice as she
+muttered that. However, she couldn't out right deny
+the owner's viewpoint."
 "『私からふっておいて悪いのだけれど、
 　この話はここまでにしておきましょうか。
-　せっかくのお祝いの席でごめんなさいね。』",""
+　せっかくのお祝いの席でごめんなさいね。』","""I'm the one who brought it up, but can we leave this
+ topic here? Sorry for bringing up a sad topic when
+ it's time to celebrate."""
 "『さ、ここからは楽しい話をしましょう。
-　そうね～、試合のこととか聞かせてもらえる？』",""
+　そうね～、試合のこととか聞かせてもらえる？』","""Now, let's talk about something more fun. Let's see...
+ Can you tell me how the match went down?"""
 "それから貴方は、
 試合での武勇伝などを少し脚色して語る。
 貴方の話に女性は素直な反応を返し、
-楽しい時間を過ごした。",""
+楽しい時間を過ごした。","From there on, you began to talk about your tale of the
+match with slight dramatization. You had a fun time as
+the owner listened in and reacted to the action."
 "『あら、それは寂しくなるわね。
-　私の心情的にも、このお店の懐的にも。』",""
+　私の心情的にも、このお店の懐的にも。』","""Oh, that's going to be a sad thing. Both from the
+ viewpoint of my feelings and the shop's earnings."""
 "貴方の返答を聞き、
-女性はくすくすと冗談っぽくそう笑う。",""
+女性はくすくすと冗談っぽくそう笑う。","The owner jokingly laughed after your reply."
 "『でも、せっかく3つ証を集めたんだもの。
-　先に進みたくなる気持ちは分かるわ。』",""
+　先に進みたくなる気持ちは分かるわ。』","""But I can understand why you would want to advance
+ further after earning the three medals."""
 "『……気を付けてね？
 　あの館の中に入って、
-　この街に帰ってきた人はいないの。』",""
+　この街に帰ってきた人はいないの。』","""...Make sure to be careful. There isn't a single
+ person who has returned to the town after entering
+ the mansion."""
 "『多分、
 　館の中から戻れないようになってるんだと思うわ。
-　先に進むなら、準備は怠らないようにね。』",""
+　先に進むなら、準備は怠らないようにね。』","""It's likely that it's impossible to return from
+ there. Only go in after you're fully prepared."""
 "そう忠告する女性に貴方は頷いた。
 館に入れば街に入れない可能性が高い…
-それは覚えておこう。",""
+それは覚えておこう。","You nodded at the owner's advice and noted down that
+you were unlikely to return to the town after entering
+the mansion."
 "『…そうなると、
 　これで貴方の話すのは最後……
-　ということになるのかしら。やっぱり少し寂しいわね。』",""
+　ということになるのかしら。やっぱり少し寂しいわね。』","""...With that, this might be the last time we meet.
+ It's making me feel a bit lonely."""
 "『思い残すことがないよう、
 　まだまだたくさん食べていって？
-　今度は送別会をしましょう♡』",""
+　今度は送別会をしましょう♡』","""Make sure to eat a lot of my food you won't regret
+ missing out on it. We can even have a farewell
+ party♡"""
 "『まぁさすがに、
 　ここからは有料になっちゃうけれど。
-　私もそこまでサービスはしてあげられません♡』",""
+　私もそこまでサービスはしてあげられません♡』","""But you would have to pay that from your pocket.
+ I can't go out giving up too much extra service for
+ free♡"""
 "<アル>
 『……じゅるり。
 　もう食べられないなら……
-　今のうちにたくさん食べておこうよ！！』",""
+　今のうちにたくさん食べておこうよ！！』","<Al>
+""...Slurp. If we can't eat her food after going into
+ the mansion, then we should eat a lot while we still
+ can!"""
 "アルは女性の言葉にすっかり乗せられたようで、
 舌なめずりをしながら食べる気満々でいる。
-………やっぱり、賞金は残らないんじゃないだろうか。",""
+………やっぱり、賞金は残らないんじゃないだろうか。","Al got on board with the owner's suggestion as she
+was brimming with gluttony and licking her lips.
+That made you ponder how long can your prize money
+last.
+"
 "『…ふふ♡
 　食べたいものがあったら何でも言ってね。
-　なるべくリクエストに応えてあげるわよ。』",""
+　なるべくリクエストに応えてあげるわよ。』","""...Ahaha♡ If there's something you want to eat,
+ just tell me. I'll try to fulfill any request to
+ the best of my ability."""
 "『えー、ひどいじゃない。
 　試合には勝ったんでしょ？
-　お話くらい聞かせて欲しいわ。』",""
+　お話くらい聞かせて欲しいわ。』","""Eh! Please don't leave me out like that. You won the
+ match, didn't you? Let me hear how it went down."""
 "『いらっしゃい。
-　何か食べていく？』",""
+　何か食べていく？』","""Welcome. Would you like to eat something?"""
 "『分かったわ。
-　料理が食べたくなったら私に話しかけてちょうだいね。』",""
+　料理が食べたくなったら私に話しかけてちょうだいね。』","""Okay. Just tell me if you want to eat something."""
 "EV005",""
 "『ここはな、
 　美人の女将がいる俺の癒しなんだ……

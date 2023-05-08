@@ -87,10 +87,10 @@ Defeating a normal monster for the first time will make
 their card drop."
 "カードを使用すると、対応するモンスターの演出をカットし、
 能力を大幅に弱体化できます。
-さらに得られる経験値は変化しません。","You can use the cards to skip the attack text and
+さらに得られる経験値は変化しません。","You can use the cards to remove combat lines and
 greatly weaken the corresponding monster.
-Note: The experience gained from the monsters will
-always the same regardless of the setting."
+(Experience gain will remain the same regardless of
+ the setting)"
 "また、簡易戦闘を自動化するかどうかも決定できます。","You can also activate auto-fight for the monster with
 their card."
 "カードは使用しても消費しないので、
@@ -100,9 +100,9 @@ with their settings any time you want to."
 戦闘スキップ機能の切り替えが可能になります。
 戦闘スキップ機能をonにすると、
 敵シンボルに触れるだけで経験値が手に入る様になります。","Furthermore, you can also turn on Battle Skip against
-monster you have a card for from Key Items.
-When turned on, you'll earn experience by touching the foe
-on the map."
+the monsters you have a card for from Key Items.
+When turned on, you'll earn experience by touching the
+foes on the map."
 "<小悪魔A>
 『んふー♡人間さん、もう動けないの？
 　私の勝ちだねー♡』","<Imp A>
@@ -402,7 +402,10 @@ out."
  I'll give you plenty of more kisses♡"""
 "カードを使うと、対応するモンスターの演出をカットし、
 また能力を大幅に弱体化できます。
-その上で得られる経験値は変化しません。",""
+その上で得られる経験値は変化しません。","You can use the cards to remove combat lines and
+greatly weaken the corresponding monster.
+(Experience gain will remain the same regardless of
+ the setting)"
 "\{\{-----GAME OVER-----",""
 "EV002",""
 "EV005",""
@@ -935,7 +938,7 @@ with your mind in a jumble of arousal and humiliation."
 　おちんぽ固くなってシコシコで気持ちよくなっちゃう♪』","<Karen>
 ""You can't stop stroking yourself even when it's just
  my shoe♪ It absolutely stinks, but your dick is still
- getting rock hard from it♪"""
+ getting rock-hard from it♪"""
 "<可憐>
 『\n[1]君って、
 　ほんとにどうしようもない変態なんだね♪
@@ -1017,9 +1020,9 @@ all the more humiliated."
 "<可憐>
 『じゃ、私はマッサージの続きをしてるね。
 　弱くなっちゃったけど、これからも頑張って？』","<Karen>
-""Well then, I still have spots to massage so I'll stay here
- for a bit. \n[1], you may have ended up
- a bit weaker, but work hard and don't die okay, okay?"""
+""Well then, I still have spots to massage so I'll stay
+ here for a bit. You may have ended up a bit weaker,
+ but work hard and don't die okay, okay?"""
 "<アル>
 『\n[1]……その、
 　マゾなのは悪いことじゃないと思うよ？』","<Al>

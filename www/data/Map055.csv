@@ -13,1015 +13,603 @@
 "<店員>
 『いらっしゃいませ♪何かご入用ですか？』","<Shopkeeper A>
 ""Welcome♪ Would you like to buy something?"""
-"お金、もってないんだけど","I don't have money"
-"特に用はないです","Not really"
+"お金、もってないんだけど",""
+"特に用はないです",""
 "<店員>
 『あ、ビギナーのお客様ですね。
 　ご安心ください♪
-　当店では買い取りのサービスも行っております。』","<Shopkeeper A>
-""Ah, you must be a beginner. Please don't worry.
- We also do purchases from adventurers in exchange
- for money."""
+　当店では買い取りのサービスも行っております。』",""
 "<店員>
 『特に売れそうなものも持っていないと…
 　いえいえ、大丈夫です♪
-　何も、有形のものである必要はありませんので♪』","<Shopkeeper A>
-""Oh? You don't have anything to sell? No, no♪
- That's not true♪ What we buy from adventurers
- isn't specifically any item♪"""
+　何も、有形のものである必要はありませんので♪』",""
 "<店員>
 『貴方のレベルを売ってください♪
-　溜めた経験値に応じて、相応の金額をお渡ししますよ？』","<Shopkeeper A>
-""You can sell us your levels♪ We'll provide you a
- fitting sum for the experience you've saved up♪"""
+　溜めた経験値に応じて、相応の金額をお渡ししますよ？』",""
 "<店員>
 『それ以外にお金を得る方法、ですか？
-　いえ、現時点ではありません♪』","<Shopkeeper A>
-""Oh? Are there any other ways to earn money?
- I'm sorry to inform you but there isn't any other
- way♪"""
+　いえ、現時点ではありません♪』",""
 "<店員>
 『有用なアイテムは、冒険に不可欠ですよ？
-　ぜひご検討ください♪』","<Shopkeeper A>
-""Items are essential for adventurers, so please
- consider using our services by all means♪"""
-"どうやらレベルを差し出すしかお金を得る方法はないようだ","You found out that the only way to earn money in this
-game is to sell your levels in exchange for it."
+　ぜひご検討ください♪』",""
+"どうやらレベルを差し出すしかお金を得る方法はないようだ",""
 "<アル>
 『レベルとアイテム、どっちをとるか……
-　ん～！難しいね！』","<Al>
-""Needing to choose between levels and items...
- Hmm... That's difficult!"""
+　ん～！難しいね！』",""
 "<店員>
-『またのご利用をお待ちしております♪』","<Shopkeeper A>
-""I'll be waiting for your next visit♪"""
+『またのご利用をお待ちしております♪』",""
 "<店員>
 『いらっしゃいませ♪
-　どのようなご用件でしょうか？』","<Shopkeeper A>
-""Welcome♪ How may I help you?"""
-"レベルの買取をお願いしたい","Level Exchange Service"
-"アイテムを買いたい","Item Shop"
+　どのようなご用件でしょうか？』",""
+"レベルの買取をお願いしたい",""
+"アイテムを買いたい",""
 "<店員>
-『レベルの買取ですね♪かしこまりました♡』","<Shopkeeper A>
-""Level exchange service? Understood♪"""
-"店員は笑顔でそう言うと、貴方にゆっくりと顔を近づける。","After saying that, the shopkeeper slowly approached
-you."
+『レベルの買取ですね♪かしこまりました♡』",""
+"店員は笑顔でそう言うと、貴方にゆっくりと顔を近づける。",""
 "<店員>
 『何をするのか、って………
-　お客様も本当は分かっているんじゃないですか？』","<Shopkeeper A>
-""What am I about to do? I'm sure you already know that,
- Mr. Player."""
+　お客様も本当は分かっているんじゃないですか？』",""
 "店員は至近距離で貴方の顔を見つめながらそう言う。
 整った顔立ちの女性と至近距離で見つめあう状況に、
-貴方の心臓は否応がなく鼓動を早くする。","The shopkeeper said that while starting at your face.
-You could feel your heart starting to race when such
-a pretty girl was looking you so closely. "
+貴方の心臓は否応がなく鼓動を早くする。",""
 "<店員>
 『プレイヤーの皆さんが行うレベルドレイン……
-　それと何も変わりませんよ。………ちゅっ♡』","<Shopkeeper A>
-""Our level exchange service is no different from how
- players level drain each other... Smooch♡"""
+　それと何も変わりませんよ。………ちゅっ♡』",""
 "店員はゆっくりと貴方に顔を近づけ、
 そのまま軽く唇を触れ合わせる。
 人間と変わらないふっくらとした柔らかい唇に、
-貴方の興奮は高まっていく。","The shopkeeper closed the distance even further until
-your lips met in a light kiss. Her soft and plump lips
-felt no different from a real humans', and you couldn't
-help getting excited because that."
+貴方の興奮は高まっていく。",""
 "<店員>
 『いろいろたまっていますよね？
 　ここではこのまま、私に身を任せてください♡
-　ん♡ちゅぅ……ちゅっ♡』","<Shopkeeper A>
-""You must be quite stressed out after coming to this
- world, right? You can relax now♡ I'll take care all
- of it for you♡ Smooch♡ Smooch♡"""
+　ん♡ちゅぅ……ちゅっ♡』",""
 "店員は優しく貴方の唇に自分の唇を触れ合わせる。
 ちゅっと音を立てながら、ついばむようなキスを続け、
-貴方の理性を焦がしていく。","The shopkeeper began gently peckomg your lips again and
-again to melt away your reason."
+貴方の理性を焦がしていく。",""
 "<店員>
 『キス、お好きなんですか？
 　すごく気持ちよさそうな顔してます♡
-　プレイヤーさん、可愛いですね♡』","<Shopkeeper A>
-""Do you like kissing? You're making such happy face♡
- It's so cute♡"""
+　プレイヤーさん、可愛いですね♡』",""
 "店員がクスリといたずらっぽく笑う。
 端正な顔立ちの彼女は、
-それだけでも絵になるような愛らしさがある。","The shopkeeper's smile turned into an impish grin.
-Even that expression looked so lovely on her pretty
-face that you would buy a painting of it."
+それだけでも絵になるような愛らしさがある。",""
 "<店員>
 『今だけは、とろけてしまってもいいんですよ♡
-　ちゃんと対価は支払いますから…ね？ちゅっ♡』","<Shopkeeper A>
-""Now is the one of few times where you can relax and
- enjoy the pleasure♪ Remember how you're even getting
- paid for it♡ Smooch♡"
+　ちゃんと対価は支払いますから…ね？ちゅっ♡』",""
 "<店員>
 『ちゅっ♡ちゅっ♡ほら、もっと舌を出してください…♡
-　甘く、吸ってあげますね。』","<Shopkeeper A>
-""Smooch♡ Smooch♡ Please stick out your tongue♡
- I'll suck it for you♪"""
+　甘く、吸ってあげますね。』",""
 "店員に言われるがまま舌を突き出すと、
 彼女は貴方の舌先を柔らかな唇でついばみながら、
-甘く唾液を交換する様に自分の舌を絡ませる。","When you stuck out your tongue as the shopkeeper said,
-she began nibbling it with her soft lips and wrapping
-her own tongue around it to exchange her sweet-tasting
-saliva with you."
+甘く唾液を交換する様に自分の舌を絡ませる。",""
 "<店員>
 『…………ん♡
-　こちらの方も、もう準備は万端のようですね♡』","<Shopkeeper A>
-""...Mmmh♡ Looks like you're getting ready down here♡"""
+　こちらの方も、もう準備は万端のようですね♡』",""
 "店員は貴方の股間に手をのばす。
 そしていたずらっぽく笑いながら、
-固く勃起した肉棒を柔らかくズボンの上から撫でる。","The shopkeeper reached her hand for your groin.
-She gently stroked your penis through your pants
-with an impish grin."
+固く勃起した肉棒を柔らかくズボンの上から撫でる。",""
 "<店員>
-『それならそろそろレベルドレイン、しちゃいましょうか♡』","<Shopkeeper A>
-""Since you're ready, shall we get started on the level
- draining?"""
+『それならそろそろレベルドレイン、しちゃいましょうか♡』",""
 "店員は妖しく微笑むと、ゆっくりと貴方を押し倒す。
-そのまま、自分の秘所に貴方の肉棒をあてがう。","The shopkeeper showed you a seductive smile before she
-pulled down your pants and gently pushed you down.
-Then she got on top of you and pointed your penis
-against her vagina."
+そのまま、自分の秘所に貴方の肉棒をあてがう。",""
 "<店員>
 『プレイヤーさんはじっとしていてください。
-　私が気持ちよくしてあげますからね♡んっ♡』","<Shopkeeper A>
-""You don't need to do anything. I'll take care of all
- the work and make sure you'll feel good♡ Mmh♡"""
+　私が気持ちよくしてあげますからね♡んっ♡』",""
 "店員はあてがった肉棒を、
 ぬぷりと割れ目に差し込んで一気に飲み込む。
 温かな膣内に肉棒を招き入れ、
-歓迎する様にきゅっと締め付けて肉ひだを吸い付かせる。","The shopkeeper plunged your penis inside her vagina
-and swallowed it all in a single stroke. Her warm
-insides welcomed you with a tight squeeze."
+歓迎する様にきゅっと締め付けて肉ひだを吸い付かせる。",""
 "<店員>
 『はぁ、…んっ♡
-　私の中、どうですか？気持ちいいですか？』","<Shopkeeper A>
-""Haah... Mmh♡ How does it feel inside pussy?
- Does it feel amazing?"""
+　私の中、どうですか？気持ちいいですか？』",""
 "店員は艶っぽい声を出しながら、にこにこと貴方を見下ろす。
-ゆっくりと腰をグラインドさせ、膣に肉棒をなじませていく。","The shopkeeper looked down on you with a grin while 
-panting sexily. She slowly moved her hips around to
-familiarize your penis with her vagina."
+ゆっくりと腰をグラインドさせ、膣に肉棒をなじませていく。",""
 "貴方はあまりの気持ちよさに、
-我慢するのに精一杯で彼女の問いに首を縦に振るしかない。","The pleasures was so amazing that it took your
-everything to stop yourself from ejaculating.
-However, you still managed to nod to her question."
+我慢するのに精一杯で彼女の問いに首を縦に振るしかない。",""
 "<店員>
 『ふふ、それはよかったです♡
 　じっくり楽しんでくださいね。
-  いつイってしまってもいいですから♡』","<Shopkeeper A>
-""Ahaha. I'm glad that you like it♡
- You can take your time enjoying my hole♪
- You can also cum any time you want to♡"""
+  いつイってしまってもいいですから♡』",""
 "花の咲くような笑顔を貴方に見せると、
-店員は腰を動かす速度を上げていく。","After showing wide smile in response to your nod,
-the shopkeeper began riding you."
+店員は腰を動かす速度を上げていく。",""
 "ぱんぱんと貴方にお尻を打ち付け、
-そのたびに膣内で肉ひだが絡みつくように肉棒を愛撫する。","She was loudly smacking her ass on your stomach, and
-her tight folds stroked your penis every time she did
-so."
+そのたびに膣内で肉ひだが絡みつくように肉棒を愛撫する。",""
 "彼女の腰が往復するたびに、ぴゅっぴゅっと我慢汁が
-噴き出るのが自分でもわかるようだ。","You could feel how you were spewing precum with every
-trip she took you inside the depths of her pussy."
+噴き出るのが自分でもわかるようだ。",""
 "あまりに早すぎると幻滅されてしまうかもしれない………
 彼女がプレイヤーでないと知りつつも、
 その可憐な振る舞いに思わずそんなことを考えてしまい、
-貴方は必死に射精を我慢する。","Even when you knew she was a NPC, her lovely behavior
-made you think that she might be put off if you
-finished too soon. That's why you put your everything
-into enduring your orgasm."
+貴方は必死に射精を我慢する。",""
 "<店員>
 『んっ♡んっ♡
 　もうイきそうなんですよね？
-　私の中でおちんちんが膨らんでいるのが分かりますよ♡』","<Shopkeeper A>
-""Mmmh♡ Mmmh♡ You're already about to cum, aren't you?
- I can tell from the way our penis is swelling up
- inside me♡"""
+　私の中でおちんちんが膨らんでいるのが分かりますよ♡』",""
 "そんな貴方の強がりも、
-彼女の腰ふりによって刻一刻と決壊の時が近づくのを感じる。","Even when you were holding down your orgasm, the
-shopkeeper was slowly but surely bringing you closer
-to the limit."
+彼女の腰ふりによって刻一刻と決壊の時が近づくのを感じる。",""
 "<店員>
 『いいんですよ、私の中にレベルを出しちゃっても♡
 　ほら、ほら、ほら♡我慢するのでしたら、
-　無理やり搾り取っちゃいますよ♡』","<Shopkeeper A>
-""It's fine to cum already♡ Give me your levels♡
- C'mon♡ If you don't do it soon, I'll drain you so
- hard that you won't have a choice but to do it♡"""
+　無理やり搾り取っちゃいますよ♡』",""
 "小悪魔的な表情を浮かべながら、店員は貴方に射精を促す。
 ぱんぱんとリズムカルにお尻を打ち付けられるたびに、
-貴方の目の奥でチカチカと星が光るような気がする。","The shopkeeper urged you to orgasm with an impish grin.
-Every time she smacked her ass down, you had a feeling
-that you saw a glint of a predator deep in her eyes."
+貴方の目の奥でチカチカと星が光るような気がする。",""
 "<店員>
 『必死に耐えようとしちゃって…強情、なんですね♡
 　私は魔物ではないので、
-　出しちゃっても恥ずかしいことなんてないんですよ？』","<Shopkeeper A>
-""You're still doing your everything to endure...
- How stubborn♡ I'm not a monster♪ There's nothing
- to lose if you cum already♡"""
+　出しちゃっても恥ずかしいことなんてないんですよ？』",""
 "それでもなんとかこらえようとする貴方の顔を見て、
-店員はくすくす小さく笑いながら貴方にそう言う。","After seeing how you were still enduring the orgasm
-with everything you have, the shopkeeper said that
-and giggled."
+店員はくすくす小さく笑いながら貴方にそう言う。",""
 "<店員>
 『でも、分かりました♪
 　プレイヤーさんがそのつもりなら……
-　無理やり搾りだしてあげますね？』","<Shopkeeper A>
-""Then let's have it your way, Mr. Player♪ If you aren't
- going to cum nicely, then I'm going to drain you so
- hard that you won't have a choice♡"""
+　無理やり搾りだしてあげますね？』",""
 "<店員>
 『私のおまんこで負かして、情けなくイかせちゃいます♡
-　覚悟してください♡』","<Shopkeeper A>
-""I'm going to break your resolve with my pussy and make
- you shamefully cum inside it♡ Are you ready?"" "
+　覚悟してください♡』",""
 "店員は先ほどまでと打って変わって挑発的な笑みを浮かべ、
-そう宣言しながら腰を激しくグラインドさせる。","The shopkeeper's attitude completely changed for the
-naughtier when she said that and began riding your
-penis hard."
+そう宣言しながら腰を激しくグラインドさせる。",""
 "キツくしまった膣内できゅきゅうと吸い付かれ、
-暴力的なまでの快感に、貴方は今にもイってしまいそうだ。","Her pussy clenched your penis super tightly and you
-could barely hang-on before the intense pleasure."
+暴力的なまでの快感に、貴方は今にもイってしまいそうだ。",""
 "<店員>
 『ほら、どうしたんですか？
 　先に意地を張ったのはプレイヤーさんですよ♡
-　なのに、まさかもう負けちゃいそうなんですか？』","<Shopkeeper A>
-""Hey, Mr. Player♪ Is something wrong? You were so
- stubborn right now, but it can't be that you're
- about to cum already?"""
+　なのに、まさかもう負けちゃいそうなんですか？』",""
 "人間らしい表情で、
 店員はいたずらっぽく笑いながら騎乗位で貴方を攻め立てる。
 彼女の言う通りすでに我慢はとっくに限界を超えていて、
-ただ精神力のみで耐えている状態だ。","The shopkeeper watched you with teasing grin that
-looked completely human-like while banging you hard in
-cowgirl. She was right, you were already at your limit
-and barely hanging on with the force of your will."
+ただ精神力のみで耐えている状態だ。",""
 "<店員>
 『くす♪これに懲りたら次は最初から素直になってください♡
   今回はこのままプレイヤーさんに、
-　悔しい思いをしてもらいます♡』","<Shopkeeper A>
-""Ahaha♪ If you've learned your lesson, then please make
- sure to nice and obediently the next time♡ Let this
- be a lesson how frustrating it will be if you don't♡"""
+　悔しい思いをしてもらいます♡』",""
 "<店員>
 『ほら、ほら、ほら♡私のおまんこに負けて、
 　レベルを吸い取られちゃってください♡
-  プレイヤーさんの負けですよ♡ぴゅっぴゅー♡』","<Shopkeeper A>
-""Now♡ Please lose as my pussy breaks your resolve and
- drains your levels♡ Splurt it all out♡"""
+  プレイヤーさんの負けですよ♡ぴゅっぴゅー♡』",""
 "EXP500を失った！
-レベル\v[5]→\C[18]レベル\v[6]","Lost 500 EXP!
-Level \v[5]→\C[18]Level \v[6]"
+レベル\v[5]→\C[18]レベル\v[6]",""
 "店員に促されるまま、貴方は彼女の中に精を放ってしまう。
-同時に、自分の身体から力が吸い取られていくのを感じる。","You ended shooting your semen inside the shopkeeper's
-pussy just as she told you to do. As you did so, you
-felt a part of your strength getting drained away."
+同時に、自分の身体から力が吸い取られていくのを感じる。",""
 "<店員>
 『ふぅー…………♡
-　経験値、ごちそうさまです♡』","<Shopkeeper A>
-""Phew...♡ Thank you for your experience♡"""
+　経験値、ごちそうさまです♡』",""
 "店員はにこにこと貴方を見下ろしている。
 貴方は限界まで我慢したせいか、
-どこか頭がぼーっとした状態になってしまった。","The shopkeeper looked down on you with a grin.
-When you had been holding down your orgasm until the
-very limit, you were in a completely dumbfounded state
-after releasing it."
+どこか頭がぼーっとした状態になってしまった。",""
 "<店員>
 『さて、プレイヤーさん♪
 　経験値頂いちゃいましたが、もう少し…♡
-　私に注いでいきますか？』","<Shopkeeper A>
-""Now then, Mr. Player♪ I've drained your experience...
- But would you like me to drain little more?"""
-"店員は放心状態の貴方にそう問いを投げかける。","The shopkeeper posed you that question while you were
-in daze."
-"もう少しドレインしてもらう","A little more"
-"やめておく","Stop"
+　私に注いでいきますか？』",""
+"店員は放心状態の貴方にそう問いを投げかける。",""
+"もう少しドレインしてもらう",""
+"やめておく",""
 "<店員>
 『かしこまりました♪
-　では、今度は素直に気持ちよくなってください♡』","<Shopkeeper A>
-""Understood♪ Then please enjoy the pleasure nice and
- honest this time♪"""
+　では、今度は素直に気持ちよくなってください♡』",""
 "<店員>
 『抵抗して、
 　また私のおまんこに負かされるほうがお望みであれば
-　別ですけどね♡』","<Shopkeeper A>
-""However, if you wish me to drain you so hard that you
- don't have choice but to lose and cum... Then you can
- try to endure until I break your limit again♡"""
+　別ですけどね♡』",""
 "店員は貴方にしなだれかかると、耳元でそっとそう囁く。
-貴方は彼女の言葉に思わずどきりとしてしまう。","When the shopkeeper leaned over to whisper the last
-line in your ear, you gasped as your heart skipped a
-beat."
+貴方は彼女の言葉に思わずどきりとしてしまう。",""
 "<店員>
 『…ふふ♡
-　その反応、もしかしてそちらの方がお好みですか？』","<Shopkeeper A>
-""Ahaha♡ When you react like that... Could it be that
- you prefer it when I drain you hard?"""
+　その反応、もしかしてそちらの方がお好みですか？』",""
 "<店員>
 『分かりました♪
-　ではまた、気持ちよく負けさせ上げますね♡』","<Shopkeeper A>
-""As you wish♪ Then I will make you lose with the
- pleasures of my pussy again♡"""
+　ではまた、気持ちよく負けさせ上げますね♡』",""
 "<店員>
 『簡単にイっちゃったら馬鹿にしちゃいますから…
-　頑張って耐えてください♡』","<Shopkeeper A>
-""However, I will also make fun of you if you finish too
- quickly, so please do your hardest to hang on♡"""
+　頑張って耐えてください♡』",""
 "負けたいわけじゃない、
 そう答える暇もなく店員は挑発的な笑みを浮かべると、
-貴方の唇に自身の人差し指を当てながらそう宣言する。","You wanted to say that it's not like you wanted to lose
-like that, but the shopkeeper didn't give you a chance
-to say it when she held her finger to your lips and
-told you about the punishment in naughty smile."
+貴方の唇に自身の人差し指を当てながらそう宣言する。",""
 "そのまま店員は再び腰の上下運動を再開させる。
 いたわるような快楽ではなく、
 肉ひだを全体に吸い付かせながら、
-無理やり搾り取るような動きの騎乗位で攻め立て始める。","Then the shopkeeper began riding you in cowgirl again.
-However, this time she wasn't starting slow but going
-straight to milking your penis by force from the very
-beginning."
+無理やり搾り取るような動きの騎乗位で攻め立て始める。",""
 "肉棒は快感に翻弄され、早くも我慢汁があふれ出してしまう。
 馬鹿にされる、
-その言葉が耳に引っかかり必死の我慢を貴方は続ける。","Your precum began leaking right away, but you still
-managed to endure somehow because the shopkeeper's
-words on how she would make fun of you if you finished
-too quickly were ringing in your ears.."
+その言葉が耳に引っかかり必死の我慢を貴方は続ける。",""
 "<店員>
 『んっ♡んっ♡ほら、プレイヤーさん♡
 　プレイヤーさんのおちんちん、
-　女の子に犯されて喜んじゃってますよ♡』","<Shopkeeper A>
-""Mmmh♡ Mmh♡ Mr. Player♡ Your penis seems to be
- absolutely loving it when a girl is having her way
- with it♡"""
+　女の子に犯されて喜んじゃってますよ♡』",""
 "そんな貴方の我慢を嘲笑うように、
-店員は激しい腰の動きと言葉責めで貴方を追い詰めていく。","The shopkeeper continued riding hard to corner your
-penis while adding in teases about your silly attempt
-to endure the pleasure."
+店員は激しい腰の動きと言葉責めで貴方を追い詰めていく。",""
 "彼女のお尻が叩きつけられるたび、
 先端から根元まで肉棒が丸ごと肉ひだに擦られる感触に、
-我慢の限界が近づいてくる。","Her vaginal folds rubbed through your penis from the 
-tip all the way to the base with every smack of her
-hips she made. It felt so good that you were
-approaching your limit."
+我慢の限界が近づいてくる。",""
 "<店員>
 『もうすっかり我慢の限界みたいですね。
-　プレイヤーさんの必死に我慢してる顔、可愛いです♡』","<Shopkeeper A>
-""Mr. Player, it looks like you're about to hit your
- limit already♡ The face you make when you're enduring
- so desperately is so cute♡"""
+　プレイヤーさんの必死に我慢してる顔、可愛いです♡』",""
 "<店員>
 『ほら、ほら、ほら♡
 　ただの店員にここまでエッチで翻弄されて、
-  悔しくないんですか？情けないですよ♡』","<Shopkeeper A>
-""Hey♡ Doesn't it feel frustrating when a mere
- shopkeeper is dominating you in sex so badly?
- That's just so shameful♡"""
+  悔しくないんですか？情けないですよ♡』",""
 "店員は楽しそうに口角をあげながら、
-ぱんぱんと音を立てて激しくお尻を貴方の腰に打ち付ける。","The shopkeeper's grin only grew wider like she was
-having the time of her life while nailing her hips on
-your penis."
+ぱんぱんと音を立てて激しくお尻を貴方の腰に打ち付ける。",""
 "彼女の言葉に羞恥と悔しさを煽られながらも、
-徐々にそれが快楽へと変わっていき、頬が緩んでいく。","The shopkeeper's teasing made you feel shame and
-frustration, but it didn't take long before the
-pleasure to overtake those feelings and your face
-to get sloppier."
+徐々にそれが快楽へと変わっていき、頬が緩んでいく。",""
 "<店員>
-『くす♪もう心が折れちゃったみたいですね♡』","<Shopkeeper A>
-""Ahaha♪ It looks like your mind and resolve are already
- broken♡"""
+『くす♪もう心が折れちゃったみたいですね♡』",""
 "<店員>
 『それなら、もうこれでトドメです♪
   プレイヤーさんの敗北の白い証、
-  レベルと一緒に私のおまんこに注いでください♡』","<Shopkeeper A>
-""Then it's time to finish you off♪ Mr. Player, please
- pour your semen and experience deep inside my pussy
- as a sign of your defeat♡"""
+  レベルと一緒に私のおまんこに注いでください♡』",""
 "店員は腰を浮かせると、
 肉棒にトドメをさすように一気にお尻を振り下ろし、
 ぱんっと貴方の腰にたたきつける。
-一瞬で肉棒の先端から根元まで膣壁で擦り下ろし、搾精する。","The shopkeeper lifted her hips high before impaling
-your penis in her pussy as one final stroke to finish
-you off. Her pussy went through all of your penis in
-an instant to milk you."
+一瞬で肉棒の先端から根元まで膣壁で擦り下ろし、搾精する。",""
 "EXP500を失った！
-レベル\v[6]→\C[18]レベル\v[7]","Lost 500 EXP!
-Level \v[6]→\C[18]Level \v[7]"
+レベル\v[6]→\C[18]レベル\v[7]",""
 "その強い快感に堪え切れるはずもなく、
 貴方の我慢はたやすく決壊して彼女の中に精液をすすぎこむ。
-それと同時に、再び貴方は力が吸い取られるのを感じる。","The pleasure was so strong that it pierced right
-through your resistance and made you cum inside
-the shopkeeper's pussy. As you climaxed, you felt
-part of your strength leaving again."
+それと同時に、再び貴方は力が吸い取られるのを感じる。",""
 "<店員>
 『んっ♡またレベル、頂いちゃいました♪
-　ありがとうございます♪』","<Shopkeeper A>
-""Mmmh♡ Mr. Player, I've drained another level from
- you♪ Thank you for utilizing our services so much♪"""
+　ありがとうございます♪』",""
 "<店員>
 『どうしますか？もう2レベル頂いちゃいましたが、
-　…もう1レベル分、私に負けちゃいますか？』","<Shopkeeper A>
-""But what would you like to do next? I've already
- drained two levels from you... But would you like
- me to take one more?"""
-"はい","Yes"
-"いいえ","No"
+　…もう1レベル分、私に負けちゃいますか？』",""
+"はい",""
+"いいえ",""
 "<店員>
-『くす♪分かりました♡』","<Shopkeeper A>
-""Ahaha♪ Thank you for your exchange♡"""
+『くす♪分かりました♡』",""
 "<店員>
 『でも、3回目は一瞬で終わらせてしまいますね♪
-　私は、こういうこともできるんですよ？』","<Shopkeeper A>
-""However, I'll take care of the third time in a flash♪
- You see, I can do even things like this?"
+　私は、こういうこともできるんですよ？』",""
 "店員は妖し気な笑みを浮かべると、
-貴方の肉棒を丸ごと飲み込んだまま膣内を脈動させる。","After showing you a grin, the shopkeeper's pussy began
-to vibrate around your penis."
+貴方の肉棒を丸ごと飲み込んだまま膣内を脈動させる。",""
 "裏筋や亀頭に吸い付きながら肉ひだがうごめき、
-貴方の肉棒の弱点に的確に絡みつく。","When she tightly squeezed her pussy, her vibrating
-folds stroked all your your sensitive spots straight
-on."
+貴方の肉棒の弱点に的確に絡みつく。",""
 "<店員>
 『おちんちん震えてきました♡
-　腰を動かさないまま、一気に搾り取ってあげますね♪』","<Shopkeeper A>
-""Your dick began twitching♡ I will drain you in an
- instant without moving my hips♪"""
+　腰を動かさないまま、一気に搾り取ってあげますね♪』",""
 "<店員>
 『プレイヤーさんが必死にためた経験値…♡
-　一瞬で私のものにしちゃいます♡ほら…イってください♡』","<Shopkeeper A>
-""All that experience you've worked so hard to obtain♡
- It'll be mine in an blink of an eye♡ Now... Cum♡"""
+　一瞬で私のものにしちゃいます♡ほら…イってください♡』",""
 "EXP500を失った！
-レベル\v[7]→\C[18]レベル\v[8]","Lost 500 EXP!
-Level \v[7]→\C[18]Level \v[8]"
+レベル\v[7]→\C[18]レベル\v[8]",""
 "あまりに強い快感に貴方は頭の中が真っ白になり、
-すぐに店員の中に精を放ってしまう。","Your vision went pure white in the overwhelming
-pleasure as you released your semen inside the
-shopkeeper."
+すぐに店員の中に精を放ってしまう。",""
 "<店員>
-『ふふ、瞬殺でしたね♡ごちそうさまです♡』","<Shopkeeper A>
-""Ahaha♡ You could call that an instant kill♡
- Thank you for the treat of experience♡"""
-"店員はくすりと悪戯が成功したような笑みを浮かべている。","The shopkeeper smiled cheekily like a kid who had
-succeeded in her prank."
+『ふふ、瞬殺でしたね♡ごちそうさまです♡』",""
+"店員はくすりと悪戯が成功したような笑みを浮かべている。",""
 "<店員>
 『私はそうあれと作られた存在です。　　
-　プレイヤーさんが勝てるわけ、ないんですよ？』","<Shopkeeper A>
-""Mr. Player, This is simply how I've been made when it
- comes to sexual activities♡ There's not even a chance
- that you could win against me in sex♡"""
+　プレイヤーさんが勝てるわけ、ないんですよ？』",""
 "店員は勝ち誇るように貴方を見下ろしながら、そう告げる。
-そして、貴方にもたれかかると優しく正面からキスをする。","The shopkeeper looked down on you in her victory as she
-said that. Then she leaned forward to give you a kiss."
+そして、貴方にもたれかかると優しく正面からキスをする。",""
 "<店員>
 『ちゅっ♡
 　また、私に負けたくなったらきてください♪
-　お待ちしております♪』","<Shopkeeper A>
-""Smooch♡ Please come again when you want to lose more
- levels to me♪ I'll be waiting for you♪"""
+　お待ちしております♪』",""
 "<店員>
 『これが、今日のレベル分のお金です♪
-　大事に使ってくださいね♡』","<Shopkeeper A>
-""This is your money for today's levels♪
- Please use it carefully♡"""
+　大事に使ってくださいね♡』",""
 "<アル>
 『\n[1]、大丈夫…？
 　アイテムも大事だけど、
-　ちゃんと戦うための力も残してるよね？』","<Al>
-""\n[1], are you alright?
- I know that getting money to buy items is important,
- but do you have enough strength to fight?"""
-"残してる","Yes"
-"残ってない、かも","Probably not"
+　ちゃんと戦うための力も残してるよね？』",""
+"残してる",""
+"残ってない、かも",""
 "<アル>
-『ん！さすがだね♪』","<Al>
-""Mmh! Yes, you must have carefully planned for it♪"""
+『ん！さすがだね♪』",""
 "<アル>
 『ええー！？
 　あの人に搾られるの、そんなに気持ちよかったの？
-  中毒になっちゃったらダメだからね！』","<Al>
-""Eeh?! Did it feel so good that you last track of your
- levels? You can't let yourself get carried away like
- that!"""
+  中毒になっちゃったらダメだからね！』",""
 "<店員>
 『分かりました♪これが今日のレベル分のお金です♪
-　大事に使ってくださいね♡』","<Shopkeeper A>
-""Understood♪ This is your money for today's levels♪
- Please use it carefully♡"""
+　大事に使ってくださいね♡』",""
 "<店員>
 『……くす♪もう1レベルじゃないですか♡
-　またレベルを上げて、ここに来てくださいね♡』","<Shopkeeper A>
-""Ahaha♪ Aren't you down to level one already?
- Please come again after you've raised your level♡"""
+　またレベルを上げて、ここに来てくださいね♡』",""
 "<店員>
 『いらっしゃいませ♪
 　どのアイテムがご入用ですか？』",""
 "<店員>
-『またのご利用お待ちしております♪』","<Shopkeeper A>
-""I'll be waiting for your next visit♪"""
+『またのご利用お待ちしております♪』",""
 "<店員>
 『レベルの買取ですね♪かしこまりました♡
-　どれくらいの経験値をいただけばよろしいですか？』","<Shopkeeper A>
-""Level exchange service? Understood♡
- How much experience would you like us to purchase?"""
+　どれくらいの経験値をいただけばよろしいですか？』",""
 "<店員>
 『では、搾り取っちゃいますね♪
-　楽にしててください♪』","<Shopkeeper A>
-""Then I will drain that amount from you♪
- Please relax♪"""
+　楽にしててください♪』",""
 "EXP\v[10]を失った！
-レベル\v[5]→\C[18]レベル\v[6]","Lost \v[10] EXP!
-Level \v[5]→\C[18]Level \v[6]"
+レベル\v[5]→\C[18]レベル\v[6]",""
 "<店員>
 『ごちそうさまです♪
 　これが今日の分のお代ですよ♪
-　大事に使ってくださいね♪』","<Shopkeeper A>
-""Thank you for the treat♪ This is your money for
- today's level exchange♪ Please use it carefully♪"""
+　大事に使ってくださいね♪』",""
 "<店員>
 『あ、プレイヤーさん♪
 　あれから少しは強くなれたみたいですね♪
-　ビギナーは卒業じゃないですか？』","<Shopkeeper A>
-""Ah! Mr. Player♪ Looks like you've got a bit stronger
- since your last visit♪ You could say that you're not
- a beginner anymore♪"""
+　ビギナーは卒業じゃないですか？』",""
 "貴方のレベルを把握し、店員はニコニコとそう告げる。
 無邪気な彼女の笑顔に少し照れながら、
-貴方はその言葉を肯定する。","The shopkeeper said that with a smile when she noticed
-your current level. You agreed with her statement while
-feeling slightly bashful before her innocent smile."
+貴方はその言葉を肯定する。",""
 "<店員>
 『ふふ、おめでとうございます♪
-　それなら、レベルドレインするのと同時に…………』","<Shopkeeper A>
-""Ahaha♪ Congratulations♪
- While I'm carrying out the level drain..."""
+　それなら、レベルドレインするのと同時に…………』",""
 "<店員>
 『プレイヤーさんのこちらの方はどれくらい成長できたのか、
-　私がチェックしてあげますね♡』","<Shopkeeper A>
-""I'll also check how much stronger have you grown down
- here♡"""
+　私がチェックしてあげますね♡』",""
 "店員は貴方の股間に手を伸ばし、肉棒を取り出す。
-しなやかな指を軽く絡めるように、肉棒をやさしく刺激する。","The shopkeeper reached for your pants and took out your
-penis. She gently touched your manhood by wrapping her
-slender fingers around it."
+しなやかな指を軽く絡めるように、肉棒をやさしく刺激する。",""
 "<店員>
 『私の指が動くたびに、ぴくぴくしてますね♪
 　チェック、と私が言ったので、
-　もしかして勃起を我慢しようとしてます？』","<Shopkeeper A>
-""It's twitching when I move my fingers♪ Are you perhaps
- trying to stop yourself from getting an erection since
- I said that I would check your growth?"""
+　もしかして勃起を我慢しようとしてます？』",""
 "貴方の内心を見透かしたように、
 店員はくすくすと微笑みながら、
-指で軽く押すように肉棒をマッサージする。","It was as if the shopkeeper had seen through your
-intention when she said that with giggles and gently
-massaged your penis."
+指で軽く押すように肉棒をマッサージする。",""
 "<店員>
 『それなら、
 　どれくらいプレイヤーさんが勃起を我慢できるのか。
-　私が数えていてあげますね♪い～ち♡に～♡さ～ん♡…』","<Shopkeeper A>
-""In that case, I'll count how long it takes it takes
- for you to get fully erect♪ One♡ Two♡ Three♡"""
+　私が数えていてあげますね♪い～ち♡に～♡さ～ん♡…』",""
 "彼女は可愛らしく唇を窄めながら、
-鈴のなる声で数字を数え始める。","The shopkeeper began to slowly and sweetly count."
+鈴のなる声で数字を数え始める。",""
 "甘く耳に浸透するその声と、柔らかい指先での刺激に、
-肉棒はむくむくとすぐに大きくなっていく。","Your penis was quickly getting bigger and harder at the
-shopkeeper's soft fingers and sweet voice."
+肉棒はむくむくとすぐに大きくなっていく。",""
 "<店員>
 『ご～♡ろ～く♡
-　プレイヤーさん、だんだん大きくなってきましたね♡』","<Shopkeeper A>
-""Five♡ Six♡ Mr. Player, your penis is quickly getting
- bigger♡"""
+　プレイヤーさん、だんだん大きくなってきましたね♡』",""
 "<店員>
 『勃起、ちゃんと我慢しするんじゃなかったんですか？♡
-　は～ち♡きゅ～う♡』","<Shopkeeper A>
-""Weren't you trying to stop yourself from getting
- erection? Eight♡ Nine♡"""
+　は～ち♡きゅ～う♡』",""
 "店員は貴方の顔を見つめながら、
-すりすりと裏筋を指でなぞり、貴方の興奮を煽る。","The shopkeeper stirred your arousal by staring at your
-face while tickling your frenulum."
-"性感帯への優しい愛撫に、貴方の理性は焦がれていく。","Your intent to resist was breaking down when she was
-gently caressing your sensitive spot."
+すりすりと裏筋を指でなぞり、貴方の興奮を煽る。",""
+"性感帯への優しい愛撫に、貴方の理性は焦がれていく。",""
 "<店員>
 『じゅ～う♡
-　……くす♪完全に勃起しちゃいましたね♪』","<Shopkeeper A>
-""Ten♡ Ahaha♪ You're fully erect now♪"""
+　……くす♪完全に勃起しちゃいましたね♪』",""
 "ついに貴方は店員の手淫によって、
-完全に勃起させられてしまう。","In the end, the shopkeeper's handwork had brought
-your penis to full erection."
+完全に勃起させられてしまう。",""
 "店員はそんな貴方をからかうような笑みで見つめながら、
-勃起した肉棒を手のひらで包み込み、上下に扱き始める。","Then she grabbed your penis and began stroking it up
-and down while looking at you with a teasing grin."
+勃起した肉棒を手のひらで包み込み、上下に扱き始める。",""
 "<店員>
 『プレイヤーさんが勃起を我慢できたのは、
-　たったの10秒でした♪』","<Shopkeeper A>
-""Mr. Player♪ It only took me 10 seconds to get you
- fully erect♪"""
+　たったの10秒でした♪』",""
 "<店員>
 『そんな弱いおちんちんで、
-　私にシコシコされて、射精はどれくらい我慢できますか？』","<Shopkeeper A>
-""I wonder how long it will take for your weak penis
- to cum from my handjob next?"""
+　私にシコシコされて、射精はどれくらい我慢できますか？』",""
 "店員はいたずらっぽく笑いながら、
-貴方の瞳をじっと見つめて肉棒を手コキする。","The shopkeeper looked you straight in the eyes with an
-impish smile while giving you a handjob."
+貴方の瞳をじっと見つめて肉棒を手コキする。",""
 "細い指先は裏筋や亀頭など、
-貴方の性感帯を把握しながら肉棒を責め立てる。","She knew where your sensitive spots were as she made
-sure to run her slender fingers across your frenulum
-and glans."
+貴方の性感帯を把握しながら肉棒を責め立てる。",""
 "<店員>
 『顔、少し赤くなってきましたね♪
 　自分の感じてる顔を観察されるのは、
-　やっぱり恥ずかしいですか？でも、じっと見ちゃいます♪』","<Shopkeeper A>
-""Your face is getting red♪ Is it embarrassing when a
- girl is watching your pleasure face? However, I'm
- going to keep looking at it much more♪"""
+　やっぱり恥ずかしいですか？でも、じっと見ちゃいます♪』",""
 "<店員>
 『プレイヤーさんの感じてる顔、とっても可愛いですよ♪
-　シコシコ♡シコシコ♡』","<Shopkeeper A>
-""Your pleasure face is just so cute♪
- One-two♡ One-two♡"""
+　シコシコ♡シコシコ♡』",""
 "店員は口で警戒にシコシコ♡と言いながら、
-しゅっしゅとリズムカルに肉棒をすべすべの手のひらで扱く。","The shopkeeper began calling out a rhythm and she
-matched the strokes of her handjob to it."
+しゅっしゅとリズムカルに肉棒をすべすべの手のひらで扱く。",""
 "彼女の言葉のリズム通りに行われる手コキに、
-貴方の興奮は煽られ、頬が緩んできてしまう。","The rhythmic calls for the handjob were turning you
-on so badly that your face was clearly getting
-sloppier."
+貴方の興奮は煽られ、頬が緩んできてしまう。",""
 "<店員>
 『女の子に、シコシコ♡って言われながら手コキされるの、
-　気持ちよさそうですね♪』　","<Shopkeeper A>
-""You look to really enjoy it when a girl calls out the
- pace during a handjob♪""
-"
+　気持ちよさそうですね♪』　",""
 "<店員>
 『それなら、私がいっぱい言ってあげますよ？
-　たっぷり感じてください♡シコシコ♡シコシコ♡』","<Shopkeeper A>
-""I'll make sure to keep calling it out for you♡
- Please carefully listen to my every word♡
- One-two♡ One-two♡"""
+　たっぷり感じてください♡シコシコ♡シコシコ♡』",""
 "<店員>
 『レベルドレインの手コキで、
-　気持ちよくなっちゃってくださいね♡シコシコ♡』","<Shopkeeper A>
-""Please fully enjoy how good my level drain handjob
- feels♡ One-two♡ One-two♡"""
+　気持ちよくなっちゃってくださいね♡シコシコ♡』",""
 "店員は貴方に見せつけるように唇を動かす。
-そして、ゆっくりと肉棒を手で扱く速度を上げていく。","The shopkeeper deepened the movements of her lips for
-hers calls. As she did so, she also began to slowly
-increase the pace of her strokes."
+そして、ゆっくりと肉棒を手で扱く速度を上げていく。",""
 "徐々に強くなる快感に、
-思わず貴方は切なげな喘ぎ声を出してしまった。","You couldn't help but moan at the steadily increasing
-pleasure."
+思わず貴方は切なげな喘ぎ声を出してしまった。",""
 "<店員>
 『シコシコ♡シコシコ♡
-　プレイヤーさん、おちんちんびくびくしてきました♪』","<Shopkeeper A>
-""One-two♡ One-two♡ Mr. Player♪ Your penis started
- twitching♪"""
+　プレイヤーさん、おちんちんびくびくしてきました♪』",""
 "<店員>
 『ひょっとして、限界が近いんですか？
 　おちんちんの強さは、あまり変わっていないようですね♡
-　シコシコ♡シコシコ♡』","<Shopkeeper A>
-""Could it be that you're already near your limit?
- It looks like the strength of your penis has barely
- changed♡ One-two♡ One-two♡"""
+　シコシコ♡シコシコ♡』",""
 "店員にからかうような言葉を投げかけられても、
-貴方は肉棒を襲う快感に耐えきれそうにない。","Even when the shopkeeper poked fun of you, you could
-barely contain the pleasure from her handjob."
+貴方は肉棒を襲う快感に耐えきれそうにない。",""
 "彼女の言葉を口では否定しつつも、
 すべすべの手に搾り取られるように、
-貴方の肉棒から我慢汁があふれてきてしまう。","Even while you denied her accusation, you couldn't
-stop yourself from starting to leak precum when she
-was milking your penis with her hands."
+貴方の肉棒から我慢汁があふれてきてしまう。",""
 "<店員>
 『おちんちんも強くなっている、ですか？
-　それなら、ちゃんと私に見せてください♡』","<Shopkeeper A>
-""Oh? Your penis has become much stronger too?
- Then you need to properly show it♡"""
+　それなら、ちゃんと私に見せてください♡』",""
 "<店員>
 『こうやって私の手コキですぐにぬるぬるになっちゃう、
 　弱いおちんちんじゃ成長してるなんて認めてあげませんよ♪
-　シコシコ♡シコシコ♡』","<Shopkeeper A>
-""I can't see your weak penis as any stronger than
- before when it's already leaking precum to my
- handjob♪ One-two♡ One-two♡"""
+　シコシコ♡シコシコ♡』",""
 "貴方は彼女の言葉を受けて、
-必死に腰に力を込めて快感を我慢しようとする。","When the shopkeeper's words struck you, you focused all
-your strength into your hips to endure the pleasure."
+必死に腰に力を込めて快感を我慢しようとする。",""
 "しかし、ぬるぬるとした我慢汁を塗り付けるように、
 くるんと彼女の手のひらが亀頭を撫でるような手コキに、
-腰が跳ねてしまう。","However, when she stroked your glans to spread your
-precum around, all the strength escaped from your hips."
+腰が跳ねてしまう。",""
 "<店員>
 『ほらほら♪
 　おちんちんの成長を、
-　私に見せつけてくれるんじゃなかったんですか？』","<Shopkeeper A>
-""Hey♪ Aren't you going to show me how strong your penis
- has become?"""
+　私に見せつけてくれるんじゃなかったんですか？』",""
 "<店員>
 『このままじゃ手コキに負けちゃう弱いところを、
-　私にみられちゃいますよ♪シコシコ♡シコシコ♡』","<Shopkeeper A>
-""At this rate you're going to only show me how your
- penis is so weak that it can't even handle a handjob♪
- One-two♡ One-two♡"""
+　私にみられちゃいますよ♪シコシコ♡シコシコ♡』",""
 "店員は貴方の顔を妖しく微笑んでじっと見つめる。
-ぐちゅぐちゅと音を立てて手コキを続け、弱点を扱き続ける。","The shopkeeper stared your face in a seductive smile
-before stroking your sensitive spots and making wet
-sounds in the process."
+ぐちゅぐちゅと音を立てて手コキを続け、弱点を扱き続ける。",""
 "彼女のそんな激しい責めに、
-貴方の腰はガクガクと震え、我慢の限界を伝えてしまう。","The stroking became so intense that your hips began
-trembling to signal your limit."
+貴方の腰はガクガクと震え、我慢の限界を伝えてしまう。",""
 "<店員>
 『もう、限界みたいですね♪
-　このまま、ため込んだレベルを搾りだしてあげます♪』","<Shopkeeper A>
-""Looks like you're right at your limit♪
- I'm going to drain your level with my hands♪"""
+　このまま、ため込んだレベルを搾りだしてあげます♪』",""
 "<店員>
 『私の手コキに負けて、
 　情けなくおもらししちゃってくださいね♪
-　ほら、おちんちんぴゅっぴゅ～♡』","<Shopkeeper A>
-""Please shamefully lose to my handjob and shoot out
- your level and semen♪ Splurt it all out♡"""
+　ほら、おちんちんぴゅっぴゅ～♡』",""
 "EXP2000を失った！
-レベル\v[5]→\C[18]レベル\v[6]","Lost 2000 EXP!
-Level \v[5]→\C[18]Level \v[6]"
+レベル\v[5]→\C[18]レベル\v[6]",""
 "<店員>
 『くす♪
-　私の手で、たくさん経験値搾り取られちゃいましたね♪』","<Shopkeeper A>
-""Ahaha♪ I drained so much experience from you with my
- hands♪"""
+　私の手で、たくさん経験値搾り取られちゃいましたね♪』",""
 "<店員>
-『プレイヤーさんのおちんちん、弱いままでした♪』","<Shopkeeper A>
-""Mr. Player, your penis is just as weak as before♪"""
-"もう一度。次こそもっと耐えて見せる","One more, I'll show you this time"
-"レベルドレインをやめてもらう","Stop level drain"
+『プレイヤーさんのおちんちん、弱いままでした♪』",""
+"もう一度。次こそもっと耐えて見せる",""
+"レベルドレインをやめてもらう",""
 "<店員>
-『弱いって言われたままだと、終われませんか？』","<Shopkeeper A>
-""Oh? Can you not quit now that I've called your penis
- just as weak as before?"
+『弱いって言われたままだと、終われませんか？』",""
 "<店員>
 『でも、もう一度やっても同じことです♪
-　また、私の手でレベルドレインされちゃいますよ？』","<Shopkeeper A>
-""But I don't think you're going to last any longer even
- if we do it again♪ You're simply going to get level
- drained in my hands♪"""
+　また、私の手でレベルドレインされちゃいますよ？』",""
 "<店員>
 『せっかく頑張ってビギナーを抜け出せたというのに、
-　また私の手で学戻りにされちゃうんです♪』","<Shopkeeper A>
-""You've spent so much effort to raise your level and 
- graduate from a beginner, but you're going to drop
- back there in my handjobs♪"
+　また私の手で学戻りにされちゃうんです♪』",""
 "<店員>
-『それでも、本当にもう一度試してみるんですか？』","<Shopkeeper A>
-""Even when that is the case, would you really try to
- endure my handjob again?"""
+『それでも、本当にもう一度試してみるんですか？』",""
 "店員はじっと貴方を見つめる。
 貴方はその視線にごくりとのどを鳴らしながらも、
-今度こそ成長を見せてやる、そんな意気込みでうなづいた。","The shopkeeper stared deep into your eyes as she said
-that. You couldn't help loudly gulping before her gaze,
-but even then you were determined to show your strength
-and nodded back."
+今度こそ成長を見せてやる、そんな意気込みでうなづいた。",""
 "<店員>
 『分かりました♪
-　ではまた、私の手コキで気持ちよくしてあげますね♡』","<Shopkeeper A>
-""Understood♪ Then I'm going to pleasure you with my
- hands again♡"""
+　ではまた、私の手コキで気持ちよくしてあげますね♡』",""
 "<店員>
 『今度こそ必死に耐えて、
 　おちんちんの立派なところを見せてください♪
-　シコシコ♡シコシコ♡』","<Shopkeeper A>
-""Please make sure to clearly show how strong your penis
- has become this time♪ One-two♡ One-two♡"""
+　シコシコ♡シコシコ♡』",""
 "店員は貴方の肉棒を握りしめると、
-カリ首に強く引っ掛けるようにしながら激しく上下に扱く。","The shopkeeper tightly grabbed your penis and began
-stroking it hard with heavy focus on your glans."
+カリ首に強く引っ掛けるようにしながら激しく上下に扱く。",""
 "いきなり始まった強い快感に、
-貴方は思わず切なげな喘ぎ声をだしてしまう。","The pleasure was so strong and sudden that you couldn't
-help moaning right away."
+貴方は思わず切なげな喘ぎ声をだしてしまう。",""
 "<店員>
 『いきなり恥ずかしい声出ちゃいましたね♪
-　この調子では、またすぐにおもらししちゃいそうです♡』","<Shopkeeper A>
-""Look at you moaning right away♪ I don't think you're
- going to last much longer than before like that♡"""
+　この調子では、またすぐにおもらししちゃいそうです♡』",""
 "店員は貴方のそんな反応にくすくすと、
 勝ち誇ったような笑みを至近距離から見せつけ、
-激しく肉棒を上下に扱く。","The shopkeeper giggled at your moans and closely
-watched your face with a grin while intensively
-stroking your penis."
+激しく肉棒を上下に扱く。",""
 "ぬるぬるの手のひらに肉棒が擦られる。
-店員は弱点を把握したように、細い指先が亀頭を撫でまわす。","She rubbed your penis with her wet palm and stroked
-your glans with her fingertips with perfect
-understanding of your weak spots."
+店員は弱点を把握したように、細い指先が亀頭を撫でまわす。",""
 "<店員>
 『シコシコ♡シコシコ♡
-　とてもみっともない顔ですね♪』","<Shopkeeper A>
-""One-two♡ One-two♡ You're making a such shameful
- face♪"""
+　とてもみっともない顔ですね♪』",""
 "<店員>
 『男なのに弱点を女の子に握られて、
-　負けちゃいそうな恥ずかしい顔♪』","<Shopkeeper A>
-""Even when you're a man, you let a girl grasp your weak
- spot♪ Now you're making such a shameful face and about
- to lose because of it♪"""
+　負けちゃいそうな恥ずかしい顔♪』",""
 "貴方は彼女の煽るような言葉に屈辱を感じるも、
-快感を抑えることが出来ない。","The shopkeeper's words were humiliating, but even then
-you couldn't contain the pleasure."
+快感を抑えることが出来ない。",""
 "彼女の手が肉棒を根元から先端まで扱くたびに、
-貴方は喘ぎ声を何度も漏らしてしまう。","With every stroke her hand made from your base to the
-tip, you moaned again, and again, and again."
+貴方は喘ぎ声を何度も漏らしてしまう。",""
 "<店員>
 『ほらほら♪また私の手で、
-　必死にためた経験値を搾り取られちゃうんですか？』","<Shopkeeper A>
-""Hey♪ Are you going to let me drain your levels with
- my hands again?"""
+　必死にためた経験値を搾り取られちゃうんですか？』",""
 "<店員>
 『私のシコシコに耐えきれず、
-　弱いおちんちんおもらししちゃうんですか？』","<Shopkeeper A>
-""Are my hands simply too much for your weak penis to
- take?"""
+　弱いおちんちんおもらししちゃうんですか？』",""
 "店員はそう貴方を煽りながら、
-ぐりぐりと手のひらで先端を撫でまわす。","After making fun of you, the shopkeeper stroked your
-glans with her palm."
+ぐりぐりと手のひらで先端を撫でまわす。",""
 "柔らかい手のひらで我慢汁を塗り込まれるような感触に、
-貴方の腰はガクガクと震えてしまう。","When her soft palm was on top of your glans and
-spreading your precum, your hips began to tremble."
+貴方の腰はガクガクと震えてしまう。",""
 "<店員>
 『違う、なんて否定しても説得力ありませんよ♪
-　素直に負けを認めたらどうですか？』","<Shopkeeper A>
-""Even when you deny it, I can't really come to believe
- you when you're in this state♪ Why don't you just
- honestly admit defeat?"""
+　素直に負けを認めたらどうですか？』",""
 "<店員>
 『大丈夫です♪
 　ここには私しかいません♪
-　だから、遠慮なく敗北宣言しちゃってください♡』","<Shopkeeper A>
-""It's alright♪ There's no one here but me to hear your
- shameful admission♪ You can admit defeat at my hands
- without anything holding you back♡"""
+　だから、遠慮なく敗北宣言しちゃってください♡』",""
 "<店員>
 『僕は手コキに勝てません♪
 　おちんちん弱くて負けちゃいますって♡
-　シコシコ♡シコシコ♡』","<Shopkeeper A>
-""Say how you can't win against my handjob♪
- Say how your penis is weak and you admit defeat♪
- One-two♡ One-two♡"""
+　シコシコ♡シコシコ♡』",""
 "店員は貴方をじっと見つめながらそう促し、
-肉棒を激しく手のひらで握りしめながら上下に扱く。","The shopkeeper pressed you to admit defeat while
-staring into your eyes. She tightly grasped your
-penis and stroked it hard."
+肉棒を激しく手のひらで握りしめながら上下に扱く。",""
 "心地いい圧迫感に包まれての手コキに屈しそうになり、
-貴方は言葉を発することすらできない。","The handjob felt so good that you couldn't even speak
-and you were really close to admitting defeat before
-it."
+貴方は言葉を発することすらできない。",""
 "<店員>
 『言いたくないんですか？
-　やっぱりプレイヤーさん、強情ですね♪』","<Shopkeeper A>
-""You aren't going to say it? You're so stubborn,
- Mr. Player♪"""
+　やっぱりプレイヤーさん、強情ですね♪』",""
 "<店員>
 『それならこの前と同じように、さっきと同じように♪
-　おちんちんで降参宣言してもらいますね♡』","<Shopkeeper A>
-""In that case, I'll just do the same as before♪
- I'll make you admit defeat with your penis♡"""
+　おちんちんで降参宣言してもらいますね♡』",""
 "店員は手コキをより一層激しくしていき、
-辺りにぐちゅぐちゅと卑猥な水音を響かせる。","The shopkeeper increased the pace of her handjob one
-step further, making obscene wet sounds ring in the
-room in the process."
+辺りにぐちゅぐちゅと卑猥な水音を響かせる。",""
 "<店員>
 『ほらほら♪じっと見つめていてあげます♪
 　情けなく降参しながら、
-　溜めた経験値全部出してください♡シコシコ♡シコシコ♡』","<Shopkeeper A>
-""Hey♪ I'll closely watch your face♪ So please
- shamelessly admit defeat with your penis and shoot 
- all your saved up experience♡ One-two♡ One-two♡"""
+　溜めた経験値全部出してください♡シコシコ♡シコシコ♡』",""
 "EXP2000を失った！
-レベル\v[6]→\C[18]レベル\v[7]","Lost 2000 EXP!
-Level \v[6]→\C[18]Level \v[7]"
+レベル\v[6]→\C[18]レベル\v[7]",""
 "<店員>
 『ぴゅっぴゅって、経験値出ちゃいましたね♪
 　見えますか？
-　これが、お兄さんのこれまでの戦いの結晶ですよ♪』","<Shopkeeper A>
-""So much of your experience flew out♪ Please look
- at this load♪ This is the fruit of your battles
- until now♪"""
+　これが、お兄さんのこれまでの戦いの結晶ですよ♪』",""
 "<店員>
 『また私の手コキに搾り取られて、
-　弱くなっちゃいましたね♪』","<Shopkeeper A>
-""It got drained in my handjob and now you're a even
- weaker♪"""
+　弱くなっちゃいましたね♪』",""
 "店員は白く汚れた手を貴方に見せつけると、
-不思議な力でその精液を吸収する。","The shopkeeper showed off her hand that was covered in
-your semen before absorbing it inside herself."
+不思議な力でその精液を吸収する。",""
 "<店員>
 『はい♪全部頂いちゃいました♪
 　まだプレイヤーさんの弱いおちんちんから、
-　レベルを搾り取ってほしいですか？』","<Shopkeeper A>
-""Yes♪ I've received your experience without fail♪
- Mr. Player, would you like me to drain more levels
- from your weak penis?"""
+　レベルを搾り取ってほしいですか？』",""
 "<店員>
 『分かりました♪では、
 　この手コキに降参しちゃったプレイヤーさんのおちんちん、
-　もっといじめてあげますね♪』","<Shopkeeper A>
-""Understood♪ Then even when your penis has already lost
- at my hands twice, I'm going to toy it even harder♪"""
+　もっといじめてあげますね♪』",""
 "店員はそう言うと、
-射精直後で敏感な亀頭をぐりぐりと手のひらで刺激する。","Right after saying, the shopkeeper began stroking your
-glans while it was still in the sensitive post-orgasm
-period."
+射精直後で敏感な亀頭をぐりぐりと手のひらで刺激する。",""
 "容赦のないその亀頭責めに、
-貴方の身体はガクガクと痙攣し始める。","She wasn't holding anything back in the glans torture
-and your whole body began convulsing because of it."
+貴方の身体はガクガクと痙攣し始める。",""
 "<店員>
 『手コキに負けちゃったおちんちんは、
-　罰ゲームですよ♪』","<Shopkeeper A>
-""This is your punishment for trying to win against my
- handjob♪"""
+　罰ゲームですよ♪』",""
 "<店員>
 『レベルが上がって、
-　調子になるからこんなことになるんです♪』","<Shopkeeper A>
-""You simply got too carried away just because your
- level was higher♪"""
+　調子になるからこんなことになるんです♪』",""
 "店員はたしなめるようにそう言いながら、
-先端をぐりぐりと手のひらで押し込むようぬ責め続ける。","The shopkeeper scolded you while grinding your glans
-with her palm."
+先端をぐりぐりと手のひらで押し込むようぬ責め続ける。",""
 "<店員>
 『せっかく前回、プレイヤーさんのおちんちんじゃ、
-　私には敵わないって教えてあげたのに……』","<Shopkeeper A>
-""I even told you how you won't stand a chance against
- me the last time..."""
+　私には敵わないって教えてあげたのに……』",""
 "<店員>
 『少し強くなったからって、
-　私に勝てるわけないじゃないですか♪』","<Shopkeeper A>
-""But you completely forgot about it after getting
- slightly stronger♪"""
+　私に勝てるわけないじゃないですか♪』",""
 "貴方の悲鳴を聞き流しながら、
-店員は調教するように言葉を紡ぎ、亀頭を撫でまわす。","The shopkeeper completely ignored your screams while
-recounting what lead to the current situation and
-stroking your glans."
+店員は調教するように言葉を紡ぎ、亀頭を撫でまわす。",""
 "強すぎる快感に貴方の頭は真っ白になっており、
-店員の言葉に反応することすらできない。","The pleasure was so strong that your mind went pure
-white and you couldn't reply to anything what she said."
+店員の言葉に反応することすらできない。",""
 "<店員>
 『これに懲りたらいいところを見せようなんて思わず、
-　次こそ素直にレベルドレインを受けてくださいね♪』","<Shopkeeper A>
-""If you've learned your lesson, then please make sure
- to receive your level drain honestly without trying
- to show off♪"""
+　次こそ素直にレベルドレインを受けてくださいね♪』",""
 "<店員>
 『プレイヤーさんのおちんちんを負かすなんて、
-　おまんこじゃなくてもできるんですから♪ぐりぐり♡』","<Shopkeeper A>
-""It's a piece of cake for me to defeat your penis even
- if I don't use my pussy♪"
+　おまんこじゃなくてもできるんですから♪ぐりぐり♡』",""
 "店員は徐々に撫でまわす速度を上げていく。
 摩擦と快感で亀頭は熱を持ち、
 じんじんとした快感に震えながら、
-貴方の肉棒は射精の準備を進めてしまう。","The shopkeeper gradually increased the pace of her
-glans rubbing. Both the pleasure and friction were
-starting to make your tip burn while you were heading
-straight towards orgasm."
+貴方の肉棒は射精の準備を進めてしまう。",""
 "<店員>
 『ほらほら♪分かりましたか？
 　また、おちんちんで返事してくださいね♪
-　ぐりぐり♡ぐりぐり♡』","<Shopkeeper A>
-""Have you learned your lesson?
- Please answer with your penis♪"""
+　ぐりぐり♡ぐりぐり♡』",""
 "EXP2000を失った！
-レベル\v[7]→\C[18]レベル\v[8]","Lost 2000 EXP!
-Level \v[7]→\C[18]Level \v[8]"
+レベル\v[7]→\C[18]レベル\v[8]",""
 "<店員>
 『いいお返事ですね♪
-　経験値がたっぷり詰まった、精液頂いちゃいました♪』","<Shopkeeper A>
-""Yes, that's a perfect answer♪ I received your
- experience packed semen without fail♪"""
+　経験値がたっぷり詰まった、精液頂いちゃいました♪』",""
 "<店員>
 『これが今日の分の代金です♪
-　また、搾り取られに来てくださいね？』","<Shopkeeper A>
-""This is your money for today's level exchange♪
- Please come get drained again♪"""
+　また、搾り取られに来てくださいね？』",""
 "<アル>
 『\n[1]のレベル、
-　今回もいっぱい搾り取られちゃったね…』","<Al>
-""\n[1], you lost so many levels again..."""
+　今回もいっぱい搾り取られちゃったね…』",""
 "<アル>
 『あの子にレベルドレインされるの、癖になってない？
-　大丈夫？』","<Al>
-""Are you sure you aren't starting to get hooked to the
- shopkeeper's level draining? Are you really okay?"""
-"大丈夫","I'm okay"
-"癖になってる……かも","I might be hooked..."
+　大丈夫？』",""
+"大丈夫",""
+"癖になってる……かも",""
 "<アル>
 『ん！それならよかった！
-　レベルも大事だけど、お金も大事だもんね♪』","<Al>
-""Okay! That's good to hear!
- Levels are important, but so is money♪"""
+　レベルも大事だけど、お金も大事だもんね♪』",""
 "<アル>
 『\n[1]！？し、しっかりして！
-　このダンジョンのクリアを目指すんでしょ！？』","<Al>
-""\n[1]?! Get yourself together!
- Please remember how we need to clear this game!"""
+　このダンジョンのクリアを目指すんでしょ！？』",""
 "<店員>
 『あ、プレイヤーさん、結構レベル上がりましたね♪
 　そろそろ中堅プレイヤーさんの仲間入り、
@@ -2471,1565 +2059,906 @@ Level \v[7]→\C[18]Level \v[8]"
 "EV004",""
 "<店員>
 『いらっしゃいませ♡
-　あら、見かけないお客様ですね。』","<Shopkeeper B>
-""Welcome♡ Oh♡ You must be a new customer♡"""
+　あら、見かけないお客様ですね。』",""
 "<店員>
 『隣の子に説明をお聞きください♡
-　説明は彼女の役目ですので♡』","<Shopkeeper B>
-""Please ask the other shopkeeper to explain how shops
- work♡ It's her duty to do it♡"""
+　説明は彼女の役目ですので♡』",""
 "<店員>
 『え？私の役目ですか？
 　うふふ♡バニーガールの衣装が気になってしまうのですか？
-　スケベなお客様♡』","<Shopkeeper B>
-""Oh? What's my duty then? Ahaha♡ Are you getting
- curious of my bunny girl costume? How lecherous of
- you, Dear Customer♡"""
+　スケベなお客様♡』",""
 "<店員>
 『それも隣の子に効けば分かるかもしれませんよ？
-　それでも私に用があれば、また後程♡』","<Shopkeeper B>
-""You may find out my duty when you listen the other
- shopkeeper's explanation♡ You can ask for my services
- after that if you're still interested♡"""
+　それでも私に用があれば、また後程♡』",""
 "<店員>
 『いらっしゃいませ♡
-　どのようなご用件でしょうか？』","<Shopkeeper B>
-""Welcome♡ How may I help you?"""
+　どのようなご用件でしょうか？』",""
 "<店員>
 『かしこまりました、お客様♡
-　それでは、レベルをドレインさせていただきます♡』","<Shopkeeper B>
-""Certainly, Dear Customer♡ Then please allow me to
- take your levels♡"""
+　それでは、レベルをドレインさせていただきます♡』",""
 "そう言いながら妖しく微笑む店員に、
-貴方の胸はドキリと高鳴る。","As the shopkeeper said that in a seductive smile, your
-heart skipped a beat."
+貴方の胸はドキリと高鳴る。",""
 "<店員>
 『レベルを買い取る方法、想像くらいはできますでしょう？
-　お客様同士のレベルドレインと何も変わりませんよ♡』","<Shopkeeper B>
-""I imagine you have already figured how our level
- exchange service is carried out, correct? It's no
- different from how players level drain each other♡"""
+　お客様同士のレベルドレインと何も変わりませんよ♡』",""
 "<店員>
 『お客様のおちんちんからレベルごと精液を搾りだして、
-　買取とさせていただきますね♡』","<Shopkeeper B>
-""I am going to purchase your levels by draining them
- from your penis along with your semen♡"""
+　買取とさせていただきますね♡』",""
 "<店員>
 『搾精の方法ですが……ふふ、
-　ビギナーのお客様にはこれで充分でしょう♡』","<Shopkeeper B>
-""As for how am I going to drain you... Ahaha♡
- I believe this should be more than plenty for
- a beginner like yourself, Dear Customer♡"""
+　ビギナーのお客様にはこれで充分でしょう♡』",""
 "店員はどこからともなくにんじんを取り出した。
-それを自身の豊満な乳房の谷間に挿入する。","The shopkeeper took out a carrot from somewhere and 
-inserted it between her massive breasts."
+それを自身の豊満な乳房の谷間に挿入する。",""
 "<店員>
 『ふふ♡
 　柔らかな私のおっぱいに挟まれているこのにんじん…
-　羨ましいですか？』","<Shopkeeper B>
-""Ahaha♡ Please look at this carrot is squished
- between my soft breasts... Are you envious of it?"""
+　羨ましいですか？』",""
 "<店員>
 『ですが、お客様にパイズリはしてあげません♡
 　弱いお客様には私のエアパイズリを見ながら、
-　自分でシコシコ扱くオナニーで充分ですからね♡』","<Shopkeeper B>
-""However, I won't be doing the same to your penis♡
- When you're still so weak, masturbating while watching
- a carrot boobjob should be enough for you to climax♡"""
+　自分でシコシコ扱くオナニーで充分ですからね♡』",""
 "店員は悪戯っぽく笑いながら、
-貴方の目の前で扇情的ににんじんを乳房で上下に擦る。","The shopkeeper began lewdly stroking the carrot
-between her cleavage while watching you with a grin."
+貴方の目の前で扇情的ににんじんを乳房で上下に擦る。",""
 "たぷたぷと柔らかく揺れる彼女の乳房は、
 ぴったりとにんじんに合わせて形を変え、
-扇情的に愛撫するような動きを見せる。","It looked really erotic how the shopkeeper's soft
-breasts perfectly took shape after the carrot while
-shaking up and down."
+扇情的に愛撫するような動きを見せる。",""
 "<店員>
 『うふふ♡私に見られながら、
 　みっともなくシコシコするのは恥ずかしいですか？　
-　ですがお客様のおちんちん…とても大きくなってますよ♡』","<Shopkeeper B>
-""Ahaha♡ Are you perhaps too embarrassed to masturbate
- while I'm watching? However, Dear Customer, your penis
- has already grown terrible hard from the sight♡"""
+　ですがお客様のおちんちん…とても大きくなってますよ♡』",""
 "<店員>
 『私のおっぱいがたぷたぷと揺れる動きで、
 　谷間のにんじんを上下に擦るこのエッチな動きで、
-　興奮してしまっているんですよね♡』","<Shopkeeper B>
-""You can't help getting turned on when I'm shaking my
- breasts and stroking the carrot between my cleavage,
- correct?"""
+　興奮してしまっているんですよね♡』",""
 "<店員>
 『プライドを捨てて、
 　私のおっぱいの揺れに合わせて上下にシコシコするのは、
-　とても気持ちいいですよ♡』","<Shopkeeper B>
-""Please throw away your pride and touch your penis♡
- Try matching your strokes to the shakes of my breasts
- and you'll see how amazing it feels♡"""
+　とても気持ちいいですよ♡』",""
 "店員は誘惑するような視線を投げかけながら、
-たぷたぷと乳房を縦に揺らして谷間のにんじんを擦る。","The shopkeeper sent seductive glances your way while
-shaking her breasts and stroking the carrot between
-them."
+たぷたぷと乳房を縦に揺らして谷間のにんじんを擦る。",""
 "<店員>
 『このにんじんが、自分のおちんちんだと想像してください♡
 　柔らかいおっぱいに左右から挟まれて、
-　飲み込まれるようにズリズリと擦られる…♡』","<Shopkeeper B>
-""Please imagine that this carrot is your penis♡
- Imagine how you are sandwiched between my breasts
- and stroked in their soft touch♡"""
+　飲み込まれるようにズリズリと擦られる…♡』",""
 "<店員>
 『低レベルのお客様では、
 　想像しただけで喉がなってしまいますよね♡
-　妄想だけで感じてしまう♡』","<Shopkeeper B>
-""For my low level customer, that imagination is enough
- to make them moan♡ They get so aroused simply from
- the idea of getting a boobjob from me♡"""
+　妄想だけで感じてしまう♡』",""
 "<店員>
 『ほら、早く♡
 　おっぱいを見ながら、パイズリされる妄想をして、　
-　私の前でおちんちんを扱きなさい♡』","<Shopkeeper B>
-""Now, touch yourself♡ Masturbate while staring at my
- breasts and imagine this carrot as your own penis♡"""
+　私の前でおちんちんを扱きなさい♡』",""
 "柔らかな乳房で誘惑しながら彼女は貴方にそう命令する。
 その言葉に貴方の理性は弾け、固く勃起した肉棒を、
-自分の手のひらで握りしめて上下に扱き始めてしまう。","The shopkeeper's words were basically an order to
-masturbate. The moment she told you what to do, your
-mind snapped. You grabbed your erect penis and began
-stroking off."
+自分の手のひらで握りしめて上下に扱き始めてしまう。",""
 "<店員>
 『ふふ♡命令されると弱いんですね♡
 　流石、レベルの低い弱いお客様です♡
-　とても情けなくて、可愛らしいと思いますよ♡』","<Shopkeeper B>
-""Ahaha♡ Looks like you're weak to being ordered♡
- I wouldn't expect anything more from a low level
- customer♡ That's so miserable but also adorable♡"""
+　とても情けなくて、可愛らしいと思いますよ♡』",""
 "<店員>
 『ほら、目の前でおっぱいを上下に振ってあげます♡
 　谷間の中のにんじん、
-　柔らかくもみくちゃにされて気持ちよさそうですよね♡』","<Shopkeeper B>
-""Here♡ Allow me to shake my breasts more for you♡
- Look how the carrot is shaken and squeezed so hard
- between my cleavage♡ Doesn't it look amazing♡"""
+　柔らかくもみくちゃにされて気持ちよさそうですよね♡』",""
 "<店員>
 『このにんじんがお客様のおちんちん♡
-　ほら、想像したままおっぱいの動きに合わせてシコシコ♡』","<Shopkeeper B>
-""Dear Customer, this carrot is your penis♡ Match your
- strokes to the shakes of my breasts so that you can
- fully immerse yourself in that fantasy♡"""
+　ほら、想像したままおっぱいの動きに合わせてシコシコ♡』",""
 "店員はにんじんをパイズリする様に乳房を上下に振り、
-形を変えて揺れ動く乳房の柔らかさを視覚的に訴える。","The shopkeeper shook her breasts to give the carrot
-a boobjob. You could practically feel the softness
-of her breasts with your eyes from the way they kept
-changing shape and shaking around the carrot."
+形を変えて揺れ動く乳房の柔らかさを視覚的に訴える。",""
 "店員の挑発的な視線と、
 たぷんたぷんと扇情的に揺れながら、
-谷間のにんじんをパイズリする乳房に貴方の興奮は高まる。","When the shopkeeper kept sending seductive glances your
-way and sensationally shaking her breasts like that,
-you couldn't help getting aroused hard by the carrot
-boobjob."
+谷間のにんじんをパイズリする乳房に貴方の興奮は高まる。",""
 "<店員>
 『おちんちんを上下に扱くリズムは私が取ってあげますよ♡
 　お客様♡ちゃんと私のおっぱいの揺れに合わせて、
-　シコシコしてくださいね♡』","<Shopkeeper B>
-""Dear Customer, I'll take care of the pace of your
- stroking♡ Please simply match your hand movements
- to the shakes of my breasts and nothing else♡"""
+　シコシコしてくださいね♡』",""
 "<店員>
 『ほら、上下におっぱいをむにゅむにゅ♡
 　空中で柔らかく動かして、
-　お客様に見せつけながらエアパイズリしてあげますから♡』","<Shopkeeper B>
-""Closely watch how my breasts shake up and down♡
- Up and down♡ Watch how they're performing air
- boobjob on your penis♡"""
+　お客様に見せつけながらエアパイズリしてあげますから♡』",""
 "店員は一定のリズムで乳房を上下に振る。
 その扇情的な動きに見惚れながら、
-貴方は彼女の言う通り合わせるように肉棒を扱いていく。","The shopkeeper shook her breasts up and down in a fixed
-rhythm. The sight of the bouncing breasts was so
-entrancing that you fell in daze and ended matching
-your strokes like she told you to."
+貴方は彼女の言う通り合わせるように肉棒を扱いていく。",""
 "<店員>
 『そうそう、その調子ですよ。
 　おっぱいに見惚れながら、プライドなんて捨てて、
-　みっともなくシコシコしてください♡』","<Shopkeeper B>
-""Yes♡ Keep going like that♡ Completely lose your
- head over my breasts, throw away your pride, and
- shamelessly stroke yourself off before a girl♡"""
+　みっともなくシコシコしてください♡』",""
 "<店員>
 『揺れ動くおっぱいに目が釘付けになって、
 　パイズリを妄想しながらシコシコ♡
-　とても気持ちいいですよね♡お客様♡』","<Shopkeeper B>
-""Nail your eyes on my shaking breasts and imagine
- getting a boobjob from them while stroking yourself♡
- It feels so good, doesn't it? Dear Customer♡"""
+　とても気持ちいいですよね♡お客様♡』",""
 "店員はくすくすと笑みを浮かべながら、
-貴方が肉棒を自分で扱いている様子を見つめている。","The shopkeeper grinned and giggled at you while
-watching you hopelessly masturbate."
+貴方が肉棒を自分で扱いている様子を見つめている。",""
 "貴方はそんな状況に羞恥を覚えながらも、
 誘惑するように上下に揺れる乳房と、
 魅惑的な谷間に挟まれたにんじんに興奮を煽られて、
-手を止めることが出来ない。","Even while masturbating like that made you feel
-ashamed, your hands wouldn't stop when the shopkeeper
-continued to turn you on by seductively shaking her
-breasts to give the carrot a boobjob."
+手を止めることが出来ない。",""
 "<店員>
 『ふふ♡息が荒くなってきていますよ♡
 　谷間に挟まれたにんじんをじっと見つめて、
-　はぁはぁと荒い息をついてしまって……♡』","<Shopkeeper B>
-""Ahaha♡ Your breathing is starting to get ragged♡
- You're panting so hard while staring at the carrot
- wedged between my breasts♡"""
+　はぁはぁと荒い息をついてしまって……♡』",""
 "<店員>
 『タプタプ上下に動くおっぱいに挟まれて、
 　もみくちゃにされながら揺れるこのにんじん♡
-　羨ましくて仕方がないんですね♡』","<Shopkeeper B>
-""When I'm squeezing and stroking the carrot so hard
- in my breasts, you can't help feeling jealous of it,
- can you?"""
+　羨ましくて仕方がないんですね♡』",""
 "<店員>
 『自分のおちんちんもこの谷間に捕まりたい…♡
 　おっぱいにもみくちゃにされてイかされたい…♡
-　そんなお客様の心の声が聞こえてくるようです♡』","<Shopkeeper B>
-""You want to get your dick trapped and stroked
- between my breasts just like this carrot...
- That's exactly what your gaze tells me♡"""
+　そんなお客様の心の声が聞こえてくるようです♡』",""
 "<店員>
 『……で・す・が♡
-　最初に言った通り、今回はパイズリはしてあげません♡』","<Shopkeeper B>
-""However♡ Just like said at the start, I won't give
- you a boobjob this time♡"""
+　最初に言った通り、今回はパイズリはしてあげません♡』",""
 "<店員>
 『今回はこのまま1人で妄想オナニーしなさい♡
-　貴方のおちんちんにはそれで十分と言ったはずですよ♡』","<Shopkeeper B>
-""All you get to do is masturbate while fantasizing
- about my breasts♡ Like I mentioned, this should
- be more than enough for a penis of your level♡"""
+　貴方のおちんちんにはそれで十分と言ったはずですよ♡』",""
 "店員の貴方を軽んじるような言葉と挑発できな視線、
 そして扇情的に揺れる乳房の動きに貴方は追い詰められ、
-肉棒の先端から我慢汁があふれてきてしまう。","By continuously making light of you, seductively
-watching you, and cornering your mind simply by shaking
-her breasts, the shopkeeper's efforts made the precum
-start flowing from the tip of your penis."
+肉棒の先端から我慢汁があふれてきてしまう。",""
 "<店員>
 『ほら、ぬちゃぬちゃと水音が聞こえてきました♡
 　おっぱいを見ながら妄想オナニーして、
-　イきそうになってきてしまったんですね♡』","<Shopkeeper B>
-""Do you hear that? Your strokes became wet from your
- leaking precum♡ You're already about to climax from
- watching my breasts and imagining my boobjob♡"""
+　イきそうになってきてしまったんですね♡』",""
 "<店員>
 『貴方が手を動かすたびに、いやらしい音が聞こえてきます。
 　私に見られながら情けなくシコシコして、
-　感じてしまっている恥ずかしい音♡』","<Shopkeeper B>
-""There's a lewd wet sound with your every stroke♡
- It's the proof that you're shamelessly getting
- aroused from masturbating while I'm watching♡"""
+　感じてしまっている恥ずかしい音♡』",""
 "からかうような店員の言葉に貴方は羞恥を煽られ、
-頬が赤く染まってしまうが、手を止めることが出来ない。","When the shopkeeper made fun of you and fanned your
-feelings of shame, you could feel your cheeks getting
-hot, but you still couldn't stop your hands."
+頬が赤く染まってしまうが、手を止めることが出来ない。",""
 "むにゅむにゅと目の前で揺れる乳房の動きに、
-リズムをコントロールされながら肉棒を扱いていく。","Your hands simply kept stroking your penis as they were
-controlled by the rhythm of the shaking breasts before
-your eyes."
+リズムをコントロールされながら肉棒を扱いていく。",""
 "<店員>
 『ではそろそろ、少し速度を上げていきましょうか。
 　おっぱいの揺れを徐々に激しくしていきますから、
-　ちゃんとそのリズムに合わせてくださいね♡』","<Shopkeeper B>
-""I believe it's about time we picked up the pace♡
- The shakes of my breasts are going to get slightly
- intense, but please make sure to keep up♡"""
+　ちゃんとそのリズムに合わせてくださいね♡』",""
 "<店員>
 『さぁ、いきますよ♡
 　谷間の中のにんじんをおっぱいでもみくちゃにしながら、
-　柔らかく上下にむにゅむにゅ♡』","<Shopkeeper B>
-""Here it goes♡ Closely watch how my breasts shake and
- make a mess of the carrot♡"""
+　柔らかく上下にむにゅむにゅ♡』",""
 "店員は谷間に挟んだにんじんを柔らかくすり潰すように、
-たぷんたぷんと形を変えて徐々に激しく乳房を上下に振る。","The shopkeeper tightly squeezed the carrot between her
-soft breasts as began shaking them faster."
+たぷんたぷんと形を変えて徐々に激しく乳房を上下に振る。",""
 "貴方はそんな乳房の激しい動きにつられるように、
-切なげな声を出しながら肉棒を扱く速度をはやめていく。","You couldn't help moaning as your hands picked up the
-pace to match with the shopkeeper's carrot boobjob."
+切なげな声を出しながら肉棒を扱く速度をはやめていく。",""
 "<店員>
 『ふふ♡お客様の情けない声、よく聞こえてきます♡
 　こんなに早く動かされてしまうと、
-　すぐにイってしまいますか？』","<Shopkeeper B>
-""Ahaha♡ Dear Customer, you're making such shameless
- moans right before me♡ Will you climax right away if
- I make you stroke at this pace?"""
+　すぐにイってしまいますか？』",""
 "<店員>
 『…いいんですよ、いつイってしまっても♡
 　私のおっぱいにパイズリをされる妄想をしながら、
-　情けなくレベルを放出してください♡』","<Shopkeeper B>
-""However... It doesn't matter when you do climax♡
- Please go ahead and miserably give me your load and
- levels while imagining getting a boobjob from me♡"""
+　情けなくレベルを放出してください♡』",""
 "<店員>
 『女性に触れられることなく、
 　視覚でオナニーをコントロールされながら情けなく射精♡
-　レベルが低い貴方にはお似合いですよ♡』","<Shopkeeper B>
-""Miserably cum while a girl controls your masturbation
- without even touching you♡ It's a proper finish for
- someone as low level as you, Dear Customer♡"""
+　レベルが低い貴方にはお似合いですよ♡』",""
 "店員はくすくすと妖しく微笑みながら、
 むにゅむにゅと左右の乳房で谷間の中のにんじんを咀嚼する。
-その激しい動きに貴方の手の動きもつられてしまう。","The shopkeeper giggled and watched you in seductive
-smile as she increased the pace of her boobjob further
-and nearly crushed the carrot in the process. You
-could do nothing about your hands matching the pace."
+その激しい動きに貴方の手の動きもつられてしまう。",""
 "恥ずかしい、情けない……
 そんな羞恥を感じているはずなのに、
 貴方は乳房の動きに操られてしまい、
-肉棒を扱く手の動きを止めることが出来ない。","You felt absolutely ashamed and miserable, but even
-then, the shopkeeper's breasts kept firm control over
-your hands, and you couldn't stop stroking yourself
-even if you tried."
+肉棒を扱く手の動きを止めることが出来ない。",""
 "<店員>
 『ふふ♡イきそうなのに、
 　私のおっぱいに誘われて手を止めることが出来ない…♡
-　なんて恥ずかしいお客様…♡』","<Shopkeeper B>
-""Ahaha♡ You're already so close to climax, but my
- breasts have charmed you so badly that you can't stop
- your hands♡ How shameful of you, Dear Customer♡"""
+　なんて恥ずかしいお客様…♡』",""
 "<店員>
 『このままでは情けなくオナニーで射精するところを、
-　私に見られてしまいますよ。よろしいんですか？』","<Shopkeeper B>
-""At this rate, you're going to miserably stroke
- yourself to climax and I'll be here to see every
- moment of it♡ Do you really wish to do that?"""
+　私に見られてしまいますよ。よろしいんですか？』",""
 "店員は貴方にそう確認しながら、
 言葉とは裏腹により激しく乳房を上下に振る。
 谷間に挟まれたにんじんは2つの乳房に飲み込まれ、
-まるで悲鳴を上げるように揺れている。","The shopkeeper asked if you were content with the
-matter, but in contrary to her warning, she began
-shaking her breasts even faster and the carrot
-got nearly fully swallowed up between her breasts."
+まるで悲鳴を上げるように揺れている。",""
 "そんな扇情的な光景に貴方は手を激しく動かし続け、
-彼女の煽るような確認に顔を赤くすることしかできない。","Your hands instantly began stroking faster at that
-sight. When she teasingly confirmed if you wanted to
-ejaculating in such a shameful way, you coul do
-nothing but blush."
+彼女の煽るような確認に顔を赤くすることしかできない。",""
 "<店員>
 『くす♡可愛らしいお客様♡
 　恥ずかしいのに、おっぱいの動きが扇情的で、
-　もう手を緩めることすら出来ないんですね♡』","<Shopkeeper B>
-""Ahaha♡ Dear Customer, you're so adorable♡
- It will be so shameful, yet the sight of my breasts
- is so sensational that you can't even slow down♡"""
+　もう手を緩めることすら出来ないんですね♡』",""
 "<店員>
 『それならもうこのまま…♡トドメといきましょう♡
 　ほら、おっぱいの動きに誘われて、
-　私に見られながらオナニーでイってしまいなさい♡』","<Shopkeeper B>
-""Then, why don't I finish you off♡
- Now♡ Closely watch my tempting breasts and
- stroke yourself to climax right before my eyes♡"
+　私に見られながらオナニーでイってしまいなさい♡』",""
 "店員の乳房の激しい動きに合わせたまま肉棒を扱き、
-貴方は耐えきれずに大量の白濁液をまき散らす。","When your hands matched pace with the shopkeeper's
-intense boobjob, it didn't take much from her to break
-your limit and make your white semen fly out."
+貴方は耐えきれずに大量の白濁液をまき散らす。",""
 "<店員>
 『ふふ♡みっともない射精でしたね♡
-　お客様の経験値、確かに頂きました♡』","<Shopkeeper B>
-""Ahaha♡ That was such a miserable way to cum♡
- I've drained your experience without fail♡"""
+　お客様の経験値、確かに頂きました♡』",""
 "<店員>
 『やはり、貴方にはこれで充分でしたね。
 　おっぱいを揺らしているだけで、
-　経験値をささげてくださるのですから楽なものです♡』","<Shopkeeper B>
-""As I thought, this was more than enough to make you
- climax♡ It was so easy since I only had to shake my
- breasts to obtain your experience♡"""
+　経験値をささげてくださるのですから楽なものです♡』",""
 "<店員>
 『さて、これで買い取りを終えることもできますが…
-　いかがいたしましょうか。』","<Shopkeeper B>
-""Now then, Dear Customer♡ It's possible to stop the
- level exchange here, but what would you like to do?"""
+　いかがいたしましょうか。』",""
 "<店員>
 『お客様がお望みなら、まだまだ搾って差し上げますよ♡
-　貴方のレベル、もう少し私に差し出してしまいますか？』","<Shopkeeper B>
-""If you wish to do so, I can keep draining you for
- more♡ Would you like to exchange more levels?"""
+　貴方のレベル、もう少し私に差し出してしまいますか？』",""
 "<店員>
 『うふふ♡承りました♡
 　まだ気持ちよくなりたいんですね♡
-　では、またこうしておっぱいを揺らしてあげましょう♡』","<Shopkeeper B>
-""Ahaha♡ As you wish♡ You would like to enjoy this
- sensation a little longer, correct? Then allow me to
- shake my breasts and squeeze the carrot for you♡"""
+　では、またこうしておっぱいを揺らしてあげましょう♡』",""
 "<店員>
 『谷間に挟んだにんじんをエアパイズリしながら、
 　お客様を柔らかいおっぱいで誘惑……♡
-　ほら、またおちんちん扱いていいですよ♡』","<Shopkeeper B>
-""I'll seduce you with my soft breasts and the carrot
- boobjob again♡ Hey♡ You may start stroking your
- penis again♡"""
+　ほら、またおちんちん扱いていいですよ♡』",""
 "店員は再び貴方の前で、
 扇情的に豊満な乳房を上下に揺らし始める。
 たぷたぷと乳房は揺れるたびに柔らかく形を変わり、
-その光景に貴方は興奮を煽られていく。","The shopkeeper began to lewdly shake her massive
-breasts before you again, and you couldn't help getting
-aroused at their sight when they changed shape with
-every bounce."
+その光景に貴方は興奮を煽られていく。",""
 "<店員>
 『今度こそパイズリ、してもらえると思いましたか？
 　うふふ♡残念でしたね♡
-　今回もオナニーでレベルを放出させてしまいますから♡』","<Shopkeeper B>
-""Did you think I would give you an actually boobjob
- this time? Ahaha♡ Too bad, but I'm going to make
- you masturbate for the level drain again♡"""
+　今回もオナニーでレベルを放出させてしまいますから♡』",""
 "<店員>
 『もしパイズリをどうしてもして欲しいなら、
-　こんな誘惑なんかでは射精しないことです♡』","<Shopkeeper B>
-""If you really want a boobjob from me, then you need
- to become so strong that you won't be even fazed by
- this kind of temptation♡"""
+　こんな誘惑なんかでは射精しないことです♡』",""
 "<店員>
 『こんな誘惑ではいつまでたってもレベルを搾りだせない、
 　私がそう判断すれば、
-　お客様のおちんちんを直接虐めて上げますね♡』","<Shopkeeper B>
-""Only after I've deemed that I can't obtain levels from
- you in this manner... That's when I'll touch your
- penis directly♡"""
+　お客様のおちんちんを直接虐めて上げますね♡』",""
 "<店員>
 『だから、必死に我慢してくださいよ♡
 　もっとも、つい先ほどみっともなく射精してしまった、
-　早漏のお客様には難しい話だとは思いますが♡』","<Shopkeeper B>
-""That's why you need to endure the temptation harder♡
- However, that should be impossible when you just
- climaxed like someone with premature ejaculation♡"""
+　早漏のお客様には難しい話だとは思いますが♡』",""
 "店員はからかうような笑みで貴方を見つめながら、
 むにゅむにゅと豊満な乳房を器用な手つきで動かし、
-視覚敵にその柔らかさを貴方に伝えていく。","The shopkeeper mocked you with a grin while kneading
-her breasts to visually convey their softness to you.
-"
+視覚敵にその柔らかさを貴方に伝えていく。",""
 "彼女が手を動かすたびに柔らかく形を変えながら、
 扇情的にたぷたぷと揺れる乳房に、
-貴方の目はくぎ付けになってしまう。","Your gaze got instantly glued to the shopkeeper's
-breasts when she shook them at you so seductively."
+貴方の目はくぎ付けになってしまう。",""
 "<店員>
 『ほら、いつでもおちんちんを扱いていいんですよ♡
 　このおっぱいの揺れに合わせて上下にシコシコ♡
-　私に見られながら恥ずかしいオナニー♡』","<Shopkeeper B>
-""You can start masturbating any time you want♡
- Match your pace to my shaking breasts♡
- Shamefully touch yourself while I'm watching♡"""
+　私に見られながら恥ずかしいオナニー♡』",""
 "<店員>
 『1人でするよりも、ずっと気持ちよかったですよね？
-　また味わわせてあげますから……シコシコ扱きなさい♡』","<Shopkeeper B>
-""It felt so much better compared to masturbating alone,
- didn't it? I'll let you taste that pleasure again...
- So start touching yourself♡"""
+　また味わわせてあげますから……シコシコ扱きなさい♡』",""
 "店員は乳房を扇情的に揺らしながらそう命令する。
 脳に浸透する様に彼女の言葉が響き、
-貴方は逆らうことが出来ずに肉棒を握りしめて扱き始める。","The shopkeeper ordered you to masturbate while
-seductively shaking her breasts. The moment her words
-rang in your head, you grabbed your penis and began
-touching yourself without being able to resist."
+貴方は逆らうことが出来ずに肉棒を握りしめて扱き始める。",""
 "彼女の乳房の揺れに合わせて、
 自分の手が操られるように肉棒を上下に扱き、
-貴方は羞恥と甘美な快楽を同時に感じてしまう。","When you matched your strokes to the shopkeeper's
-shaking breasts, it felt like she was in control of
-your hands. Doing so caused you to feel both shame
-and sweet pleasure at the same time."
+貴方は羞恥と甘美な快楽を同時に感じてしまう。",""
 "<店員>
 『この谷間に挟まれてもみくちゃにされているにんじんに、
 　自身のおちんちんを投影して、
-　先ほどのように妄想しながらシコシコしてくださいね♡』","<Shopkeeper B>
-""Please imagine your penis between my breasts in the
- place of this carrot, and stroke yourself while
- indulging in that fantasy just like before♡"
+　先ほどのように妄想しながらシコシコしてくださいね♡』",""
 "<店員>
 『私も客様の妄想を、手助けさせていただきますから♡
-　ほら、お客様のおちんちん、熱くてかたい…♡』","<Shopkeeper B>
-""Allow me to help you indulge in that fantasy as well♡
- Ah... Dear Customer♡ Your penis feels so hot...♡"""
+　ほら、お客様のおちんちん、熱くてかたい…♡』",""
 "<店員>
 『お客様のたくましいおちんちんを谷間に感じて、
-　私も興奮してしまいます♡うふふ♡』","<Shopkeeper B>
-""Your rock hard penis is throbbing so hard between my
- breasts that I'm getting wet♡ Ahaha♡"""
+　私も興奮してしまいます♡うふふ♡』",""
 "店員は熱っぽく吐息を混じらせながら、まるで、
-貴方の肉棒をパイズリしているかのように言葉を漏らす。","The shopkeeper began panting and talking as if she was
-giving your penis a boobjob."
+貴方の肉棒をパイズリしているかのように言葉を漏らす。",""
 "<店員>
 『この男らしいおちんちん…♡
 　私が、胸で奉仕させていただきますね♡
-　柔らかく包み込んで…両側からむにゅむにゅ♡』","<Shopkeeper B>
-""Please let me serve your hot and manly penis with my
- breasts♡ I'll fully surround it between them...
- And then squeeze it from both sides♡"""
+　柔らかく包み込んで…両側からむにゅむにゅ♡』",""
 "<店員>
 『このまま谷間の中で柔らかく溶かして差し上げますから、
-　たっぷりと感じてください♡お客様♡』","<Shopkeeper B>
-""I will melt your penis through pleasure with my soft
- breasts, so please enjoy every moment of it♡
- Dear Customer♡"""
+　たっぷりと感じてください♡お客様♡』",""
 "店員は谷間に挟んだにんじんを肉棒に見立て、
 柔らかくパイズリをしながらそう言葉を漏らす。
 妄想を掻き立てられる艶やかな声と乳房の揺れに、
-貴方は夢中になって自分の肉棒を扱いてしまう。","The shopkeeper continued the sex talk and boobjob
-like the carrot between her breasts was your penis.
-You couldn't help falling into trance and continue
-stroking when she fueled your fantasy like that."
+貴方は夢中になって自分の肉棒を扱いてしまう。",""
 "<店員>
 『くす♡夢中になってくださったようで何よりです…♡
-　では、妄想の手助けを続けましょう♡』","<Shopkeeper B>
-""Ahaha♡ I'm glad to see that you're completely losing
- your head over my breasts♡ Then allow me to push you
- even deeper into your little fantasy♡"""
+　では、妄想の手助けを続けましょう♡』",""
 "<店員>
 『あんっ♡お客様のおちんちんが、
 　おっぱいの中でビクビク暴れています♡
-　私のおっぱいに負けじとしっかり押し返してきますね♡』","<Shopkeeper B>
-""Ah♡ Your penis is throbbing so hard in my breasts♡
- It's trying to push them back and seize control of
- them♡"""
+　私のおっぱいに負けじとしっかり押し返してきますね♡』",""
 "<店員>
 『私の方も、負けていられません♡
 　押し返してくる固いおちんちんを、
-　柔らかいおっぱいで押しつぶしてしまいます♡』","<Shopkeeper B>
-""But I won't go down without a fight♡ I'll crush
- your penis between my soft breasts♡"""
+　柔らかいおっぱいで押しつぶしてしまいます♡』",""
 "店員は言葉通り、
 両手を使って谷間の中のにんじんを乳房で挟み込むように、
-両側からむぎゅぅぅっと押しつぶす。","After saying that, the shopkeeper used her both hands
-to press down her breasts and squeeze the carrot
-between them."
+両側からむぎゅぅぅっと押しつぶす。",""
 "むにゅりと彼女の手に合わせて形を変える乳房に、
 その柔らかな圧迫の感触を想像させられて、
-貴方は思わず切なげな声を出してしまう。","When you saw her breasts squish and change shape when
-pressed towards the carrot, you could clearly imagine
-what kind of soft pressure it was feeling, and you
-couldn't help moaning at that realization."
+貴方は思わず切なげな声を出してしまう。",""
 "<店員>
 『うふふ♡こうして両側から、
 　おっぱいで圧迫されるのがお好きなんですか？
-　恥ずかしい声がでてしまいましたね♡』","<Shopkeeper B>
-""Ahaha♡ You love it when I press my breasts together,
- don't you? You made such a shameless moan just now♡"""
+　恥ずかしい声がでてしまいましたね♡』",""
 "<店員>
 『それではお客様の目の前で、
 　たっぷりと見せつけて差し上げますので…♡
-　このまま妄想をお楽しみください♡』","<Shopkeeper B>
-""Then I will continue squishing them together for your
- pleasure again and again♡ Please continue indulging
- in your little fantasy♡"""
+　このまま妄想をお楽しみください♡』",""
 "<店員>
 『ほら、いきますよ。
 　目の前で両側からおっぱいを圧迫して、
-　柔らかくむぎゅぅぅ♡』","<Shopkeeper B>
-""Here it goes♡ I'll grab my breasts from the left
- and right... And softly squeeze them together♡"""
+　柔らかくむぎゅぅぅ♡』",""
 "貴方は目の前で谷間の中のにんじんを押しつぶすように、
 両側から形を変えて圧迫する乳房に見惚れ、
-必死になって肉棒を上下に扱く。","The sight of the shopkeeper's breasts pressing together
-and crushing the carrot between them put you in trance
-where you began stroking yourself faster."
+必死になって肉棒を上下に扱く。",""
 "その扇情的な光景を見ながらのオナニーに興奮し、
-すぐににちゃにちゃと我慢汁の音をあたりに響かせてしまう。","Masturbating before the sensational view of the
-shopkeeper's breasts turned you on so hard that
-your precum began instantly leaking and wet sounds
-accompanied your strokes."
+すぐににちゃにちゃと我慢汁の音をあたりに響かせてしまう。",""
 "<店員>
 『もうおちんちんが気持ちよくなってしまったんですか♡
 　やはり、お客様にはこれで充分♡
-　直接虐めてあげる必要性を感じませんね♡』","<Shopkeeper B>
-""Is your penis already already near the limit? As I
- thought, this is more than plenty♡ There's no need
- for me to directly touch you, Dear Customer♡"""
+　直接虐めてあげる必要性を感じませんね♡』",""
 "<店員>
 『ほら、ラストスパートに入りますよ♡
 　こうやって強く締め付けたまま、上下にむにゅむにゅ♡
-　おっぱいでもみくちゃにしてしまいましょう♡』","<Shopkeeper B>
-""Let's move on to the last spurt♡ I'll continue
- holding my breasts tightly together... And shake
- them up and down in boobjob♡"""
+　おっぱいでもみくちゃにしてしまいましょう♡』",""
 "店員は悪戯っぽく笑いながら、
 激しく乳房を揺らして上下に振り始める。
 たぷんたぷんと上下に柔らかく、激しく揺れる乳房に、
-貴方は促されるように手の上下運動を激しくしていく。","The shopkeeper showed you an impish grin when she began
-shaking her breasts up and down intensively. Your hands
-also automatically picked up the pace before at that
-sight."
+貴方は促されるように手の上下運動を激しくしていく。",""
 "<店員>
 『もう私に言われずとも、
 　自分からおっぱいの揺れに合わせて、
-　シコシコしてしまっていますね♡』","<Shopkeeper B>
-""Looks like there's no need for me to even tell you to
- match your strokes with my breasts♡ You're doing that
- all by yourself♡"""
+　シコシコしてしまっていますね♡』",""
 "<店員>
 『呼吸も荒くなって、身体もビクビク震えてきました♡
-　もう、我慢できずにイってしまいそうですね♡』","<Shopkeeper B>
-""Your breathing is getting ragged and your whole body
- is starting to tremble too♡ You can barely resist
- climaxing, right?"""
+　もう、我慢できずにイってしまいそうですね♡』",""
 "<店員>
 『目の前でおっぱいを揺らされて弄ばれて、
 　射精してしまうなんて…♡
-　とても恥ずかしいことなんですよ、お客様♡』","<Shopkeeper B>
-""Climaxing when you have a girl shaking her breasts
- at you and making fun of you... That would be so
- embarrassing way to finish♡ Dear Customer♡"""
+　とても恥ずかしいことなんですよ、お客様♡』",""
 "<店員>
 『それが分かっていても、
-　このまま私の前で情けなく精液を出してしまうんですか？』","<Shopkeeper B>
-""But even when you're aware of that, are you still
- going to ejaculate in such a miserably way right
- before my eyes?"""
+　このまま私の前で情けなく精液を出してしまうんですか？』",""
 "くすくすと貴方の内心を見透かすように見つめながら、
-店員は乳房を激しく上下に振り続ける。","It was as if the shopkeeper's eyes could see right
-through you when she watched and giggled at you while
-carrying out the intense boobjob."
+店員は乳房を激しく上下に振り続ける。",""
 "貴方は彼女の言葉に羞恥を煽られながらも、
 谷間の中で柔らかなおっぱいに溺れているにんじんに、
-自身の肉棒を投影し上下に扱き続けてしまう。","Her question was a tease which made you feel ashamed,
-but even then, you couldn't stop picturing your own
-penis in place of the carrot between her breasts and
-continued stroking your penis."
+自身の肉棒を投影し上下に扱き続けてしまう。",""
 "<店員>
 『うふふ♡意地悪な質問でしたね。
-　もうお客様が限界なのは、見て明らかですのに♡』","<Shopkeeper B>
-""Ahaha♡ I'm sorry♡ That question was a bit nasty
- when it's already clear that you're at your limit♡"""
+　もうお客様が限界なのは、見て明らかですのに♡』",""
 "<店員>
 『ほら、いいんですよ♡お客様♡
 　激しく動く私のおっぱいに見惚れながら、
-　情けなくレベルを放出してください♡』","<Shopkeeper B>
-""Go ahead and do it, Dear Customer♡ Lose your head
- to my shaking breasts and shoot out your levels
- without a hint of shame♡"""
+　情けなくレベルを放出してください♡』",""
 "貴方は自分で激しく肉棒を扱き、
-彼女の目の前でまた大量の精液を放ってしまう。","You stroked yourself to the point of no return and shot
-a massive load of semen on the shopkeeper's breasts."
+彼女の目の前でまた大量の精液を放ってしまう。",""
 "<店員>
 『レベルが精液に変換されて、
-　2回目でもこんなに濃いのが出てしまいましたね♡』","<Shopkeeper B>
-""Even your second load had so much of your levels
- converted into semen♡"""
+　2回目でもこんなに濃いのが出てしまいましたね♡』",""
 "<店員>
 『大丈夫です。
 　ここでは何度だしても気持ちよくなれますよ♡
-　射精のたびにレベルは低くなってしまいますが……』","<Shopkeeper B>
-""That's why you don't need to worry♡ You can enjoy
- this pleasure no matter how many times you climax♡
- Your level will go down each time you do, but...♡"""
+　射精のたびにレベルは低くなってしまいますが……』",""
 "<店員>
 『もうそんなのどうでもいいくらい、
 　私の前でおっぱいで妄想するは気持ちいいですよね♡
-　ほら、もう1レベル………♡』","<Shopkeeper B>
-""Fantasy masturbating to my breasts feels so good that
- it doesn't matter even if it costs your levels, right?
- So... Why don't you stroke out one more level♡"""
-"もう一度シコシコする","Continue Stroking"
-"ここで終わりにする","Stop Here"
+　ほら、もう1レベル………♡』",""
+"もう一度シコシコする",""
+"ここで終わりにする",""
 "<店員>
 『うふふ♡夢中でシコシコ再開しちゃいましたね♡
 　このままでは、ただでさえレベルが低かったお客様が、
-　取り返しのつかないくらい弱くなってしまいます♡』","<Shopkeeper B>
-""Ahaha♡ You started masturbating without a second
- thought♡ At this rate, you're going to become so
- weak that there's no recovering from it♡"""
+　取り返しのつかないくらい弱くなってしまいます♡』",""
 "<店員>
 『ですが、それを選んだのはお客様自身♡　
-　外でモンスターに負けても、私を恨まないでくださいね♡』","<Shopkeeper B>
-""However, that's a decision you've made for yourself,
- Dear Customer♡ Please don't bear grudge on me even
- if you lose to the first monster you encounter♡"""
+　外でモンスターに負けても、私を恨まないでくださいね♡』",""
 "店員は妖艶な笑みを浮かべながら、
-貴方を誘惑する様に乳房を上下に振る。","The shopkeeper watched you with seductive smile while
-shaking her breasts to tempt you."
+貴方を誘惑する様に乳房を上下に振る。",""
 "貴方は柔らかく揺れる乳房を目に焼き付けながら、
-3度目のオナニーにふけってしまう。","You indulged in masturbation for the third round while
-trying to burn the sight of the shopkeeper's soft
-bouncing breasts into your memory."
+3度目のオナニーにふけってしまう。",""
 "<店員>
 『ほら、おっぱいの動きに合わせてシコシコ♡
 　もう何を言われても、
-　気持ちよくなることしか考えられませんよね♡』","<Shopkeeper B>
-""Yes, match your strokes to the shakes of my breasts♡
- I can already say anything I like about you because
- the pleasure has already taken over your mind♡"""
+　気持ちよくなることしか考えられませんよね♡』",""
 "<店員>
 『おっぱいに誘惑されて、頭の中が真っ白♡
 　ほんとに弱いお客様…♡貴方程度では、
-　このダンジョンのクリアは難しそうですね♡』","<Shopkeeper B>
-""I only needed to tempt you with my breasts to turn
- your mind pure white♡ Dear Customer, you're truly
- weak♡ I doubt you can clear this dungeon♡"""
+　このダンジョンのクリアは難しそうですね♡』",""
 "<店員>
 『お客様から頂いたレベルは、
 　しっかりアイテムとして他のお客様に還元しますので…♡
-　経験値タンクとして、私にレベルを貢いでくださいね♡』","<Shopkeeper B>
-""I will turn your levels into items that I sell to the
- other customers... So please continue giving your
- levels to me as my experience tank♡"""
+　経験値タンクとして、私にレベルを貢いでくださいね♡』",""
 "<店員>
 『もっともお客様では弱すぎて、
-　その役目すら大して果たせそうにありませんが♡』","<Shopkeeper B>
-""Although, you're so weak that even carrying out that
- role might be difficult for you♡"""
+　その役目すら大して果たせそうにありませんが♡』",""
 "店員のそんな嘲りを聞いても、
 貴方は肉棒を扱くことをやめられない。
 ただ柔らかく揺れる魅惑的な乳房の動きに見惚れたまま、
-夢中で肉棒を自分の手で上下に扱き続ける。","Even when the shopkeeper ridiculed you like that, you
-couldn't stop stroking your penis. Her shaking breasts
-had charmed you so badly that masturbation was all you
-did."
+夢中で肉棒を自分の手で上下に扱き続ける。",""
 "<店員>
 『ほら、ほらぁ♡
 　こうしてむぎゅって中のにんじんをつぶしながら、
-　上下にたぷたぷ揺れるおっぱいがお好きなんですよね♡』","<Shopkeeper B>
-""Look at this♡ You love it when I squish the carrot
- between my breasts like this and then shake them up
- and down, don't you?"""
+　上下にたぷたぷ揺れるおっぱいがお好きなんですよね♡』",""
 "<店員>
 『いくらでも見て構いませんよ♡
 　どうぞご自由に♡
-　私は代わりに、貴方のレベルを頂きますから♡』","<Shopkeeper B>
-""You can keep looking at my breasts as much as you
- like♡ I'll only be taking your levels in return♡"""
+　私は代わりに、貴方のレベルを頂きますから♡』",""
 "<店員>
 『先ほどのように、
 　私の目の前でパイズリを妄想しながら、
-　エアパイズリに見惚れてシコシコし続けなさい♡』","<Shopkeeper B>
-""Just like before, fall into trance from my air boobjob
- and stroke yourself while imagining your penis between
- my breasts♡"""
+　エアパイズリに見惚れてシコシコし続けなさい♡』",""
 "店員は貴方の目の前で大きく乳房を揺らしながら、
 谷間に挟まったにんじんをもみくちゃにする。
-その光景に目を奪われながら、貴方は肉棒を扱き続ける。","The shopkeeper greatly shook her breasts while nearly
-crushing the carrot between them. That sight stole your
-eyes while you continued masturbating."
+その光景に目を奪われながら、貴方は肉棒を扱き続ける。",""
 "<店員>
 『2度もこんなオナニーでイってしまったんですから、
-　3度目も遠慮することなんてありません♡』","<Shopkeeper B>
-""Since you've already stroked yourself to climax twice,
- you shouldn't have any reservations in doing it the
- third time♡"""
+　3度目も遠慮することなんてありません♡』",""
 "<店員>
 『私のパイズリに焦がれながら、
 　おちんちん触れられることなくオナニーで情けない射精♡
-　もう一度、私の前でしてくださいね♡』","<Shopkeeper B>
-""Please miserably cum from masturbating while lusting
- after my boobjob♡ Do it right before my eyes once
- more♡"""
+　もう一度、私の前でしてくださいね♡』",""
 "<店員>
 『お客様の恥ずかしいお姿、
 　しっかりと私が見ていてあげましょう♡
-　ほら、おっぱいの揺れを少しずつ激しくしますよ♡』","<Shopkeeper B>
-""I'll closely watch over your shameful state♡
- Here♡ I'll slowly start shaking my breasts faster♡"""
+　ほら、おっぱいの揺れを少しずつ激しくしますよ♡』",""
 "徐々に激しく上下に揺れ、
 柔らかく形を変える乳房に誘惑されて、
-貴方は強制的に激しいオナニーをさせられてしまう。","When the shopkeeper slowly increased the pace and
-made her soft breasts change shape more along the
-shakes, she forced you to masturbate faster."
+貴方は強制的に激しいオナニーをさせられてしまう。",""
 "<店員>
 『オナニーなのに、
 　自分でコントロールすら出来ないなんて情けないこと♡
-　でも、それがとても気持ちいいんですよね♡』","<Shopkeeper B>
-""You're masturbating, yet you're not even in the
- control of it♡ That's so miserable♡ But that's
- what makes it feel the best, doesn't it?"""
+　でも、それがとても気持ちいいんですよね♡』",""
 "<店員>
 『ほら、オナニーを私のおっぱいに支配されたまま、
-　情けなく精液を漏らしてくださいね♡』","<Shopkeeper B>
-""Please miserably shoot your semen while my breasts are
- in full control of your masturbation♡"""
+　情けなく精液を漏らしてくださいね♡』",""
 "店員は激しく乳房を揺らして貴方を誘惑する。
 貴方の意思とは関係なく、
 その動きに合わせるように肉棒を激しく扱くオナニーに、
-早くも精液がのぼってきてしまう。","The shopkeeper tempted you by intensively shaking her
-breasts. Your hands automatically matched that pace
-and brought you to the brink of orgasm."
+早くも精液がのぼってきてしまう。",""
 "<店員>
 『イきそうになっても、おっぱいは止めてあげませんよ♡
 　このまま激しくシコシコして、
-　おちんぽからびゅるびゅる射精してしまいなさい♡』","<Shopkeeper B>
-""Even when you're close to climax, I won't stop shaking
- my breasts♡ Keep stroking your penis just as hard
- and shoot your load♡"""
+　おちんぽからびゅるびゅる射精してしまいなさい♡』",""
 "貴方は激しく扱くオナニーに耐えきれず、
 彼女の乳房の揺れに目がくぎ付けになりながら、
-肉棒の先端から精液を放ってしまう。","You couldn't endure the intense masturbation and 
-shot your semen while staring at the shopkeeper's
-shaking breasts."
+肉棒の先端から精液を放ってしまう。",""
 "<店員>
 『オナニーご苦労様です♡
-　3度目もなかなか大量に経験値を出してしまいましたね♡』","<Shopkeeper B>
-""Thank you for your masturbation♡ Even your third
- load contained a lot of experience♡"""
+　3度目もなかなか大量に経験値を出してしまいましたね♡』",""
 "<店員>
 『さすがに今日はこの辺にしておきましょうか。
 　また、私のおっぱいを見ながらオナニーしたくなれば、
-　ここに来てくださいね♡いつでもお待ちしております♡』","<Shopkeeper B>
-""Shall we stop here today after so many times? If you
- ever want to masturbate while staring at my breasts,
- please come here again♡ I'll always be ready♡"""
+　ここに来てくださいね♡いつでもお待ちしております♡』",""
 "<店員>
 『さぁ、これが今日のレベル分のお金です。
 　大切な経験値を失って得たものですから、
-　使い道はよく考えることをお勧めします♡』","<Shopkeeper B>
-""Here's the money for today's levels♡ Please make sure
- to carefully think how to use it since it cost your
- important levels♡"""
+　使い道はよく考えることをお勧めします♡』",""
 "<アル>
 『ええー！？
 　お、オナニーでそんなに力をドレインされちゃったの？
-  今度から気を付けようね…』","<Al>
-""Eh?! D-Did she drain you so much through masturbation?
- You need to be careful about that from now on..."""
+  今度から気を付けようね…』",""
 "<店員>
 『では、これが今日のレベル分のお金です。
 　大切な経験値を失って得たものですから、
-　使い道はよく考えることをお勧めします♡』","<Shopkeeper B>
-""Well then, here's the money for your levels.
- Since you obtained it with trading your precious levels,
- I recommend carefully thinking on how to spend it♡"""
+　使い道はよく考えることをお勧めします♡』",""
 "<店員>
 『……あら、お客様？もう1レベルのようですね。
 　これ以上はゲームオーバーになりますので、
-　やめておいた方がよろしいですよ♡』","<Shopkeeper B>
-""Oh? Looks like you're down to level one already.
- Any more than this will result in your game over,
- so we better stop here."""
+　やめておいた方がよろしいですよ♡』",""
 "<店員>
-『またのご利用をお待ちしております♡』","<Shopkeeper B>
-""I'll be waiting for your next visit♡"""
+『またのご利用をお待ちしております♡』",""
 "<店員>
 『いらっしゃいませ♡
 　有用なアイテムがそろっていますよ。
 　ご確認ください♡』",""
 "<店員>
 『レベルの買取ですね、かしこまりました♡
-　どれほどの経験値をいただけばよろしいでしょうか？』","<Shopkeeper B>
-""A level exchange? Understood♡
- How much experience would you like to sell?"""
+　どれほどの経験値をいただけばよろしいでしょうか？』",""
 "<店員>
 『では、そのまま楽にしていてください。
-　お客様のレベルを搾りだしますので♡』","<Shopkeeper B>
-""Well then, please enjoy yourself while I drain your
- levels♡"""
+　お客様のレベルを搾りだしますので♡』",""
 "<店員>
 『はい、お疲れ様でした♡
 　これが今日のレベル買取代金になります。
-　お受け取り下さい♡』","<Shopkeeper B>
-""Thank you for doing business with us♡ This is your
- compensation for today's levels. Please receive it♡"""
+　お受け取り下さい♡』",""
 "<店員>
 『いらっしゃいませ♡
 　どのアイテムがご入用ですか？』",""
 "<店員>
 『あらお客様、そこそこ程度には強くなったようですね。
-　ビギナー卒業おめでとうございます♡』","<Shopkeeper B>
-""Oh my♡ Dear Customer♡ Looks like you've grown
- stronger. Congratulations on graduating from a
- total beginner♡"""
+　ビギナー卒業おめでとうございます♡』",""
 "<店員>
 『そのお祝い、というわけではありませんが、
 　お客様のご要望通りに、
-　今日はおちんちんを直接虐めて差し上げますね♡』","<Shopkeeper B>
-""As a celebratory gift... Or rather, since you've grown
- stronger, I will directly touch your penis today just
- like you've been hoping♡"""
+　今日はおちんちんを直接虐めて差し上げますね♡』",""
 "店員は貴方にしなだれかかり、
 柔らかな肢体を貴方に押し付ける。
 貴方はその柔らかな感触に心臓の鼓動が早くなり、
-思わず期待で喉を鳴らしてしまう。","The shopkeeper leaned forward to push her soft body
-on you. You couldn't help gulping from anticipation as
-her softness made your heart race."
+思わず期待で喉を鳴らしてしまう。",""
 "<店員>
 『うふふ♡お客様のおちんちん、
 　もうすごく固くなってますよ♡
-　どんな風にここを弄られるのか、期待しているんですね♡』","<Shopkeeper B>
-""Ahaha♡ Dear Customer, your penis is already getting
- hard♡ In what manner would you like me to touch it?"""
+　どんな風にここを弄られるのか、期待しているんですね♡』",""
 "<店員>
 『前回お客様がおかずにしたこの大きなおっぱい♡
-　今度こそパイズリしてほしいですか？』","<Shopkeeper B>
-""Since you've masturbated to my big breasts before...♡
- Would you like to feel them in boobjob this time?"""
+　今度こそパイズリしてほしいですか？』",""
 "<店員>
 『それとも、私の温かいお口に飲み込まれて、
-　じゅるじゅる吸われるフェラを味わいたいですか？』","<Shopkeeper B>
-""Or perhaps you would like to enjoy my warm mouth in
- fellatio?"""
+　じゅるじゅる吸われるフェラを味わいたいですか？』",""
 "店員はくすくすと笑いながら、
 貴方の身体に柔らかな乳房を擦りつけ、
-口を大きく開いて艶めかしい舌の動きを見せつける。","The shopkeeper giggled in smile as she pushed her
-soft breasts on you. Then she opened her mouth wide
-to show off her seductive tongue."
+口を大きく開いて艶めかしい舌の動きを見せつける。",""
 "<店員>
 『おちんちんが震えましたね♡
 　分かりやすい反応、ありがとうございます♡
-　想像だけでそんなに興奮してしまったんですか？』","<Shopkeeper B>
-""Your penis twitched just now♡ Thank you for showing
- your desires so clearly♡ Is just imagining it 
- turning you on so much?"""
+　想像だけでそんなに興奮してしまったんですか？』",""
 "<店員>
 『しかし、残念です♡
 　期待しているところ申し訳ないのですが……
-　今回もパイズリもフェラもなしですよ♡』","<Shopkeeper B>
-""However, I regret to inform you that I will give you
- neither boobjob nor fellatio this time♡"""
+　今回もパイズリもフェラもなしですよ♡』",""
 "<店員>
 『ビギナーを卒業したとはいえ、まだまだ弱いお客様♡
 　そんなお客様には、
-　まだパイズリもフェラもしてあげられません♡』","<Shopkeeper B>
-""Even when you have graduated from a beginner, you are
- still weak♡ Boobjob and fellatio are still too much
- for you♡"""
+　まだパイズリもフェラもしてあげられません♡』",""
 "そう言いながら店員は貴方の足に自分の足を引っかけて、
-崩すように地面に倒すと、そのまま貴方の両足を持ち上げる。","As the shopkeeper said that, she placed her foot
-behind you and tripped you on your back. Then she
-grabbed both of your ankles and lifted your feet up."
+崩すように地面に倒すと、そのまま貴方の両足を持ち上げる。",""
 "<店員>
 『女の魅力に惚けてしまって、
 　力のない店員に簡単に倒されちゃうようなお客様は、
-　電気あんまでレベルを搾りだしてしまいますね♡』","<Shopkeeper B>
-""Customers who lose to the womanly charms and get
- easily pushed down by weak shop personnel will
- get their levels drained in denkianma footjob♡"""
+　電気あんまでレベルを搾りだしてしまいますね♡』",""
 "そのまま店員はしなやかな足で肉棒を踏みつけ、
-柔らかく足裏を押し当てたまま小刻みに振動させ始める。","The shopkeeper planted her soft sole on top of your
-penis before starting to shake her foot in small
-vibrating movements.
-"
+柔らかく足裏を押し当てたまま小刻みに振動させ始める。",""
 "<店員>
 『まずは優しくしてあげますね♡
-　徐々に刺激に慣れていってください、お客様♡』","<Shopkeeper B>
-""I will start with slow and gentle♡ Please gradually
- become used to the stimulation, Dear Customer♡"""
+　徐々に刺激に慣れていってください、お客様♡』",""
 "<店員>
 『そうすればそのうち、
 　女の足に踏まれることが、
-　何よりも気持ちよく感じられるようになりますから♡』","<Shopkeeper B>
-""Once you get used to it, you'll come to learn how
- a woman trampling your penis will provide you with
- the greatest pleasures imaginable♡"
+　何よりも気持ちよく感じられるようになりますから♡』",""
 "店員は貴方を見下ろしたまま、
 絶妙な力加減で足裏を肉棒に押し付けて振動させる。
 裏筋を小刻みに擦られるて、
-貴方は羞恥と快楽を同時に感じてしまう。","While looking down on you, the shopkeeper vibrated her
-foot on your penis with the perfect strength.
-When her sole rubbed on your frenulum, you felt both
-shame and pleasure at the same time."
+貴方は羞恥と快楽を同時に感じてしまう。",""
 "<店員>
 『くすくす♡恥ずかしいですか？
 　逃げられない様につかまれながら、
-　自分よりも弱い女に足なんかで弄ばれるのは♡』","<Shopkeeper B>
-""Ahaha♡ Are you getting embarrassed? A woman much
- weaker than is toying your penis under her foot while
- holding onto your ankles♡"""
+　自分よりも弱い女に足なんかで弄ばれるのは♡』",""
 "店員は貴方の羞恥を煽るような言葉を投げかけ、
-ぐぐぐっと足を小刻みに振動させる。","The shopkeeper teases made you feel even more ashamed
-as she continued rubbing your penis with her foot like
-a vibrator."
+ぐぐぐっと足を小刻みに振動させる。",""
 "<店員>
 『ですが、お客様のおちんちんはこんなに固いまま♡
 　足の裏でビクビク震えてさえいます♡
-　電気あんまで情けなく感じてしまっているのですね♡』","<Shopkeeper B>
-""However, your penis is rock hard under my foot♡
- I can even feel it twitching on my sole♡ You're
- getting off in denkianma even when it's shameful♡"""
+　電気あんまで情けなく感じてしまっているのですね♡』",""
 "<店員>
 『それなら、ほら♡
 　優しい電気あんまを、徐々に激しくしていきますよ♡
-　みっともなく足に喘がされてください♡』","<Shopkeeper B>
-""Since you're clearly enjoying it, we should pick up
- the pace♡ Please shamefully moan as I trample your
- penis under my foot♡"""
+　みっともなく足に喘がされてください♡』",""
 "店員は言葉通りに、足の振動を激しくしていく。
 貴方は足に肉棒をすり潰されて強い快楽を感じるが、
-羞恥から必死に声を漏らさないようにして抵抗する。","Like she said, the shopkeeper increased the speed of
-her foot shaking. It felt amazing when her foot pressed
-and vibrated on your penis harder. However, you felt
-too ashamed to moan and kept your mouth shut."
+羞恥から必死に声を漏らさないようにして抵抗する。",""
 "<店員>
 『あらお客様、我慢するおつもりですか？
 　そうですよね、今度こそ、
-　このおっぱいでしてもらえると期待していたんですから…』","<Shopkeeper B>
-""Oh my, Dear Customer♡ Are you trying to endure my
- footjob? That might be given when you were expecting
- to get a boobjob..."""
+　このおっぱいでしてもらえると期待していたんですから…』",""
 "<店員>
 『足なんかで搾り取られるのは不服ですよね♡
-　ええ、お客様の気持ちはよく分かりますよ♡』","<Shopkeeper B>
-""It must be really disappointing when I'm using my foot
- to drain you instead of my boobs, correct?
- I can fully understand how you feel♡"""
+　ええ、お客様の気持ちはよく分かりますよ♡』",""
 "<店員>
 『ですので、そうですね…
 　このまま10分、私の電気あんまを耐えることが出来たなら、
-　このおっぱいでパイズリをしてあげましょう♡』","<Shopkeeper B>
-""Then, why don't we do this? If you can endure my
- denkianma for 10 minutes without orgasm, I'll give
- you a boobjob♡"""
+　このおっぱいでパイズリをしてあげましょう♡』",""
 "<店員>
 『ですから、足なんかで大切なレベルを搾りだされないよう、
-　しっかりと意志を強く持って耐えてくださいね♡』","<Shopkeeper B>
-""That's why please do your utmost to endure, so that
- your precious levels won't go wasted on my foot♡"""
+　しっかりと意志を強く持って耐えてくださいね♡』",""
 "店員は貴方を見下ろしたままウインクをしてそう言い、
-裏筋に押し当てた柔らかな足裏を激しく振動させる。","As she said that and looked down on you, the shopkeeper
-gave you a wink before pressing her soft sole on your
-frenulum and vibrating it even harder."
+裏筋に押し当てた柔らかな足裏を激しく振動させる。",""
 "<店員>
 『ほらほら、お客様♡
 　これが私の本気の電気あんまです♡
-　しっかりと10分耐えてくださいね♡』","<Shopkeeper B>
-""Dear Customer♡ This is my real denkianma footjob♡
- Please endure it for full 10 minutes♡"""
+　しっかりと10分耐えてくださいね♡』",""
 "店員は絶妙な力加減で肉棒を足裏で擦り続ける。
 裏筋を重点的に虐めぬくような激しい快楽に、
-貴方の身体は思わず弓なりに跳ねてしまう。","The shopkeeper used just the perfect strength to rub
-your penis under her foot. When she was focusing your
-frenulum so heavily, you couldn't help your back arcing
-from the pleasure."
+貴方の身体は思わず弓なりに跳ねてしまう。",""
 "<店員>
 『ほら、情けなく声を漏らしてもいいんですよ♡
 　足でおちんちん虐められて、
-　恥ずかしい喘ぎ声をもらしてしまっても♡』","<Shopkeeper B>
-""Now♡ Please open your mouth and moan as well♡
- Shamefully moan in pleasure as a woman toys your
- penis under her foot♡"""
+　恥ずかしい喘ぎ声をもらしてしまっても♡』",""
 "店員の激しい電気あんまによる責めと、
-促すような言葉に貴方の我慢は崩れていく。","Your endurance was crumbling away at the shopkeeper's
-intense denkianma and her teasing words."
+促すような言葉に貴方の我慢は崩れていく。",""
 "<店員>
 『我慢しても無駄ですから♡
 　喘ぎ声も精液もレベルも、
-　無理やり電気あんまで搾りだしてしまいますね♡』","<Shopkeeper B>
-""It's useless to attempt to endure my denkianma♡
- I'll force everything out with my foot♡
- Your moans, semen, and levels♡"""
+　無理やり電気あんまで搾りだしてしまいますね♡』",""
 "<店員>
 『こうして裏筋を激しく足でぐりぐりしてあげましょう♡
-　弱点を足で擦られて、恥ずかしい声を出してください♡』","<Shopkeeper B>
-""Allow me to grind your frenulum like this♡
- Please let your shameful moans free as I stroke
- your weak spot with my foot♡"""
+　弱点を足で擦られて、恥ずかしい声を出してください♡』",""
 "弱点を的確に責める彼女の足裏に貴方の我慢は踏みつぶされ、
-促されるように貴方はついに喘ぎ声を漏らしてしまう。","You couldn't hold back your moans any more when the
-shopkeeper accurately foot-stroked your frenulum."
+促されるように貴方はついに喘ぎ声を漏らしてしまう。",""
 "<店員>
 『うふふ♡まだ1分も経たないうちに、
-　電気あんまで夢中になって喘いでしまいましたね♡』","<Shopkeeper B>
-""Ahaha♡ It hasn't even been 1 minute and you're
- already moaning in my denkianma footjob♡"
+　電気あんまで夢中になって喘いでしまいましたね♡』",""
 "<店員>
 『これで理解できましたか？
 　お客様はまだまだ弱い♡
-　おちんちんを足で踏まれているのがお似合いです♡』","<Shopkeeper B>
-""Dear Customer, have you realized it with this?
- How you're still very weak♡ It's only fitting for
- your penis to be trampled under a woman's foot♡"""
+　おちんちんを足で踏まれているのがお似合いです♡』",""
 "店員は勝ち誇るようにそう言いながら、
-貴方にそう言い聞かせて肉棒を足裏の振動で刺激し続ける。","The shopkeeper continued her intense footjob while
-telling what's fitting for a weak man like you."
+貴方にそう言い聞かせて肉棒を足裏の振動で刺激し続ける。",""
 "スタイルのいい魅力的な女性に弱いといわれ、
 足で肉棒を踏みつけられる屈辱的な状況に、
-貴方は倒錯的な快楽を感じてしまう。","You ended finding perverted pleasure from the current
-situation when such a beautiful woman was trampling
-your penis and humiliating you by calling you weak."
+貴方は倒錯的な快楽を感じてしまう。",""
 "<店員>
 『うふふ♡お客様、顔が情けなく緩んできましたね♡
-　身の程をわきまえてくださったようで何よりです♡』","<Shopkeeper B>
-""Ahaha♡ Dear Customer, your face has become quite
- sloppy♡ I'm glad that have recognized your own
- position♡"""
+　身の程をわきまえてくださったようで何よりです♡』",""
 "<店員>
 『それでは引き続き、
 　私の電気あんまをご堪能下さい♡
-　足でおちんちんをすりつぶしてあげますね♡』","<Shopkeeper B>
-""Please continue enjoying the pleasures of my denkianma
- just while I grind your penis to a paste under my
- foot♡"""
+　足でおちんちんをすりつぶしてあげますね♡』",""
 "店員はぐりぐりと肉棒を足裏でする潰すように、
-激しく足を振動させて裏筋を責め立てる。","The shopkeeper grinded your frenulum so hard that she
-was nearly crushing your penis flat under her foot."
+激しく足を振動させて裏筋を責め立てる。",""
 "その激しい快楽に貴方の思考は真っ白に染まり、
-情けなく身体を震わせて肉棒からは我慢汁をこぼしてしまう。","The pleasure from that was so intense that your mind
-turned pure white. Your whole body was convulsing and
-precum was shooting out from your penis."
+情けなく身体を震わせて肉棒からは我慢汁をこぼしてしまう。",""
 "<店員>
 『あら、まだ3分も経たないうちに、
 　我慢汁が出てきてしまいましたよ♡
-　足ですり潰されて、気持ちいいんですね♡』","<Shopkeeper B>
-""Oh my♡ It hasn't even been 3 minutes and you're
- already leaking precum♡ It's simply so amazing when
- I crush your penis under my foot♡"""
+　足ですり潰されて、気持ちいいんですね♡』",""
 "<店員>
 『いいんですよ♡
 　このままパイズリをして欲しいだなんて高望みはせず、
-　電気あんまでイってください♡』","<Shopkeeper B>
-""Boobjob is still too much for you to handle, so please
- forget about it and ejaculate to my denkianma♡"""
+　電気あんまでイってください♡』",""
 "<店員>
 『こうやって女に見下ろされながら、
 　足なんかでイかされるというのも、
-　パイズリとはまた違った味があるはずですから♡』","<Shopkeeper B>
-""After all, it wouldn't be possible to similarly
- experience a woman looking down on you and making you
- cum with only her foot like this in boobjob♡"""
+　パイズリとはまた違った味があるはずですから♡』",""
 "店員は貴方を見下ろしたまま、
 ラストスパートに入る様に足裏を激しく振動させる。
 彼女の足の振動が裏筋を強く擦るたびに、
-我慢汁が先端から溢れてきてしまう。","The shopkeeper moved to the last spurt as she began 
-shaking and vibrating her foot even harder. Precum
-began shooting out from your penis with every stroke
-on the frenulum."
+我慢汁が先端から溢れてきてしまう。",""
 "<店員>
 『足の下でおちんちんがびくびく震えて、
 　我慢汁も垂れ流してしまいましたか♡
-　激しい電気あんまにもう降参のようですね♡』","<Shopkeeper B>
-""Your penis is already twitching and shooting precum
- non-stop under my foot♡ Looks like you're about to
- submit to my denkianma♡"""
+　激しい電気あんまにもう降参のようですね♡』",""
 "<店員>
 『お客様のおちんちんでは、
 　10分どころか5分も持ちませんでしたね♡
-　情けないおちんちん♡』","<Shopkeeper B>
-""It will be impossible for you to last ten minutes when
- your penis can't last even five♡ What a shameless
- thing you have♡"""
+　情けないおちんちん♡』",""
 "店員の見下したような声色さえ、
 快楽のスパイスとなって貴方を襲い、
-肉棒に精液がのぼってきてしまう。","You found pleasure even in the shopkeeper's mocking
-tone as you were on the brink of orgasm."
+肉棒に精液がのぼってきてしまう。",""
 "<店員>
 『お客様の気持ちをおもんばかって、
 　譲歩して条件をつけて差し上げたのに……
-　やはりこの弱いおちんちんでは無駄でしたね♡』","<Shopkeeper B>
-""I even took your feelings into consideration and
- gave you a chance to earn your boobjob...
- But it was impossible for your weak penis♡"""
+　やはりこの弱いおちんちんでは無駄でしたね♡』",""
 "<店員>
 『ほら、お客様が焦がれたこのおっぱいを見上げながら、
 　情けなく電気あんまで射精してしまいなさい♡
-　ぐりぐり♡ぐりぐり♡』","<Shopkeeper B>
-""Now♡ Please stare at my breasts that you didn't get
- around your penis and shamefully cum to my foot♡"""
+　ぐりぐり♡ぐりぐり♡』",""
 "<店員>
 『4分3秒♡
 　お客様が私の電気あんまを我慢できた時間です♡
-　結局、条件の半分も持ちませんでしたね♡』","<Shopkeeper B>
-""4 minutes 3 seconds♡ That's your time, Dear
- Customer♡ You couldn't even make the halfway point♡"""
+　結局、条件の半分も持ちませんでしたね♡』",""
 "<店員>
 『電気あんまで搾りだされたお客様のレベル、
 　確かに私が頂きました♡
-　引き続き、このままレベルドレインを受けていきますか？』","<Shopkeeper B>
-""I've received your level without fail♡ Would you
- like me to drain another one like this?"""
-"受けていく","Continue"
-"やめてもらう","Stop"
+　引き続き、このままレベルドレインを受けていきますか？』",""
+"受けていく",""
+"やめてもらう",""
 "<店員>
 『うふふ♡お客様、
-　もしかして私の電気あんまの虜になってしまいましたか？』","<Shopkeeper B>
-""Ahaha♡ Dear Customer, could it be you've become
- addicted to my denkianma?"""
+　もしかして私の電気あんまの虜になってしまいましたか？』",""
 "<店員>
 『これまで溜めた大切なレベルを、
 　こうやって足で搾りだされることに、
-　快楽を感じてしまうのですね♡』","<Shopkeeper B>
-""When I drain your hard-earned levels with my foot
- like this... You find pleasure in it, don't you?"""
+　快楽を感じてしまうのですね♡』",""
 "<店員>
 『かしこまりました♡
 　それではもう一度、
-　この足でお客様の経験値を搾りだして差し上げますね♡』","<Shopkeeper B>
-""I know exactly how you like it♡ Then, I will drain
- another level from you with my foot♡"""
+　この足でお客様の経験値を搾りだして差し上げますね♡』",""
 "<店員>
 『おちんちんを足蹴にされて、
-　私に見下ろされながら情けなく感じてしまってください♡』","<Shopkeeper B>
-""Please enjoy the miserable pleasure while I look down
- on you and trample your penis♡"""
+　私に見下ろされながら情けなく感じてしまってください♡』",""
 "店員は貴方の両足をつかんだまま、
-肉棒に再び足裏を押しあてて振動させ始める。","The shopkeeper began shaking her foot on your penis
-like a vibrator again while holding on your ankles."
+肉棒に再び足裏を押しあてて振動させ始める。",""
 "敏感な肉棒の全体を擦るように、
 上下に動く足裏の感触に貴方は快楽を感じて、
-喘ぎ声を漏らしながら彼女の電気あんまに溺れてしまう。","When her foot started stroking your sensitive penis as
-a whole, you instantly lost your head over the pleasure
-and started moaning."
+喘ぎ声を漏らしながら彼女の電気あんまに溺れてしまう。",""
 "<店員>
 『お客様、もう私の足に夢中ですね♡
-　しかし、お気を付けください。』","<Shopkeeper B>
-""Dear Customer, it looks like you've already become
- crazy over my foot♡ However, you should be careful♡"""
+　しかし、お気を付けください。』",""
 "<店員>
 『こうして私の電気あんまに搾られたお客様の中には、
-　女に見下される倒錯的な快楽にハマってしまう…………』","<Shopkeeper B>
-""Some of my customers have become completely addicted
- to the perverse pleasure when a woman looks down on
- them and tramples their penis."""
+　女に見下される倒錯的な快楽にハマってしまう…………』",""
 "<店員>
 『マゾ堕ちしてしまうお客様もいらっしゃいます♡
 　そうなってしまってはすぐに外の魔物に搾り取られて、
-　ゲームオーバーを待つだけの存在になってしまいます。』","<Shopkeeper B>
-""Some of them have even awoken to masochism♡
- When that happens, it won't be long before they
- lose to the monsters and get a game over♡"""
+　ゲームオーバーを待つだけの存在になってしまいます。』",""
 "<店員>
 『お客様はそうならないよう、
 　しっかり意志を持ってくださいね♡
-　こんな屈辱的な快楽の虜になってはいけませんよ♡』","<Shopkeeper B>
-""You should keep your head straight so that the same
- won't happen to you♡ You shouldn't get addicted to
- these kind of humiliating pleasures♡"""
+　こんな屈辱的な快楽の虜になってはいけませんよ♡』",""
 "脅すような店員の言葉に、
 貴方は恐怖と羞恥を感じながらも、
-足によって肉棒を踏みつぶされる快楽に抗うことが出来ない。","The shopkeeper's warning made you feel fear and shame.
-However, you still couldn't resist the pleasure when
-she was trampling your penis under her foot."
+足によって肉棒を踏みつぶされる快楽に抗うことが出来ない。",""
 "<店員>
 『こんな風に、見下されて、
 　足なんかで大事なおちんちんをつぶされて……
-　うふふ♡お客様、随分と気持ちよさそうですね♡』","<Shopkeeper B>
-""It's when I look down on them and trample their
- precious manhood like this... Oh my♡ Dear Customer,
- you seem to enjoy this quite a bit♡"""
+　うふふ♡お客様、随分と気持ちよさそうですね♡』",""
 "<店員>
 『もしかして、忠告が遅かったでしょうか♡
 　もう、私の電気あんまでマゾ堕ちしてしまいましたか？
-　女に見下されて興奮してしまう、変態マゾに♡』","<Shopkeeper B>
-""Could it be that my warning was already too late?
- Did you already turn into masochist under my foot?
- Into masochist who wants women to look down on you♡"""
+　女に見下されて興奮してしまう、変態マゾに♡』",""
 "からかうような、嘲りを含んだ店員の声に羞恥を煽られ、
-貴方は必死になって首を横に振って否定する。","When the shopkeeper teased and humiliated you like
-that, you instantly shook your head to deny her
-statement."
+貴方は必死になって首を横に振って否定する。",""
 "<店員>
 『そうですよね、失礼なことを言って申し訳ありません。
 　たった1回の射精で、養分にしかなりえない、
-　最底辺のマゾなんかにはなってないはずでしょう♡』","<Shopkeeper B>
-""Oh dear♡ Excuse my rude accusation♡ It shouldn't be
- possible for someone to turn into a hopeless masochist
- from a single orgasm from my foot after all♡"""
+　最底辺のマゾなんかにはなってないはずでしょう♡』",""
 "<店員>
 『それなら二度目なのですから当然、先ほどよりも、
 　私の電気あんまに耐えることが出来ますよね？
-　時間をまた、計ってあげましょうか♡』","<Shopkeeper B>
-""And since you haven't become a masochist, you should
- be able to last longer in my denkianma than last time,
- right? I'll take the time again♡"""
+　時間をまた、計ってあげましょうか♡』",""
 "店員はぐりぐりと足裏で肉棒を擦り続けながら、
-貴方を見下ろしたままそう言葉を投げかける。","The shopkeeper said that she would take time how long
-it takes for you to orgasm again while looking down on
-you and trampling your penis."
+貴方を見下ろしたままそう言葉を投げかける。",""
 "<店員>
 『ほら、マゾなら喜んでしまう屈辱的な電気あんまです♡
 　しっかりと耐えて、自分はマゾ堕ちしていないと、
-　証明してくださいね♡お客様♡』","<Shopkeeper B>
-""Only masochists would enjoy getting humiliated in 
- denkianma♡ That's why please show me the proof that
- you haven't become one by lasting longer this time♡"""
+　証明してくださいね♡お客様♡』",""
 "店員はぐぐぐっと足に力を込めて、
-激しく足裏を振動させながら肉棒に押し付ける。","The shopkeeper put more strength behind her foot to
-grind your penis."
+激しく足裏を振動させながら肉棒に押し付ける。",""
 "逃げられないよう足を固定され、
 彼女に見下ろされながら肉棒を足蹴にされると快楽に、
-貴方はダメだと思っていても溺れてしまう。","You couldn't escape since the shopkeeper was holding on
-your ankles. You knew that you shouldn't give in, but
-you couldn't help losing your head to the pleasure when
-she was looking down on you and trampling your penis."
+貴方はダメだと思っていても溺れてしまう。",""
 "<店員>
 『くすくす♡どうしましたか？
-　身体をビクビク震わせて、そんな喘ぎ声まで漏らして♡』","<Shopkeeper B>
-""Ahaha♡ Dear Customer, is something wrong?
- You're moaning so hard and your whole body is
- convulsing♡"""
+　身体をビクビク震わせて、そんな喘ぎ声まで漏らして♡』",""
 "<店員>
 『マゾ堕ちなんてしていないんですよね？
 　そう言うわりには、先ほどよりも私の電気あんまに、
-　快楽を感じているように見えますが♡』","<Shopkeeper B>
-""You said that you haven't turned into a masochist♡
- However, to my eyes it looks like you're enjoying
- this denkianma even more than the last one♡"""
+　快楽を感じているように見えますが♡』",""
 "店員はくすくすと笑いながら、
 柔らかな足裏で肉棒を固定したまま激しく振動させ、
-貴方に強制的に快楽を感じさせる。","The shopkeeper gave you a small giggle. Her
-soft sole was fixed on top of your penis while
-she vibrated it hard to force the pleasure into
-you."
+貴方に強制的に快楽を感じさせる。",""
 "<店員>
 『ほら、もっと電気あんまを強くしますよ♡
 　まだ再開してから1分ほどしか経っていないのですから、
-　漏らしてしまわないよう気丈に堪えてください♡』","<Shopkeeper B>
-""Now♡ I'll begin stroking one step harder♡ It has
- only been 1 minute since we started, so please try
- your hardest to endure your orgasm♡"""
+　漏らしてしまわないよう気丈に堪えてください♡』",""
 "<店員>
 『たった1度の電気あんまによるレベルドレインで、
 　マゾ堕ちしてしまっただなんて認めるのは、
-　とても恥ずかしいことですからね♡』","<Shopkeeper B>
-""It would be really embarrassing if we found out that
- you became masochist from your first level drain with
- denkianma♡"""
+　とても恥ずかしいことですからね♡』",""
 "ぐぐぐっと足裏を激しく振動させ、
 裏筋を愛撫する様に彼女の足が貴方の肉棒を責め立てる。
 容赦のない快楽に貴方の思考は染まっていき、
-次第にとろりと再び我慢汁を垂れ流してしまう。","The shopkeeper began shaking her foot one step harder
-with her sole focusing on your frenulum. Intense
-pleasure instantly took over your mind, and precum
-began leaking from your penis as well."
+次第にとろりと再び我慢汁を垂れ流してしまう。",""
 "<店員>
 『あら、お客様♡
 　おちんちんの先端からまた、
-　我慢汁が出てきてしまいましたね♡』","<Shopkeeper B>
-""Oh my, Dear Customer♡ Your precum began flowing
- again♡"""
+　我慢汁が出てきてしまいましたね♡』",""
 "<店員>
 『2分も経たないうちにこれでは、
 　お客様はやはり、
-　すでにマゾ堕ちしてしまっているのではないですか？』","<Shopkeeper B>
-""It hasn't even been 2 minutes yet♡
- Have you perhaps turned into a masochist?"""
+　すでにマゾ堕ちしてしまっているのではないですか？』",""
 "店員の見下したような笑みとそう確認を取る言葉に、
-貴方は快楽を堪えながら必死に首を横に振って否定する。","The shopkeeper looked at you in condemning smile when
-she suggested that you had become a masochist.
-You instantly shook your head to deny it while enduring
-the pleasure."
+貴方は快楽を堪えながら必死に首を横に振って否定する。",""
 "<店員>
 『うふふ♡まだ強がりを続けるのですね♡
 　………無理やり搾り取られて認めさせられたいんですか？
-　変態マゾのお客様♡』","<Shopkeeper B>
-""Ahaha♡ You still won't recognize it♡ Would you like
- me to make you recognize it by draining you by force?
- Dear Masochist Pervert Customer♡"""
+　変態マゾのお客様♡』",""
 "<店員>
 『それならお望み通りこの電気あんまで、
 　お客様のレベルを搾り取って差し上げますね♡
-　マゾを自覚させてあげましょう♡』","<Shopkeeper B>
-""Since that seems to be your wish, I'll drain your
- level with my foot right away♡ I'll make you awaken
- to your masochism♡"""
+　マゾを自覚させてあげましょう♡』",""
 "店員はラストスパートに入る様に、
-肉棒に足裏を押し当てたまま新堂を激しくしていく。","The shopkeeper moved to the last spurt by grinding your
-penis even harder."
+肉棒に足裏を押し当てたまま新堂を激しくしていく。",""
 "<店員>
 『お客様は先ほどの電気あんまによる搾精で、
 　マゾ堕ちさせられてしまったんですよ♡
-　ただの一度で堕ちてしまうだなんて弱いお客様♡』","<Shopkeeper B>
-""Dear Customer, it was the first denkianma that turned
- you into a masochist♡ You're so weak that a single
- level drain got you addicted♡"""
+　ただの一度で堕ちてしまうだなんて弱いお客様♡』",""
 "店員は貴方に言い聞かせるようにそう言葉を投げかけながら、
-容赦なく肉棒を足裏ですり潰して貴方に快楽を与え続ける。","The shopkeeper continued to grind your penis under
-her foot non-stop while persuading you how you had
-become a masochist."
+容赦なく肉棒を足裏ですり潰して貴方に快楽を与え続ける。",""
 "<店員>
 『ほら、ほら♡
 　足の下でおちんちんを震わせて、何が違うと言うんですか？
-　電気あんまで気持ちよくなってしまっている癖に♡』","<Shopkeeper B>
-""Just look how your penis is twitching under my foot♡
- What do you mean it's not true? It's clear how you're
- addicted to my denkianma♡"""
+　電気あんまで気持ちよくなってしまっている癖に♡』",""
 "<店員>
 『まだ3分と経っていないのに、
 　もうイってしまいそうなんでしょう♡
-　馬鹿にされて、気持ちよくなってしまったんですよね♡』","<Shopkeeper B>
-""It hasn't even been 3 minutes, and you're already
- about to pop♡ You can't get enough of it when I keep
- making fun of you, right?"
+　馬鹿にされて、気持ちよくなってしまったんですよね♡』",""
 "嘲笑を浮かべながら貴方の内心を見透かすように、
 そう言葉で責め立てて肉棒を電気あんまで追い詰める彼女に、
-貴方は興奮を煽られて今にも射精してしまいそうになる。","The shopkeeper saw right through your masochist
-tendencies as she looked down on you with a grin.
-Her footplay and verbal abuse were turning you on
-so hard that you were at the brink of orgasm."
+貴方は興奮を煽られて今にも射精してしまいそうになる。",""
 "<店員>
 『うふふ♡おちんちんももう限界のようですね♡
 　マゾの貴方に電気あんまに耐えろ、だなんて酷でしたか♡
-　では、すぐに楽にして差し上げます♡』","<Shopkeeper B>
-""Ahaha♡ Your penis is at its limit♡ Perhaps asking a
- masochist like you to endure is a bit cruel? But don't
- worry, I'll make you feel easier right now♡"""
+　では、すぐに楽にして差し上げます♡』",""
 "<店員>
 『イってください、お客様♡
 　私の電気あんまでもう一度情けなく射精して、
-　マゾ堕ちを認めてしまいなさい♡ぐりぐり♡』","<Shopkeeper B>
-""Dear Customer, please cum♡ Please shamefully cum to
- my denkianma and recognize how you've turned into a
- full-blown masochist♡"""
+　マゾ堕ちを認めてしまいなさい♡ぐりぐり♡』",""
 "<店員>
 『2分42秒♡
 　とても早い射精でしたね♡
-　作業が楽で私としてはとても助かりますが♡』","<Shopkeeper B>
-""2 minutes 42 seconds♡ That was really fast♡
- It makes my job so much easier♡"""
+　作業が楽で私としてはとても助かりますが♡』",""
 "<店員>
 『さ、お客様♡
 　ここまででかなりの量の経験値を頂きましたが、
-　まだレベルドレインを続けますか？』","<Shopkeeper B>
-""Now then, Dear Customer. I've drained quite a lot of
- experience from you already, but would you like to 
- continue for one more?"""
+　まだレベルドレインを続けますか？』",""
 "<店員>
 『うふふ♡もうすっかりマゾの顔ですね♡
 　分かりました、このまま電気あんまで、
-　レベルをさらに搾り取って差し上げますね♡』","<Shopkeeper B>
-""Ahaha♡ Your face has already turned into that of a
- masochist♡ Yes, I understand what you want♡
- I will continue to level drain you for more♡"""
+　レベルをさらに搾り取って差し上げますね♡』",""
 "彼女は肉棒に足裏を押し当てたまま、
-再びぐぐぐっと振動させる。","The shopkeeper began shaking her foot like a vibrator
-while trampling your penis again."
+再びぐぐぐっと振動させる。",""
 "<店員>
 『マゾのお客様♡
 　すぐにゲームオーバーとなってしまってお会いするのは、
-　これが最後になってしまうかもしれません♡』","<Shopkeeper B>
-""Dear Masochist Customer♡ You're likely to lose your
- next battle against a monsters, so this might be the
- last denkianma of your life♡"""
+　これが最後になってしまうかもしれません♡』",""
 "<店員>
 『ですからたっぷりと、
-　電気あんまによるこの屈辱的な快楽を楽しんでください♡』","<Shopkeeper B>
-""That's why, please don't hold anything back in
- enjoying the humiliating pleasure as I trample your
- penis♡"""
+　電気あんまによるこの屈辱的な快楽を楽しんでください♡』",""
 "店員はくすくすと笑いながら、
-貴方を見下ろしたまま肉棒を電気あんまで刺激する。","The shopkeeper looked down on you with a grin while
-stroking your penis in denkianma."
+貴方を見下ろしたまま肉棒を電気あんまで刺激する。",""
 "<店員>
 『ほら、足でおちんちんをすり潰してしまいます。
 　本来の役目を忘れ、役立たずになってしまった、
-　マゾおちんちんには良い末路ですよね♡』","<Shopkeeper B>
-""Here♡ I'll crush your penis under my foot♡
- That's exactly what your masochist penis that has
- forgotten its purpose wants, isn't it?♡"""
+　マゾおちんちんには良い末路ですよね♡』",""
 "<店員>
 『もう一度こうして足蹴にされて、
-　大切なレベルを吐き出してください♡』","<Shopkeeper B>
-""Please give away your precious levels to my foot one
- more time♡"""
+　大切なレベルを吐き出してください♡』",""
 "小刻みに振動する彼女の足裏が肉棒を愛撫し、
-貴方はその快楽に溺れて身体を跳ねさせてしまう。","The shopkeeper stroked your penis by shaking her foot
-in small rapid vibrations. The pleasure was so strong
-that you were completely losing your mind to it and
-your whole body was convulsing."
+貴方はその快楽に溺れて身体を跳ねさせてしまう。",""
 "<店員>
 『くすくす♡お客様♡
 　楽しむ余裕もありませんか？
-　またすぐにイってしまいそうですよ♡』","<Shopkeeper B>
-""Ahaha♡ Dear customer♡ If you give in to the pleasure
- that badly, you're going to climax right away♡"""
+　またすぐにイってしまいそうですよ♡』",""
 "<店員>
 『マゾの上に早漏とは、
 　本当に救いようがないおちんちんになってしまいましたね♡
-　ぐりぐり♡ぐりぐり♡』","<Shopkeeper B>
-""You didn't only become a masochist, but you also
- developed a premature ejaculation♡ Your penis is
- beyond saving at this point♡"""
+　ぐりぐり♡ぐりぐり♡』",""
 "店員は貴方をそう小ばかにしながら、
-肉棒を追い詰めるように足の振動を激しくしていく。","The shopkeeper continued cornering your penis with
-her foot while making fun of you."
+肉棒を追い詰めるように足の振動を激しくしていく。",""
 "<店員>
 『養分としては一流だと思いますよ♡
 　私に必要以上にレベルを搾り取られ続けるか、
-　すぐに魔物に吸い尽くされてしまうか…………』","<Shopkeeper B>
-""You're a first-class as a semen tank♡ It's up to you
- if stay here and let me drain you, or go out and lose
- to the monster right away♡"""
+　すぐに魔物に吸い尽くされてしまうか…………』",""
 "<店員>
 『末路はその二通りしかありませんが、
 　そのどちらでも気持ちよくなれるので構いませんよね？
-　変態マゾのお客様♡』","<Shopkeeper B>
-""Those are your only two options, but you don't mind
- since you'll be pleasured either way, right?
- Dear Masochist Pervert Customer♡"""
+　変態マゾのお客様♡』",""
 "店員は激しい電気あんまで貴方の肉棒をすり潰しながら、
-嘲笑を浮かべて貴方を見下ろす。","The shopkeeper looked down on you with a nasty grin
-while crushing your penis under her foot in denkianma."
+嘲笑を浮かべて貴方を見下ろす。",""
 "一切の容赦がない激しい電気あんまと、
 馬鹿にしたような彼女の言葉責めに、
-貴方はすぐに追い詰められてイきそうになってしまう。","When she was verbally abusing you and stroking your
-penis so hard with her foot so hard, you instantly
-reached the edge of your orgasm."
+貴方はすぐに追い詰められてイきそうになってしまう。",""
 "<店員>
 『うふふ♡想像したら気持ちよくなってしまいましたか？
 　このマゾおちんちん、もうイってしまいそうですね♡
-　今度は1分も持ちませんか♡』","<Shopkeeper B>
-""Ahaha♡ Did you get turned on from imagining your two
- options? Your masochist penis is so close to climax♡
- You aren't going to last even 1 minute this time♡"""
+　今度は1分も持ちませんか♡』",""
 "<店員>
 『仕方のないダメおちんちんですね♡
 　私が責任をもってトドメをさして差し上げますので、
-　簡単に屈してレベルを放ってください♡』","<Shopkeeper B>
-""Your penis is beyond saving♡ I'll take responsibility
- for turning it that way and finish it off♡ Please
- surrender your level to me without any resistance♡"""
+　簡単に屈してレベルを放ってください♡』",""
 "そう言いながら、店員は体重を乗せて肉棒を踏み抜き、
-激しく振動させて貴方の射精を促す。","After saying that, the shopkeeper put her whole body
-weight in trampling your penis while continuing to
-shake it like a vibrator."
+激しく振動させて貴方の射精を促す。",""
 "<店員>
 『ほら、ほら♡激しく踏みつぶしてあげましょう♡
 　屈辱的な電気あんまでレベルを搾りだされてしまいなさい♡
-　ぐりぐり♡ぐりぐり♡』","<Shopkeeper B>
-""Here♡ I'll trample your penis with my full weight♡
- Please lose your levels in humiliating denkianma♡"""
+　ぐりぐり♡ぐりぐり♡』",""
 "<店員>
 『マゾおちんちんだと搾り取るのが楽ですね♡
 　お客様、簡単にゲームオーバーになってしまわないよう、
-　お気を付けください♡』","<Shopkeeper B>
-""Level draining masochist penises is such a simple
- work♡ Dear Customer, please be careful not to lose
- to the first monster you encounter♡"""
+　お気を付けください♡』",""
 "<店員>
 『それでは、これが今回のレベル分のお代です♡
 　また養分扱いをされたくなったのなら、
-　ここに来てくださいね♡お待ちしております♡』","<Shopkeeper B>
-""Well then, here is the payment for your levels♡
- Please come again when you wish to be treated like
- a level tank♡ I'll be waiting♡"""
-"貴方は店員から6000Gを受け取った。","You obtained 6000G from the shopkeeper."
+　ここに来てくださいね♡お待ちしております♡』",""
+"貴方は店員から6000Gを受け取った。",""
 "<アル>
 『だ、大丈夫…？
 　外の魔物にあんな調子じゃ、ダメだからね…？
-　き、気をしっかり持って！』","<Al>
-""\n[1]... A-Are you okay? You can't lose
- your head like that with the monsters!
- You need to be really careful!"""
+　き、気をしっかり持って！』",""
 "<店員>
 『あら、理性的な判断が出来るようで何よりです♡
-　これからも頑張ってくださいね♡変態マゾのお客様♡』","<Shopkeeper B>
-""Oh my♡ You can still manage to make rational
- decisions♡ Please do your best not to lose to
- the monsters♡ Dear Masochist Pervert Customer♡"""
+　これからも頑張ってくださいね♡変態マゾのお客様♡』",""
 "<店員>
 『それでは、これが今回のレベル分のお代です♡
 　また養分扱いをされたくなったのなら、
-　ここに来てください♡お待ちしております♡』","<Shopkeeper B>
-""Well then, here is the payment for your levels♡
- Please come again when you wish to be treated like
- a level tank♡ I'll be waiting♡"""
-"貴方は店員から4000Gを受け取った。","You obtained 4000G from the shopkeeper."
+　ここに来てください♡お待ちしております♡』",""
+"貴方は店員から4000Gを受け取った。",""
 "<店員>
 『あら、理性的な判断が出来るようで何よりです♡
-　これからも頑張ってくださいね♡お客様♡』","<Shopkeeper B>
-""Oh my♡ You can still manage to make rational
- decisions♡ Please do your best not to lose to
- the monsters♡ Dear Customer♡"""
+　これからも頑張ってくださいね♡お客様♡』",""
 "<店員>
 『それでは、これが今回のレベル分のお代です♡
 　また私に搾り取られたくなったのなら、
-　ここに来てください♡お待ちしております♡』","<Shopkeeper B>
-""Well then, here is the payment for your levels♡
- Please come again when you wish to be level drained♡
- I'll be waiting♡"""
-"貴方は店員から2000Gを受け取った。","You obtained 2000G from the shopkeeper."
+　ここに来てください♡お待ちしております♡』",""
+"貴方は店員から2000Gを受け取った。",""
 "<店員>
 『それでは、これが今回のレベル分のお代です♡
 　また搾り取られたくなったのなら、レベルを上げてから、
-　ここに来てください♡お待ちしております♡』","<Shopkeeper B>
-""Well then, here is the payment for your levels♡
- Please come again when you have gained levels and
- wish to be level drained♡ I'll be waiting♡"""
+　ここに来てください♡お待ちしております♡』",""
 "<店員>
 『かしこまりました♡お客様♡
 　どうやらまた強くなって、中堅程度にはなれたようですね。

@@ -327,19 +327,19 @@
 "金額表示システム",""
 "小悪魔Aとの戦闘を簡易化しますか？
 小悪魔A:経験値4倍～Lv.7にあがるまで
-　　　　経験値2倍～Lv.9にあがるまで","Simplify fights with Imp A?
+　　　　経験値2倍～Lv.9にあがるまで","Turn off combat lines with Imp A?
 Imp A: 4x EXP until Level 7.
        2x EXP until Level 9."
 "はい","Yes"
 "いいえ","No"
-"小悪魔Aとの戦闘を自動化しますか？","Turn on Auto fight for Imp A?"
+"小悪魔Aとの戦闘を自動化しますか？","Turn on auto fight for Imp A?"
 "店員のレベルドレイン(Lv.1～9)を簡易化しますか？",""
 "小悪魔Bとの戦闘を簡易化しますか？
 小悪魔B:経験値4倍～Lv.11にあがるまで
-　　　　経験値2倍～Lv.13にあがるまで","Simplify fights with Imp B?
+　　　　経験値2倍～Lv.13にあがるまで","Turn off combat lines with Imp B?
 Imp B: 4x EXP until Level 11.
        2x EXP until Level 13."
-"小悪魔Bとの戦闘を自動化しますか？","Turn on Auto fight for Imp B?"
+"小悪魔Bとの戦闘を自動化しますか？","Turn on auto fight for Imp B?"
 "MPが足りず、集中できなかった！",""
 "\n[1]はまだこらえるほどの快感を感じていない！",""
 "<小悪魔A>
@@ -916,8 +916,8 @@ strength was leaving your body as you did so."
 『ほら、そんなものなの？
   もっと頑張って私のおっぱいを揉んで頂戴♡
   私の方から押し付けてあげるから♡』　","<Imp B>
-""Hey♡ Is that all you've got? Please touch boobs even
- harder♡ Let me help by pushing my them into your
+""Hey♡ Is that all you've got? Please touch my boobs
+ even harder♡ Let me help by pushing them into your
  hands♡"""
 "小悪魔は胸を張り、
 貴方の手のひらに自身の乳房を強く押し付ける。","The imp stuck out her chest and pushed her breasts
@@ -926,15 +926,15 @@ against your hands."
 『ふふ♡これじゃあ逆に、
 　貴方の手を私のおっぱいが犯しているみたいね♡
 　むにゅむにゅおっぱいを擦りつけられるのは気持ちいい？』","<Imp B>
-""Ahaha♡ It's as if my boobs are violating your hands
- instead of your hands violating my boobs♡ It feels
- amazing when I push my soft boobs at you, right?"""
+""Ahaha♡ Instead of groping my boobs, it's as if my 
+ boobs molesting your hands♡ It feels amazing when
+ I push them against your palms, right?"""
 "<小悪魔B>
 『ふふ♡おちんぽ触られてないのに、
 　おっぱい揉んでるだけでイっちゃったのね♡早漏さん♡』","<Imp B>
-""Ahaha♡ Nothing even touched your penis♡ You cummed
- purely from fondling my boobs♡ That's quite a bad
- case of premature ejaculation♡"""
+""Ahaha♡ You cummed from fondling my breasts even when 
+ nothing was touched your penis♡ You've got a bad case 
+ of premature ejaculation♡"""
 "<小悪魔B>
 『んっ♡ほら♡
 　おっぱいに手のひら犯されてるだけじゃみっともないわよ♡
@@ -976,15 +976,15 @@ penis felt insanely good for you."
 　まだパイズリを始めたばかりよ？
 　それなのにもう喘ぎ声が我慢できないの？』","<Imp B>
 ""Ahaha♡ What's with those shameful moans♡
- You know, I just got started with the boobjob?
+ I just got started with the boobjob...
  Is it already too much to hold back your voice?"""
 "<小悪魔B>
 『胸も一人前に揉めないどころか、
 　そのおっぱいに逆に責められて、
 　すぐに根を上げてしまうなんて情けない男ね♡』","<Imp B>
-""It's pretty miserable when you can't grope a girl's
- boobs properly and can't stop moaning even for a
- second when they around your dick♡"""
+""It's quite miserable when you can't grope a girl's
+ boobs properly, and you can't moaning even for a 
+ second when they're wrapped around your dick""♡"
 "小悪魔はむにゅむにゅと軽く乳房を上下させる。
 柔らかな乳房が肉棒全体を咀嚼するような扇情的な光景を
 楽しむ余裕はなく、強烈な快感が貴方を襲う。","Imp gently moved her breasts up and down your penis.
@@ -1613,9 +1613,9 @@ footjob."
 ""C'mon♪ Endure♪ Hang in there♪ Endure as I grind your
  dick with my foot♡"""
 "可憐は口では抵抗を促しながら、その抵抗を封じ込めるよう
-に強く足裏で肉棒を擦りつける。","Karen was cheering you to endure with her words, but
-on contrary to that, she was rubbing your penis so
-hard under her soles that it was is she was trying to
+に強く足裏で肉棒を擦りつける。","Karen was cheering you to endure with her words. But
+contrary to that, she was rubbing your penis so hard
+under her soles, that it was as if she was trying to
 seal away the option to endure from you."
 "<可憐>
 『くす♪情けない声で喘ぐのは抵抗って言わないよ♡
@@ -2539,10 +2539,10 @@ both of your nipples and pulling on them."
  from your nipples like a girl."""
 "ロリダークエルフとの戦闘を簡易化しますか？
 ロリダークエルフ:経験値4倍～Lv.15にあがるまで
-　　　　　　　　 経験値2倍～Lv.17にあがるまで","Simplify fights with Loli Dark Elf?
+　　　　　　　　 経験値2倍～Lv.17にあがるまで","Turn off combat lines with Loli Dark Elf?
 Loli Dark Elf: 4x EXP until Level 15.
                2x EXP until Level 17."
-"ロリダークエルフとの戦闘を自動化しますか？","Turn on Auto fight for Loli Dark Elf?"
+"ロリダークエルフとの戦闘を自動化しますか？","Turn on auto fight for Loli Dark Elf?"
 "<サキュバス>
 『ボスを倒したアンタの力が",""
 "<ダークエルフ>
@@ -2807,7 +2807,7 @@ touch."
 　肉棒を大きくし、荒い息をついてなければ、だが。』","<Dark Elf>
 ""Are you still not going to give up? That makes you a
  proper adventurer... Or it would if you weren't
- gasping for air and your penis rock hard."""
+ gasping for air and your penis rock-hard."""
 "<ダークエルフ>
 『ただの意地っ張りめ。
 　自ら負けを認められないのなら、
@@ -4552,189 +4552,194 @@ fall in daze and leave yourself completely open."
 　可愛い盗賊相手にそんな本気で武器を振り回さないでよ♡
 　ふぅ～♡』","<Thief Succubus>
 ""Mr. Adventurer♡ Please don't swing your weapon so
- seriously when you've got such a cute thief as an
+ seriously when you've got such a cute thief as your
  opponent♡ Fuuuuh♡"""
 "盗賊サキュバスは貴方を後ろから羽交い締めにし、
 甘ったるい声を耳元で連ねながら、吐息を吹きかける。","The thief succubus sweetly whispered in your ear and
-blew a hot breath while pinning your arms behind your 
-back."
+blew a hot breath in it while pinning your arms behind
+your back."
 "<盗賊サキュバス>
 『くすくす♪
 　女の子にこうして密着されることになれてないの？』","<Thief Succubus>
-""Ahaha♪ Are you not used to a girl hugging you this
- closely?"""
+""Ahaha♪ Are you not used to girls getting this close
+ to you?"""
 "<盗賊サキュバス>
 『こうしておっぱいの感触を背中に押し付けられて♡
 　甘い吐息を吹きかけられてるだけなのに、
 　お顔が真っ赤になってるのが分かるよ♪』","<Thief Succubus>
 ""I'm only pushing my boobs on your back and blowing
- sweet breaths in your ear, but your face is bright
- red♪"""
+ sweet breaths in your ear, and your face is already
+ bright red♪"""
 "<盗賊サキュバス>
 『そんな可愛い反応されるともっと虐めたくなっちゃうな♡
 　ボクの唇で、君の耳たぶを挟んでぇ……ちゅっ♡』","<Thief Succubus>
-""When you blush that cutely, I want to play with you
- even more♡ Let's try sucking on your earlobe♡"""
+""Your blushing face is so cute that I want to toy with
+ you even more♡ Let's see what happens when I suck
+ on your earlobe♡"""
 "<盗賊サキュバス>
 『あはは♡また身体がビクンってしたね♪
 　お耳、唇で吸われるのが気持ちいいんだ♡』","<Thief Succubus>
-""Ahaha♡ That made you twitch again♪ It feels good when
- I suck your ear, right?"""
+""Ahaha♡ Your body twitched again♪ It feels good when
+ I suck on your ear, right?"""
 "貴方の反応を楽しむように、
-彼女は耳元でくすくすといたずらっぽい笑い声をあげる。","The thief succubus seemed to enjoy your reactions when 
+彼女は耳元でくすくすといたずらっぽい笑い声をあげる。","The thief succubus seemed to enjoy your reactions as 
 she giggled by your ear."
 "<盗賊サキュバス>
 『それなら、もっとなめてあげるね♪
 　ボクの唇で、舌で、君のお耳を犯してあげる♡』","<Thief Succubus>
-""Since you like it that much, I'll give you even more♪
- I'll toy your ear with my lips and tongue♡"""
+""Since you like it so much, let me suck your ears
+ some more♪ I'll use both my lips and tongue♡"""
 "<盗賊サキュバス>
 『盗賊のあま～い耳舐めで、
 　とろとろになっちゃってよ♡冒険者さまぁ♡
 　ちゅっ♡れろぉ♡』","<Thief Succubus>
-""Mr. Adventurer, please relax and indulge yourself in
- my sweet ear licking♡ Mmmmh♡"""
+""Mr. Adventurer, please relax and enjoy as sweetly
+ lick your ear♡ Mmmmh♡"""
 "<盗賊サキュバス>
 『くすくす♪
 　お耳、責められるだけでおちんちん暴発しちゃったんだ♡
 　可愛いね、冒険者さま♡』","<Thief Succubus>
-""Ahaha♪ Earlicking made you pop a load♡ How cute♡"""
+""Ahaha♪ I just needed to lick your ears to make you
+ pop your load♡ That's so cute♡"""
 "<盗賊サキュバス>
 『くすくす♪もう完全に勃起しちゃってるね♡
 　ボクにお耳に悪戯されて、興奮しちゃったんだ♡』","<Thief Succubus>
-""Ahaha♪ Your dick is already in full boner♡ Did it
- turn you on that badly when I played with your ear?"""
+""Ahaha♪ Your dick is already in full boner♡ You're
+ getting so turned on from ear licking♡"""
 "<盗賊サキュバス>
 『倒さなきゃいけない敵のボクに、
 　後ろからつかまって勃起しちゃうような、
 　悪いおちんちんはお仕置きしてあげないと♡えいっ♡』","<Thief Succubus>
-""Since you've lost your back to an enemy and getting
- hard because of it... Your dick deserves to be 
- punished♡ There♡"""
+""Since you're getting hard after losing your back to 
+ the enemy that you're supposed to defeat... Your dick 
+ needs to be punished♡ There♡"""
 "盗賊サキュバスは貴方を後ろから羽交い締めにしたまま、
-両足を器用に使って肉棒を足の裏で挟み込む。","The thief succubus nimbly used her feet to sandwich
-your penis while still holding your arms in place from
-behind."
+両足を器用に使って肉棒を足の裏で挟み込む。","The thief succubus nimbly stuck out her legs from your
+sides and sandwiched your penis between her feet while
+still holding your arms behind your back."
 "<盗賊サキュバス>
 『女の子に後ろから羽交い締めにされて、
 　勃起しちゃったおちんちん足蹴にされる気分はどう？
 　恥ずかしいよね♡』","<Thief Succubus>
-""How does it feel when a girl is pinning your arms and 
- giving you a footjob from behind? It must be pretty
- embarrassing♡"""
+""How does it feel when a girl is pinning your arms 
+ behind your back and giving you a footjob? It must
+ be pretty embarrassing♡"""
 "<盗賊サキュバス>
 『これが、君のおちんちんへのお仕置きだよ♪
 　もちろん、お耳もこのまま責めてあげる♡ちゅっ♡』","<Thief Succubus>
-""This is a punishment for your dick♪ But I won't
- forget playing with your ears either♡"""
+""While this is punishment for your dick, I won't
+ forget playing with your ears either♡ Mmmh♡"""
 "耳たぶを甘噛みし、柔らかくリップ音を立てて吸いながら、
 彼女は足を動かして肉棒を扱き始める。","The thief succubus began stroking your penis with her
-feet while sucking and nibbling on your earlobe with
-her lips."
+feet while sucking and nibbling on your ear with her
+lips."
 "<盗賊サキュバス>
 『くすくす♪すっごい情けない声♡
 　勝負中に出しちゃダメな声だね♪』","<Thief Succubus>
-""Ahaha♡ You're making pretty embarrassing moans♡
- That's not something you should do before an enemy♪"""
+""Ahaha♡ Those are some really embarrassing moans♡
+ It's not a voice you should be making in front of
+ an enemy♪"""
 "<盗賊サキュバス>
 『ほらほら、もっと恥ずかしい声出して♡
 　ボクの身体の感触、
 　たっぷり味わいながら足コキに溺れちゃってよ♡』","<Thief Succubus>
-""Hey♡ Let me hear more of your shameful moans♡ Lose
- yourself to my footjob while enjoying the soft touch
- of my body♡"""
+""Hey♡ Let me hear more of those shameful moans♡
+ Lose yourself to my footjob while enjoying the soft
+ touch of my body♡"""
 "<盗賊サキュバス>
 『敵に足コキされて喜んじゃうような変態おちんちん♡
 　ボクがもっと虐めてあげるからさ♡れろぉ♡』","<Thief Succubus>
-""Your perverted dick is totally loving to get a footjob
- from an enemy♡ Let me give it a lot more
+""Your dick seems to be a pervert that loves getting a 
+ footjob from an enemy♡ Let me give it plenty of more
  foot-stroking♡"""
 "<盗賊サキュバス>
 『あはは♡おちんちんすぐ降参しちゃったね♡
 　これでボクの勝ち♡』","<Thief Succubus>
-""Ahaha♡ Your dick gave up♡ That makes it my win♡"""
+""Ahaha♡ Your dick surrendered♡ That makes this my
+ win♡"""
 "<盗賊サキュバス>
 『くすくす♪動きも精細さを欠いてきた♡
 　おちんちん気持ちよくなって、まともに戦えないのかな？』","<Thief Succubus>
-""Ahaha♡ Your movements are starting to get sluggish♡
- Does my footjob feel so amazing that you can't 
- properly fight?"""
+""Ahaha♡ Your actions are starting to be really 
+ sluggish♡ Does my footjob feel so amazing that
+ you can't fight properly?"""
 "<盗賊サキュバス>
 『ボクみたいな盗賊に、
 　簡単に捕まって手玉に取られるなんて……
 　冒険者様って、大したことないんだね♡れろぉ♡』","<Thief Succubus>
 ""Mr. Adventurer, you can't be anything but a push-over 
- when you're letting a thief like me have her way with
- you this easily♡"""
+ when a weak thief like me is having her way with you
+ this easily♡"""
 "盗賊サキュバスは貴方の耳元でからかうようにそう囁き、
-耳を真っ赤な舌で舐めまわしながら、肉棒を両足で包み込む。","After whispering teases into your ear, the thief 
-succubus licked it while stroking your penis with her
+耳を真っ赤な舌で舐めまわしながら、肉棒を両足で包み込む。","After saying teasing whisper in your ear, the thief 
+succubus gave it while stroking your penis with her
 feet."
 "<盗賊サキュバス>
 『馬鹿にされて悔しい？
 　それなら、ボクのこの技に耐えてみなよ♡
 　ほらほら♡どんどん足コキ激しくするよー♡』","<Thief Succubus>
-""Is it frustrating when I call you a push-over? Then
- show me if you can endure this special technique♡
- Here♡ The footjob is going to get intense♡"""
+""Is it frustrating when I'm calling you a push-over? 
+ Then show me if you can endure my special skill♡
+ Here it goes♡ I'll give you an intense footjob♡"""
 "盗賊サキュバスに甘い声を耳元で囁かれながら、
 激しく柔らかな足で肉棒を扱かれ、
 貴方は情けなく喘いでしまう。","After sweetly whispering that in your ear, the thief 
-succubus started stroking your penis harder between
-her soft feet. You couldn't help shamefully moaning
-at her footjob."
+succubus began stroking your penis harder between her 
+soft feet, making you shamefully moan out loud from
+the pleasure."
 "<盗賊サキュバス>
 『くすくす♪我慢汁でボクの足がぬるぬる♡
 　やっぱり、君じゃボクの足コキには耐えられないんだね♡』","<Thief Succubus>
-""Ahaha♪ My feet are getting wet from your precum♡
+""Ahaha♪ My feet are getting wet with your precum♡
  As I thought, you can't take on my footjob♡"""
 "<盗賊サキュバス>
 『ほら、ちゃんと君のおちんちんが、
 　僕の足に虐められるところ、よく見て？』","<Thief Succubus>
-""Hey♪ Closely watch how I'm making a play of your dick
- with my feet♡"
+""Hey♪ Why don't you closely watch as I make a play of
+ your dick with my feet?"""
 "<盗賊サキュバス>
 『ボクの足に自分のおちんちんが負けちゃうところ♡
 　しっかりと目に焼き付けてね♡ちゅっ♡』","<Thief Succubus>
-""Carefully watch as your dick loses to my footjob♡
- Burn that sight deeply into your memory♡"""
+""Closely watch how your dick loses to my feet and burn
+ that sight into your memory♡"""
 "<盗賊サキュバス>
 『くすくす♪君が負けた証がボクの足にこんなにたくさん♡
 　ちゃんと、おちんちんが負けちゃうところ見てたかな？』","<Thief Succubus>
-""Ahaha♪ You shot the proof of your defeat all over my
- feet♡ Did you clearly it when your dick lost?"""
+""Ahaha♪ The proof of your defeat is all over my feet♡
+ Did you clearly see it as your dick lost?"""
 "<盗賊サキュバス>
 『ボクの足におちんちん扱かれるたびに、
 　身体をビクビクさせて、恥ずかしい冒険者さまだね♡
 　もうおちんちん耐えるのに精いっぱいかな？』","<Thief Succubus>
-""Mr. Adventurer your whole body shamefully twitches
- every time I stroke your dick with my feet♡ Can't
- you do anything but endure anymore?"""
+""Mr. Adventurer, your whole body twitches every time I
+ stroke your dick with my feet♡ Is the pleasure so 
+ amazing that it's taking all your effort to endure?"""
 "<盗賊サキュバス>
 『でも、それも無駄な抵抗♡
 　こうなっちゃったおちんちんが、
 　ボクの足に耐えられるわけないよ♡』","<Thief Succubus>
-""But your attempts to endure are pointless♡ There's no 
- way your dick can win against my feet when I've got
- it cornered so badly♡"""
+""However, your attempts to endure are going to be 
+ pointless♡ There's no way your dick can win when
+ it's between my feet in this state♡"""
 "<盗賊サキュバス>
 『君はこのまま、ボクにお耳を犯されて、
 　情けなくイっちゃうしかない♡もう負けを認めてよ♡』","<Thief Succubus>
-""Your only option is to shamefully cum while I play
- with your ears♡ You should realize your defeat 
+""You have no choice but to shamefully cum while I'm 
+ licking your ears♡ You should accept your defeat 
  already♡"""
 "盗賊サキュバスは耳元でそう降伏勧告を囁きながら、
 リズムカルに肉棒を足で上下に扱いていく。","The thief succubus advised you to surrender while 
-stroking your penis up and down in footjob."
+moving her feet up and down on your penis in a fixed
+rhythm."
 "ぐっと程よく押し付けられる彼女の両足の感触に擦られ、
-貴方は精液がのぼってきてしまうのを感じる。","When she was using a perfect amount of strength to 
-squeeze your penis while stroking it with her feet,
-you approached the edge of orgasm."
+貴方は精液がのぼってきてしまうのを感じる。","When the thief succubus rubbed her feet on your penis
+with the perfect amount of strength, you could feel
+the edge of your orgasm approaching."
 "<盗賊サキュバス>
 『ほら、もう腰が浮いてきたよ♡
 　おちんちんで負けを認めちゃう方が先かな？れろぉ♡』","<Thief Succubus>
-""Look♡ Your hips are starting to shoot forward♡ Are
- you going to admit defeat with your dick first?"""
+""Look♡ Your hips shot forward♡ Are you going to
+ admit defeat with your dick first?"""
 "<盗賊サキュバス>
 『口で負けを認めるのと、おちんちんで負けを認めるの♡
 　君はどっちの方を選ぶのかな？』","<Thief Succubus>
@@ -4743,79 +4748,81 @@ you approached the edge of orgasm."
 "<盗賊サキュバス>
 『ほらほら♡早く降参宣言しないと、
 　そろそろおちんちんにトドメさしちゃうよ♡』","<Thief Succubus>
-""Hey♡ If you aren't going to say it soon, I'm going
- to finish off your dick with my feet♡"""
+""Hey♡ If you aren't going to say it with your mouth 
+ soon, I'm going to finish off your dick with my
+ feet♡"""
 "盗賊サキュバスは耳元で熱っぽい吐息を吐きながら、
-両足を激しく動かして貴方の肉棒を追い詰める。","The thief succubus began cornering your penis in an 
+両足を激しく動かして貴方の肉棒を追い詰める。","The thief succubus began to corner your penis in an 
 intense footjob while blowing hot breaths in your ear."
 "貴方はただ歯を食いしばって、
-もう目前まで迫った我慢の決壊に備えるしかなかった。","You couldn't do anything but clench your teeth and
-brace yourself as the limit of your endurance
-approached."
+もう目前まで迫った我慢の決壊に備えるしかなかった。","You couldn't do anything but clench your teeth as the
+limit of your endurance was closing in."
 "<盗賊サキュバス>
 『くすくす♪おちんちんで負けを認めるほうを選ぶんだね？
 　いいよ♡それじゃあ、
 　ボクの足コキでイけ♡れろぉ♡』","<Thief Succubus>
-""Ahaha♪ You've chosen to admit defeat with your dick,
- right? That's fine too♡ Go ahead and cum to my 
+""Ahaha♪ So, you've chosen to admit defeat with your 
+ dick? That's fine too♡ Go ahead and cum in my 
  footjob♡"""
 "<盗賊サキュバス>
 『ほら、よく見て？
 　これが君のおちんちんがボクの足に負けちゃった証♡
 　情けない敗北の証だよ♡』","<Thief Succubus>
-""Hey♪ Look at all this white semen♪ It's the proof 
- that your dick lost to my feet♡ The shameful proof of 
- your loss♡"""
+""Hey♪ Look at all this white stuff♪ It's the proof how
+ your dick lost to my feet♡ The shameful proof of your
+ loss♡"""
 "<盗賊サキュバス>
 『君はどんな風にお耳を虐められるのが好きなのかな？
 　甘い吐息もいいけど……これは、どう？あむっ♡』","<Thief Succubus>
-""What kind of earplay do you like the best? Blowing
- sweet breaths is good... But how about this? Mmmh♡"""
+""I wonder what kind of earplay do you like the most?
+ You look to enjoy the sweet breaths... But how about 
+ this? Mmmh♡"""
 "盗賊サキュバスは貴方を後ろから羽交い締めにし、
-かぷっと柔らかく貴方の耳たぶを甘噛みする。","The thief succubus nibbled on your earlobe with her
-soft lips while pinning your arms behind your back."
+かぷっと柔らかく貴方の耳たぶを甘噛みする。","The thief succubus began nibbling your earlobe with 
+her lips while holding your arms behind your back."
 "<盗賊サキュバス>
 『くすくす♪これも気持ちいいんだね♡
 　身体がびくびくしてる♡』","<Thief Succubus>
-""Ahaha♪ Looks like you like nibbling too♡ Your body
- twitches when do it♡"""
+""Ahaha♪ Looks like you're into nibbling too♡
+ It's making your body twitch♡"""
 "<盗賊サキュバス>
 『冒険者さまぁ♡わるーい盗賊にお耳を責められて、
 　気持ちよくなっちゃっていいのかな？れろぉ♡』","<Thief Succubus>
-""Mr. Adventurer♡ Are you sure you should be enjoying
- it so much when a bad enemy thief is playing with your
- ear?"""
+""Hey, Mr. Adventurer♡ Are you sure you should be just
+ staying still and enjoying it as a bad enemy thief is
+ playing with your ears?"""
 "盗賊サキュバスは貴方を煽るようにそう言いながら、
-舌で耳の中をなぞり、ぞくぞくした快感を貴方に与える。","After making fun of you, the thief succubus made you
-feel shivers of pleasure by licking the inside of your
-ear."
+舌で耳の中をなぞり、ぞくぞくした快感を貴方に与える。","After making fun of you, the thief succubus licked the
+inside of your ear, making shiver of pleasure run down
+across your back."
 "<盗賊サキュバス>
 『気持ちよくなんてなってない？
 　くすくす♪勃起してるくせに、
 　よくそんな強がりが言えるね♡ちゅっ♡』","<Thief Succubus>
-""Oh? You're not enjoying it at all? Ahaha♪ I can't
- believe you're trying to say that when your dick is
- getting hard♡ Mmmh♡"""
+""Oh? You don't enjoy it at all, you say? Ahaha♪
+ I can't believe you're trying to say that when
+ your dick is getting so hard from it♡ Mmmh♡"""
 "貴方の強がりを見透かしたように、
-彼女は耳元でそう甘く罵倒しながら、唇で耳たぶを吸う。","After seeing through your bluff and sweetly making fun
-of you by your ear, the thief succubus sucked on your
-earlobe."
+彼女は耳元でそう甘く罵倒しながら、唇で耳たぶを吸う。","Seeing through your bluff, the thief succubus sweetly 
+made fun of you for it and sucked your earlobe between 
+her lips."
 "<盗賊サキュバス>
 『バレバレの強がりなんて恥ずかしいだけなのにさ♡
 　男だからつい、意地を張っちゃうんだよね？』","<Thief Succubus>
-""You'll only embarrass yourself with such obvious
- bluffs♡ It's because you're a man you end up being
- so stubborn about it, right?"""
+""You're going to only embarrass yourself with such 
+ obvious bluffs♡ Is it because you're a man you feel 
+ the need to never give up?"""
 "<盗賊サキュバス>
 『そんな君の意地も、
 　ボクが甘くお耳をなめて溶かしてあげる♡れろぉ♡』","<Thief Succubus>
-""I'll sweetly lick your ears and melt away such
- pointless stubbornness too♡"""
+""I'm going to take your stubborn mind and melt it away
+ with my sweet ear licks♡"""
 "<盗賊サキュバス>
 『くすくす♪ボクの耳舐めでプライドまで溶かされて、
 　情けなく敗北射精しちゃったね♡』","<Thief Succubus>
-""Ahaha♪ Even your pride melted away at my earlicking
- since you shamefully lost and blew your load♡"""
+""Ahaha♪ Looks like my ear licking melted away your 
+ pride too since you ended up losing and blowing your
+ load so shamefully to it♡"""
 "<盗賊サキュバス>
 『ボクにお耳を責められて、
 　またおちんちん固くしちゃったね♡』","<Thief Succubus>
@@ -4974,49 +4981,48 @@ regardless of such feelings."
 "<盗賊サキュバス>
 『そんなヘロヘロの身体で、まだボクに挑むつもり？
 　負けず嫌いなんだね、冒険者さま♡』","<Thief Succubus>
-""Are you still going to fight even when you can barely
- stand? Mr. Adventurer, looks like you really hate to
- losing♡"""
+""Are you still going to fight even when you can
+ barely stand? Looks like you really hate to lose,
+ Mr. Adventurer♡"
 "<盗賊サキュバス>
 『でも、意地だけじゃどうにもならないこともあるんだよ♡
 　……ほら、こうしてまた簡単にボクに捕まっちゃった♡』","<Thief Succubus>
-""But you need more than that to beat me♡ ...See?
- I've got your back this easily again♡"""
+""But you need more than fighting intent to beat me♡
+ ...See? I've easily taken your back again♡"""
 "盗賊サキュバスは貴方を再び後ろから羽交い締めにし、
-柔らかな胸を背中に押し付けながらそう耳元で勝ち誇る。","The thief succubus whispered that in your ear after she
-successfully pinned your arms and pressed her breasts
-on your back again."
+柔らかな胸を背中に押し付けながらそう耳元で勝ち誇る。","Before you noticed, you heard the thief succubus' 
+whisper by your ear. She had already moved behind you
+to pin your arms and push her breasts on your back."
 "貴方はそんな彼女を振りほどこうと、
-力が緩むのを抑えながら力いっぱいもがく。","You tried to break free from the thief succubus' hold
-with everything you have."
+力が緩むのを抑えながら力いっぱいもがく。","When you realized that she was pinning you arms, you
+tried to break free with everything you have."
 "<盗賊サキュバス>
 『わ、こら、暴れたって無駄だからね♡
 　君の弱点、もう分かってるんだからさ♡ふぅ～♡』","<Thief Succubus>
-""Woah! Hey♡ It's pointless so struggle like that♡
+""Ah! Hey♡ It's pointless to struggle like that♡
  I've already figured out your weak spots♡ Fuuuh♡"""
 "盗賊サキュバスは貴方にしがみついたまま、
 熱っぽい吐息を耳に吹きかける。","The thief succubus blew a hot breath in your ear while
-clinging to you."
+hugging you from behind."
 "貴方は熱っぽく、甘い彼女の吐息が耳に触れるだけで、
-ぞくぞくとした快感を感じてしまい、脱力していく。","A single hot and sweet breath in your ear was enough to
-make strength escape from your body with shivers of
-pleasure."
+ぞくぞくとした快感を感じてしまい、脱力していく。","That single hot and sweet breath was enough to make 
+you weak as shivers of pleasure ran across your body."
 "<盗賊サキュバス>
 『ほら、こうしてお耳をふぅふぅされるだけで、
 　力が入らくなっちゃう♡』","<Thief Succubus>
-""See? You lose your strength with a simple blow of
- breath in your ear♡"""
+""See? A single blow of breath in your ear is enough to
+ make you weak♡"""
 "<盗賊サキュバス>
 『このままじっとしててね？
 　ボクのあま～い吐息♡
 　お耳にもっと吹きかけてあげるさ♡ふぅ～♡』","<Thief Succubus>
-""Please stay still♡ I'll sweetly blow another breath
- in your ear♡"""
+""Now♡ Please stay still like that because I'm going
+ to blow another sweet breath in your ear♡ Fuuuh♡"""
 "<盗賊サキュバス>
 『くすくす♪ボクの吐息、
 　イっちゃうくらい気持ちよかったんだね♡』","<Thief Succubus>
-""Ahaha♪ Looks like my breath felt so good that you blew
- your load♡"""
+""Ahaha♪ Looks like my blow of breath felt so good that
+ it made you blow your load♡"""
 "<盗賊サキュバス>
 『へへっ、つっかまえた♪
 　素早いボクの動きについてこれなかった？』","<Thief Succubus>
@@ -5044,16 +5050,16 @@ pushing her soft breasts on your back."
 "<盗賊サキュバス>
 『あはは♡ビクッて反応しちゃってさ♪
 　お耳、責められるとぞくぞくしちゃう？』","<Thief Succubus>
-""Ahaha♡ That made you twitch♪ Does it excite you when
- a girl plays with your ears?"""
+""Ahaha♡ That made you twitch♪ Is it exciting when a
+ girl plays with your ears?"""
 "貴方を後ろから羽交い締めにしたまま、
-盗賊サキュバスは耳元で甘い声を連ねる。","The thief succubus whispered that in sugary sweet voice
-while keeping your arms pinned."
+盗賊サキュバスは耳元で甘い声を連ねる。","The thief succubus whispered in a sugary sweet tone in
+your ear while keeping your arms pinned."
 "<盗賊サキュバス>
 『ボクの吐息、もっと感じてへにゃへにゃになってよ♪
 　ね？冒険者さまぁ♡ふぅ～♡』","<Thief Succubus>
-""Enjoy my hot breaths on your ear and show me how 
- sloppy it makes you♪ Mr. Adventurer♡ Fuuuuh♡"""
+""Enjoy my breaths in your ear and let them make your
+ face all sloppy♪ Mr. Adventurer♡ Fuuuuh♡"""
 "<盗賊サキュバス>
 『え？これだけでイっちゃったの？
 　そんなにボクの吐息が気持ちよかったんだ♡』","<Thief Succubus>
@@ -5061,10 +5067,10 @@ while keeping your arms pinned."
  really into earplay♡"""
 "盗賊サキュバスとの戦闘を簡易化しますか？
 盗賊サキュバス:経験値4倍～Lv.20にあがるまで
-　　　　　　　 経験値2倍～Lv.22にあがるまで","Simplify fights with Thief Succubus?
+　　　　　　　 経験値2倍～Lv.22にあがるまで","Turn off combat lines with Thief Succubus?
 Thief Succubus: 4x EXP until Level 20.
                 2x EXP until Level 22."
-"盗賊サキュバスとの戦闘を自動化しますか？","Turn on Auto Fight for Thief Succubus?"
+"盗賊サキュバスとの戦闘を自動化しますか？","Turn on auto fight for Thief Succubus?"
 "<盗賊サキュバス>
 『くすくす♪ボクの勝ち♡
 　これから君のレベル、ボクが全部盗んであげるね♡』","<Thief Succubus>
@@ -5908,10 +5914,10 @@ chest that it made your whole body twitch."
  quivering when you blew your load♡"""
 "ドライアドとの戦闘を簡易化しますか？
 ドライアド:経験値4倍～Lv.23にあがるまで
-　　　　　 経験値2倍～Lv.25にあがるまで","Simplify fights with Dryad?
+　　　　　 経験値2倍～Lv.25にあがるまで","Turn off combat lines with Dryad?
 Dryad: 4x EXP until Level 23.
        2x EXP until Level 25."
-"ドライアドとの戦闘を自動化しますか？","Turn on Auto fight for Dryad?"
+"ドライアドとの戦闘を自動化しますか？","Turn on auto fight for Dryad?"
 "<ドライアド>
 『うふふ♡私の勝ちよ♡
 　私のおっぱいの甘い香りで、
@@ -6810,10 +6816,10 @@ her pink spell flow deeper into them."
  I'm going to develop them super sensitive♡"""
 "マジックサキュバスとの戦闘を簡易化しますか？
 マジックサキュバス:経験値4倍～Lv.26にあがるまで
-　　　　　　　 　　経験値2倍～Lv.28にあがるまで","Simplify fights with Magic Succubus?
+　　　　　　　 　　経験値2倍～Lv.28にあがるまで","Turn off combat lines with Magic Succubus?
 Magic Succubus: 4x EXP until Level 26.
                 2x EXP until Level 28."
-"マジックサキュバスとの戦闘を自動化しますか？","Turn on Auto fight for Magic Succubus?"
+"マジックサキュバスとの戦闘を自動化しますか？","Turn on auto fight for Magic Succubus?"
 "<マジックサキュバス>
 『もう動けないよね、お姉さんの勝ち♡
 　勝負もついたことだし、
@@ -7518,7 +7524,7 @@ your head to deny what she said."
 『違うんですか？こんなに固く勃起してるくせに♡
 　ほら、おちんぽシコシコ♡』","<Rin>
 ""Oh? That's not true? ...Are you really trying to say 
- that when your dick is rock hard? Let me give it some
+ that when your dick is rock-hard? Let me give it some
  stroking tooo♡"""
 "凛は貴方の首の動きに合わせるようにお尻を顔に擦りつける。
 むにゅっとした柔らかくむっちりとした感触に擦られ、
@@ -8366,149 +8372,155 @@ encouragement."
 『くすくす♡
 　背中を見せて隙だらけなのに、
 　私のお尻に見惚れて攻撃できないんですね♡』","<Rin>
-""Ahaha♡ I have my back wide open for you, but you're
- so charmed by my ass that you can't attack at all♡"""
+""Ahaha♡ My back is wide open, but you're so charmed
+ by my ass that you can't attack at all♡"""
 "凛は貴方に背を向けながら、
-可愛くお尻を左右に振って誘惑しながら貴方をそうからかう。","Rin made fun of you while she seductively shook her
-cute ass left and right with her back facing you."
+可愛くお尻を左右に振って誘惑しながら貴方をそうからかう。","With her back facing you, Rin made fun of you while
+seductively shaking her ass left and right."
 "<凛>
 『このお尻に顔を潰される快感が忘れられなくて、
 　もう一度私と試合してる変態マゾ♡』","<Rin>
-""You're a masochist pervert who couldn't forget how
- amazing it felt when I crushed your face with my ass♡
- That's why you challenged me into a rematch♡"""
+""You challenged me to a rematch because you couldn't
+ forget how amazing it felt when I crushed your face
+ under my ass♡ You're such a masochistic pervert♡"""
 "<凛>
 『そんなお兄さんが、
 　私のエッチなお尻の誘惑に逆らえるわけないですよね♡
 　ほらほらぁ♡もっと見ていいんですよ♡』","<Rin>
-""There's not a chance that you could resist the sexy
- temptations of my ass because of that♡ Just go ahead
- and keep looking at it♡"""
+""There's no way a pervert like you can resist it when 
+ I tempt you with my sexy ass♡ Just go ahead and keep
+ staring as I shake it♡"""
 "可愛らしく貴方を誘惑する様に左右に揺れるお尻に、
-ダメだと考えても目が吸い寄せられ、動けない。","When Rin sweetly tempted you by shaking her ass left
-and right, your eyes were so drawn to it that you
-couldn't move even if you tried to."
+ダメだと考えても目が吸い寄せられ、動けない。","When Rin sweetly swayed her ass between left and right 
+to seduce you, you couldn't help stopping to follow
+its orbit with your eyes even when you knew you
+shouldn't."
 "<凛>
 『それじゃ、そうやって私のお尻に見惚れたまま♡
 　情けなーく負けちゃってくださいね♡
 　えいっ♡ヒップアタック♡』","<Rin>
-""Now that you're charmed by my ass...♡ Miserably lose
- to it♡ Hip Attack♡"""
+""Now that you're charmed by my ass...♡ Go on and
+ miserably lose to it♡ Hip Attack♡"""
 "<凛>
 『お尻が顔に当たるたびに、
 　試合中だっていうことも気持ちよくなっちゃう♡』","<Rin>
-""You're getting turned on every time I smack your face
- with my ass even when we're in a middle of a match♡"""
+""It makes you feel so good every time I smack your  
+ face with my ass even when were in the middle of a 
+ match♡"""
 "<凛>
 『このままじゃまた負けちゃう♡
 　それが分かってても、
 　私のお尻から目をそらせないんですよね？』","<Rin>
-""At this rate, you're going to lose just like last
- time♡ Even when you know that, you can't take your
- eyes away from ass, right?"""
+""You're going to lose just like last time with the
+ way things are going♡ But even when you know that,
+ you can't take your eyes off of my ass, right?"""
 "<凛>
 『ヒップアタックで攻撃されて、マゾおちんぽ勃起させて、
 　棒立ちになって私にされるがまま♡恥ずかしいお兄さん♡』","<Rin>
-""You're just standing still as a free target for my
- Hip Attacks with your masochistic dick in boner♡
- That's so shameful to watch♡"""
+""You're just standing still like a practice target 
+ with your masochist dick in full boner before my
+ hip attacks♡ It's such a shameful sight♡"""
 "貴方の顔に先ほど打ち付けたお尻を貴方に見せつけながら、
-凛はくすくすと笑ってそう煽る。","After smacking you in the face with her ass, Rin made
-fun of you while shaking her ass."
+凛はくすくすと笑ってそう煽る。","After smacking you in the face with her ass, Rin  
+stopped for a moment to shake her ass and make fun
+of you."
 "<凛>
 『さ、もう一度ヒップアタックしてあげます♡
 　女の子のお尻に弄ばれて、
 　マゾおちんぽ気持ちよくなっちゃえ♡』","<Rin>
-""Here's another Hip Attack♡ Get your masochistic dick
- rock hard as a girl toys you with her ass♡"""
+""Here's another Hip Attack♡ Make sure to enjoy every 
+ moment this with your masochist dick since you've got 
+ a girl toying with her ass♡"""
 "<凛>
 『あっはは♡気持ちくなりすぎて射精までしちゃいましたね♡
 　お尻で攻撃されてるだけでイっちゃうところ、
 　みんなに見られちゃいましたよー♡』","<Rin>
-""Ahaha♡ Did it feel so good that you blew your load?
- Everyone in the audience saw how you cummed from a
- Hip Attack to the face♡"""
+""Ahaha♡ Did you enjoy my ass so much that it made you
+ blow your load? Everyone in the audience clearly saw
+ how you cummed from a hip attack to the face♡"""
 "<凛>
 『マゾおちんぽギンギンに勃起させて、息も荒くして♡
 　もう私に負けちゃう準備は万端ですね♡』","<Rin>
-""Your masochistic dick is in full boner and your
- breathing is ragged♡ Looks like you're fully ready
- to lose against me♡"""
+""Your masochistic dick is in full boner, and your
+ breathing is ragged♡ Looks like you're ready to
+ lose♡"""
 "<凛>
 『それじゃ、お兄さんがお待ちかねのア・レ♡
 　してあげますね♡
 　ほら、まずはヒップアタックでダウンをとって♡えいっ♡』","<Rin>
-""It's time for what you've been waiting for♡ But first
- we need to get you on the floor with a hip attack♡
- There♡"""
+""Then, it's time for what you've been waiting for♡ 
+ But first, we need to get you down on the floor♡
+ Hip Attack♡"""
 "凛はそう宣言しながら、貴方の顔を柔らかなお尻で打ち抜き、
-倒れた貴方の顔に体重を乗せてお尻で圧迫する。","After saying that, Rin knocked you down by smacking
-her soft ass on your face, and then she sat on your
-face with her full body weight behind it."
+倒れた貴方の顔に体重を乗せてお尻で圧迫する。","After saying that, Rin smacked you in the face with her
+soft ass to knock you down. Then she got on top of your
+face and sat on it."
 "<凛>
 『はーい♡このままお兄さんの弱点虐めてあげます♡
 　この前のマゾおちんぽ公開処刑♡
 　思い出させてあげますね？シコシコ♡シコシコ♡』","<Rin>
-""There we go♡ Now I'm going to play with your weak
- spot♡ I'm going to publicly execute your masochist
- dick just like last time♡ Can you remember it?"""
+""There we go♡ Now I'm going to toy your weak spots♡ 
+ I'm going to publicly humiliate your masochist dick 
+ just like last time♡"""
 "<凛>
 『あっはは♡おちんぽビクビクさせて♡
 　みんなの前でお尻に潰されておちんぽシコシコされるのが、
 　そんなに気持ちいいんですね♡』","<Rin>
-""Ahaha♡ Your dick is twitching♡ It feels just that
- good when there's a girl sitting on your face and
- giving you a handjob before an audience♡"""
+""Ahaha♡ Your dick twitched just now♡ Does it feel so
+ good when you've got a girl sitting on your face and
+ giving you a handjob before an audience?"""
 "<凛>
 『じゃ、この前みたいに♡
 　お兄さんのこのマゾおちんぽから降参精液でちゃうところ♡
 　みんなにも見てもらいましょうね♡シコシコ♡』","<Rin>
-""Then let's give everyone a full show like before♡
- Let's show them how your masochistic dick is going to
- give up by shooting its cum again♡"""
+""Then let's give everyone a show like before♡ A show
+ of your masochist dick and how it cums and loses even 
+ in a situation like this♡"""
 "凛はむっちりとした柔らかなお尻で、
 貴方の顔をむぎゅっと圧迫しながら、
-肉棒を握りしめてリズムカルに上下に動かし続ける。","Rin stroked your penis in a fixed rhythm while pinning
-down your face under her soft and thick ass."
+肉棒を握りしめてリズムカルに上下に動かし続ける。","Rin continued stroking your penis in a tight grip and 
+fixed rhythm while pinning your face under the weight
+of her soft ass."
 "<凛>
 『我慢なんてしても無駄ですからねー♡
 　よわーいお兄さんのマゾおちんぽじゃ私の技に勝てない、
 　それは前の試合でよく分かってるはずですよ♡』","<Rin>
-""Attempting to endure is pointless♡ Your weak
- masochistic dick has no chance before my techniques♡
- You should have realized that in the last match♡"""
+""Trying to endure the pleasure is pointless because 
+ your masochist dick has no chance against my skills♡
+ We've already seen that with the last match♡"""
 "<凛>
 『ま、お兄さんはそれが分かってるくせに、
 　もう一度私と試合してるお馬鹿さんなので、
 　言っても無駄だと思いますけど♡』","<Rin>
-""But since you're so stupid that you challenged me to
- a match even when you already knew that, I guess it's
- pointless to say that♡"""
+""But I guess reminding you of that is pointless too, 
+ since you're so stupid that you challenged me to a 
+ rematch while knowing you have no chance♡"""
 "<凛>
 『だから、お兄さんじゃなくて、
 　このマゾおちんぽさんにもう一度、
 　私には勝てないって教えてあげますねー♡シコシコ♡』","<Rin>
-""That's why I'll ignore you and teach your masochist
- dick how it has no chance to win against me instead♡"""
+""That's why I won't try teaching you anything,
+ and instead, I'll teach your masochist dick once
+ more how it has no chance to win against me♡"""
 "<凛>
 『はーい♡相変わらずおちんぽの方は素直ないい子ですね♡
 　上手に降参射精出来て偉いですよ♡あっはは♡』","<Rin>
-""Yes♡ Your dick is still a good obedient boy like
- before♡ It's such a good boy for giving up and
- shooting its semen♡ Ahaha♡"""
+""Yes♡ Your dick is a good obedient boy like always♡ 
+ It's such a good boy for cumming and losing to me♡
+ Ahaha♡"""
 "<凛>
 『どうですかぁ？
 　情けなーくお尻に潰されながらおちんぽシコシコされて♡』","<Rin>
-""How is it? How does it feel to miserably lay on the
- ground while a girl sit on your face and strokes your
+""Well? How does it feel to miserably lay on the ground
+ while a girl is sitting on your face and stroking your
  dick?"""
 "<凛>
 『私に勝負を挑んだ自分を今更後悔してたりしてますか？
 　あぁ、なんで勝てるはずもないのに、
 　勝負しちゃったんだろうって♡くすくす♡』","<Rin>
 ""Are you regretting challenging me into a rematch?
- Challenging me even when you have zero chance to win♡
- Ahaha♡"""
+ Challenging me to a match that you have zero chance
+ to win♡ Ahaha♡"""
 "凛はむっちりとしたお尻を貴方の顔に擦りつけ、
 細い指先で肉棒を艶めかしく上下に扱きながらそう尋ねる。","Rin asked how you felt while rubbing her ass on your
 face and stroking your penis with her slender finger
@@ -8516,33 +8528,34 @@ tips."
 "<凛>
 『でも、私にはお兄さんが私にもう一度勝負を挑んだ理由、
 　よーくわかりますよ♡』","<Rin>
-""However, I know the exact reason why you challenged me
- into a rematch♡"""
+""But you know, I know the exact reason why you 
+ challenged me to a rematch♡"
 "<凛>
 『それは、お兄さんがこうやって、
 　みんなの前で女の子に負けるのが大好きな、
 　どうしようもない変態マゾだからです♡』","<Rin>
-""You're a hopeless masochistic pervert who loves to
- lose to a girl while a lot of people are watching♡
- That's the sole reason♡"""
+""It's because you're a hopeless masochist pervert who
+ loves to lose against girls while a lot of people are 
+ watching♡"""
 "貴方の顔にお尻を擦りつけながら、
 得意げに解説する凛の言葉に貴方は抗議の言葉をあげるが、
-やはり以前のようにお尻に封じ込められて言葉にならない。","When Rin said the reason while rubbing her ass on your
-face, you tried to protest, but you couldn't speak when
-she was blocking your mouth with her ass just like
-before."
+やはり以前のようにお尻に封じ込められて言葉にならない。","When Rin said what she concluded as your motive for 
+the rematch while rubbing her ass on your face, you 
+tried to deny it but couldn't get a word out when she 
+was blocking your mouth."
 "<凛>
 『あっはは♡ふがふが言ってみっともないですね♡
 　もしかして、違うって言いたいんですか？
 　シコシコ♡シコシコ♡』","<Rin>
-""Ahaha♡ It looks so shameful when you're mumbling
- under my ass♡ Are you perhaps trying to say that's
- not the reason?"""
+""Ahaha♡ It's so miserable when you're mumbling under 
+ my ass♡ Are you trying to say that that is not the
+ reason or something?"""
 "<凛>
 『でも、おちんぽの先っぽをぬるぬるさせながら、
 　否定したって説得力がありませんよ♡この変態マゾ♡』","<Rin>
-""However, you can't really deny it when your dick is
- dripping in precum♡ You masochistic pervert♡"""
+""But you know, it's not very persuasive coming from 
+ someone whose dick is rock-hard and dripping precum♡ 
+ You masochistic pervert♡"""
 "<凛>
 『お兄さんはこうやって私に虐められるのが好き♡
 　みんなの前で無理やりイかされるのが好き♡
@@ -8554,82 +8567,84 @@ before."
 『ほら、ほら♡どうせすぐに我慢汁だけじゃなくて、
 　お尻に敷かれてこのまま白い精液まで出しちゃいますよね♡
 　シコシコ♡シコシコ♡』","<Rin>
-""Soon it won't be just your precum either♡ You're
- going to shoot your white semen while laying under
- my ass too♡"""
+""Hey♡ I can bet that it won't be just your precum 
+ that's going to leak quickly♡ Soon you're going to
+ leak your semen while laying under my ass too♡"""
 "<凛>
 『くすくす♡おちんぽ負けて射精しちゃった♡
 　ね？私が言った通りだったでしょ？♡
 　変態マゾのお兄さん♡』","<Rin>
 ""Ahaha♡ Your dick lost and blew its load♡ It turned
- out exactly as I said♡ You masochistic pervert♡"""
+ out exactly as I thought♡ You're such a masochistic
+ pervert♡"""
 "<凛>
 『おちんぽ情けなくビクビクさせて、
 　もうそろそろお尻に敷かれて敗北お射精の時間ですかー？』","<Rin>
-""Your dick is starting to twitch so hard♡ Is it about
- time you cum and lose while completely dominated under
- my ass?"""
+""Your dick is starting twitching so hard♡ Is it about
+ time you're going to cum and lose while dominated
+ under my ass?"""
 "凛は貴方の顔を柔らかなお尻の下敷きにし、
-情けなく震えるあなたの肉棒を激しく手で扱く。","Rin pushed her soft ass on your face and stroked your
-penis that was twitching non-stop."
+情けなく震えるあなたの肉棒を激しく手で扱く。","Rin pressed her soft ass on your face and stroked your
+miserably twitching penis hard."
 "<凛>
 『くすくす♡だから最初に言ったじゃないですか♡
 　よわーい変態マゾのお兄さんじゃ、
 　何回戦っても結果は変わらないって♡』","<Rin>
-""Ahaha♡ Didn't I say it at the start? A weak
- masochistic pervert like you has no chance in beating
- me no matter how many times you try♡"""
+""Ahaha♡ It's like I said at the start♡ A weak 
+ masochistic pervert like you has no chance of
+ beating me no matter how many times you try♡"
 "<凛>
 『ま、私としては、
 　お兄さんみたいな聞き分けのないお馬鹿さんは、
 　いいカモになるので助かりますけどね♡』","<Rin>
-""Althought, I'm thankful to have such an easy and
- stupid prey who won't learn from his mistake♡"""
+""Although, it makes my life so much easier when I
+ have a stupid man like you who won't learn from his 
+ losses to prey on♡"""
 "貴方を見下してお尻で顔をつぶしたまま、
 もうこのまま自分の勝利を疑わない様に凛はくすくすと笑う。","While sitting on your face and looking down on you,
-Rin giggled with full confidence that she was going
-to win."
+Rin giggled, fully confident that she was going to win."
 "<凛>
 『ほら、女の子のお尻に敷かれた恥ずかしい恰好のまま、
 　気持ちよく負けさせてあげますから♡』","<Rin>
-""I'll keep you shamefully lying under my ass as I make
- you lose in an amazing orgasm...♡"""
+""Hey♡ I'm going to make you lose in amazing orgasm♡ 
+ I'm going to let you shamefully cum with a girl 
+ sitting on your face...♡"""
 "<凛>
 『また私に7000Gの大金、くださいね♡
 　シコシコ♡シコシコ♡』","<Rin>
-""So give me another 7000G as prize money♡"""
+""So give me the 7000G prize money again♡"""
 "<凛>
 『くすくす♡
 　今度こそ私に勝つつもりだったのに残念ですね♡
 　お兄さんのマゾおちんぽは返り討ち♡』","<Rin>
-""Ahaha♡ You were really trying to win the match this
- time, but it's too bad♡ Your masochist dick won't
- do it this time either♡"""
+""Ahaha♡ You might have tried to beat me this time, but
+ it's too bad because your masochistic dick won't make
+ it♡"""
 "<凛>
 『ま、そもそもこんなものが付いてるのに、
 　私に勝とうとするのが間違いだったんですよ♡
 　負けて気持ちよくなっちゃう欠陥品なんか♡』","<Rin>
-""To begin with, it's a mistake to think that you can
- win against me when you have a masochistic dick♡ It's
- a defective product that finds pleasure in losing♡"""
+""Actually, you shouldn't even think about trying to 
+ win against me when you have such a masochistic dick♡
+ It's defective product that feels good from losing♡"""
 "凛のそんな嘲りに悔しさを煽られても、
-限界を超えた快楽に精液がのぼってきてしまう。","Even when Rin was making fun of you that badly, you
-were at the edge of orgasm from the overwhelming
-pleasure."
+限界を超えた快楽に精液がのぼってきてしまう。","Even when you felt frustrated when Rin made fun of
+you so badly, you couldn't stop the amazing pleasure 
+pushing you towards the edge of orgasm."
 "<凛>
 『ほら、この欠陥品、もうイきそうですよ♡
 　みんなに見られながら、恥ずかしいお射精しましょうねー♡
 　はい、シコシコ♡シコシコ♡びゅーびゅー♡』","<Rin>
-""Hey, your defective dick is about to cum♡ Go ahead
- and shamefully shoot your load while everyone is
- watching♡ Blow it all over the arena♡"""
+""Hey♡ Your defective dick is already about to cum♡
+ Go ahead and shamefully cum while everyone is 
+ watching♡ Blow your load all over the arena♡"""
 "<凛>
 『あっはは♡結局お兄さんのマゾおちんぽ、
 　私にサクッとイかされちゃいましたね♡
 　口だけ立派でカッコ悪いお兄さん♡』","<Rin>
-""Ahaha♡ After all, your masochist dick gave up so
- quickly♡ You can say all that cool stuff with your
- mouth but the rest of you screams masochism♡"""
+""Ahaha♡ Making your masochist dick cum was so easy in
+ the end♡ You may talk big, but your dick brings it
+ all down♡"""
 "<凛>
 『お兄さんは剣を振り回してるのに、
 　女の子のやわらかーいお尻なんかに、
@@ -8939,387 +8954,391 @@ her ass at you in taunt."
 『ほらほらぁ♡
 　思い出してくださーい♡
 　この前お兄さんのことをボコボコにしちゃった私のお尻♡』","<Rin>
-""Hey♡ Can you remember my ass? The ass that beat you
+""Hey♡ Do you remember my ass? The ass that beat you
  up in our last match♡"""
 "凛は貴方を思いっきり見下した態度で振り返ると、
-そのままお尻を突き出して誘惑する様に軽く左右に振る。","Rin said that in mocking attitude before turning around
-and shaking her ass at you in temptation."
+そのままお尻を突き出して誘惑する様に軽く左右に振る。","Rin mocked you before turning around, sticking out
+her ass, and shaking it left and right at you in 
+temptation."
 "ぷりんと揺れる柔らかなお尻での挑発に、
 貴方の脳裏に自分の顔をつぶしていた、
-彼女のお尻の感覚と屈辱が嫌でも蘇ってしまう。","When Rin's taunted you by shaking her soft ass around,
-you instantly recalled how it felt to have it on your
-face last time and how humiliating it was even if you
-didn't want to remember it."
+彼女のお尻の感覚と屈辱が嫌でも蘇ってしまう。","The sight of Rin's ass shakes made you recall how soft
+it felt when she sat on your face last time, along 
+with the humiliation that came with it. That experience
+wasn't something you wished to remember."
 "<凛>
 『今日も、お尻で追い詰めて、
 　気持ちいいお射精させてあげますからね♡
 　マゾの変態お兄さん♡』","<Rin>
-""I'm going to corner you with my ass again today and
- lead you to an amazing orgasm♡ You masochistic
+""I'm going to corner you with my ass and lead you
+ to another amazing orgasm today♡ You masochistic 
  pervert♡"""
 "お尻を突き出したまま嘲る様にそう告げる凛の言葉を、
-否定する様に貴方は彼女に飛び掛かった。","When Rin made fun of you while shaking her ass, you
-jumped at her in order to deny what she said."
+否定する様に貴方は彼女に飛び掛かった。","When Rin was making fun of you while shaking her ass,
+you charged her in attempt to deny what she said."
 "<凛>
 『やんっ♡
 　か弱い女の子に急に襲い掛かってくるなんてこわ～い♡』","<Rin>
-""Yaah♡ How could you rush at a weak girl so suddenly♡
+""Uaah♡ How could you rush on a weak girl so suddenly♡
  That's so scary♡"""
 "<凛>
 『でも♡マゾって言われて動揺してるのが丸わかりですよ♡
 　顔を真っ赤にしたそんなキレのない動きなんて……』","<Rin>
-""However♡ I can easily tell how you're getting mad
- when I call you a masochist♡ If you attack me in
- rage with your face bright red like that..."""
+""You know, it's so obvious that you're getting mad when
+ I call you a masochist♡ When you just charge in with
+ face red from rage like that..."""
 "<凛>
 『えいっ♡ヒップアタックのカウンターで返り討ち♡
 　私のお尻の感触、また顔で感じちゃってください♡』","<Rin>
-""There♡ I'll counter with Hip Attack♡ Enjoy the
- soft sensation of my ass with your face again♡"""
+""There♡ I'm going to have so easy time countering with
+ Hip Attack♡ Enjoy the soft sensation of my ass with
+ your face again♡"""
 "<凛>
 『あっはは♡変態マゾおちんぽ、
 　我慢できずに漏らしちゃいましたね♡
 　そんなに私にもう一度公開処刑されたかったんですか？』","<Rin>
-""Ahaha♡ Your masochistic dick couldn't take any more
- than that before shooting its load♡ Did you want to
- get publicly humiliated that badly?"""
+""Ahaha♡ That's all your masochist dick managed to take 
+ before shooting its load♡ Did you want me to publicly
+ humiliate you again that badly?"""
 "<凛>
 『はい、女の子のお尻で顔面を打ち抜かれてダウン♡
 　ほんとに情けないお兄さんですね♡』","<Rin>
-""Yes, a girl's ass to the face and you got downed♡
- You're just that weak and miserable♡"""
+""Yes♡ A girl's ass to the face and you got knocked
+ down♡ You're so weak and pathetic♡"""
 "<凛>
 「もう動けないんですか？
 　最初から結果は分かってましたけど、
 　やっぱりまた私の勝ちですね♡』","<Rin>
-""Can you not move any more? I knew how the match would
- play out, but it's another win for me♡"""
+""Can you not move any more? The match turned out just 
+ as I expected♡ It's another win for me♡"""
 "<凛>
 『元から弱いくせに、
 　大金とレベルを奪われたお兄さんが、
 　私に勝てるわけないじゃないですか♡』","<Rin>
-""There's no way you could beat me when you were
- already weak before I took your money and levels♡"""
+""You're already too weak from the get-go♡ There's no
+ way you can beat me when I've taken your money and
+ drained your levels before♡"""
 "凛は動けなくなった貴方を自身の柔らかなお尻の下に敷き、
-嘲るような声色でそう勝ち誇る。","When you were lying on the floor and unable to move,
+嘲るような声色でそう勝ち誇る。","As you were lying on the floor and unable to move,
 Rin laid her soft ass on top of your face and made
-fun of your attempt to win."
+fun of you."
 "<凛>
 『ま、私としては助かりますけどね♡
 　これに懲りず、
 　何度でも私に挑んできてくれると嬉しいです♡』","<Rin>
-""But for me it's really helpful when you won't learn
- and keep challenging me into match again and again♡"""
+""But from my viewpoint, it's really helpful when you
+ keep challenging me to rematch without learning
+ anything♡"""
 "貴方の顔をぐりぐりと柔らかなお尻で踏みにじり、
 大きくなっている肉棒に手を伸ばしてそう告げる。","Rin said that while reaching for your erect penis and
-grinding your face under her ass."
+grinding her ass on your face."
 "<凛>
 『とりあえず♡
 　今回もみんなの見てる前でこのマゾおちんぽ、
 　公開処刑してレベルをまたもらいますね♡』","<Rin>
-""I'll start off with publicly executing your masochist
- penis before the audience and taking your levels
- again♡"""
+""Then, let's get started♡ I'm going to drain your 
+ levels and publicly humiliate your masochist dick
+ just like before♡"""
 "<凛>
 『また、情けなーく私の手に搾りだされて、
 　お尻の下で呻きながらぴゅっぴゅしてください♡
 　シコシコ♡シコシコ♡』","<Rin>
-""Please shamefully cum to my handjob while moaning
- under my ass again♡"""
+""Make sure to miserably cum in my handjob while 
+ moaning under my ass♡"""
 "凛は慣れた手つきで肉棒を手玉に取る様に、
-細い指先を絡めながら肉棒を上下に扱く。","Rin knew exactly how to handle your penis at this point
-as she stroked you with her finger tips."
+細い指先を絡めながら肉棒を上下に扱く。","Rin wrapped her slender fingers around your penis and
+began stroking with full familiarity with how to handle
+manhood."
 "彼女の柔らかなお尻の感触と、
 甘い女体の香りに顔を圧迫されながら感じる、
 すべすべの手に弱点を愛撫される快楽に、
-貴方は身体を反応させてしまう。","When her soft ass and the sweet scent of a girl was
-pressing on your face on top of her hands stroking
-your weak spots, your body instantly showed reaction."
+貴方は身体を反応させてしまう。","When Rin stroked your weak spots while pressing her 
+soft ass and sweet girlish scent on your face made 
+your body instantly react."
 "<凛>
 『みんなが応援してくれたおかげで、
 　今日もお兄さんに勝てましたー♡ありがとうございます♡
 　んー…………ちゅっ♡』","<Rin>
-""It's thanks to everyone's support that I managed to
- beat this masochist again♡ Thank you so much♡
+""Everyone, it's thanks to your support that I managed 
+ to beat this masochist again♡ Thank you so much♡
  Mmmh... Smooch♡"""
 "凛は肉棒を手で上下に扱き続けたまま、
-器用にもう片方の手で観客に向かって投げキッスをする。","Rin kept stroking your penis while skillfully using her
-other hand to blow a kiss at the audience."
+器用にもう片方の手で観客に向かって投げキッスをする。","Rin blew kisses to the audience with one hand while
+stroking your penis with the other."
 "<茶髪の少女>
 『今日もそのお兄ちゃんを泣かせちゃえ♡
 　期待してるよー、お姉ちゃん！』","<Brown-Haired Girl>
-""Make that guy cry again♡ I can't wait to see it♡"""
+""Make him cry again♡ I want to see it so badly♡"""
 "<紫髪の女性>
 『うふふ♡
 　返り討ちにあってお尻の下に敷かれているその姿……
 　とっても情けなくて、見ごたえがあるわね♡』","<Purple-Haired Woman>
-""Ahaha♡ The sight of him lying under her ass after
- trying to get revenge for the last match... It's so
- miserably that I wouldn't have wanted to miss it♡"""
-"その凛の可愛らしい姿に、会場は盛り上がっていく。","The audience got excited to Rin's calls."
+""Ahaha♡ He's under his opponent's ass again even after
+ preparing for rematch♡ It's so pathetic♡ Just what
+ I wanted to see♡"""
+"その凛の可愛らしい姿に、会場は盛り上がっていく。","The audience was getting really excited to Rin's cute
+calls."
 "<凛>
 『くすくす♡ほら、観客のみんなも、
 　お兄さんの情けない姿をもっと見たいって言ってますよ♡』","<Rin>
 ""Ahaha♡ Did you hear that? The audience wants to see
- more of your miserable appearance♡"""
+ more of your pathetic sight♡"""
 "<凛>
 『だからちゃんと♡
 　女の子のお尻に敷かれたまま感じちゃう変態の姿、
 　見せてあげましょうねー♡シコシコ♡シコシコ♡』","<Rin>
-""That's why need to put on a full show of how you're
- a pervert who gets off from laying under a girl's
- ass♡"""
+""That's why we need to fully show them how you're a
+ pervert who gets off when a girl sits on your face♡"""
 "貴方にそう言いながら、むぎゅっとお尻を顔に押し付け、
-カリ首に手のひらをひっかけながら全体を上下に愛撫する。","After Rin said that, she pressed her ass on your face
-and stroked your whole penis while making sure to catch
-on the edges of your glans with her palm."
+カリ首に手のひらをひっかけながら全体を上下に愛撫する。","After saying that, Rin pressed her ass on your face and
+stroked your whole penis while making sure to catch the
+edges of your glans with her palm."
 "パフォーマンスの道具にされていることに屈辱を感じつつも、
 貴方はお尻の感触に顔をすり潰され、
-肉棒に感じる彼女の手のひらに興奮を煽られてしまう。","Even while you felt absolutely humiliated to be treated
-like a tool for a performance, the sensation of Rin's
-ass crushing your face and her hand working your penis
-turned you on."
+肉棒に感じる彼女の手のひらに興奮を煽られてしまう。","Even while being treated like a spectacle was 
+humiliating, the sensations of Rin's ass crushing your 
+face and her hands stroking your penis were turning
+you on."
 "<凛>
 『あ、自分の情けない姿をみられちゃうぅって考えたら、
 　興奮しちゃいましたか？』","<Rin>
-""Ah♡ Did you get turned on from thinking how every one
- is watching your shameful appearance?"""
+""Ah♡ Did you get turned on from thinking what kind of
+ shameless appearance you're showing to everybody?"""
 "<凛>
 『変態マゾおちんぽ、
 　私の手のひらの中でビクッて震えましたよ♡』","<Rin>
-""Your masochistic pervert dick is twitching in my
- hands♡"""
+""Your masochistic pervert dick twitched in my hands
+ just now♡"""
 "凛はくすくすと笑みをこぼしながら、
-貴方の肉棒の反応を敏感に感じ取りそう告げる。","Rin giggled after noticing how your penis became more
-sensitive and started twitching."
+貴方の肉棒の反応を敏感に感じ取りそう告げる。","Rin said that and giggled when she noticed how your 
+penis was getting more sensitive."
 "<凛>
 『お兄さんにとっては、
 　みんなの前で自分が戦いで負けちゃった女の子に、
 　おちんぽ公開処刑されるのはご褒美なんですよね♡』","<Rin>
-""Hey♡ It's not a punishment but a reward to have the
- girl you fought publicly execute your dick in handjob
- before the audience, right?"""
+""You don't think it's a punishment but a reward when a
+ girl publicly humiliates you before the audience after
+ your loss, right?"""
 "<凛>
 『悔しくて恥ずかしくて情けない公開処刑♡
 　プレゼントしてあげてる私に、感謝してくださいねー♡
 　シコシコ♡シコシコ♡』","<Rin>
-""A handjob that's so frustrating, shameful and
- miserable♡ Make sure to say your thanks to me
- for giving you such a wonderful present♡"""
+""You should be showing gratitude since I'm here to
+ publicly humiliate you in a handjob like this♡"""
 "凛は好き勝手にそう言いながら、
 貴方に反論を許さない様にお尻で顔をつぶし、
-リズムカルに手を上下させて手コキを続ける。","Rin said whatever she liked while continuing to stroke
-your penis and crushing your face to prevent you from
+リズムカルに手を上下させて手コキを続ける。","Rin said whatever she liked while stroking your penis
+and crushing your face with her ass to prevent you from
 saying anything back."
 "こんなことをされて誰が感謝するものか、
 そう意識を強く持とうとしても、彼女のお尻に潰され、
-快楽に流されてしまいそうになる。","You thought that you would never say thanks for
-something like this, but the sensation from Rin's ass
-crushing your face was taking you over with pleasure."
+快楽に流されてしまいそうになる。","In your mind, you strongly resolved that you would 
+never thank anyone for something like this. However,
+you were about to be swept away by the pleasure while
+Rin was sitting on your face."
 "<凛>
 『マゾおちんぽびくびく♡
 　こうやって馬鹿にされながら、
 　シコシコされると気持ちいいんですね♡","<Rin>
 ""Your masochist dick is twitching♡ Does it feel so
- good when I'm making fun of you during the handjob?"""
+ good when I'm making fun of you during a handjob?"""
 "<凛>
 『ほら、ぬるぬるまで出てきちゃいました♡
 　みんなー♡よく音を聞いててくださいね♡
 　シコシコ♡シコシコ♡』","<Rin>
-""And now even your wet stuff is coming out♡ Everyone♡
- Please closely listen to this♡"""
+""Oh♡ And now your precum started leaking too♡ 
+ Everyone, please listen to this♡"""
 "先端からとろりとあふれ出す先走りを手のひらになじませ、
-凛は手の上下運動を激しくしていく。","After smearing the precum leaking your tip all over her
-hand, Rin started stroking your penis faster."
+凛は手の上下運動を激しくしていく。","After smearing your precum all over her hand and your
+penis, Rin began stroking you quickly."
 "彼女の激しい手コキにどんどん先走りは溢れ始め、
-次第にぐちゅぐちゅと辺りに水音が響き渡る。","The intense handjob made your precum start overflowing
-and that made wet stroking sounds echo through the
-arena."
+次第にぐちゅぐちゅと辺りに水音が響き渡る。","The intense handjob made your precum overflow, and then
+loud wet stroking noises echoed through the arena."
 "<凛>
 『このえっちなぐちゅぐちゅ音♡
 　お兄さんのおちんぽがもうすぐ負けちゃいそうな音♡
 　よく聞こえますかー？』","<Rin>
 ""Can you hear these wet and lewd sounds? It's the
- proof that this masochist dick is nearly defeated♡"""
+ proof that this masochist dick is nearly losing♡"""
 "<黒髪の女性>
 『うわー……またえっちな音してる…♡
 　また、あの子に負けて、お尻に敷かれて、
 　興奮してるんだ……♡』","<Black-Haired Woman>
-""Woah... That's such a lewd sound♡ He's getting so
- turned on from losing to that girl and laying under
- her ass again♡"""
+""Wow... It sounds so lewd♡ He's getting so turned on 
+ after losing and getting his face sat on again♡"""
 "<金髪の女性>
 『同じ相手に2回負けて、
 　恥ずかしげもなく我慢汁出すとか、
 　超だっさ♡ほんとなさけなーい♡』","<Blonde Woman>
-""Losing to the same opponent twice and shooting out
- precum without shame is so miserable♡ He's one of
- the most shameless men I've ever seen♡"""
+""He's spewing precum without any shame after losing to
+ the same opponent for the second time♡ That's so 
+ lame♡ He one of the most pathetic men I've seen♡"""
 "凛がそう言うと、水音は何かに拡大されるように、
 大きな音となって辺りに響く。
 会場はその音と凛の可愛らしい愛想の笑顔に、
-再び盛り上がっていく。","After Rin said her thing, the wet sounds started loudly
-echoing through the arena as if amplified my something.
-The audience got excited once more from that sound and
-Rin's cute smile."
+再び盛り上がっていく。","After Rin said that, the wet sounds started echoing 
+through the arena so loudly that it was as if they 
+were amplified by something. Those sounds and Rin's
+cute smile made the audience all the more excited."
 "貴方はそんな凛のパフォーマンスに屈辱と羞恥を感じながら、
-どうしようもなく快楽に流されていく。","Rin's performance made you feel extremely humiliated
-and shameful, but the pleasure was still taking over
-your mind."
+どうしようもなく快楽に流されていく。","Even while being treated like a spectacle made you feel
+shame and humiliation, you couldn't help getting swept
+away by the pleasure."
 "<凛>
 『くすくす♡
 　そろそろこのマゾおちんぽにトドメ刺しちゃいますね♡』","<Rin>
-""Ahaha♡ It's about time I finished off this masochist
+""Ahaha♡ It's about time I finished off your masochist
  dick♡"""
 "<凛>
 『この前のカウントダウンが好評でしたので、
 　またアレをやってあげますね？
 　お兄さんも協力してください♡』","<Rin>
 ""The countdown from before was really popular, so let's
- do that again♡ Please cooperate with me to match the
+ do that again♡ Make sure to cooperate and match my
  timing♡"""
 "<凛>
 『それでは、みんなー♡　
 　おちんぽが敗北射精する瞬間、見逃さないでくださいね♡
 　じゅーうっ♡きゅーっ♡』","<Rin>
 ""Everyone♡ It's time for this dick to cum and lose♡
- Please don't miss that moment♡ Ten♡ Nine♡"""
+ Please make sure to closely watch as it does♡
+ Ten♡ Nine♡"""
 "凛は以前と同じように、可愛らしく数字を数えながら、
-肉棒をコントロールするように激しく扱く。","Rin began adorably counting down like before while
-controlling your penis in intense strokes."
+肉棒をコントロールするように激しく扱く。","Rin began counting down just like last time while
+controlling your penis with intense strokes."
 "彼女にすべてを手玉に取られたうえでの惨めな射精。
 そんな経験はもうしたくないと、
-貴方は必死に快楽に耐えようとする。","Ejaculating to the countdown felt really miserable
-since it was like she was in full control of you. You
-didn't want to experience that again and endured
-pleasure with everything you have."
+貴方は必死に快楽に耐えようとする。","The miserable orgasm in Rin's control. You didn't want 
+to experience that ever again, so you tried to endure 
+the pleasure with everything you have."
 "<凛>
 『はーちっ♡あっはは♡
 　お兄さん、もしかして耐えようとしてます？』","<Rin>
-""Eight♡ Ahaha♡ Hey, are you trying to endure my
- handjob or something?"""
+""Eight♡ Ahaha♡ Are you trying to endure my handjob
+ or something?"""
 "<凛>
 『協力してってお願いしたのに♡
 　ま、お兄さんが嫌がろうと協力してくれようと、
 　私には関係ないんですけどね♡』","<Rin>
 ""I asked you to cooperate, not endure♡ Although, it
- doesn't really matter either way♡"""
+ won't matter either way♡"""
 "<凛>
 『どうせ、このマゾおちんぽに我慢できるはずないので♡
 　またゼロのカウントと一緒にイかせてあげますよ♡
 　ろーくっ♡ごーおっ♡』","<Rin>
-""I know that your masochist dick won't be able to
- endure in the end♡ I'll make you cum the exact
- moment the countdown hits zero again♡ Six♡ Five♡"""
+""After all, your masochist dick won't be able take it 
+ in the end♡ I'll make you cum the exact moment the 
+ countdown hits zero again♡ Six♡ Five♡"""
 "貴方がなんとか耐えようとしていることを見抜きながら、
-凛はそれでもくすくすと余裕を崩さずに肉棒を扱き続ける。","Rin noticed how you tried to endure the pleasure, but
-she simply giggled at that without batting an eye and
-continued the handjob."
+凛はそれでもくすくすと余裕を崩さずに肉棒を扱き続ける。","Rin noticed how you were trying to endure the 
+pleasure, but she simply giggled at your attempt
+and continued the handjob."
 "ゼロのカウントで射精しなければ、
-彼女に恥をかかすことが出来る。","If you don't ejaculate when the countdown hits zero,
-you can embarrass Rin before the audience."
+彼女に恥をかかすことが出来る。","If you didn't orgasm when the countdown hit zero, you
+could embarrass Rin before the audience."
 "それが分かっていても、
 むっちりとしたお尻に潰されながらの肉棒への手コキに、
-どんどん精液がのぼってきてしまう。","But even when you knew that, her thick ass pressing on
-your face and her hands stroking your penis where 
-bringing you towards the edge."
+どんどん精液がのぼってきてしまう。","But even when you knew that, her ass pressing on your
+face and her hands stroking your penis were quickly
+taking you to the edge of orgasm."
 "<凛>
 『よーんっ♡さーんっ♡
 　マゾおちんぽびくびくしてきましたね♡
 　我慢も限界ですか？』","<Rin>
-""Four♡ Three♡ Your masochist dick is twitching♡ Can
- you not endure any more?"""
+""Four♡ Three♡ Your masochist dick is twitching♡
+ Are you at your limit?"""
 "<凛>
 『このまま私にコントロールされたまま、
 　惨めな敗北射精をみんなに見せてくださいね♡
 　にーいっ♡いーちっ♡』","<Rin>
-""Go on and show everyone how miserably you cum in
- defeat while I'm in perfect control of your dick♡
+""Go on and show everyone how you can't help miserably 
+ cumming and losing when I'm in control of your dick♡
  Two♡ One♡"""
 "凛はそう言いながら、
 トドメをさすようにぐちゅぐちゅと音を立てて肉棒を扱き、
-柔らかなお尻を強く顔に押し付けて呼吸をふさぐ。","As she was saying that, Rin pressed her ass down on your
-face to block your breath and loudly stroked your penis
-in preparation to finish you off."
+柔らかなお尻を強く顔に押し付けて呼吸をふさぐ。","After saying that, Rin pressed her ass on your face so
+hard that you couldn't breathe and stroked your penis
+fast and loud to finish you off."
 "そんな凛の責めに貴方の意地は流されてしまい、
-もう射精を堪えることはできそうになかった。","Those two things flushed away your intent to resist.
-You couldn't stop her from making you cum any more."
+もう射精を堪えることはできそうになかった。","The pleasure from Rin's intense play swept away your
+intent to resist, and you couldn't stop yourself from
+orgasming any longer."
 "<凛>
 『ほら、マゾおちんぽイけ♡
 　みんなの前でまた、敗北射精しろ♡
 　ぜろっ♡』","<Rin>
-""Now♡ Cum with your masochist dick♡ Cum in defeat
+""Now♡ Cum with your masochist dick♡ Cum and lose
  while the audience is watching♡ Zero♡"""
 "貴方は彼女の唇がゼロのカウントを紡いだ瞬間、
-白濁液を肉棒から噴き出してしまう。","The exact moment the word zero left Rin's lips, your
-white semen shot out from your penis."
+白濁液を肉棒から噴き出してしまう。","The exact moment Rin finished the countdown, white
+semen shot out from your penis."
 "<茶髪の少女>
 『うわー、
 　またゼロのカウントと同時にイったー♡
 　お姉ちゃんすごーい♡』","<Brown-Haired Girl>
-""Woah! She made him cum with the count of zero again♡
- You're so amazing♡"""
+""Wow! He cummed just as the countdown finished again♡
+ That girl is so strong and amazing♡"""
 "<黒髪の女性>
 『試合に負けたうえ、
 　自分のおちんちんまでコントロールされちゃうなんて……
 　かわいそうな男の人……♡』","<Black-Haired Woman>
-""Not only did he lose the match, but his penis was also
- controlled by his opponent... He's such a pitiful
- man♡"""
+""Not only did he lose the match, but he also let his 
+ opponent take control of his penis like that... 
+ He's such a pitiful man♡"""
 "その貴方の痴態のショーに、
-観客も思い思いに感想の声を漏らす。","The audience were saying their impressions after the
-sight of your ejaculation show."
+観客も思い思いに感想の声を漏らす。","You could hear how the people in the audience were
+voicing their impressions of your show of perversion."
 "<凛>
 『くすくす♡
 　結局同時にイっちゃいましたね♡
 　会場も大盛り上がりです♡』","<Rin>
-""Ahaha♡ You cummed at the count of zero after all♡
- The audience got quite excited at that too♡"""
+""Ahaha♡ Just as I thought, you cummed on the count of
+ zero♡ And the audience loved it too♡"""
 "<凛>
 『さ、ここからさらに盛り上げていきますよ♡
 　みんなー♡
 　お兄さんのなさけなーいお射精は見てくれましたかー？』","<Rin>
-""Now, let's get them even more excited♡ Everyone♡
- Did you see how shamefully this masochist shot hit
+""Let's give them even more of that♡ Everyone♡
+ Did you see how shamefully this masochist shot his
  load?"""
 "<凛>
 『今度は、このマゾおちんぽ♡
 　今からまた10数える内に連続でイかせちゃいまーす♡』","<Rin>
-""Next I'll make this masochist dick for the second
- time in ten seconds♡"""
+""Next, I'm going to start another countdown to make
+ him cum for the second time♡"""
 "<凛>
 『だから、連続でこのお兄さんがすぐにイっちゃうところ♡
 　楽しんでくださいね♡シコシコ♡シコシコ♡』","<Rin>
-""That's why make sure to closely watch and enjoy when
- he cums for the second time in row♡"""
+""That's why please make sure to closely watch as he
+ cums in a row like that♡"""
 "凛は会場の熱が冷めないうちにさらに盛り上げようと、
-そんな宣言をしながら再び肉棒を激しく扱き始める。","Rin said that before the audience could go cold from
-your last ejaculation and started stroking your penis
-again."
+そんな宣言をしながら再び肉棒を激しく扱き始める。","Rin said that before the audience could lose the 
+excitement from your last orgasm, and then she began 
+stroking your penis again."
 "<金髪の女性>
 『え？マジ？
 　いくらそいつが変態でも、10はむずくない？
 　出来たらすごい♡』","<Blonde Woman>
-""Eh? Can he really manage that? Even if he's a pervert,
- isn't it difficult to cum so soon for the second time?
- But if he can do that, it'll be such a sight♡"""
+""Eh? Can he really do that? Even if he's a pervert,
+ isn't it difficult to cum another time in 10 seconds?
+ But it will be quite a sight to see if he can♡"""
 "<紫髪の女性>
 『うふふ♡
 　これでもし、本当に10秒なんかでイっちゃったら…
 　もう恥ずかしくて街を歩けないわね♡』","<Purple-Haired Woman>
-""Ahaha♡ If he can really cum again in 10 seconds...
- It will be so shameful sight that he won't be able to
- walk in the town again♡"""
+""Ahaha♡ If cums again in 10 seconds... It will be so
+ shameful that he won't be able to show his face around
+ the town anymore♡"""
 "観客は凛の言葉に、さらに盛り上がる。
 そんな中での射精直後の肉棒への敏感な攻めに、
-貴方は彼女のお尻に敷かれたまま身体を跳ねさせる。","The audience was getting excited to Rin's statement.
-She was stroking your penis that in the sensitive
-post-orgasm state, which made your whole body spams
-under her ass."
+貴方は彼女のお尻に敷かれたまま身体を跳ねさせる。","The people in the audience were getting really excited
+about what Rin said. You heard everything that they said 
+while laying under her ass and spasming from the 
+handjob on your sensitive post-orgasm penis."
 "<凛>
 『ほら、みんなも私と一緒にー♡
 　じゅーうっ♡きゅーうっ♡』","<Rin>
-""Everyone, countdown with me♡ Ten♡ Nine♡"""
+""Everyone, please count down with me♡ Ten♡ Nine♡"""
 "<茶髪の少女>
 『じゅーうっ♡きゅーうっ♡』
 <黒髪の女性>
@@ -9340,9 +9359,9 @@ counting down together with her."
 『ほら、お兄さん♡よかったですね、
 　こんな恥ずかしい射精なんてなかなかできませんよ♡
 　はーちっ♡なーなっ♡』","<Rin>
-""Isn't it great that I got the whole audience to join
- in? I don't think you can get to experience an orgasm
- this shameful very often♡ Eight♡ Seven♡"""
+""Hey, isn't it great that I got the whole audience to  
+ join in too? I don't think you can experience an 
+ orgasm this shameful very often♡ Eight♡ Seven♡"""
 "<紫髪の女性>
 『はーち♡なーな♡』
 <金髪の女性>
@@ -9351,27 +9370,27 @@ counting down together with her."
 <Blonde Woman>
 ""Eight♡ Seven♡"""
 "会場全てに煽られているような感覚になる中で、
-凛がお尻に敷いた貴方にそう声をかける。","Rin called out to you like that while you where under
-her ass. It was as if the whole audience were joining
-in to make fun of you."
+凛がお尻に敷いた貴方にそう声をかける。","Rin gloated about getting the audience to join the 
+countdown, which made you feel like all of them
+were making fun of you."
 "屈辱と羞恥で頭がおかしくなりそうな中、
-それでも肉棒に感じる彼女の手コキに快楽を覚えてしまう。","Your mind was about to break from the humiliation and
-shame, but even then, you felt pleasure when Rin was
-giving you a handjob."
+それでも肉棒に感じる彼女の手コキに快楽を覚えてしまう。","The shame and humiliation were about to break your mind,
+but even then, you felt pleasure from Rin's handjob on
+your penis."
 "<凛>
 『きっと、忘れられないいい思い出になりますよ♡
 　何回でもこの後、
 　オナニーのおかずにしていいですからね♡』","<Rin>
-""I'm sure that this will be such an amazing experience
- that you will never forget it♡ So amazing that you're
- going use it as fap material countless of times♡"""
+""I'm sure that this will become an amazing experience 
+ that you'll never forget♡ So amazing that you'll use 
+ it as a fap material countless of times♡"""
 "<凛>
 『私におちんぽ公開処刑されて、
 　みんなのカウントに合わせて射精しちゃうところ♡
 　ろーくっ♡ごーおっ♡』","<Rin>
-""That's how amazing it will be to cum to my handjob in
- the arena while everyone is counting down to your
- orgasm♡ Six♡ Five♡"""
+""That's why make sure to savor this feeling of public
+ humiliation as everyone counts down to your orgasm♡
+ Six♡ Five♡"""
 "<茶髪の女性>
 『ろーくっ♡ごーっ♡』
 <金髪の少女>
@@ -9381,32 +9400,31 @@ giving you a handjob."
 ""Six♡ Five♡"""
 "凛はそう言いながら、
 貴方の呼吸をふさぐようにむっちりとしたお尻を擦りつけ、
-激しく手を動かして肉棒を扱き続ける。","As she was saying that, Rin rubbed her thick ass on
-your face to block your breath and continued stroking
-your penis fast."
+激しく手を動かして肉棒を扱き続ける。","While saying that, Rin stroked your penis fast and 
+smothered your face with her thick ass."
 "今度こそ、今度こそという貴方の思いは、
-柔らかな感触にすりつぶされ、快楽が頭の中を支配する。","You were thinking of how you we're going to make it
-this time. Make it this time... But such thoughts were
-crushed away by the soft sensation of Rin's ass when
-the pleasure was taking over your mind."
+柔らかな感触にすりつぶされ、快楽が頭の中を支配する。","You had resolved yourself to endure the orgasm this 
+time, but that intent was crumbling away before the 
+soft sensation on your face as the pleasure was taking 
+over your mind."
 "<凛>
 『よーんっ♡さーんっ♡
 　マゾおちんぽ、またびくびくしてきました♡
 　おちんぽの方は今回も私に協力してくれるみたいですね♡』","<Rin>
-""Four♡ Three♡ Your masochist dick is twitching
- again♡ Looks like your dick is going to cooperate
- with me this time as well♡"""
+""Four♡ Three♡ Your masochist dick started twitching♡
+ Looks like it's going to cooperate with me again♡"""
 "<凛>
 『私のパフォーマンスに協力してくれて、
 　その上レベルとお金までくれるなんて、
 　ありがとうございます♡』","<Rin>
-""Thank you so much for assisting in my performance on
- top of giving your money and levels to me♡"""
+""You're helping with my performance and also giving 
+ your money to levels to me on top of it♡ Thank you
+ so much for all that♡"
 "<凛>
 『では、遠慮なく受け取りますね♡
 　にーいっ♡いーちっ♡』","<Rin>
-""I'm going to take it all from you without holding
- back♡ Two♡ One♡"""
+""Then I'm going to take it all without holding back♡ 
+ Two♡ One♡"""
 "<紫髪の女性>
 『にー♡いーち♡』
 <金髪の女性>
@@ -9415,73 +9433,74 @@ the pleasure was taking over your mind."
 <Blonde Woman>
 ""Two♡ One♡"""
 "凛は貴方の感情を無視して好き勝手に言いながら、
-ラストスパートに入る様に手の動きを激しくする。","Rin said that whiteout any care for your feelings
-while turning up her handjob tot he last spurt."
+ラストスパートに入る様に手の動きを激しくする。","While saying whatever she liked without care for your
+actual feelings, Rin began stroking your penis hard in
+last spurt."
 "彼女のお尻によって、
 軽い酸欠状態に追い込まれた所への激しい刺激に、
-肉棒は今にも屈服してしまいそうになる。","When you were starting to run out of breath because of
-Rin's ass and she was stroking your penis so hard, you
-couldn't resist any more once more."
+肉棒は今にも屈服してしまいそうになる。","When the intense handjob was combined with the light 
+state of hypoxia from the ass smothering, your penis
+reached the edge of orgasm."
 "<凛>
 『くすくす♡これで、終わりですね♡
 　お兄さんも遠慮なく、負け汁ぶちまけてください♡
 　ぜろっ♡』","<Rin>
-""Ahaha♡ This will be it♡ Make sure not to hold back
- in shooting your loser juices all over the arena
- floor♡ Zero♡"""
+""Ahaha♡ This will be it♡ Don't hold back and shoot
+ your loser juices all over the arena♡ Zero♡"""
 "<会場中の女性>
 
 \{\{『ぜろっ♡』","<Women in the Audience>
 
 \{\{""ZERO♡"""
 "大合唱のぜろのカウントに合わせて、
-貴方はまたもや大量の精液を放出してしまう。","You shot a massive load of semen once more when the
-whole audience counted zero."
+貴方はまたもや大量の精液を放出してしまう。","You shot another massive load of semen just as the 
+audience finished the countdown."
 "<茶髪の少女>
 『わー、ほんとに出たー♡
 　恥ずかしー♡』","<Brown-Haired Girl>
-""Woah♡ He really cummed♡ That's so shameless♡"""
+""Wow♡ He really cummed with that♡
+ That's so shameless♡"""
 "<黒髪の女性>
 『あーあ……♡あの男の人、
 　10数えるうちにイかされたって、
 　そんな噂されちゃうんだろうな………♡』","<Black-Haired Woman>
-""Aa-ah♡ He cummed within ten second with a countdown♡
- That's going to be the talk of the town for a while♡"""
+""Aa-ah♡ It took only 10 seconds to make him cum♡
+ I'm sure that he'll be the talk of the town for a
+ while♡"
 "そんな貴方の射精を見て、
-観客は凛への称賛と貴方への嘲りを送る。","The audience was raining praises for Rin and ridicule
-for you after seeing your ejaculation."
+観客は凛への称賛と貴方への嘲りを送る。","After seeing your orgasm, the audience was raining
+praise for Rin and ridicule for you."
 "<凛>
 『はーい♡精液がこんなにたくさん出ちゃいました♡
 　みんなー♡協力ありがとうございます♡
 　んー…………ちゅっ♡』","<Rin>
-""Please look what massive load of semen we made him cum 
- with everyone everyone♡ Thank you for everyone for
- making it happen♡ Mmmh... Smooch♡"""
+""Everyone♡ Please take a look at this massive semen 
+ load♡ It's thanks to everyone's help that we made it
+ happen♡ Mmmh... Smooch♡"""
 "観客にそうアピールしながら、
 可愛らしく投げキッスをする凛のお尻に敷かれて、
-貴方はそのまま意識を失ってしまった。","You passed out under Rin's ass while she was appealing
-to the audience and blowing kisses at them."
+貴方はそのまま意識を失ってしまった。","While Rin was blowing kisses and appealing to the
+audience, you ended up passing out under her ass."
 "目が覚めると、貴方は見覚えのある場所に寝ていた。
-また、医務室に運ばれたようだ。","You were in a familiar room when you woke up. You had
-been carried to the infirmary again."
+また、医務室に運ばれたようだ。","When you came to, you found yourself in a familiar 
+room. You had been carried to the infirmary again."
 "<アル>
 『あ、起きた？
 　\n[1]、おはよー！』","<Al>
 ""Ah! \n[1], are you awake? Good morning!"""
 "貴方が目を覚ましたことに気が付くと、
-アルが明るい声でそう声をかけてくる。","Al called to you in cheerful voice when she noticed
-that you were awake."
+アルが明るい声でそう声をかけてくる。","Al cheerfully called to you when she noticed that 
+you're awake."
 "貴方は先ほどの恥辱を思い出し、
-そんなアルの元気な声に何一つ返すことが出来なかった。","You recalled the humiliating experience you just went
-through. That's why you couldn't say anything back to
-Al's cheerful greeting."
+そんなアルの元気な声に何一つ返すことが出来なかった。","You remembered the humiliation you just went through
+and couldn't say anything back to Al's cheerful call."
 "<アル>
 『…………やっぱり、落ち込んじゃうよね…
 　その、ごめん、なんて声を掛けたらいいか分からなくて…』","<Al>
-""...As I thought, you're feeling down after that...
- Um... Sorry, I don't know what to say at a time like 
- this..."""
-"そんな貴方の様子に、アルも目を伏せる。","Al casted her eyes down when she saw your mood."
+""...Like I thought, you're feeling down after that...
+ Um... Sorry, I don't know what to say at a time like
+ this."""
+"そんな貴方の様子に、アルも目を伏せる。","Al cast down her eyes when she saw your mood."
 "<アル>
 『でも、大丈夫だよ！
 　\n[1]、
@@ -9492,22 +9511,22 @@ Al's cheerful greeting."
 『勝負の、結果だもん。
 　今回は負けちゃったけど…………
 　次こそ、勝てばいいんだよ！』","<Al>
-""It's natural that fights can lead to losses. You 
- might have lost this one, but you just need to win 
- the next one!"""
+""It's natural thing that fights can lead to losses. 
+ You might have lost this one, but then you just need
+ to win the next one!"""
 "<アル>
 『だから、その、えっと…………
 　\n[1]、元気出して？』","<Al>
 ""That's why... Um... Please cheer up."""
 "アルが心配げな表情で貴方の顔を覗き込む。","Al looked at you with concern on her face."
 "アルも、不器用ながら、
-なんとか貴方を慰めようとしてくれているようだ。","Although it felt slightly clumsy, it seemed like Al 
-was trying to comfort you in her own way."
+なんとか貴方を慰めようとしてくれているようだ。","Although it was slightly clumsy, it seemed like Al was
+trying to comfort you in her own way."
 "貴方はそんなアルを見て、
 いつまでも小さな子の要請に心配をかけるわけにもいかない、
-そう気合を入れなおした。","When you saw Al like that, you couldn't believe that 
-you were making such a small girl worry after you. 
-That's why you psyched yourself up."
+そう気合を入れなおした。","Seeing Al like that, you couldn't believe that you were
+making such a small girl worry for you and psyched 
+yourself up."
 "<アル>
 『ん♪その意気だよ、\n[1]！
 　また、強くなるの頑張ろうね！』","<Al>
@@ -12813,243 +12832,406 @@ but also sweetly soft shock of her breasts."
 "<六花>
 『あぁ…うぅ…
 　やっぱり、そうですよね。
-　あの人が、勝てるはずなんてなかった…………』",""
+　あの人が、勝てるはずなんてなかった…………』","<Rikka>
+""Aah... Uuh... It turned out like that in the end...
+ Even \n[1] couldn't win..."""
 "すでに勝敗が決した試合を見て、
 六花は1人観客席でそう声を漏らす。
-期待した自分が馬鹿だったと。",""
+期待した自分が馬鹿だったと。","You could hear Rikka in the audience seat after your
+match ended in a loss. It sounded like she was blaming
+herself for getting her hopes up."
 "<恭子>
 『うふふ♡私の勝ち、これで貴方は奴隷確定ですわね♡
 　さぁ、引き続き、
-　ご主人様が貴方を調教してあげますわよ♡むにゅっ♡』",""
+　ご主人様が貴方を調教してあげますわよ♡むにゅっ♡』","<Kyouko>
+""Ohoho♡ I won♡ Now it's set in stone that you're
+ going to become my slave♡ Next, I will train you
+ as your master♡"""
 "そんなことを知るはずもなく、
 恭子は貴方の肉棒を豊満な乳房で挟み込み、
-両側からマシュマロのように柔らかな感触を擦りつける。",""
+両側からマシュマロのように柔らかな感触を擦りつける。","Kyouko sandwiched your penis between her massive
+breasts and squeezed it from both sides."
 "<恭子>
 『まずは立場をはっきりと、
-　分からせてあげる必要がありますわよね♡』",""
+　分からせてあげる必要がありますわよね♡』","<Kyouko>
+""First, I'll need to strictly teach you about your
+ standpoint♡"""
 "<恭子>
 『貴方のおちんぽからレベルを搾り取って、
 　私のおっぱいには太刀打ちできないということ、
-　骨の髄まで理解させてあげますわ♡むにゅむにゅ♡』",""
+　骨の髄まで理解させてあげますわ♡むにゅむにゅ♡』","<Kyouko>
+""I'll make you understand down to the core how
+ you don't have a single chance to win against my
+ breasts when I level drain your penis♡"""
 "恭子はくすくすと笑みを漏らしながら、
 ゆっくりと豊満な2つの乳房を動かし、
-もっちりとした乳肉の感触を刷り込むように肉棒を圧迫する。",""
+もっちりとした乳肉の感触を刷り込むように肉棒を圧迫する。","Kyouko laughed while moving her massive breasts to
+rub and imprint their softness on your penis."
 "<恭子>
 『あらあら♡奴隷になることが決まってしまったのに、
-　随分と幸せそうな顔ですわね♡』",""
+　随分と幸せそうな顔ですわね♡』","<Kyouko>
+""Oh my♡ You're making quite a happy face for someone
+ who's going to become a slave♡"""
 "<恭子>
 『分かっていますわよね？
 　貴方はもうこの先ずっと、
-　自由を謳歌することはできないんですのよ♡』",""
+　自由を謳歌することはできないんですのよ♡』","<Kyouko>
+""Do you understand what that entails? You won't be
+ able to act freely no more♡"""
 "<恭子>
 『誰からも見下され、同情される惨めな日々♡
-　でも安心するといいですわ♡貴方は1人じゃない♡』",""
+　でも安心するといいですわ♡貴方は1人じゃない♡』","<Kyouko>
+""People are going to start looking down on you with 
+ pity as you begin your new sad life♡ But don't worry,
+ because you're not alone♡"""
 "<恭子>
 『同じ境遇の六花がいるんですもの♡
 　同じ奴隷同士、惨めに傷のなめあいでもしていれば、
-　多少は気がまぎれるのではなくて？うふふ♡』",""
+　多少は気がまぎれるのではなくて？うふふ♡』","<Kyouko>
+""Rikka is with you in the exact same position♡
+ As a fellow slave, you might be able to manage by
+ licking each other's wounds♡ Ohoho♡"""
 "傲慢にそう言い放ちながら乳房を揺らす恭子の言葉に、
-貴方の脳裏に六花の姿が浮かび上がる。",""
+貴方の脳裏に六花の姿が浮かび上がる。","Rikka's face surfaced in your mind as Kyouko haughtily
+spoke and shook her breasts."
 "助けたいと思った少女、
 そんな少女を裏切る結果になり、あまつさえ、
 倒すべき傲慢な女性の乳房に弄ばれている、
-そんな状況に情けなさと悔しさが湧き上がる。",""
+そんな状況に情けなさと悔しさが湧き上がる。","You wanted to save Rikka but ended betraying her trust.
+Moreover, her haughty master that you were supposed to
+defeat was toying your penis with her breasts. The 
+situation made you feel misery and frustration."
 "<恭子>
 『今更後悔したような顔をするんですのね♡
 　でももう遅いですわ♡
-　もう何もかもが決まってしまった後♡』",""
+　もう何もかもが決まってしまった後♡』","<Kyouko>
+""Looks like you're regretting challenging me♡ But it's
+ far too late for regret♡ Everything has already been
+ decided♡"""
 "<恭子>
 『それに、どうせまたすぐに快楽に溺れてしまうくせに♡
-　ほら、ほら♡貴方の未来を決定づけた私の憎いおっぱい♡』",""
+　ほら、ほら♡貴方の未来を決定づけた私の憎いおっぱい♡』","<Kyouko>
+""Besides, you're surely going to indulge in pleasure
+ right away again♡ Indulge in my amazing breasts that
+ sealed your fate♡"""
 "<恭子>
 『このおっぱいでおちんぽ溶かされて、
 　無様に喘ぐ姿を、惨めな奴隷の姿を、
-　存分に観客席にさらすといいですわよ♡むにゅむにゅ♡』",""
+　存分に観客席にさらすといいですわよ♡むにゅむにゅ♡』","<Kyouko>
+""Go ahead and expose the sight of miserable moaning 
+ slave whose penis melts away in my breasts to the
+ whole audience♡"""
 "恭子はそう嘲りながら、
 貴方の肉棒を乳房でみっちりと締め付け、
-ずりずりと柔かな乳肉で全体を擦り上げる。",""
+ずりずりと柔かな乳肉で全体を擦り上げる。","While making fun of you, Kyouko tightly squeezed her
+breasts together and rubbed your whole penis between
+them."
 "彼女の言葉通り肉棒が溶かされるようなパイズリに、
-貴方の後悔や情けなさは快楽に上塗りされていく。",""
+貴方の後悔や情けなさは快楽に上塗りされていく。","As she said, your penis was melting away in the boobjob
+and feelings of frustration and misery were quickly
+getting taken over by pleasure."
 "観客席には自分が助けたかった少女がいる、
 そんな少女に惨めな姿を見られたくない…………
 そう思っても、貴方の肉棒は意思に反して、
-彼女の谷間で嬉しそうに震えてしまう。",""
+彼女の谷間で嬉しそうに震えてしまう。","Rikka, the girl who you wanted to save, was in the 
+audience. You didn't want her to see your miserable
+sight... But even as you thought that, your penis was
+happily twitching between Kyouko's breasts."
 "<六花>
 『………変態……
-　なんで私、あんな人に期待しちゃったんだろ…………』",""
+　なんで私、あんな人に期待しちゃったんだろ…………』","<Rikka>
+""...Pervert... Why did I even expect anything from
+ you..."""
 "その痴態を見て、
-六花は蔑みの視線をフィールドにいる貴方に送る。",""
+六花は蔑みの視線をフィールドにいる貴方に送る。","You could feel Rikka looking down on you in disdain
+because of the miserable sight you were showing."
 "<恭子>
 『その後悔と快楽の入り混じった顔♡
-　とても情けなくて可愛いですわね♡』",""
+　とても情けなくて可愛いですわね♡』","<Kyouko>
+""That face mixed with regret and pleasure♡
+ It's truly miserable and adorable♡"""
 "<恭子>
 『おっぱいにおちんぽ揺さぶられれば、嫌でも感じてしまう、
-　そんな貴方にぴったりな顔ですわ♡むにゅむにゅ♡』",""
+　そんな貴方にぴったりな顔ですわ♡むにゅむにゅ♡』","<Kyouko>
+""It's a perfect fit for someone like you who can't
+ resist the pleasure of my breasts even when you
+ tried to endure it♡"""
 "嗜虐的な笑みを浮かべながら、
 ぱんぱんと腰に豊満な乳房を叩きつけるように振り下ろし、
-谷間の肉棒を先端から根元まですりおろす。",""
+谷間の肉棒を先端から根元まですりおろす。","Kyouko looked at you with a sadistic grin while
+smacking her massive breasts on your hips, causing
+them to stroke through your whole penis.
+"
 "柔らかな乳肉に絡みつかれたままの、
-精液を搾りだすような動きに貴方の腰は浮いてしまう。",""
+精液を搾りだすような動きに貴方の腰は浮いてしまう。","The motion of Kyouko tightly milking your semen with
+her breasts made your hips shoot up."
 "<恭子>
 『うふふ♡
 　自分から快楽を求めるように腰を突き上げて♡
-　みっともないとは思いませんの？』",""
+　みっともないとは思いませんの？』","<Kyouko>
+""Ohoho♡ You're thrusting your hips forward in request
+ of more pleasure♡ Don't you find that miserable?"""
 "恭子はくすくすと笑いながら貴方の反応を馬鹿にする。
-そんな恭子の言葉に、貴方は顔を羞恥に染めるしかできない。",""
+そんな恭子の言葉に、貴方は顔を羞恥に染めるしかできない。","Kyouko laughed and made fun of your reactions. You
+couldn't do anything but blush from shame before her
+words."
 "<恭子>
 『それに、そんなに焦らずとも……
-　望むのであれば、私がもっと気持ちよくしてあげますわ♡』",""
+　望むのであれば、私がもっと気持ちよくしてあげますわ♡』","<Kyouko>
+""There's no need to rush like that.. But if you wish
+ for more pleasure, I shall grant it to you♡"""
 "<恭子>
 『ほら、柔らかなおっぱいでおちんぽ締め付けたまま、
 　激しく上下にむにゅむにゅ♡
-　お待ちかねの全力パイズリですわよ♡』",""
+　お待ちかねの全力パイズリですわよ♡』","<Kyouko>
+""Here♡ I'll shake my breasts up and down fast while
+ tightly squeezing them around your penis♡ It's the
+ full-power boobjob that you've been waiting for♡"""
 "マシュマロのように柔らかな乳房に肉棒が溶かされ、
 激しく上下にすり潰されるように揺さぶられれば、
-貴方は思わず喘ぎ声を漏らしてしまう。",""
+貴方は思わず喘ぎ声を漏らしてしまう。","Kyouko's breasts, which were soft like marshmallows,
+were already making your penis melt away, but when
+she added in the intense and tight shaking, you
+couldn't help moaning out loud."
 "<恭子>
 『これが欲しかったんですわよね♡
-　おっぱいに弄ばれる快楽を存分に味わいなさい♡』",""
+　おっぱいに弄ばれる快楽を存分に味わいなさい♡』","<Kyouko>
+""This is what you wanted, correct? Enjoy the pleasure
+ of my boobjob to your heart's content♡"""
 "<恭子>
 『自分が負けたおっぱいに♡
 　自分を地獄に叩き落すおっぱいに魅了されて、
-　情けない敗北射精をするといいですわ♡むにゅむにゅ♡』",""
+　情けない敗北射精をするといいですわ♡むにゅむにゅ♡』","<Kyouko>
+""You can give in to the breasts that defeated you♡
+ Let yourself be charmed by the breasts that took you
+ to the hell and miserably cum and lose to them♡"""
 "激しく揺れ動く乳房の牢獄に捕らえられた肉棒は、
 たちまちに追い詰められ、
-先端から透明な先走りを溢れさせてしまう。",""
+先端から透明な先走りを溢れさせてしまう。","Precum started leaking from your penis as it was 
+quickly getting cornered in the prison that was 
+Kyouko's shaking breasts."
 "このままでは彼女の言葉通り、
-貴方はすぐに射精してしまいそうだった。",""
+貴方はすぐに射精してしまいそうだった。","At this rate, you were going to end up orgasming right
+away like she said."
 "<恭子>
 『うふふ♡貴方の我慢汁で、
-　私のおっぱいがぬるぬるしてきましたわ♡』",""
+　私のおっぱいがぬるぬるしてきましたわ♡』","<Kyouko>
+""Ohoho♡ My breasts are becoming wet with your
+ precum♡"""
 "<恭子>
 『もうそろそろ、レベルを出してしまいそうですの？
 　こんなにおちんぽが弱いと、
-　これから先苦労しそうですわね♡』",""
+　これから先苦労しそうですわね♡』","<Kyouko>
+""Is it near time that you'll give your level to me?
+ Your new life is going to be difficult when your
+ penis is this weak♡"""
 "<恭子>
 『誰もかれもに搾られて、
 　すぐに六花よりも弱くなってしまいそう♡
-　そうならないよう、気を付けるんですのよ？』",""
+　そうならないよう、気を付けるんですのよ？』","<Kyouko>
+""I can see everyone taking their turns draining your
+ penis, and you'll quickly end up weaker than Rikka♡
+ You need to be careful for that to not happen♡"""
 "<恭子>
 『貴方が負けていいのは私だけ♡
 　私のために勝利し、
-　賞金をささげてもらわなければ困りますわ♡』",""
+　賞金をささげてもらわなければ困りますわ♡』","<Kyouko>
+""I am the only one who you are allowed to lose to♡
+ I'm going to be troubled if you don't win and offer
+ the prize money to me♡"""
 "恭子は自分勝手なことを言いながら、
-乳房を激しく上下に動かし、肉棒をパイズリで追い詰める。",""
+乳房を激しく上下に動かし、肉棒をパイズリで追い詰める。","While saying whatever she liked, Ryouko quickly shook
+her breasts on your penis in boobjob to corner it."
 "肉棒が溶けてしまうような激しいパイズリの快楽に、
-貴方の腰は震え、もう我慢の限界が近づいてしまう。",""
+貴方の腰は震え、もう我慢の限界が近づいてしまう。","The pleasure from the penis-melting boobjob made your
+hips start shaking as you felt the limit of your
+endurance drawing close."
 "<恭子>
 『ほら、分かったのなら返事をなさい♡
 　服従と屈服の精液を、私のおっぱいに出すんですの♡
-　むにゅむにゅ♡むにゅぅぅ♡』",""
+　むにゅむにゅ♡むにゅぅぅ♡』","<Kyouko>
+""Now♡ If you've understood that, give me the answer♡
+ Shoot your semen of submission and obedience between
+ my breasts♡"""
 "恭子の命令に従うように、
-貴方は大量の白濁液を噴き出し彼女の胸を白く染めてしまう。",""
+貴方は大量の白濁液を噴き出し彼女の胸を白く染めてしまう。","You shot a massive load of semen and dyed Kyoko's
+breasts white in your seeds as if following her order."
 "<六花>
-『……………………』",""
+『……………………』","<Rikka>
+""..."""
 "<恭子>
 『うふふ♡
 　命令と同時に射精するのは奴隷としては満点ですわ♡
-　ですが…………』",""
+　ですが…………』","<Kyouko>
+""Ohoho♡ You earn a perfect score as a slave for
+ orgasming right as ordered♡ However..."""
 "<恭子>
 『やはり、
 　これほどおちんぽが弱いのはいけませんわね♡
-　お仕置き兼特訓を、このまま続けてあげますわよ♡』",""
+　お仕置き兼特訓を、このまま続けてあげますわよ♡』","<Kyouko>
+""It won't do for your penis to be this weak♡ We're
+ going to continue with punishment-cum-training♡"""
 "理不尽なことを言いながら、
 恭子は射精直後にもかかわらず、
-再び激しく乳房を上下に動かし、肉棒をもみくちゃにする。",""
+再び激しく乳房を上下に動かし、肉棒をもみくちゃにする。","After saying outrageous things, Kyouko began
+intensively stroking your penis in boobjob again
+despite it being sensitive from the orgasm."
 "敏感な肉棒がずっしりとした乳房に包み込まれ、
-柔らかな乳肉に擦られる快楽に、貴方の身体は跳ねてしまう。",""
+柔らかな乳肉に擦られる快楽に、貴方の身体は跳ねてしまう。","Your body ended spasming because the pleasure from
+Kyouko's breasts rubbing and squeezing your sensitive
+penis was too great."
 "<恭子>
 『ほら、ほら♡
 　今後の試合で敵にパイズリされて、
-　すぐにイってしまってはお話になりませんわ♡』",""
+　すぐにイってしまってはお話になりませんわ♡』","<Kyouko>
+""Hey♡ It won't be good if you end cumming right away
+ when your future opponents give you a boobjob♡"""
 "<恭子>
 『これだけ激しいパイズリをされても、
 　必死に耐えるんですわよ♡もし負けたりしたら……
-　こうして、枯れ果てるまで搾りつくしますわ♡』",""
+　こうして、枯れ果てるまで搾りつくしますわ♡』","<Kyouko>
+""You need to endure with your everything even if your
+ opponent gives you a boobjob this intense♡ You're
+ going to get drained dry like this if you lose♡"""
 "恭子は貴方にそう忠告するように言いながら、
 乳房を持ち上げては振り下ろし、
-柔らかな乳肉で肉棒全体をすり潰すようにパイズリをする。",""
+柔らかな乳肉で肉棒全体をすり潰すようにパイズリをする。","While giving you advice, Kyouko lifted up her breasts
+and smacked them down on your hips, causing them to
+run through your whole penis."
 "<恭子>
 『あらあら♡もうびくびくしてしまって♡
-　貴方のおちんぽには荷が重すぎたかしら♡』",""
+　貴方のおちんぽには荷が重すぎたかしら♡』","<Kyouko>
+""Oh my♡ Your penis is twitching already♡ Perhaps
+ that was too much for it to bear♡"""
 "<恭子>
 『そうですわよね♡
 　元々耐えられるなら、六花が見てる前で、
-　試合中にイったりなんかしませんでしたわよね♡』",""
+　試合中にイったりなんかしませんでしたわよね♡』","<Kyouko>
+""Yes, that must be it♡ If it could have endured my
+ breasts, you wouldn't have orgasmed during the match
+ while Rikka was watching after all♡"""
 "<恭子>
 『で・も♡それを承知で言っているのですわ♡
 　奴隷なら奴隷らしく、
-　死ぬ気で主人のために頑張りなさい♡むにゅぅぅ♡』",""
+　死ぬ気で主人のために頑張りなさい♡むにゅぅぅ♡』","<Kyouko>
+""However♡ I said that while knowing that♡ Your
+ master is ordering you, so follow the order like
+ a slave should even if it kills you♡"""
 "豊満な乳房を肉棒と一体化させるように、
-恭子は四方八方から押しつぶすように乳房で肉棒を圧迫する。",""
+恭子は四方八方から押しつぶすように乳房で肉棒を圧迫する。","Kyouko squeezed your whole penis so tightly that it
+nearly became one with her breasts."
 "肉棒の芯まで響くような柔らかな感触に、
-貴方の腰は砕け、頭の中が真っ白になってしまう。",""
+貴方の腰は砕け、頭の中が真っ白になってしまう。","With the soft sensation of Kyouko's breasts 
+transmitting to the core of your penis, you lost the 
+feeling from your legs and your mind went pure white."
 "<恭子>
 『すぐにイってはいけませんわよ♡
 　私のために、ご主人様のために必死で耐えるのですわ♡
-　むにゅむにゅ♡むにゅ♡』",""
+　むにゅむにゅ♡むにゅ♡』","<Kyouko>
+""You can't cum right away♡ Endure the pleasure with
+ your whole being for me, for your master♡"""
 "快楽で真っ白の頭に、彼女の声が響く。
 彼女の声が、命令が、脳の隅々まで浸透する。
 そして、貴方は言われるがまま、
-限界を超えて我慢しようと腰に力を入れる。",""
+限界を超えて我慢しようと腰に力を入れる。","Kyouko's voice echoed in your mind that the pleasure
+was dyeing pure white. Her order was making it way to 
+every corner of your brain. And then, you tried to 
+surpass your limit and endure the pleasure as told."
 "<恭子>
 『うふふ♡その調子ですわ♡
 　私のために♡ご主人様のために♡そう考えたほうが、
-　偽善的な動機よりもよっぽど良い動機になりますわよね♡』",""
+　偽善的な動機よりもよっぽど良い動機になりますわよね♡』","<Kyouko>
+""Ohoho♡ That's it♡ Doing it for the sake of me will
+ be a better motive than whatever you thought before♡
+ Do everything for the sake of your master♡"""
 "<恭子>
 『ほらほら♡
 　激しいおっぱいの攻撃におちんぽ負けないよう、
-　必死に耐えるんですのよ♡むにゅむにゅ♡』",""
+　必死に耐えるんですのよ♡むにゅむにゅ♡』","<Kyouko>
+""Now♡ Endure the pleasure with everything you have
+ so that your penis won't lose to my intense boobjob
+ attack♡"""
 "恭子はそう命令しながら、
 豊満な乳房で肉棒をすりつぶし、
-弱点に柔らかな感触を刷り込んでいく。",""
+弱点に柔らかな感触を刷り込んでいく。","After giving you the order, Kyouko began imprinting
+the soft sensation of her breasts on the weak spots
+of your penis while tightly clamping it down."
 "貴方は何も考えられないまま、
 彼女の命令に従うように必死にこらえようとするが、
-それも、すぐに限界が来てしまう。",""
+それも、すぐに限界が来てしまう。","You couldn't think for yourself and simply followed
+Kyouko's order to endure. However, you were quickly
+reaching your limit even as you did."
 "<恭子>
 『腰が痙攣してきましたが…まだまだいきますわよ♡
 　おちんぽを大きなおっぱいで飲み込んだまま、
-　激しくパイズリですわ♡むにゅ♡むにゅ♡むにゅ♡』",""
+　激しくパイズリですわ♡むにゅ♡むにゅ♡むにゅ♡』","<Kyouko>
+""Your hips started trembling... But I'm going to go
+ harder♡ I'm going to give you an intense boobjob
+ while your penis is swallowed between my breasts♡"""
 "とめどなく我慢汁を溢れさせ、
 限界をアピールする肉棒を
-容赦なく柔らかな乳房がもみくちゃにし、追い詰める。",""
+容赦なく柔らかな乳房がもみくちゃにし、追い詰める。","Even as your penis was already leaking precum non-stop 
+and clearly at its limit, Kyouko took her boobjob one
+step further to drive your manhood to the corner."
 "限界を超えた快楽に貴方の腰はガクガクと痙攣し、
-透明な我慢汁にわずかに白いものが混じり始めてしまう。",""
+透明な我慢汁にわずかに白いものが混じり始めてしまう。","The pleasure was surpassing your limit. Your hips were 
+quivering and a little bit of white stuff started 
+leaking along with your overflowing precum."
 "<恭子>
 『もしイってしまうなら、「ごめんなさいご主人様」
-　そう私に謝りながら射精するんですのよ♡』",""
+　そう私に謝りながら射精するんですのよ♡』","<Kyouko>
+""If you're going to end up cumming, you need to
+ apologize by saying ""Master, I'm sorry"" when you
+ cum♡"""
 "<恭子>
 『もちろん、貴方が命令を守れずに漏らしてしまう、
 　ダメダメな奴隷でなければ、
-　そんなことを言う必要はありませんが♡むにゅむにゅ♡』",""
+　そんなことを言う必要はありませんが♡むにゅむにゅ♡』","<Kyouko>
+""Naturally, that wouldn't need to be said if you
+ weren't a failure of a slave who can't follow his
+ masters' orders♡"""
 "とっくに限界を超えて続けられるパイズリに、
-貴方は喘ぎながら小さく彼女に言われた通り謝罪してしまう。",""
+貴方は喘ぎながら小さく彼女に言われた通り謝罪してしまう。","You had already far surpassed your limit in the
+intense boobjob, so you quietly apologized right
+away as she told you to while panting."
 "<恭子>
 『何か言ったかしら？
-　そんな小さな声では聞こえませんわ♡』",""
+　そんな小さな声では聞こえませんわ♡』","<Kyouko>
+""Did you say something? I can't hear you if you're
+ that quiet♡"""
 "<恭子>
 『ほら、もっと大きな声で♡
 　会場中にその情けない謝罪を大声で響かせながら、
-　無様にイってしまいなさい♡むにゅ♡むにゅぅぅ♡』",""
+　無様にイってしまいなさい♡むにゅ♡むにゅぅぅ♡』","<Kyouko>
+""Hey♡ You need to say it more loudly♡ Miserably
+ cum while your apology is echoing all across the
+ arena♡"""
 "貴方は情けなく謝罪の言葉を叫びながら、
-びゅるびゅるとレベルが溶け込んだ精液を噴き出してしまう。",""
+びゅるびゅるとレベルが溶け込んだ精液を噴き出してしまう。","You yelled the miserable apology just as you shot your
+level-packed semen load."
 "<恭子>
 『うふふ♡
 　謝罪と同時にしゃせいしてしまいましたわね♡
-　惨めな姿でしたわよ♡』",""
+　惨めな姿でしたわよ♡』","<Kyouko>
+""Ohoho♡ You apologized and cummed at the same time♡
+ It was such a pathetic sight♡"""
 "<恭子>
 『これでもう、貴方は身も心も私の奴隷♡
-　これから、一生懸命私のために働くんですのよ♡』",""
+　これから、一生懸命私のために働くんですのよ♡』","<Kyouko>
+""With this, both your mind and body have been turned
+ into my slaves♡ You're going to give your everything
+ in working for me from now on♡"""
 "そんなご主人様の言葉を聞きながら、
-貴方は意識を失ってしまった。",""
+貴方は意識を失ってしまった。","After hearing those words from your master, you passed
+out."
 "そして……………………
-目が覚めてから、貴方の奴隷としての人生が始まった。","And then... When you woke up, your life as Kyouko's
-slave began."
+目が覚めてから、貴方の奴隷としての人生が始まった。","And then...
+When you came to, your life as Kyouko's slave began."
 "……………………","......"
 "<恭子>
 『全く…今日も負けたそうですわね。
 　貴方はいつになったら役に立つのかしら？』","<Kyouko>
-""Good grief... Looks like you lost your match again.
+""Good grief... Looks like you lost a match again.
  I wonder when you'll prove to be useful?"""
 "今日もコロシアムで敗北してしまった貴方を詰りながら、
 恭子は豊満な胸で肉棒をすりつぶす。","Kyouko scolded you for losing today in the arena while
@@ -13691,135 +13873,236 @@ breasts."
 『私たちも、頑張って先に進もう！』",""
 "<優香>
 『そろそろ見てるだけじゃ我慢できないでしょ？
-　このおっぱいを使って直接アンタのこと虐めてあげる♡』",""
+　このおっぱいを使って直接アンタのこと虐めてあげる♡』","<Yuuka>
+""It's starting to get difficult to just stare at my
+ boobs, right? Next I'll use them to directly play
+ with you♡"""
 "<優香>
 『ほら、見惚れて隙だらけのアンタの顔♡
-　この私の柔らかおっぱいでむぎゅぅぅ♡』",""
+　この私の柔らかおっぱいでむぎゅぅぅ♡』","<Yuuka>
+""Now that your sloppy face is all defenseless, I'll
+ shove it between my soft boobs♡"""
 "優香は貴方の顔を自身の豊満な乳房にうずめさせる。
-貴方は柔らかな感触と甘い香りに顔が包み込まれてしまう。",""
+貴方は柔らかな感触と甘い香りに顔が包み込まれてしまう。","Yuuka buried your head between her massive breasts,
+making their soft touch and sweet scent cover your
+face."
 "<優香>
 『あは♡直接おちんぽ虐めてもらえると思った？
-　ざんね～ん♡くそザコのアンタにはパフパフで十分♡』",""
+　ざんね～ん♡くそザコのアンタにはパフパフで十分♡』","<Yuuka>
+""Aha♡ Did you think I would give you a boobjob or
+ something? Too bad, because a weak-ass like you
+ will only get breast smothering♡"""
 "<優香>
 『このまま私のおっぱいのマシュマロみたいな柔らかさと、
 　あま～い香りで脳みそとろとろにしちゃうから♡
-　むにゅむにゅ♡むぎゅぅぅ♡』",""
+　むにゅむにゅ♡むぎゅぅぅ♡』","<Yuuka>
+""I'm going to turn your brain into goo with the 
+ marshmallow-like softness and the sweet scent of my
+ boobs♡"""
 "<優香>
 『ほらほらぁ♡
 　どんどんおっぱいのあま～い感触に脳が犯されちゃう♡
-　抜け出せなくなっちゃう♡むにゅむにゅ♡』",""
+　抜け出せなくなっちゃう♡むにゅむにゅ♡』","<Yuuka>
+""There♡ The sweet sensations of my boobs are quickly
+ making their  way to your brain♡ You're going to
+ turn completely powerless♡"""
 "優香は嗜虐的な笑みを浮かべながら、
 柔らかな乳房の感触を貴方の顔に刷り込むように、
-むぎゅむぎゅとおっぱいでもみくちゃにする。",""
+むぎゅむぎゅとおっぱいでもみくちゃにする。","Yuuka moved her breasts to imprint their soft sensation
+on your face while looking at you with a sadistic grin."
 "<優香>
 『あは♡だんだん力が抜けて来た♡
 　柔らかいおっぱいに捕まって夢心地のまま、
-　情けなく私に負けちゃえば？変態♡むぎゅぅぅ♡』",""
+　情けなく私に負けちゃえば？変態♡むぎゅぅぅ♡』","<Yuuka>
+""Aha♡ You're quickly getting weaker♡ Why not
+ miserably lose while I have your head trapped
+ between my heavenly boobs? Pervert♡"""
 "<優香>
 『幸せそうな顔でイっちゃった♡
 　パフパフでノックアウト♡
-　ま、楽勝だったねー♡ざぁこ♡』",""
+　ま、楽勝だったねー♡ざぁこ♡』","<Yuuka>
+""You cummed with such a happy face♡ It's a knockout
+ with a breast smother♡ Such an easy win against a
+ weak-ass like you♡"""
 "<優香>
 『もう完全にフル勃起してるじゃん♡
 　この変態マゾおちんぽ、
-　私のおっぱいで虐めて欲しいんでちゅかぁ？』",""
+　私のおっぱいで虐めて欲しいんでちゅかぁ？』","<Yuuka>
+""Your dick is already in full boner♡ Does your
+ masochist pervert dick want me to stick it between
+ my boobs?"""
 "<優香>
 『でもだ～め♡
 　パイズリなんてしてあげない♡
-　おっぱいに顔うずめさせたまま負けさせてあげる♡』",""
+　おっぱいに顔うずめさせたまま負けさせてあげる♡』","<Yuuka>
+""Too bad because I won't♡ I won't give you a boobjob♡
+ I'm going to make you lose with a boob smother♡"""
 "<優香>
 『さ、ここからが本番♡
 　甘い魅了魔法がこもった私のおっぱいで、
-　アンタの顔を包み込んであげる♡むにゅぅぅ♡』",""
+　アンタの顔を包み込んであげる♡むにゅぅぅ♡』","<Yuuka>
+""Now then, let's get started with the main part♡
+ I'm going to cover my boobs with charm magic and
+ bury your face between them♡"""
 "優香は淡く光る乳房で貴方の顔を包み込む。
 脳がショートするほどの甘いミルクのような香りと、
-貴方の顔を溶かすような柔らかな感触に肉棒は震えてしまう。",""
+貴方の顔を溶かすような柔らかな感触に肉棒は震えてしまう。","Yuuka buried your face between her faintly glowing
+breasts. When a sweet milk-like scent nearly made your
+brain short-circuit and melting softness surrounded
+your face, your penis twitched hard."
 "<優香>
 『ほらほらぁ♡もっと魅了魔法込めてあげる♡
 　魅了パフパフ♡アンタじゃ耐えられないでしょ？
-　脳みそ焦がして溺れちゃえ♡むにゅむにゅ♡』",""
+　脳みそ焦がして溺れちゃえ♡むにゅむにゅ♡』","<Yuuka>
+""Hey♡ Here's more charm magic♡ It's a charming boob
+ smother♡ You can't endure something like this, right?
+ Your brain is going to get fried pleasure♡"""
 "<優香>
 『ふふ♡身体がビクビク震えてる♡
 　魅了魔法とおっぱいの組み合わせ、たまらないでしょ？
-　投げキッス以外にもこういう使い方があるの♡』",""
+　投げキッス以外にもこういう使い方があるの♡』","<Yuuka>
+""Ahaha♡ Your whole body is trembling♡ You can't get
+ enough of it when I combo charm magic with my boobs,
+ right? It doesn't need to be used on just kisses♡"""
 "<優香>
 『私の元々魅力的なおっぱいと組み合わせれば、
-　勝てる男なんていないってわけ♡むにゅぅぅ♡』",""
+　勝てる男なんていないってわけ♡むにゅぅぅ♡』","<Yuuka>
+""There's no way a man can win against me when I use my
+ charm magic with my boobs that are already charming
+ without it♡"""
 "優香は得意げにそう言いながら、
-魅了の快楽を柔らかな感触とともに貴方に刷り込んでいく。",""
+魅了の快楽を柔らかな感触とともに貴方に刷り込んでいく。","Yuuka boasted about her breasts while engraving their
+soft touch into your face along with the pleasure of
+the charm magic."
 "<優香>
 『ほら、おっぱいに包み込まれて、
 　甘くとかされるような感触を存分に楽しめば？♡
-　アンタもどうせこのまま負けちゃうんだから♡むにゅ♡』",""
+　アンタもどうせこのまま負けちゃうんだから♡むにゅ♡』","<Yuuka>
+""Hey♡ Why not enjoy the sweet melting sensation to
+ your heart's content while I'm burying your face in
+ my boobs? You're going to lose in the end anyway♡"""
 "<優香>
 『ふふ♡やっぱりアンタには刺激が強すぎた？
-　おちんぽ馬鹿みたいにびゅるびゅる射精しちゃって♡』",""
+　おちんぽ馬鹿みたいにびゅるびゅる射精しちゃって♡』","<Yuuka>
+""Ahaha♡ Was it too stimulating after all? Your dick
+ shot it's load like stupid♡"""
 "<優香>
 『くすくす♡このまま魅了パフパフだけで、
 　負けちゃいそうなこのザコおちんぽ♡
-　もっと虐めてあげよっか♡』",""
+　もっと虐めてあげよっか♡』","<Yuuka>
+""Ahaha♡ Your weak dick is already about to lose to my
+ charming boob smother, but I'm going to toy it even
+ more♡"""
 "<優香>
 『ほら、おっぱいで顔を柔らかく溶かしたまま♡
-　私のむちむちの太ももでおちんぽ挟んでむにむに♡』",""
+　私のむちむちの太ももでおちんぽ挟んでむにむに♡』","<Yuuka>
+""There♡ I'm squeezing your dick between my thick
+ thighs while melting your face with my soft boobs♡"""
 "<優香>
 『ぷっ♡腰ひいちゃって、わっかりやすい反応♡
 　今おちんぽにこんなことされたら、
-　このままイかされて負けちゃいそうなんだ♡』",""
+　このままイかされて負けちゃいそうなんだ♡』","<Yuuka>
+""Pfft♡ You tried pulling back your hips♡ That's a
+ clear sign that you're going to cum and lose if I
+ touched your dick like this♡"""
 "<優香>
 『でもさ、おっぱいに顔捕まってて逃げられないでしょ？
-　ほら、腰ひいたって無駄♡太ももにも捕まったまま♡』",""
+　ほら、腰ひいたって無駄♡太ももにも捕まったまま♡』","<Yuuka>
+""However, you can't escape when your face is buried
+ in my boobs♡ Your dick is going to stay between my
+ thighs even when you pull back your hips♡"""
 "優香は貴方の肉棒を弾力のある太ももで締め付け、
-腰を動かしてすりすりと肉棒に擦りつける。",""
+腰を動かしてすりすりと肉棒に擦りつける。","After squeezing her springy thighs around your penis,
+Yuuka began moving her hips to stroke your manhood
+with them. "
 "<優香>
 『逃げたいならまずはこのおっぱいから抜け出さないと♡
 　マシュマロみたいに柔らかくて甘くて、
-　とっても気持ちのいい私のおっぱいから♡むにゅぅぅ♡』",""
+　とっても気持ちのいい私のおっぱいから♡むにゅぅぅ♡』","<Yuuka>
+""If you want to escape, you need to slip out of my
+ boobs first♡ Slip out of my sweet and soft
+ marshmallow-like boobs that feel so good♡"""
 "呼吸するたびに、谷間の甘く魅惑的な香りが鼻腔をくすぐる。
 文字通り柔らかく溶かされるような快楽に、
-貴方は抵抗する気力を失っていく。",""
+貴方は抵抗する気力を失っていく。","Sweet charming scent of Yuuka's breasts tickled your
+nose with every breath. The pleasure was literally
+melting your intent to resist."
 "<優香>
 『ほら、こうやっておっぱいに捕まったままだと♡
-　こうして太ももにもおちんぽ追い詰められちゃう♡』",""
+　こうして太ももにもおちんぽ追い詰められちゃう♡』","<Yuuka>
+""Hey♡ When your head stays trapped between my boobs,
+ your dick is going to get cornered by my thighs♡"""
 "<優香>
 『絶体絶命だねー？くそザコく～ん♡
 　おっぱいと太ももに、このまま負けちゃう？♡
-　むにゅぅぅ♡むにむに♡』",""
+　むにゅぅぅ♡むにむに♡』","<Yuuka>
+""You're in a pretty desperate situation, Mr. weak-ass♡
+ Are you just going to stay still and lose to my boobs
+ and thighs?"""
 "<優香>
 『ぷっ♡結局おっぱいから逃げられずに、
 　太ももでおちんぽ挟まれたまますすべもなく敗北射精♡
-　ほんとみっともない♡』",""
+　ほんとみっともない♡』","<Yuuka>
+""Pfft♡ You couldn't escape my boobs in the end♡
+ You cummed and lost with your dick between my thighs
+ without resisting at all♡ How pathetic♡"""
 "<優香>
 『おっぱいで顔を捕まえたまま、
 　太ももで挟んだおちんぽむにむに♡
-　ビクビクしてるけど、もしかしてもうイきそうなの？』",""
+　ビクビクしてるけど、もしかしてもうイきそうなの？』","<Yuuka>
+""Your dick has started twitching now that I've been
+ squeezing it between my thighs and smothering your
+ face♡ Are you about to cum or something?"""
 "<優香>
 『おっぱいに捕まって抜け出せなくて♡
 　かるーくおちんぽ挟まれてるだけでイきそうなんだ♡
-　ざぁこ♡むにゅぅぅ♡』",""
+　ざぁこ♡むにゅぅぅ♡』","<Yuuka>
+""You haven't been able to escape my boobs smother♡
+ And not you're about to cum from a light thigh
+ squeezing♡ You're such a weak-ass♡"""
 "谷間の甘い香りと感触におぼれたまま、
-震えることしかできない貴方を優香はそう嘲笑する。",""
+震えることしかできない貴方を優香はそう嘲笑する。","Yuuka watched you with a smug grin when you were
+completely losing your head to the sweet scent and
+the soft touch of her breasts and unable to anything
+but tremble in place."
 "<優香>
 『ほら、今更もがいても無駄♡
 　魅了おっぱいのあま～いパフパフで脳みそ溶かされて、
-　もうまともに身体に力入んないでしょ？』",""
+　もうまともに身体に力入んないでしょ？』","<Yuuka>
+""Hey♡ It's too late to struggle now♡ Your brain has
+ melted down so badly in my charming boobs that all
+ strength has left your body, right?"""
 "<優香>
 『アンタは私のおっぱいに捕まったまま、
 　情けなくおちんぽ降参するしかないの♡
-　むにゅむにゅ♡むにむに♡』",""
+　むにゅむにゅ♡むにむに♡』","<Yuuka>
+""Your only option is to surrender with your dick while
+ your head is trapped between my boobs♡"""
 "<優香>
 『ほら、おちんぽももう限界♡
 　太ももにつかまったまま、情けなく震えてる♡
-　もうイっちゃいそうになってる♡』",""
+　もうイっちゃいそうになってる♡』","<Yuuka>
+""Hey♡ Your dick is already hitting the limit♡
+ It's miserably twitching between my thighs♡
+ It's right at the brink of orgasm♡"""
 "<優香>
 『おっぱいの甘い香りと感触でもう我慢もとろとろ♡
-　やっぱりアンタじゃ、私の魅了には勝てないよね♡』",""
+　やっぱりアンタじゃ、私の魅了には勝てないよね♡』","<Yuuka>
+""Your resistance has also melted away at the sweet
+ scent and soft touch of my boobs♡ It's just as I
+ thought: You can't win against my charm♡"""
 "<優香>
 『さ、これでトドメ♡
 　谷間で甘い香りめいいっぱい吸い込みながら、
-　脳みそ溶かしてびゅるびゅる射精しろ♡むにむに♡」",""
+　脳みそ溶かしてびゅるびゅる射精しろ♡むにむに♡」","<Yuuka>
+""Now♡ I'll finish you off with this♡ Let your brain
+ melt into nothingness by taking a deep breath of the
+ sweet scent of my boobs and cum♡"""
 "<優香>
 『言われるがまま、呆気なくおちんぽ降参しちゃった♡
-　ほんと、なっさけないよね♡アンタって♡』",""
+　ほんと、なっさけないよね♡アンタって♡』","<Yuuka>
+""Your dick instantly submitted just as I told it to♡
+ You're seriously so pathetic♡"""
 "<優香>
 『お待ちかねのマシュマロおっぱい♡
 　ほら、存分に味わいなよ♡顔を挟み込んであげるから♡
@@ -13986,32 +14269,54 @@ breasts."
 "<優香>
 『私のおっぱいでアンタをメロメロにしてあげる♡
 　一番最初にあった時からずっとチラチラ見てたもんね？
-　気になるんでしょ？この大きなおっぱい♡』",""
+　気になるんでしょ？この大きなおっぱい♡』","<Yuuka>
+""I'm going to charm you with my boobs♡ You've been
+ eyeing them ever since we met, right? My massive
+ breasts  are on your mind, aren't they?"""
 "優香は谷間を強調しながら、
-柔らかそうなおっぱいを貴方に見せつけて誘惑する。",""
+柔らかそうなおっぱいを貴方に見せつけて誘惑する。","Yuuka tempted you by showing off her soft-looking
+breasts and emphasizing her cleavage."
 "<優香>
 『ほら、これだけで目線が釘付け♡
 　ちょっと誘惑されただけで魅了されちゃうなんて、
-　ほんと弱いでちゅねー♡』",""
+　ほんと弱いでちゅねー♡』","<Yuuka>
+""Hey♡ That's all it takes to nail your eyes on them♡
+ You're so weak that even a slight temptation like
+ that charms you♡"""
 "<優香>
 『くすくす♡くそザコおっぱい奴隷く～ん♡
 　おっぱいに誘惑されてすぐ魅了されちゃうくせに、
-　よく私に逆らおうとしたね♡』",""
+　よく私に逆らおうとしたね♡』","<Yuuka>
+""Ahaha♡ Hey, weak-ass boobie slave♡ I can't believe
+ you tried to oppose me when you get instantly charmed
+ with boob temptation♡"""
 "<優香>
 『そんなに私に気持ちよく負けたかったんでちゅかぁ？
 　それならお望み通り、たくさん誘惑して負けさせてあげる♡
-　ほ～ら、おっぱいタプタプ♡』",""
+　ほ～ら、おっぱいタプタプ♡』","<Yuuka>
+""Did you want to feel good and lose against me that
+ badly? In that case, I'll do what you want and beat
+ you with many temptations♡ Here's a boob shake♡"""
 "優香は貴方に小ばかにしたような笑みを向けながら、
-自身の豊満な乳房を柔らかく揺らす。",""
+自身の豊満な乳房を柔らかく揺らす。","Yuuka watched you with a smug grin and lightly shook
+her massive breasts."
 "彼女の上体が動くたびにぷるぷると形を変え、
-誘惑する乳房に貴方の視線はくぎ付けになってしまう。",""
+誘惑する乳房に貴方の視線はくぎ付けになってしまう。","Yuuka's breasts bounced and changed shape with every
+movement of her upper body, and you couldn't help
+your gaze getting glued on to them."
 "<優香>
 『そうそう♡
 　そうやってじ～っと私のおっぱい見てれば？
-　アンタが私に勝てるわけないんだし♡タプタプ♡』",""
+　アンタが私に勝てるわけないんだし♡タプタプ♡』","<Yuuka>
+""Yes, that's it♡ Why not just keep staring at my boobs
+ like that? You don't have a chance to beat me
+ anyway♡"""
 "<優香>
 『ぷっ♡まさか揺れるおっぱい見てるだけでイったの？
-　どれだけ興奮してたのよ、変態♡』",""
+　どれだけ興奮してたのよ、変態♡』","<Yuuka>
+""Pfft♡ Did you just cum by staring at my bouncing
+ boobs? Just how bad boob fetish can you have?
+ You pervert♡"""
 "<優香>
 『はい、これでアンタの負け♡
 　無駄な抵抗お疲れ様でしたぁ♡』",""
@@ -29493,163 +29798,282 @@ motivate you."
 "<メイド長>
 『キスで力が抜けてきてしまいますよね。
 　貴方の肉棒もこんなに大きくなってしまって…
-　これでは、剣も振りにくいでしょう？』",""
+　これでは、剣も振りにくいでしょう？』","<Head Maid>
+""The strength is leaving your body with the kisses.
+ Your penis is also getting so hard and big...
+ It's difficult to swing your sword like this, right?"""
 "<メイド長>
 『男性というのは哀れな生き物ですね。
 　こうして欲望を刺激して差し上げるだけで、
-　思うように力を出せなくなってしまうのですから。』",""
+　思うように力を出せなくなってしまうのですから。』","<Head Maid>
+""Men are such pitiful creatures. You are unable to
+ display your full strength after being given sexual
+ stimulus like this."""
 "メイド長は貴方を抱きしめると、
 端正な顔立ちを近づけたままそうくすりと微笑む。
 穏やかな口調から感じられる確かな嘲りに、
-貴方は思わず彼女の拘束を抜け出そうと力を込める。",""
+貴方は思わず彼女の拘束を抜け出そうと力を込める。","After hugging you close, the head maid simply watched
+you with her beautiful face. The derision you felt
+beneath her gentle tone made you try to break free
+from her hold."
 "<メイド長>
 『ふふ。女の拘束など、
 　本気を出せば容易く抜け出せるとお考えですか？
-　現実はそう甘くはありませんよ。』",""
+　現実はそう甘くはありませんよ。』","<Head Maid>
+""Ahaha. Do you think you can easily break free from
+ a woman's retrains if you used your full strength?
+ The reality isn't so sweet."""
 "<メイド長>
 『確かに貴方の平時の全力であれば、
 　私の拘束など簡単に抜け出せることでしょう。
-　ですが、こうして優しくキスをされてしまうと…ちゅっ♡』",""
+　ですが、こうして優しくキスをされてしまうと…ちゅっ♡』","<Head Maid>
+""If you had your normal full strength, then you could
+ certainly break free from my hold easily. However,
+ when I gently kiss you like this... Smooch♡"""
 "<メイド長>
 『簡単に唇に力を吸われてしまいますよね。
 　貴方が男性である限り、それは避けられないこと…
-　恥ずかしがる必要はありませんよ。』",""
+　恥ずかしがる必要はありませんよ。』","<Head Maid>
+""I can easily suck out your strength with my lips.
+ It's an inevitable fact as long as you are a man,
+ so there's no need to feel embarrassed about it."""
 "<メイド長>
 『男性は女からの甘い愛情に、優しいキスには弱いもの。
 　柔らかな唇の感触を感じるだけで、
-　攻撃しようという意思すら溶かされてしまうのですよね。』",""
+　攻撃しようという意思すら溶かされてしまうのですよね。』","<Head Maid>
+""Men are weak to sweet and loving kisses from women.
+ Just the touch of my soft lips is melting away your
+ intent to attack."
 "<メイド長>
 『そんな貴方が、私から逃れられるはずもありません。
 　このまま思う存分私のキスに力を吸われ、
-　身体を弛緩させてしまってください。ちゅっ♡』",""
+　身体を弛緩させてしまってください。ちゅっ♡』","<Head Maid>
+""You are unable to escape from my hold because of that.
+ Please continue losing your strength to my kisses and
+ relax your body. Smooch♡"""
 "<メイド長>
 『甘い愛情がこもったキス…
 　これだけで達してしまうほど心地よかったのですね。
-　ふふ。可愛らしいお人。』",""
+　ふふ。可愛らしいお人。』","<Head Maid>
+""A sweet loving kiss... It made you feel so sweet and
+ pleasant that you reached a climax. Ahaha. You're
+ quite an adorable man."""
 "<メイド長>
 『そろそろ身体の力も抜けてきましたね。
 　それではそろそろ、甘い飴の時間は終わりにしましょうか。
-　ここからは鞭…上下関係を叩き込んで差し上げますね。』",""
+　ここからは鞭…上下関係を叩き込んで差し上げますね。』","<Head Maid>
+""Nearly all strength should have left your body now.
+ It's time to end the sweet time of the carrot...
+ And give you the whip to teach you your position."""
 "メイド長は貴方を押し倒し、
 肉棒にすらりと伸びた足を延ばす。
-そのまま足裏で挟み込み、軽くぐにぐにと刺激し始めた。",""
+そのまま足裏で挟み込み、軽くぐにぐにと刺激し始めた。","The head maid pushed you down and extended her slender
+legs to your penis. Then she began gently squeezing
+your manhood between her soles."
 "<メイド長>
 『大事なところを足などで踏まれる気分はいかがでしょうか。
 　甘いキスで大きくさせられてしまったこの肉棒…
-　このように乱雑に扱われるのはやはり不服ですか？』",""
+　このように乱雑に扱われるのはやはり不服ですか？』","<Head Maid>
+""How does it feel when your precious manhood is
+ trampled beneath my feet? It must made you unhappy
+ when I'm treating it so crudely, right?"""
 "<メイド長>
 『ですが、足裏を擦りつけるたび、
 　嬉しそうに震えて反応を返していますよ。
-　足などであしらわれて、感じてしまっているのでしょう？』",""
+　足などであしらわれて、感じてしまっているのでしょう？』","<Head Maid>
+""However, your penis is twitching happily every time I
+ stroke with my foot. It feels good even when I'm using
+ something like my feet to touch it, right?"""
 "<メイド長>
 『恥ずかしがることはありません。
-　ほかのどの男性も同じでしたからね。』",""
+　ほかのどの男性も同じでしたからね。』","<Head Maid>
+""It's nothing to be ashamed of because it's the same
+ for other men."""
 "<メイド長>
 『誰もかれもが甘いキスに堕とされ、
 　このような屈辱的な足での愛撫に堕とされ、
-　最後には女に隷属するはめになっていったのです。』",""
+　最後には女に隷属するはめになっていったのです。』","<Head Maid>
+""All the other men have also fallen with humiliating 
+ footplay after sweet kisses. In the end, they become
+ addicted to serving women."""
 "<メイド長>
 『貴方も例外ではなく、
 　その先達と同じ道をたどるだけ…
-　すぐにこのまま足で堕として差し上げますからね。』",""
+　すぐにこのまま足で堕として差し上げますからね。』","<Head Maid>
+""You are no exception to that rule because soon
+ I'm going to make you also fall to the pleasure
+ with my feet."
 "<メイド長>
 『我慢などしても無駄ですよ。
 　貴方はこうして足で肉棒をあしらわれ、
-　女より下なのだと自身の立場を自覚すればいいのです。』",""
+　女より下なのだと自身の立場を自覚すればいいのです。』","<Head Maid>
+""Attempts to endure the pleasure are pointless. You
+ should only focus in awakening to your position 
+ beneath women while I touch your penis with my feet."""
 "メイド長は貴方を見下ろしながら、
 背中の羽で空中に浮かび上がったまま、
-両足を器用に使って肉棒を愛撫する。",""
+両足を器用に使って肉棒を愛撫する。","While floating in the air with her wings, the head maid
+looked down on you and skillfully stroked your penis
+with her feet."
 "<メイド長>
 『ほら、こうして先端を踏まれるのが気持ちいいのでしょう？
 　軽く足が触れただけで、
-　甘い声が漏れてしまいましたものね。』",""
+　甘い声が漏れてしまいましたものね。』","<Head Maid>
+""Hey, it feels good when I trample the tip like this,
+ doesn't it? Just the slightest touch of my feet is
+ making you moan so sweetly."""
 "<メイド長>
 『それではお望み通り、
 　貴方の弱点を足で踏みしだいて差し上げましょう。
-　両足で挟んで……先端をぐりぐりと……♡』",""
+　両足で挟んで……先端をぐりぐりと……♡』","<Head Maid>
+""Since you seem to like it so much, allow me to crush
+ your weak spot between my feet... I'll hold your tip
+ between my soles... And stroke it♡"""
 "<メイド長>
 『呆気なく足に屈してしまいましたね。
 　これで今日から貴方は家畜…
-　女に隷属する立場として生きていくことになるのですよ。』",""
+　女に隷属する立場として生きていくことになるのですよ。』","<Head Maid>
+""You ended submitting to my feet so quickly. From
+ today on you're nothing more than livestock whose
+ purpose is to serve women."""
 "<メイド長>
 『このように足で肉棒を扱かれていると、
 　自分が女よりも立場が下なのだと感じてしまうでしょう？
-　男性として、とても屈辱的ですよね。』",""
+　男性として、とても屈辱的ですよね。』","<Head Maid>
+""When I'm rubbing your penis with my feet like this,
+ it makes you feel like you're in a lower position than
+ women, doesn't it? It's really humiliating as a man."""
 "<メイド長>
 『ですから皆さん、
 　最初は貴方のように反抗しようとしたり、
-　こんなものでは射精しないと強がるものなのですよ。』",""
+　こんなものでは射精しないと強がるものなのですよ。』","<Head Maid>
+""All the men try to resist at the start like you.
+ They try to bluff that they won't climax from
+ something like this."""
 "<メイド長>
 『ですが、こうして、
 　丁寧に先端を両足で踏んで差し上げれば……
-　すぐに情けなく、甘い声を出してしまうのです。』",""
+　すぐに情けなく、甘い声を出してしまうのです。』","<Head Maid>
+""However, when I carefully trample your penis between
+ my feet like this... You instantly lean a weak and
+ miserable moan."""
 "メイド長は丁寧に足の指を肉棒の先端に絡め、
 ぐにぐにとマッサージをするように愛撫する。
 そんな足による刺激に耐えられず、
-貴方は彼女の言う通り甘い声を漏らしてしまう。",""
+貴方は彼女の言う通り甘い声を漏らしてしまう。","The head maid stuck out her toes around your glans and
+then she began massaging it with them. You couldn't
+resist the pleasure of the toeplay and instantly moaned
+like she said."
 "<メイド長>
 『屈辱的だと感じているはずなのに、不思議ですよね？
 　こんなもので感じてしまってはいけない、
-　そう考えれば考えるほど感じてしまうのですから。』",""
+　そう考えれば考えるほど感じてしまうのですから。』","<Head Maid>
+""It's such a mysterious thing. Even when you should be
+ feeling humiliation, you feel pleasure. And the more
+ you try to deny it, the better it starts feeling."""
 "<メイド長>
 『そんな男性には、ダメだ、
 　と助言することも効果的なのですよ。
-　このように肉棒を足蹴にされて感じてはいけません。』",""
+　このように肉棒を足蹴にされて感じてはいけません。』","<Head Maid>
+""When a man is like that, even when you try to advice
+ them to endure, it as the opposite effect. You
+ shouldn't enjoy your penis being trampled like this."""
 "<メイド長>
 『女に見下されて興奮してはいけません。
-　戦いの最中に足などで気持ちよくなってはいけません。』",""
+　戦いの最中に足などで気持ちよくなってはいけません。』","<Head Maid>
+""You shouldn't feel aroused when a woman looks down on
+ you. You shouldn't feel good from feet in the middle
+ of battle."""
 "メイド長はそう言いながら、
 丁寧に両足で肉棒を踏みしめ、時折カリ首を撫でる。
 彼女のいけないと言う言葉と、裏腹の快楽に、
-貴方は腰をビクビクと震わせてしまう。",""
+貴方は腰をビクビクと震わせてしまう。","While saying all that, the head maid was carefully
+trampling your penis between her feet while sometimes
+stopping to caress your glans. Her words of advice to
+endure were making you feel good and your hips tremble."
 "<メイド長>
 『このように否定されると、
 　かえってますます興奮してしまうのですよね。
-　本当に情けなくて、いけない男性ですこと。』",""
+　本当に情けなくて、いけない男性ですこと。』","<Head Maid>
+""When I tell you not to do something like that, it
+ ends up making you feel more aroused. You're such
+ a miserable and bad man."""
 "<メイド長>
 『あら、興奮しすぎてしまいましたか？
 　ふふ、射精してはいけません。どうせなら、
-　そのように言ってあげるべきでしたでしょうか。』",""
+　そのように言ってあげるべきでしたでしょうか。』","<Head Maid>
+""Oh my. Did you get too aroused? You shouldn't climax.
+ Perhaps that's what I should have said too."""
 "<メイド長>
 『ぬるぬるとしたお汁をとめどなくだしてしまって…
 　もう貴方の肉棒は限界のようですね。
-　いいのですよ、女の足に屈してしまっても。』",""
+　いいのですよ、女の足に屈してしまっても。』","<Head Maid>
+""Your slippery juice has started flowing without
+ stopping. It seems like your penis is at its limit.
+ But it's fine even if you submit to my feet."""
 "<メイド長>
 『貴方が屈する姿も、
 　私がしっかりと見ててあげますからね。
-　存分に情けない姿をさらしてしまってください。』",""
+　存分に情けない姿をさらしてしまってください。』","<Head Maid>
+""I'm also going to closely watch as you submit.
+ Please don't hold back and show that miserable
+ sight to me."""
 "メイド長はあふれてくる我慢汁を足の指ですくいながら、
 的確に貴方の弱点に絡みつかせ、追い詰める。
 このまま射精なんてしたくない、
-そう考えても貴方は快楽を抑えることができない。",""
+そう考えても貴方は快楽を抑えることができない。","The head maid coated her toes with your precum and
+accurately stroked your weak spots to corner your
+penis. You didn't want to orgasm like this, but even
+as you though that, you couldn't endure the pleasure."
 "<メイド長>
 『愛情たっぷりのキスに騙されて、
 　足などで情けなく屈服してしまうかわいそうな肉棒…
-　しっかり気持ちよくして差し上げますからね。』",""
+　しっかり気持ちよくして差し上げますからね。』","<Head Maid>
+""Your pitiful penis got cheated by the sweet loving 
+ kisses before being made to submit to a woman's feet.
+ I'm going to make it feel so good."""
 "<メイド長>
 『自分は女よりも立場が低いのだと、
 　男性は女の家畜にされて当然なのだと、
-　そのように意識を塗り替えて差し上げますね。』",""
+　そのように意識を塗り替えて差し上げますね。』","<Head Maid>
+""I'm going to mark it into your mind that you're in 
+ lower position than women and how it's natural for
+ men to be women's livestock."""
 "<メイド長>
 『そんなのは嫌、ですか？
 　ふふ、口でそのようなことを言っても無駄ですよ。
-　肉棒の方は屈服の瞬間を心待ちにしているようですから。』",""
+　肉棒の方は屈服の瞬間を心待ちにしているようですから。』","<Head Maid>
+""Oh? You don't like that? Ahaha. It's pointless for you
+ to say that because your penis is eagerly waiting to
+ submit to me."""
 "<メイド長>
 『心配しなくとも、貴方もすぐに、
 　ただ女に隷属するだけで勃起するような…
-　先達と同じ情けない家畜になることができるでしょうね。』",""
+　先達と同じ情けない家畜になることができるでしょうね。』","<Head Maid>
+""You don't need to worry because you're going to 
+ quickly become a livestock who gets an erection
+ just from serving women like those before you."""
 "<メイド長>
 『まずは、そのための第一歩を踏み出してしまいましょうか。
 　ほら、肉棒の先端を足で弄んで差し上げますので…
-　搾られるまま情けなく達してしまってください。』",""
+　搾られるまま情けなく達してしまってください。』","<Head Maid>
+""Let us make you take the first step towards that.
+ I'm going to toy with the tip of your penis... So
+ please miserably climax as I milk you with my feet."""
 "<メイド長>
 『あら、もう終わりですか？
 　1度の射精で屈してしまうだなんて、
-　随分と情けない肉棒をお持ちなのですね。』",""
+　随分と情けない肉棒をお持ちなのですね。』","<Head Maid>
+""Oh my? Are you already finished? You have quite a
+ miserable penis for it to submit with a single
+ orgasm."""
 "<メイド長>
 『ふふ。屈服射精のお味はどうだったでしょう。
 　甘美な敗北感を感じてしまったのではありませんか？
-　このまま何度も味わわせてその虜にして差し上げますね。』",""
+　このまま何度も味わわせてその虜にして差し上げますね。』","<Head Maid>
+""Ahaha. How did the orgasm of submission taste like?
+ Did you feel the sweet sense of defeat? I'll make you
+ feel it many more times until you're addicted to it."""
 "<メイド長>
 『ふふ。この後に足で扱かれ、
 　見下されると分かっていても……
@@ -29856,39 +30280,65 @@ motivate you."
 "<メイド長>
 『まずはキスで身体を弛緩させてしまいましょう。
 　そこからゆっくりと堕としてあげますから、
-　遠慮せず快楽に溺れてしまってくださいね。』",""
+　遠慮せず快楽に溺れてしまってくださいね。』","<Head Maid>
+""Allow me to first make your body relax with a kiss.
+ I will then slowly make you fall to the pleasure,
+ so please don't hold back and lose your head to it."""
 "メイド長は貴方を正面から抱きしめると、
 優しく唇を触れ合わせるようにキスをする。
 彼女の甘い唇の感触に、
-貴方は言葉通り力を吸われるような感覚を覚えてしまう。",""
+貴方は言葉通り力を吸われるような感覚を覚えてしまう。","The head maid hugged you from the front and gently
+pressed her lips onto yours. The touch of her soft lips
+made you feel like she was sucking the tension from your
+body as she said."
 "<メイド長>
 『ふふ。軽く唇が触れただけでとろけてしまうだなんて…
 　ここまで進んできた実力者の割には、
-　随分と可愛らしい初心な反応ですね。』",""
+　随分と可愛らしい初心な反応ですね。』","<Head Maid>
+""Ahaha. For you to melt away from a light kiss...
+ You're reacting quite innocently and cutely for
+ someone who's strong enough to make it this far."""
 "<メイド長>
 『たっぷりと感じていいのですよ。
 　今だけはまるで恋人のように、
-　とろけるような甘いキスを私と交わしましょう？』",""
+　とろけるような甘いキスを私と交わしましょう？』","<Head Maid>
+""You may enjoy the touch of my lips to your heart's
+ content. Would you like to exchange a sweet melting
+ kiss like a pair of lovers?"""
 "<メイド長>
 『男性はこのような、
 　甘く、愛情を塗り込むようなキスに弱い…
-　それは私も存じ上げていますから。ちゅっ♡』",""
+　それは私も存じ上げていますから。ちゅっ♡』","<Head Maid>
+""Men are weak to those kinds of sweet and loving
+ kisses... And I'm fully knowledgeable about them.
+ Smooch♡"""
 "<メイド長>
 『柔らかく舌もついばんで差し上げますね。
 　唇で挟んで……ちゅっ、ちゅっ、と。
-　先端を吸われると、気持ちいいでしょう？』",""
+　先端を吸われると、気持ちいいでしょう？』","<Head Maid>
+""I will also softly pick on your tongue. It feels good
+ when I suck its tip between my lips, doesn't it?"""
 "<メイド長>
 『これだけで目が惚けてしまって、
 　何もできなくなる男性も多いのですよ。
-　……貴方はどうなのでしょうか。ちゅっ♡』",""
+　……貴方はどうなのでしょうか。ちゅっ♡』","<Head Maid>
+""There are many men whose eyes turn into hearts and 
+ are be unable to anything after such a kiss.
+ ...I wonder if you're one of them? Smooch♡"""
 "<メイド長>
 『女のキスに溺れてしまって、
 　剣を振り上げることもできず負けてしまう…
-　家畜の彼らと同じ、情けない男性なのですか？ちゅっ♡』",""
+　家畜の彼らと同じ、情けない男性なのですか？ちゅっ♡』","<Head Maid>
+""Are you going to lose your mind to a kiss with woman
+ so badly that you'll lose while unable to swing your
+ sword? Are you a miserable livestock like the others?"""
 "<メイド長>
 『あら、軽いキスだけで達してしまいましたか。
 　ご返答ありがとうございます。貴方も例外ではなく、
-　家畜にふさわしい情けない男性だったようですね。』",""
+　家畜にふさわしい情けない男性だったようですね。』","<Head Maid>
+""Oh my. Did the light kissing make you climax? Thank
+ you for the immediate answer. Looks like you're
+ another miserable man fitting to be livestock."""
 "<メイド長>
 『勝負あり、私の勝ちですね。
 　それでは、貴方には私たちの家畜となっていただきます。
@@ -34874,31 +35324,32 @@ in daze from the orgasm."
 　ふふ、\n[1]はやっぱり私がいないとダメだねー♪』",""
 "大淫魔との戦闘を簡易化しますか？
 大淫魔:経験値4倍～Lv.38にあがるまで
-　　　　経験値2倍～Lv.40にあがるまで","Simplify fights with Great Succubus?
+　　　　経験値2倍～Lv.40にあがるまで","Turn off combat lines with Great Succubus?
 Great Succubus: 4x EXP until Level 38.
                 2x EXP until Level 40."
-"大淫魔との戦闘を自動化しますか？","Turn on Auto fight for Great Succubus?"
+"大淫魔との戦闘を自動化しますか？","Turn on auto fight for Great Succubus?"
 "アイドルサキュバスとの戦闘を簡易化しますか？
 アイドルサキュバス:経験値4倍～Lv.41にあがるまで
-　　　　　　　　　 経験値2倍～Lv.43にあがるまで","Simplify fights with Idol Succubus?
+　　　　　　　　　 経験値2倍～Lv.43にあがるまで","Turn off combat lines with Idol Succubus?
 Idol Succubus: 4x EXP until Level 41.
                2x EXP until Level 43."
-"アイドルサキュバスとの戦闘を自動化しますか？","Turn on Auto fight for Idol Succubus?"
+"アイドルサキュバスとの戦闘を自動化しますか？","Turn on auto fight for Idol Succubus?"
 "神官サキュバスとの戦闘を簡易化しますか？
 神官サキュバス:経験値4倍～Lv.44にあがるまで
-　　　　　　　 経験値2倍～Lv.46にあがるまで","Simplify fights with Priestess Succubus?
+　　　　　　　 経験値2倍～Lv.46にあがるまで","Turn off combat lines with Priestess Succubus?
 Priestess Succubus: 4x EXP until Level 44.
                  2x EXP until Level 46."
-"神官サキュバスとの戦闘を自動化しますか？","Turn on Auto fight for Priestess Succubus?"
+"神官サキュバスとの戦闘を自動化しますか？","Turn on auto fight for Priestess Succubus?"
 "枠線ごと透明にするか、
 枠線を残すか選択してください。
-（枠線を残す場合、透明度の簡易指定も可能です）",""
-"枠線を残す",""
-"枠線を残さない",""
-"透明",""
-"ほぼ透明",""
-"やや薄い",""
-"通常",""
+（枠線を残す場合、透明度の簡易指定も可能です）","Please choose whether to show the window border.
+(When set to ON, you can also chance transparency)"
+"枠線を残す","Borders ON"
+"枠線を残さない","Borders OFF"
+"透明","Transparent"
+"ほぼ透明","Near Transparent"
+"やや薄い","Light Shading"
+"通常","Normal"
 "<シナリオ>
 暗い夜
 
@@ -34948,10 +35399,10 @@ RPGツクールMV
 プレイヤーの皆さま",""
 "セーレとの戦闘を簡易化しますか？
 セーレ:経験値4倍～Lv.47にあがるまで
-　　　 経験値2倍～Lv.49にあがるまで","Simplify fights with Seele?
+　　　 経験値2倍～Lv.49にあがるまで","Turn off combat lines with Seele?
 Seele: 4x EXP until Level 47.
        2x EXP until Level 49."
-"セーレとの戦闘を自動化しますか？","Turn on Auto fight for Seele?"
+"セーレとの戦闘を自動化しますか？","Turn on auto fight for Seele?"
 "攻撃力86％UP→攻撃力96％UP",""
 "攻撃力76％UP→攻撃力86％UP",""
 "攻撃力66％UP→攻撃力76％UP",""
@@ -37017,7 +37468,7 @@ door, but Yuuka grabbed your arm."
 舌を啄まれるような甘いキスに、
 貴方は肉棒を勃起させたまま力が抜けてしまう。","Yuuka spun you around and took you into deep kiss.
 Her sweet kiss where she picked on your tongue kept
-your penis rock hard and made you weak."
+your penis rock-hard and made you weak."
 "そんな貴方を優香は床に押し倒した。","Then in your weakened state, Yuuka pushed you to the
 floor."
 "<優香>
@@ -38129,222 +38580,371 @@ she wouldn't be able to last."
 "<優香>
 『アンタなんか魅了魔法が使えなくたって楽勝♡
 　こんな雑魚ちんぽサクッと抜いて、
-　ちっこいのに私の命令を聞いてもらうんだからね。』",""
+　ちっこいのに私の命令を聞いてもらうんだからね。』","<Yuuka>
+""Beating someone like you is going to be easy even
+ without charm magic♡ I'm going to drain your weak-ass
+ dick and make the tiny fairy listen to my orders."""
 "優香はそう言うと、
 貴方の乳首に細い指先でくすぐり始める。
-時折はじくような動きに貴方は思わず反応してしまう。",""
+時折はじくような動きに貴方は思わず反応してしまう。","After saying that, Yuuka began tickling your nipples
+with her slender fingers. When she flicked them at
+times, you couldn't help showing a reaction to it."
 "<優香>
 『あは♡なに？
 　アンタ男のくせに乳首敏感なわけ？
-　うっわ、恥ずかしー♡』",""
+　うっわ、恥ずかしー♡』","<Yuuka>
+""Aha♡ What's this? Are your nipples sensitive despite
+ being a guy? Wow, that's so embarrassing♡"""
 "<優香>
 『ま、でもこれが弱点なら…
 　利用しないわけないよね♡喜んで？
-　この私がアンタの乳首、たっぷり虐めてあげる♡』",""
+　この私がアンタの乳首、たっぷり虐めてあげる♡』","<Yuuka>
+""If these are your weak spots... There's no way I would
+ miss taking advantage of them♡ You can rejoice
+ because I'm going to play a lot with your nipples♡"""
 "<優香>
 『私に勝たないとアンタの大事なお友達♡
 　私に奪われたまま戻ってこないんでちゅよー？
-　それなのにさ…♡』",""
+　それなのにさ…♡』","<Yuuka>
+""Hey♡ You need to beat me to get your precious friend
+ back♡ But even when you have so much on the line..."""
 "<優香>
 『乳首くりくりされただけでみっともなく感じて、
 　おちんぽギンギンにかたくしちゃって♡
-　こんな姿みたらちっこいのどう思うんでちょうねー♡』",""
+　こんな姿みたらちっこいのどう思うんでちょうねー♡』","<Yuuka>
+""Your dick is getting hard from some light nipple
+ play♡ What do you think she is thinking seeing you
+ like this?"""
 "優香はにやにやと意地悪気な笑みを浮かべながら、
 敏感な乳首を細い指先でくすぐり続ける。
 彼女の指に弾かれるたびに感じるジンとした快楽に、
-貴方は無様に肉棒をぴくぴくと動かしてしまう。",""
+貴方は無様に肉棒をぴくぴくと動かしてしまう。","Yuuka continued tickling your sensitive nipples while
+looking at you with a nasty grin. Whenever she flicked
+your nipple with her finger, the pleasure made your
+penis shamelessly twitch."
 "<優香>
 『ほらほら♡乳首を指でいじめられて、
 　ちっこいのが愛想つかすくらいなっさけない姿晒しなさい♡
-　アンタのみっともない本性を見せちゃいまちょうねー♡』",""
+　アンタのみっともない本性を見せちゃいまちょうねー♡』","<Yuuka>
+""Hey♡ Show the fairy how you're miserable getting off 
+ from nipple play so badly that she gets tired of you♡
+ Show her your pathetic true self♡"""
 "<優香>
 『あはは♡大事なお友達がかかったバトルなのに、
 　乳首を虐められただけでイったの？
-　ほんとにどうしようもない変態じゃん♡』",""
+　ほんとにどうしようもない変態じゃん♡』","<Yuuka>
+""Ahaha♡ You cummed from nipple play even when your
+ precious friend was on the line for this battle♡
+ You're one hopeless pervert♡"""
 "じっとしている",""
 "押しのける",""
 "<優香>
 『っ……あ～、もう！
 　魅了の魔力さえ使えたら、
-　こんな奴の相手なんて楽勝なのに……！』",""
+　こんな奴の相手なんて楽勝なのに……！』","<Yuuka>
+""Ugh... Aah! Damn it! I could beat someone like you
+ so easily if I could just use my charm magic!"""
 "<優香>
 『いつでも抜け出せるように、
 　身体に力を入れてるみたいだけどさ♡
-　アンタのその我慢もいつまでもつ？♡』",""
+　アンタのその我慢もいつまでもつ？♡』","<Yuuka>
+""It looks like you still have enough strength to push
+ me off, but I wonder how long will that last?"""
 "<優香>
 『こうやって乳首舐められて、
 　おちんぽシコシコされちゃったら…♡
-　だんだん力が抜けてきちゃいまちゅよねー♡』",""
+　だんだん力が抜けてきちゃいまちゅよねー♡』","<Yuuka>
+""You're slowly losing your strength when I'm stroking
+ your dick and licking your nipple like this♡"""
 "優香はにやにやと笑みを浮かべながら、
 貴方を快感で脱力させるように乳首と肉棒への愛撫を続ける。
 貴方は確かに自分の力が彼女の責めによって、
-次第に抜けていって逝ってしまっているのを実感する。",""
+次第に抜けていって逝ってしまっているのを実感する。","While looking at you with a grin, Yuuka continued
+caressing your penis and nipple to weaken you through
+pleasure. You could clearly feel how your strength 
+gradually weakened from her touch."
 "<優香>
 『もっとこうされたいから、
 　すぐ私のことをはねのけられなかったんでしょ？
-　素直になって、力を抜け♡変態♡』",""
+　素直になって、力を抜け♡変態♡』","<Yuuka>
+""You didn't push me off right away since you wanted me
+ to touch you more, right? Become honest with yourself
+ and relax your whole body♡ You pervert♡"""
 "<優香>
 『気持ちいいのに負けて力を抜くのと、
 　勝負に勝つために私をはねのけるの…♡
-　どっちを選ぶかまだ踏ん切りつかないわけ？♡』",""
+　どっちを選ぶかまだ踏ん切りつかないわけ？♡』","<Yuuka>
+""Have you still not decided whether to give in to the
+ pleasure and relax or push me off and win the fight?"""
 "<優香>
 『それとも…♡
 　このまま私のあまあまな乳首責めに堕とされて、
-　逆らえないようにしてほしいんでちゅかぁ？♡』",""
+　逆らえないようにしてほしいんでちゅかぁ？♡』","<Yuuka>
+""Or perhaps...♡ You want to keep losing strength in
+ my sweet nipple licking until only the option of
+ giving into the pleasure remains?"""
 "優香は煽るようにそう言うと、
 真っ赤な舌で乳首をくりくりと弄り、肉棒を扱き続ける。
 彼女の舌に敏感な弱点をつつかれる感触に、
-貴方は徐々に息が荒くなってきた。",""
+貴方は徐々に息が荒くなってきた。","After making fun of you, Yuuka continued stroking
+your penis and licking your nipple with her red tongue
+showing. Your breathing gradually got rougher when she
+picked on your sensitive nipple."
 "<優香>
 『それならお望み通りにしてあげる♡
 　ほら、気持ちよくて身体から力抜けてきてるし…♡
-　まだ抜け出せる、でもあと少しで…♡』",""
+　まだ抜け出せる、でもあと少しで…♡』","<Yuuka>
+""In that case, I'll do just as you want♡ Now♡
+ Feel how you're losing strength to the pleasure...
+ You can still escape, but just a little more and..."""
 "<優香>
 『アンタはいよいよ、
 　抜け出そうと思っても抜け出せなくなる♡
-　そんな状態にされて、私に犯されたいんでしょ？ざぁこ♡』",""
+　そんな状態にされて、私に犯されたいんでしょ？ざぁこ♡』","<Yuuka>
+""You won't have the strength to escape even if you
+ tried♡ You want to get violated in that state,
+ don't you? You weak-ass♡"""
 "<優香>
 『ほらほら♡
 　もうおちんぽと乳首気持ちよすぎて、
-　身体から力が完全に抜けちゃってるじゃん♡』",""
+　身体から力が完全に抜けちゃってるじゃん♡』","<Yuuka>
+""Hey♡ Now you've enjoyed my caress with your dick and
+ nipples so much that all the strength has escaped from
+ your body♡"""
 "<優香>
 『いつでも抜け出すことだってできたのに、
 　そうしなかったってことは…勝負を諦めたってことでしょ？
-　アンタは私に勝つことより…♡』",""
+　アンタは私に勝つことより…♡』","<Yuuka>
+""Since you didn't push me off and escape when you had
+ the chance... It means that you gave up the fight,
+ right? Instead of beating me, what you wanted was..."""
 "<優香>
 『私に乳首舐められながらの手コキで、
 　イかされたいって思っちゃったんでちゅよねー♡
-　ほんと、変態の負け犬マゾ♡』",""
+　ほんと、変態の負け犬マゾ♡』","<Yuuka>
+""To cum when I'm giving you a handjob and licking your
+ nipples♡ You're such a pervert, loser, and a
+ masochist♡"""
 "<優香>
 『いいでちゅよー♡
 　このままアンタのおちんぽにトドメさしてあげる♡
-　しっかり気持ちいいの噛みしめまちょうねー♡』",""
+　しっかり気持ちいいの噛みしめまちょうねー♡』","<Yuuka>
+""But that's fine with me♡ I'll continue and finish off
+ your dick♡ Make sure to enjoy that pleasure with all
+ you have♡"""
 "優香の煽るような言葉と、
 乳首、肉棒への的確な愛撫に貴方の心は堕とされ、
-ついに完全に脱力してなすがままになってしまった…",""
+ついに完全に脱力してなすがままになってしまった…","Yuuka made fun of you when you finally lost all the 
+strength from your body before her precise caress of 
+your penis and nipples."
 "<優香>
 『ふふ♡ま、こんなもんよね♡
 　不利になったって気持ちいいことで誘惑してあげれば、
-　アンタは逆らえないんでちゅもんねー♡』",""
+　アンタは逆らえないんでちゅもんねー♡』","<Yuuka>
+""Ahaha♡ Well, that's how it is♡ When things get bad,
+ I just need to tempt you with pleasure and you can't
+ resist it♡"""
 "<優香>
 『ほんとちょろい♡…じゃ、このまま、
 　アンタを倒すのにスキルなんて必要ないってこと、
-　私の乳首責めでたっぷりわからせてあげる♡』",""
+　私の乳首責めでたっぷりわからせてあげる♡』","<Yuuka>
+""You're so easy♡ Next, I'll prove the fact that
+ I don't need a single skill to beat you♡"""
 "優香はにやにやと笑みを浮かべたまま、
 貴方の乳首に丁寧に舌を這わせて愛撫をし続け、
-肉棒を握りこんだ手のひらでリズムカルに扱いていく。",""
+肉棒を握りこんだ手のひらでリズムカルに扱いていく。","With a grin, Yuuka continued carefully licking your
+nipple while rhythmically moving her hand that's
+grasping your penis."
 "<優香>
 『ほらほら♡
 　こんな風に私に乳首を虐めて欲しくて、
-　勝負を捨てちゃったんでしょ？変態♡』",""
+　勝負を捨てちゃったんでしょ？変態♡』","<Yuuka>
+""Hey♡ You threw the fight since you wanted me to lick
+ your nipples like this, didn't you? You pervert♡"""
 "<優香>
 『アンタは男なんだもん♡こうして、
 　乳首を虐めてもらえるなんてめったにないもんねー？♡
-　誘惑に負けても仕方ないでちゅよー♡』",""
+　誘惑に負けても仕方ないでちゅよー♡』","<Yuuka>
+""Well, you're a man after all♡ You barely ever get a
+ chance to have your nipples played, right? That's why
+ you couldn't help losing to the temptation♡"""
 "<優香>
 『こんな風に敏感乳首を舌でくりくりされるの、
 　癖になっちゃうでしょ？みっともなく感じちゃうでしょ？
-　おちんぽの反応で全部まるわかり♡』",""
+　おちんぽの反応で全部まるわかり♡』","<Yuuka>
+""It's addicting when I lick your nipples like this,
+ right? And you're miserably getting off from it♡
+ It's obvious from the way your dick is reacting♡"""
 "<優香>
 『男のくせにこんなのが好きなんて、
 　恥ずかしくて情けなくて周りには言えないよねー♡
-　だからずっと期待してたんでしょ？この敏感乳首♡』",""
+　だからずっと期待してたんでしょ？この敏感乳首♡』","<Yuuka>
+""It's so shameful to be into nipple play as a man that
+ you haven't been able to tell it to anyone♡ You've 
+ always been waiting for a chance like this, right?"""
 "<優香>
 『いつもおちんぽの方ばっかりずるい♡
 　こっちももっとたくさん気持ちよくしてほしいってさ♡
-　良かったじゃん♡私に願いをかなえてもらえて♡』",""
+　良かったじゃん♡私に願いをかなえてもらえて♡』","<Yuuka>
+""It's not fun when everyone has been going for your
+ dick♡ You wanted someone to make love to your nipples
+ too♡ And now, your wish is finally granted by me♡"""
 "優香はからかうようにそう言いながら、
 乳首を舌で愛撫し続け、肉棒を扱き続ける。
 彼女の甘い二点責めによる快感は、
-貴方の思考を白く塗りつぶしていく。",""
+貴方の思考を白く塗りつぶしていく。","Yuuka made fun of you while licking your nipple and
+stroking your penis. Your mind was turning pure white
+from the pleasure of her two-point caress."
 "<優香>
 『ま、その代償はお友達なわけだけど♡
 　アンタにとってはあんなちっこいのを取り返すより、
-　乳首責めされるほうが嬉しいんでちゅよねー♡』",""
+　乳首責めされるほうが嬉しいんでちゅよねー♡』","<Yuuka>
+""Even when the price of getting your granted is your
+ friend, you're much happier to get your nipples toyed
+ rather than getting your little fairy back, right?"""
 "<優香>
 『ん？そんなことない？アルの方が大事？
 　…ぷっ♡自分から私の乳首責めに堕ちといて、
-　今更そんなこと言ったって説得力ないから♡』",""
+　今更そんなこと言ったって説得力ないから♡』","<Yuuka>
+""Oh? That's not true? Al is way more important to you?
+ Pfft♡ No one will believe that now that you've given
+ up before my nipple play out of your own will♡"""
 "<優香>
 『それにさー♡私に乳首舐められるたびに、
 　おちんぽもビクビク反応してるし♡
-　ほんとはされるがままになってるの気持ちいいんでしょ？』",""
+　ほんとはされるがままになってるの気持ちいいんでしょ？』","<Yuuka>
+""Besides, your dick twitches hard every time I give
+ your nipple a lick♡ You totally love how good it
+ feels to give in to the nipple play, right?"""
 "<優香>
 『お友達が見てるからって、
 　カッコつけなくていいんでちゅよー♡
-　どうせ今のアンタにこいつは見えてないんだしさ♡』",""
+　どうせ今のアンタにこいつは見えてないんだしさ♡』","<Yuuka>
+""There's no need to act tough just because your friend
+ is watching♡ Not that you can even see her anymore♡"""
 "優香は貴方の否定を嘲笑しながら、
 敏感な弱点に的確に舌を這わせる。
 時折強くえぐるように動く彼女の舌の愛撫に、
-貴方の我慢は着実に削られていく。",""
+貴方の我慢は着実に削られていく。","After making fun of your denial, Yuuka precisely ran
+her tongue across your sensitive nipple, giving it a
+rough and heavy lick at times. Your endurance was
+steadily giving away before her tongue-caress."
 "<優香>
 『ほら、ほら♡
 　せっかく大好きな乳首責めされてるんだから、
-　好きなだけみっともない声出したほうがいいでちゅよ♡』",""
+　好きなだけみっともない声出したほうがいいでちゅよ♡』","<Yuuka>
+""Hey♡ You should moan as miserably and as hard as you
+ want since you've got someone to finally give you
+ nipple play after all the waiting♡"""
 "<優香>
 『あは♡喘ぎ声でちゃいまちたねー♡
 　やっぱり声出したほうが気持ちいいでしょ？
-　おちんぽから同時に我慢汁まで出てきちゃってるし♡』",""
+　おちんぽから同時に我慢汁まで出てきちゃってるし♡』","<Yuuka>
+""Aha♡ There's the moans♡ It feels way better when
+ moaning out and loud, right? Even the precum started
+ leaking from your dick♡"""
 "<優香>
 『その調子でもっと喘げ♡
 　乳首虐められて、女の子みたいな声出して…♡
-　お友達を裏切っちゃいまちょうね♡』",""
+　お友達を裏切っちゃいまちょうね♡』","<Yuuka>
+""Keep that up and moan your heart out♡ Moan like a
+ girl and betray your friend while I play with your
+ nipples♡"""
 "<優香>
 『大丈夫♡心配しなくても、
 　あのちっこいのなんてどうでもよくなるくらい…♡
-　私が敏感乳首虐めて気持ちよくしてあげるからさ♡』",""
+　私が敏感乳首虐めて気持ちよくしてあげるからさ♡』","<Yuuka>
+""You don't need to worry because I'm going to make
+ your nipples feel so good that you won't care about
+ that fairy friend of yours anymore♡"""
 "優香はそう言いながら、
 貴方の喘ぎ声を搾りだすように強く舌を乳首にねじ込む。
 貴方は耐えきれずに声を出すと、
-堰を切ったかのように口からは情けない声が漏れ続ける。",""
+堰を切ったかのように口からは情けない声が漏れ続ける。","After saying that, Yuuka pushed your nipple hard under
+her tongue to get more moans out of you. You couldn't
+resist that as a huge continuous moan escape from your
+lips."
 "<優香>
 『そうそう♡その調子♡
 　乳首弄られて、喘いで、おちんぽ気持ちよくなって♡
-　……このサイクルから抜け出せなくしてあげる♡』",""
+　……このサイクルから抜け出せなくしてあげる♡』","<Yuuka>
+""Yes♡ Keep it up like that♡ I lick your nipple, you
+ moan, and then your dick feels good♡ ...I'll make
+ you following that cycle without breaks♡"""
 "<優香>
 『そろそろ限界でしょ♡
 　乳首もおちんぽも感じすぎて、
-　ずっと喘ぎながら情けない声止まんないみたいだし♡』",""
+　ずっと喘ぎながら情けない声止まんないみたいだし♡』","<Yuuka>
+""You're close to the limit, right? Both your dick and
+ nipples have become so hyper-sensitive that your
+ miserable moans are going on forever♡"""
 "<優香>
 『もう勝負もついちゃいまちゅねー♡
 　結果はもちろんアンタの負け♡
-　乳首気持ちよくなって無様に逆転負・け♡』",""
+　乳首気持ちよくなって無様に逆転負・け♡』","<Yuuka>
+""The battle is going to conclude♡ And it's naturally
+ going to be in your defeat♡ You're shamefully losing
+ to nipple play after giving up your advantage♡"""
 "優香は勝ち誇るようにそう告げ、
 貴方に敗北を突き付ける。
 貴方はそんな優香の勝利宣言にも反論できず、
-彼女の乳首責めと手コキに喘ぎ続けた。",""
+彼女の乳首責めと手コキに喘ぎ続けた。","Yuuka declared you as the loser, sure of her victory.
+You couldn't even deny it when you were moaning so
+hard from the handjob and the nipple play."
 "<優香>
 『こんなのが元ご主人様だなんて、
 　このちっこいのもかわいそーでちゅねー♡ま、安心してよ♡
-　私がアンタの代わりにこき使ってあげるから♡』",""
+　私がアンタの代わりにこき使ってあげるから♡』","<Yuuka>
+""I feel sorry for the fairy since her ex-master was
+ such a loser♡ But you don't need to worry because
+ I'll make good use of her instead of you♡"""
 "<優香>
 『アンタみたいな変態で、くそザコ君より…♡
 　よっぽど有効活用してあげる♡
-　だからアンタは何も後悔しなくていいんでちゅよー♡』",""
+　だからアンタは何も後悔しなくていいんでちゅよー♡』","<Yuuka>
+""I can use her much better than some perverted weak-ass
+ like you♡ That's why you don't need to regret
+ anything♡"""
 "優香のそんな言葉に、アルの顔が脳裏に浮かぶ。
 負けちゃダメだ、負けられない、
 そんな思いが湧き上がってくるも、もうすべてが遅く、
-肉棒は今にも精液を噴き出してしまいそうになっていた。",""
+肉棒は今にも精液を噴き出してしまいそうになっていた。","Yuuka's words made Al's face flash in your mind. You
+didn't want to lose her. But even as such thoughts
+sprang into your mind, it was far too late. Your
+penis was already at the edge of orgasm."
 "<優香>
 『ほら、ほら♡これでトドメ♡
 　乳首舐められながら無様にイけ♡
-　スキルでもなんでもないエロ技に負けろ♡ざぁこ♡』",""
+　スキルでもなんでもないエロ技に負けろ♡ざぁこ♡』","<Yuuka>
+""Now♡ I'll finish you off with this♡ Miserably cum
+ to nipple play♡ Lose even when I haven't used a
+ single skill♡ You weak-ass♡"""
 "<優香>
 『はい、これで私の勝ち♡
 　ちっこいの、残念だったねー♡この男、
-　アンタが思ってるよりずっと情けない男だったよ♡』",""
+　アンタが思ってるよりずっと情けない男だったよ♡』","<Yuuka>
+""Yes, that marks my win♡ Too bad for you, Fairy♡
+ Turns out this man is way more miserable than you
+ thought♡"""
 "<優香>
 『はい、私の勝ち♡
 　残念でちたねー♡これでアンタのお友達は、
-　これから私のものでちゅよー♡』",""
+　これから私のものでちゅよー♡』","<Yuuka>
+""It's my win♡ Regrettably, your fairy friend belongs
+ to me now♡"""
 "<優香>
 『というかさ、アンタ雑魚すぎでしょ♡
 　魅了の魔力すら籠ってない、
-　ただの乳首責めと手コキに負けて情けなくないわけ？♡』",""
+　ただの乳首責めと手コキに負けて情けなくないわけ？♡』","<Yuuka>
+""Actually, aren't you way too weak? You lost to my
+ nipple play and handjob so easily even when I couldn't
+ use charm magic♡"""
 "<優香>
 『負けた後もおちんぽこんなに固くしてるし♡　
 　身体は動けないのに、
-　こっちはもっと虐めて欲しいんでちゅかぁ？♡』",""
+　こっちはもっと虐めて欲しいんでちゅかぁ？♡』","<Yuuka>
+""Your dick is this hard after your loss too♡ Do you
+ want me to touch it more now that you can't move?"""
 "優香はにやにやと意地悪気な笑みを浮かべながら、
 舌でくりくりと貴方の乳首を弄り、肉棒を扱き続ける。
 絶対に負けてはいけない勝負で負けてしまった…
@@ -41657,7 +42257,7 @@ made you clench your teeth with everything you have."
 『こんなマゾの快楽で、
 　簡単に勃起してしまうような情けないおちんぽ…♡
 　私のお尻で潰して、ダウンさせてあげますよ♡』","<Bunny Girl>
-""Now that your dick is getting rock hard to masochistic
+""Now that your dick is getting rock-hard to masochistic
  pleasures... I'll crush it with my ass and knock you
  down♡"""
 "<バニーガール>
