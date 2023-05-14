@@ -252,21 +252,28 @@
 『……あの、
 　もし恭子様に貴方が勝った場合、
 　私はどうなるんですか…？』",""
-"君も俺の奴隷だ",""
-"君は解放する",""
+"君も俺の奴隷だ","You're also my slave"
+"君は解放する","I'll release you"
 "<六花>
 『そう、ですよね……
-　そんな虫のいい話はありませんよね……』",""
+　そんな虫のいい話はありませんよね……』","<Rikka>
+""I see... I won't be freed even now..."""
 "<六花>
 『分かりました……
-　その時は誠意をもって、貴方に尽くさせていただきます…』",""
+　その時は誠意をもって、貴方に尽くさせていただきます…』","<Rikka>
+""Understood... I will do my best serving you from
+ here on out..."""
 "<アル>
 『え、ええ！？奴隷にするのは、
 　あの子にこの子の気持ちを味わってもらうためだって、
-　\n[1]、そう言ってなかった！？』",""
-"そう驚いた声を上げるアルを貴方は無視した。",""
+　\n[1]、そう言ってなかった！？』","<Al>
+""Eeh?! \n[1], didn't you say that you
+ wanted to enslave that other girl to show her how this
+ girl feels?!"""
+"そう驚いた声を上げるアルを貴方は無視した。","You ignored Al when she voiced her shock."
 "<アル>
-『\n[1]…………』",""
+『\n[1]…………』","<Al>
+""\n[1]..."""
 "<六花>
 『え……？ほ、本当ですか！？
 　あ、ありがとうございます……！』",""
@@ -298,11 +305,15 @@
 　この子のため、頑張ろ！\n[1]！』",""
 "<六花>
 『……あ、恭子様のご主人様……
-　私は一体、これからどうなるんですか……？』",""
+　私は一体、これからどうなるんですか……？』","<Rikka>
+""...Ah, Kyouko's Master... What should I do from here
+ on?"""
 "<六花>
 『分かりました……
 　それではこれから誠意をもって、
-　貴方に尽くさせていただきます…』",""
+　貴方に尽くさせていただきます…』","<Rikka>
+""Understood... I will do my best serving you from
+ here on out..."""
 "<六花>
 『ふ、ふふ…♡
 　私は解放されて、恭子様は奴隷に…♡
@@ -393,10 +404,14 @@
 　いいのかな………』",""
 "<六花>
 『……私はもう、
-　奴隷からずっと抜け出せないんですね…』",""
+　奴隷からずっと抜け出せないんですね…』","<Rikka>
+""...I have no way to get free from the slave anymore,
+ have I?"""
 "<アル>
 『\n[1]……
-　\n[1]はこの子を見て、何も思わないの……？』",""
+　\n[1]はこの子を見て、何も思わないの……？』","<Al>
+""\n[1]... Doesn't the sight of this pitiful
+ girl make you feel any sympathy?"""
 "EV003",""
 "EV004",""
 "<六花>
@@ -540,7 +555,7 @@ weren't interested in her powered up fellatio."
 your eyes draw to her lips, and you couldn't help
 gulping at the sight of them.
 【Levels Drained by Rikka: \v[61]】"
-"顔を見に来ただけ","I came to see how you are doing"
+"顔を見に来ただけ","I just came to check on you"
 "<六花>
 『……え？レベル、ですか？
 　それは……もらえるならありがたいですけど…

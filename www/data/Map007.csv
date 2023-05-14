@@ -457,7 +457,7 @@ the back of the room to complain."
 　例えば、モンスターに負けたとき、とかさ♡』","<Yuuka>
 ""However, if the level drain is not initiated by a
  player, then there's no limit. For example, when
- players loses to monsters♡"""
+ players loses to a monster♡"""
 "<優香>
 『だから、プレイヤーがモンスターに負けた瞬間、
 　そのモンスターを倒してやれば…………』","<Yuuka>
@@ -506,7 +506,7 @@ with a wave of her hand like it's not a big deal."
  apply morals even in a game♡ That kind of stuff is
  totally pointless when PVP is included, you know?"""
 "少女はうんざりとした顔で貴方にそう説明する。","The girl told you off with a fed up face."
-"どうやら、彼女に何を言っても信じてもらえないようだ。","The girl wasn't listening no matter what you said."
+"どうやら、彼女に何を言っても信じてもらえないようだ。","It seemed like she won't listen no matter what you say."
 "<優香>
 『ふぅ…ほんと…ムカついてきたかも。
 　邪魔してきたうえに、上から目線で説教とかさ。』","<Yuuka>
@@ -520,7 +520,7 @@ with a wave of her hand like it's not a big deal."
  to make up for it? By the way, refusing isn't an
  option♡"""
 "彼女はそう言うと、自身の周りに魔力を纏っていく。
-どうやら、PvPを仕掛けてくるようだ。","The girl coated herself in mana as she said that.
+どうやら、PvPを仕掛けてくるようだ。","The girl coated herself in magic as she said that.
 She's about to fight you in PVP."
 "<アル>
 『気を付けて！すごい圧力だよ！』","<Al>
@@ -539,11 +539,11 @@ preparations."
 "<優香>
 『ぐ…嘘でしょ…？
 　なんで、アンタみたいなやつがこんなとこに……』","<Yuuka>
-""Ugh... You can't be serious...
- Why is someone like you here..."""
+""Ugh... You can't be serious... Why is someone as
+ strong as you here..."""
 "倒れ伏した優香は、苦痛に顔を歪めながら、
-信じられないという顔で貴方を見上げている。","Yuuka looked at you on the floor with her face dyed in
-pain and shock."
+信じられないという顔で貴方を見上げている。","Yuuka looked at you from the floor with her face dyed
+red from the frustration and shock of the loss."
 "<アル>
 『す、すごい………あんなに強そうな子に、
 　勝っちゃった…………』","<Al>
@@ -555,8 +555,8 @@ pain and shock."
 『\n[1]…………』","<Al>
 ""\n[1]..."""
 "制止するアルを振り切り、
-貴方は彼女の上にまたがった。","You shook your head to Al as she called out to you
-and got top of Yuuka."
+貴方は彼女の上にまたがった。","Al raised her voice in attempt to stop you, but you
+shook your head at her and got on top of Yuuka."
 "<優香>
 『く、アンタなんかに………あっ、あっ、まっ、だめっ…！』","<Yuuka>
 ""Ugh... I won't lose to someone like you...
@@ -571,8 +571,8 @@ and got top of Yuuka."
 『はぁ…………はぁ……
 　覚えてなさい。
 　この屈辱は、ぜったいいつか晴らして見せるから……』","<Yuuka>
-""Haah... Haah... I'll remember this. One day I'll get
- back on you for this humiliation..."""
+""Haah... Haah... I'll remember this. One day I'll make
+ you pay for this humiliation..."""
 "<アル>
 『えへへ♪
 　\n[1]ならそう言ってくれると思ってたよ♪』","<Al>
@@ -588,8 +588,8 @@ and got top of Yuuka."
 "<優香>
 『は？そんなつもりはない？
 　なんとなく女の子を犯すのは気が引ける？』","<Yuuka>
-""Huh? That's not it? Violating girls like that doesn't
- leave a good taste in your mouth, you say?"""
+""Huh? That's not it? Violating girls doesn't leave a
+ good taste in your mouth, you say?"""
 "<優香>
 『なにそれ、ばっかじゃないの……。
 　意味わかんないし』","<Yuuka>
@@ -612,13 +612,13 @@ and got top of Yuuka."
 ""Ehehe♪ \n[1] is just such a gentleman!
  Well? Have you given in already?"""
 "言葉を吐き捨てる優香にアルがそう勝ち誇る。
-…………一体、どこに勝ち誇る要素があったのだろうか。","Al proudly complimented you after Yuuka spat her curses
+…………一体、どこに勝ち誇る要素があったのだろうか。","Al proudly gave you compliments after Yuuka spat curses
 at you. "
 "<優香>
 『は？あのレベル上げの方法はやめろ？
 　…………嫌。せっかく見つけた、攻略法だし。』","<Yuuka>
-""Huh? I should stop leveling my method? Like hell I
- will. Not after I found such a perfect way to beat
+""Huh? I should stop leveling with my method? Like hell
+ I will. Not after I found such a perfect way to beat
  the game."""
 "優香はどこかすねたように視線を背ける。","Yuuka looked away from you as if sulking."
 "<アル>
@@ -635,20 +635,17 @@ attitude, Al asked you something."
 "<アル>
 『この子、いっきに他の人の魂を取り込みすぎて、
 　精神にちょっとノイズが走ってるみたい。』","<Al>
-""This girl has been has been taking so many of other
- peoples souls into herself that her own soul is
- starting to make noise."""
-"…………魂？","You had no idea why Al was suddenly talking about
-souls."
+""This girl has been taking so many souls from other
+ people that her own soul is starting to make noise."""
+"…………魂？","You had no idea why Al suddenly talking about souls."
 "<アル>
 『あ、ごめん！まずはその説明からだよね！』","<Al>
-""Ah, sorry! I should start explaining from there
- first!"""
+""Ah, sorry! I should explain that first!"""
 "<アル>
 『えっとね……
 　この子の状態で確信したんだけど…』","<Al>
 ""You see... After seeing the state of that girl,
- I'm quite confident in my speculation."""
+ I'm confident in my speculation."""
 "<アル>
 『「レベルドレイン」と「ソウルアブゾープション」って、
 　本質的には同じ力だと思うんだ。』","<Al>
@@ -657,8 +654,8 @@ souls."
 "<アル>
 『多分、
 　どっちも相手の魂を吸い出して、自分のものにする力！』","<Al>
-""Both of them are powers to suck and absorb other
- souls into your own!"""
+""Both are powers to suck and absorb other souls into
+ your own!"""
 "<アル>
 『違いは、その対象が人か、モンスターか、
 　それだけだと思うの。』","<Al>
@@ -669,7 +666,7 @@ souls."
 　魂って、基本的には人それぞれ、
 　特徴みたいなものがあるんだけど…………』","<Al>
 ""Um, to explain souls... Each person basically has
- a soul that is unique to that person."""
+ a soul that is unique to them."""
 "<アル>
 『ここのモンスターにはそれがなくて、
 　無色透明のエネルギーみたいなものなの。』","<Al>
@@ -695,7 +692,7 @@ souls."
 "<アル>
 『もともと、別の人の魂を自分のものにする、
 　レベルドレインには危険が伴うんだけど…』","<Al>
-""Even absorbing a part of another person's soul poses
+""Absorbing even a part of another person's soul poses
  a danger, but..."
 "<アル>
 『この子はその影響を、もろに受けちゃってるみたい！
@@ -715,43 +712,53 @@ souls."
 『よかった！
 　………正直、自分でもなんてこんなことが分かるのか、
 　不安だから…………』","<Al>
-""Good! Honestly, I'm feeling a bit uneasy because
- I don't know why I can understand this stuff..."
+""Good! Honestly, I'm feeling a bit uneasy myself...
+ I don't know why I can understand these things..."""
 "<アル>
-『ちゃんと、\n[1]が理解してくれたのは嬉しいな♪』",""
+『ちゃんと、\n[1]が理解してくれたのは嬉しいな♪』","<Al>
+""But I'm glad that you understood my explanation,
+ \n[1]♪"""
 "貴方も、アルになぜそのようなことが理解できるのか、
-それは不思議だと感じる。",""
+それは不思議だと感じる。","You were also a bit curious why Al could understand all
+that soul talk."
 "それでも、今はアルのことを気にするよりも、
-彼女に危険性を説明するほうが先だろう。",""
+彼女に危険性を説明するほうが先だろう。","But first, you had to explain to Yuuka how her leveling
+method was dangerous to herself."
 "<アル>
 『だ、だよね！
 　私も、一気に頭が働いて、
-　まるで自分じゃないみたいで気持ち悪いし…………』",""
+　まるで自分じゃないみたいで気持ち悪いし…………』","<Al>
+""I-I figured as much! I understood it all of a sudden.
+ It's as if I'm not myself and it's grossing me out..."""
 "<アル>
 『とにかく！
 　あのレベル上げの方法を使い続けたら、
-　この子も危険ってことだよ！』",""
+　この子も危険ってことだよ！』","<Al>
+""But at any rate! If that girl continues to level in
+ this way, she'll be in danger!"""
 "<アル>
-『だから、そのことを彼女に伝えて欲しいの！』",""
-"貴方はアルの言葉に頷き、了承する。",""
-"貴方はアルから聞いた内容を、短くまとめて彼女に伝えた。","You told Yuuka a summary of what Al explained to you."
+『だから、そのことを彼女に伝えて欲しいの！』","<Al>
+""That's why I want you to explain that to her!"""
+"貴方はアルの言葉に頷き、了承する。","You nodded to Al in agreement."
+"貴方はアルから聞いた内容を、短くまとめて彼女に伝えた。","You told Yuuka the summary of what Al explained to you."
 "<優香>
 『はぁ？精神にノイズ？
 　そんなことあるわけ……あるわけ…………』","<Yuuka>
-""Huh? Soul noise? There's nothing like... That..."""
+""Huh? Soul noise? What are you talking about?
+ There's nothing like that..."""
 "<優香>
 『………………………………』","<Yuuka>
 ""..."""
 "<優香>
 『予期せぬ挙動でのバグ？
 　私自身がエラーを起こして…………』","<Yuuka>
-""Unexpected action bug? My body is causing errors?"""
-"優香はぶつぶつとつぶやきながら考え込んでいる。","Yuuka was thinking and mumbling something."
+""Unexpected action bug? I'm the cause of the errors?"""
+"優香はぶつぶつとつぶやきながら考え込んでいる。","Yuuka mumbled something in thought."
 "<優香>
 『まぁ………心当たりがない、…わけではないかも。
 　幻聴とか、聞こえることあるし。』","<Yuuka>
 ""Well... It's not like I have no idea about it.
- I can hear these noises too..."""
+ There's this static noise I've been hearing."
 "しばらく考え込んだのち、優香はそう口を開いた。","After thinking for a while, Yuuka finally seemed to
 understand what you said."
 "<優香>
@@ -762,21 +769,21 @@ understand what you said."
 "<優香>
 『…………分かった。ムカつくけど、
 　アンタが言う通りあのレベル上げの方法をやめてあげる。』","<Yuuka>
-""...Okay. It pisses me off, but I'll stop with my
+""...Fine. It pisses me off, but I'll stop using my
  leveling method like you asked."""
 "<優香>
 『はぁ…………せっかく攻略法見つけたと思ったんだけど。
 　ま、今の時点でもかなりの高レベルだって自信はあるし。』","<Yuuka>
 ""Sigh... Just as I thought I found the perfect way to
- clear the game. Well, I've grown pretty strong already
- and I might be able to do it anyway..."""
+ clear the game... Well, I've grown pretty strong
+ already, so I might be able to do it anyway..."""
 "<優香>
 『アンタには負けたけど……ほんっとムカつく！
 　ねぇ、何かアンタもいい方法見つけたんでしょ？
 　教えてよ！』","<Yuuka>
-""But losing to you seriously pisses me off! Hey, did
- you find some other amazing way to level?
- Explain yourself!"""
+""But losing to you seriously pisses me off! Hey, you've
+ found some easy way to power level, haven't you?
+ Explain how you've become so strong!"""
 "目を尖らせながら貴方に詰め寄る彼女に、
 何も特別なことはしていないと貴方は伝えた。","Yuuka pressed you to explain how you got so strong
 with a sharp look, but all you could say was how
@@ -786,23 +793,23 @@ you weren't doing anything special."
 ""That's a lie. Otherwise there's no way I could have
  lost."""
 "まだ納得していない様子の彼女に、
-今回はたまたまだと、貴方はそう伝える。","Yuuka wasn't content with your answer, and you told
-her how you won just by luck this time."
+今回はたまたまだと、貴方はそう伝える。","Yuuka wasn't content with your answer, and you said
+that your victory was pure luck."
 "<優香>
 『……………………』","<Yuuka>
 ""..."""
 "<優香>
 『ま、いいわ。そう言うことにしておいてあげる。
 　私が油断してたのは事実だし。』","<Yuuka>
-""Fine. I'll leave it at that. It's not wrong that
- I let my guard down in our fight."""
+""Fine. I'll leave it at that. It's true that I let my
+ guard down during the fight."""
 "<優香>
 『次はこうはいかないんだからね、
 　首を洗って待ってなさい！』","<Yuuka>
 ""But it won't happen again. Just wait until our next
  battle!"""
-"優香は貴方を強きに睨みながらそう告げる。","Yuuka declared she would beat you the next time with
-an intense glare."
+"優香は貴方を強きに睨みながらそう告げる。","Yuuka declared that she would beat you the next time
+with an intense glare."
 "……なんとなく、次が少し恐ろしいような気もするけど…
 とにかく、彼女を止めることが出来てよかった。","You felt a bit afraid of your next encounter, but
 at any rate, you managed to stop her from absorbing
@@ -900,7 +907,7 @@ unfocused eyes."
  Hurry up and hand over your levels♡ Smooch♡"""
 "彼女は甘い魔力の乗った唇で、
 貴方の唇を制圧する様に激しく吸い付き、とろけさせる。","Yuuka seized the control of your lips with with the
-mana-clad pair of her own, and melted your mind in her
+magic-clad pair of her own, melting your mind with an
 intense kiss."
 "それでも、大切な自分の経験値を、
 ゴミ呼ばわりする彼女にだけはささげたくない。","But even when it felt so good, you didn't want to give
@@ -1196,19 +1203,18 @@ whole situation. He handed you 1000G before leaving."
 　\n[1]の優しい考え方のほうが好きだよ！』","<Al>
 ""At the very last, I like the gentle way you think
  over that girl's way of thinking!"""
-"アルはそう貴方を励ます。","Al cheered you up like that."
+"アルはそう貴方を励ます。","Al cheered you up."
 "<アル>
 『ただ…\n[1]が、それで苦しい思いをするのは嫌だから
 　……無理せず、できることを進めていこう？』","<Al>
-""However... I don't want you to have a difficult time
- like that... So let's continue without pushing
- yourself, okay?"""
+""However... I don't want you to face difficult 
+ experiences again like now... So let's continue
+ without pushing ourselves, okay?"""
 "<アル>
 『大丈夫、私は\n[1]の味方だよ！』","<Al>
 ""Everything will be okay! I'll be on your side,
  \n[1]!"""
-"そう元気よく告げるアルに、貴方は感謝を伝える。","You said thanks to Al when she declared that
-energetically."
+"そう元気よく告げるアルに、貴方は感謝を伝える。","You thanked Al when she declared that energetically."
 "<アル>
 『えへへ♪どういたしまして♪』","<Al>
 ""Ehehe♪ You're welcome♪"""
@@ -1479,7 +1485,7 @@ for the pleasures they were about to show you."
 "ピンク色に暉く唇が、貴方の唇に吸い付く。
 柔らかい感触に触れた瞬間、電流のような快楽が身体を貫き、
 ピンと背中をそらして腰を突き上げてしまう。","Yuuka laid her glowing pink lips on yours. The moment
-you felt the softness of her kissers, your back arced
+you felt the softness of her kissers, your back arched
 backwards and your hips shot forward from the electric
 shock of pleasure that struck your whole body."
 "<優香>
@@ -1667,23 +1673,19 @@ drained from you."
 『普通魂って、人によって色があるはずなのに……
 　きっと、誰かがどこかで人から得た魂を、
 　純粋なエネルギーに変換してるんだよ！』","<Al>
-""Normally, there should be variance in the soul's
- color from person to person...""
-
-<Al>
-""And the lack of color must mean that someone somewhere
- is converting the taken souls into pure energy!"""
+""Normally, the color of the soul should vary from 
+ person to person... That's why there must be someone
+ converting souls taken from people into pure energy!"""
 "<アル>
 『その純粋なエネルギーをモンスターに分け与えてる、
 　もしくは、そのエネルギーでモンスターを生み出してる！』","<Al>
-""Then they divide that pure energy to the monsters,
- and possibly even create more monster with it!"""
+""Then they divide that pure energy to the monsters
+ and possibly create new monsters with it!"""
 "<アル>
 『……え？そんなことが分かる君は何者なんだ、って…
 　分かんない、覚えてないよ…………』","<Al>
-""...Eh? How do I know these things?
- I don't know... I can't remember how I learned
- that..."""
+""Eh? Why do I know all these things? I don't know...
+ I can't remember why I know these things..."""
 "<アル>
 『私も、こんなこと理解しちゃう自分が、少し怖い。
 　でも、分かっちゃうんだもん…………』","<Al>
@@ -1719,30 +1721,44 @@ drained from you."
 "EV013",""
 "<アル>
 『あ、もう一個言っておかなきゃいけないことがあるの！
-　さっきの魂の話、覚えてる？』",""
-"アルの唐突な疑問に、貴方は頷く。",""
+　さっきの魂の話、覚えてる？』","<Al>
+""Ah, there's one more thing that I forgot to mention!
+ Can you remember the things we talked about souls?"""
+"アルの唐突な疑問に、貴方は頷く。","You nodded to Al's sudden question."
 "<アル>
 『モンスターは純粋な魂のエネルギーだって言ったよね？
 　それは、当たり前だけど、
-　どこかから集めなきゃいけないの。』",""
+　どこかから集めなきゃいけないの。』","<Al>
+""I said that monster souls are lumps of pure energy,
+ right? That's a natural thing, but that energy still
+ needs to be gained from somewhere."""
 "<アル>
 『でね？その、モンスターの力の源はきっと、
 　人から吸い上げたレベル……
-　ううん、私が見る限り、魂そのものだよ。』",""
+　ううん、私が見る限り、魂そのものだよ。』","<Al>
+""And so... I think the source of the monsters' power
+ is the levels they drain from people. No, it's
+ actually the people's souls themselves."""
 "<アル>
 『きっと、誰かがどこかで、モンスターが集めた人の魂を、
-　純粋なエネルギーに変換してるんだよ！』",""
+　純粋なエネルギーに変換してるんだよ！』","<Al>
+""I'm sure that there someone somewhere who is
+ converting people's souls into pure energy."""
 "<アル>
 『……え？さっきも気になったけど、
 　そんなことが分かる君は何者なんだ、って…
-　分かんない、覚えてないよ…………』",""
+　分かんない、覚えてないよ…………』","<Al>
+""Eh? Why do I know all these things? I don't know...
+ I can't remember why I know these things..."""
 "EV014",""
 "<優香>
-『何？あのレベル上げの方法はもうしないってば。』",""
+『何？あのレベル上げの方法はもうしないってば。』","<Yuuka>
+""What? I already promised that I wouldn't use that
+ level method any more!"""
 "<優香>
 『次は必ず、私が犯してやるからね。
 　覚悟しててよ…………』","<Yuuka>
-""I'll be the one to fuck you the next time...
+""I'll be the one to violate you the next time...
  Mark my words..."""
 "EV015",""
 "EV016",""
