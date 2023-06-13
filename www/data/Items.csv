@@ -12,10 +12,10 @@
 Also decreases the foe's strength."
 "ミックスポーション","Mixed Potion"
 "HPを20％、MPを30％回復する","Recovers 20% HP & 30% MP."
-"店員カード(Lv.1～9)","Shop Card (Lvl 1-9)"
+"店員カード(Lv.1～9)","Shopkeeper A Card (Lvl 1-9)"
 "使用することで店員によるLv.1～9の時のレベルドレインを
-簡易化するカード。","Card used to simplify the shop level drain between
-levels 1 and 9."
+簡易化するカード。","Card for shortening the shopkeeper level drain for
+lvl 1-9."
 "メガミックスポーション","Mega Mixed Potion"
 "HPを40％、MPを50％回復する薬","Recovers 40% HP & 50% MP."
 "小悪魔カードB","Imp B Card"
@@ -26,10 +26,10 @@ Also decreases the foe's strength."
 "使用することでロリダークエルフとの戦闘を
 簡易化するカード。敵の能力値も低下する。","Card used to simplify Loli Dark Elf fights.
 Also decreases the foe's strength."
-"店員カード(Lv.10～17)","Shop Card (Lvl 10-17)"
+"店員カード(Lv.10～17)","Shopkeeper A Card (Lvl 10-17)"
 "使用することで店員によるLv.10～17の時のレベルドレインを
-簡易化するカード。","Card used to simplify the shop level drain between
-levels 10 and 17."
+簡易化するカード。","Card for shortening the shopkeeper level drain for
+lvl 10-17."
 "ギガミックスポーション","Giga Mixed Potion"
 "HPを60％、MPを70％回復する薬","Recovers 60% HP & 70% MP."
 "ドライアドカード","Dryad Card"
@@ -44,10 +44,10 @@ Also decreases the foe's strength."
 "使用することでマジックサキュバスとの戦闘を
 簡易化するカード。敵の能力値も低下する。","Card used to simplify Witch Succubus fights.
 Also decreases the foe's strength."
-"店員カード(Lv.18～25)","Shop Card (Lvl 18-25)"
+"店員カード(Lv.18～25)","Shopkeeper A Card (Lvl 18-25)"
 "使用することで店員によるLv.18～25の時のレベルドレインを
-簡易化するカード。","Card used to simplify the shop level drain between
-levels 18 and 25."
+簡易化するカード。","Card for shortening the shopkeeper level drain for
+lvl 18-25."
 "メイドサキュバスAスキップ","Maid Succubus A Skip"
 "所持しているとスキップ機能で、
 メイドサキュバスAとの戦闘のon/offが切り替えられる。",""
@@ -58,10 +58,10 @@ levels 18 and 25."
 "使用することで大淫魔との戦闘を簡易化するカード。
 敵の能力値も低下する。","Card used to simplify Great Succubus fights.
 Also decreases the foe's strength."
-"店員カード(Lv.26～38)","Shop Card (Lvl 25-38)"
+"店員カード(Lv.26～38)","Shopkeeper A Card (Lvl 25-38)"
 "使用することで店員によるLv.26～38の時のレベルドレインを
-簡易化するカード。","Card used to simplify the shop level drain between
-levels 26 and 38."
+簡易化するカード。","Card for shortening the shopkeeper level drain for
+lvl 26-38."
 "テラミックスポーション","Tera Mixed Potion"
 "HPを80％、MPを90％回復する薬","Recovers 80% HP & 90% MP."
 "魂の果実","Soul Fruit"
@@ -77,96 +77,109 @@ levels 26 and 38."
 "使用することでセーレとの戦闘を簡易化するカード。
 敵の能力値も低下する。",""
 "ドライアドカードB","Dryad B Card"
-"店員カード(Lv.39～45)","Shop Card (Lvl 39-45)"
+"店員カード(Lv.39～45)","Shopkeeper A Card (Lvl 39-45)"
 "使用することで店員によるLv.39～45の時のレベルドレインを
-簡易化するカード。","Card used to simplify the shop level drain between
-levels 39 and 45."
-"店員カード(Lv.46～50)","Shop Card (Lvl 46-50)"
+簡易化するカード。","Card for shortening the shopkeeper level drain for
+lvl 39-45."
+"店員カード(Lv.46～50)","Shopkeeper A Card (Lvl 46-50)"
 "使用することで店員によるLv.46～50の時のレベルドレインを
-簡易化するカード。","Card used to simplify the shop level drain between
-levels 46 and 50."
-"東側控室の鍵",""
-"闘技場東側控室の鍵。",""
+簡易化するカード。","Card for shortening the shopkeeper level drain for
+lvl 46-50."
+"東側控室の鍵","East Waiting Room Key"
+"闘技場東側控室の鍵。","Key for the eastern waiting room in the arena."
 "焼きそば","Yakisoba"
 "濃い目のソースが麺に絡められた焼きそば。
 【MP70％回復・戦闘時使用不可】","Yakisoba with noodles and strong sauce.
-【Recovers 70％ MP・Can't be used in battle】"
+【Recovers 70％ MP・Cannot be used in battle】"
 "たこ焼き","Takoyaki"
 "大きめのタコが入った熱々のタコ焼き。
 【MP60％回復・戦闘時使用不可】","Piping hot takoyaki with big chunks of octopus.
-【Recovers 60％ MP・Can't be used in battle】"
+【Recovers 60％ MP・Cannot be used in battle】"
 "焼き鳥","Yakitori"
 "モモ・皮・つくねの3本セット。
 【MP50％回復・戦闘時使用不可】","Triple set with chicken thigh, skin, and meatball.
-【Recovers 50％ MP・Can't be used in battle】"
+【Recovers 50％ MP・Cannot be used in battle】"
 "フランクフルト","Frankfurt"
 "大きなプリっとしたソーセージ。ケチャップでどうぞ。
 【MP40％回復・戦闘時使用不可】","Massive juicy sausage with ketchup.
-【Recovers 40％ MP・Can't be used in battle】"
+【Recovers 40％ MP・Cannot be used in battle】"
 "唐揚げ","Karaage"
 "塩味が付いた衣が美味しさの秘訣。
-【MP30％回復・戦闘時使用不可】",""
+【MP30％回復・戦闘時使用不可】","The salty coating is the secret to its taste.
+【Recovers 30％ MP・Cannot be used in battle】"
 "ビール","Beer"
 "ほろ苦いビール。やっぱり働いた後はこれ？
 【MP70％回復・戦闘時使用不可】","Bittersweet beer. Nothing's better after a day's work.
-【Recovers 70％ MP・Can't be used in battle】"
+【Recovers 70％ MP・Cannot be used in battle】"
 "日本酒・神殺し","Sake・Godslayer"
 "名前の割に度数が低く、飲みやすい日本酒。
-【MP60％回復・戦闘時使用不可】",""
+【MP60％回復・戦闘時使用不可】","Sake that's comparatively light to its name.
+【Recovers 60％ MP・Cannot be used in battle】"
 "赤ワイン","Red Wine"
 "ブドウの深いコクがある赤ワイン。
-【MP50％回復・戦闘時使用不可】","Red wine with deep flavor of grapes.
-【Recovers 50％ MP・Can't be used in battle】"
+【MP50％回復・戦闘時使用不可】","Red wine that has the deep flavor of grapes.
+【Recovers 50％ MP・Cannot be used in battle】"
 "レモンサワー","Lemon Sour"
 "すっきりとした飲み口と、安さが売りのレモンサワー。
-【MP40％回復・戦闘時使用不可】",""
+【MP40％回復・戦闘時使用不可】","Cheap carbonated lemon cocktail with a fresh taste.
+【Recovers 40％ MP・Cannot be used in battle】"
 "缶チューハイ","Canned Chuuhai"
 "きっとみんなが最初に飲むお酒。甘くておいしい。味も様々。
 【MP30％回復・戦闘時使用不可】","Sweet and delicious sake that comes in many flavours.
-【Recovers 30％ MP・Can't be used in battle】"
+【Recovers 30％ MP・Cannot be used in battle】"
 "ハンバーグ弁当","Hamburg Bento"
 "肉汁あふれるハンバーグが入ったお弁当。
 【MP70％回復・戦闘時使用不可】","Boxed lunch with hamburg steak and plenty of gravy.
-【Recovers 70％ MP・Can't be used in battle】"
+【Recovers 70％ MP・Cannot be used in battle】"
 "生姜焼き弁当","Ginger Pork Bento"
 "ガツンとスタミナが付く美味しい生姜焼き弁当。
-【MP70％回復・戦闘時使用不可】",""
+【MP70％回復・戦闘時使用不可】","Delicious meal that fills up your stamina.
+【Recovers 70％ MP・Cannot be used in battle】"
 "チキン南蛮弁当","Fried Chicken Bento"
 "タルタルソースを付けて食べるととても美味しい。
-【MP50％回復・戦闘時使用不可】",""
+【MP50％回復・戦闘時使用不可】","Really delicious meal with tartar sauce.
+【Recovers 50％ MP・Cannot be used in battle】"
 "野菜炒め弁当","Stir-Fried Vegetable Bento"
 "色とりどりの野菜が入った健康的？なお弁当。
-【MP40％回復・戦闘時使用不可】",""
+【MP40％回復・戦闘時使用不可】","Healthy(?) meal with a colored mix of vegetables.
+【Recovers 40％ MP・Cannot be used in battle】"
 "のり弁当","Seaweed Bento"
 "白米の美味しさが際立つのり弁当。美味しいよ。
-【MP30％回復・戦闘時使用不可】",""
+【MP30％回復・戦闘時使用不可】","Meal that brings out the tastiness of rice.
+【Recovers 30％ MP・Cannot be used in battle】"
 "コーラ","Cola"
 "炭酸飲料の王様。みんな大好き、だから高い。
-【MP70％回復・戦闘時使用不可】",""
+【MP70％回復・戦闘時使用不可】","The king of carbonated drinks. Delicious but expensive.
+【Recovers 70％ MP・Cannot be used in battle】"
 "ミックスジュース","Mixed Juice"
 "様々なフルーツの味がするのみもの。ぜいたく品。
-【MP70％回復・戦闘時使用不可】",""
+【MP70％回復・戦闘時使用不可】","Drink with various flavors of fruits. A luxurious good.
+【Recovers 70％ MP・Cannot be used in battle】"
 "ミルクティー","Milk Tea"
 "甘さ控えめで飲みやすいミルクティー。
-【MP50％回復・戦闘時使用不可】",""
+【MP50％回復・戦闘時使用不可】","Tea that's moderately sweet and easy to drink.
+【Recovers 50％ MP・Cannot be used in battle】"
 "ソーダ","Soda"
 "美味しい炭酸飲料。なぜかコーラより安い。
-【MP40％回復・戦闘時使用不可】",""
+【MP40％回復・戦闘時使用不可】","Delicious but cheaper than cola for some reason.
+【Recovers 40％ MP・Cannot be used in battle】"
 "お茶","Tea"
 "優しい味のお茶。多分麦茶かほうじ茶だと思う。
-【MP30％回復・戦闘時使用不可】",""
+【MP30％回復・戦闘時使用不可】","Delicately flavored tea. It's probably barley tea.
+【Recovers 30％ MP・Cannot be used in battle】"
 "エリクサー","Elixir"
 "戦闘中に使用すると全回復する。
-1度の戦闘で1度しか使用できないが、消耗しない。",""
-"バニーカード(Lv.1～9)","Bunny Card (Lvl 1-9)"
-"バニーカード(Lv.10～17)","Bunny Card (Lvl 10-17)"
-"バニーカード(Lv.18～25)","Bunny Card (Lvl 18-25)"
-"バニーカード(Lv.26～38)","Bunny Card (Lvl 26-38)"
-"バニーカード(Lv.39～45)","Bunny Card (Lvl 39-45)"
-"バニーカード(Lv.46～50)","Bunny Card (Lvl 46-50)"
+1度の戦闘で1度しか使用できないが、消耗しない。","Fully recovers you in battle. It won't get consumed,
+but it can be used only once in each battle."
+"バニーカード(Lv.1～9)","Shopkeeper B Card (Lvl 1-9)"
+"バニーカード(Lv.10～17)","Shopkeeper B Card (Lvl 10-17)"
+"バニーカード(Lv.18～25)","Shopkeeper B Card (Lvl 18-25)"
+"バニーカード(Lv.26～38)","Shopkeeper B Card (Lvl 26-38)"
+"バニーカード(Lv.39～45)","Shopkeeper B Card (Lvl 39-45)"
+"バニーカード(Lv.46～50)","Shopkeeper B Card (Lvl 46-50)"
 "使用すると店員によるLv.46～50の時のレベルドレインを
-簡易化するカード。","Card used to simplify the shop level drain between
-levels 46 and 50."
+簡易化するカード。","Card for shortening the shopkeeper level drain for
+lvl 46-50."
 "敗北装備・スキルセット","Loser Equipment & Skill Set"
 "使用することで弱体化装備と敗北スキルを入手できる。","Set of weakening equipment and suicide skill."
 "勝利の証(1人目)","Arena Medal 1"
@@ -183,7 +196,8 @@ on/offを切り替えることが出来る。消耗しない。",""
 戦闘スキップ機能のon/offを切り替えることが出来ます。","Set the battle skip ON/OFF."
 "マジックコイン","Magic Coin"
 "屋敷内での通貨として使用されているコイン。
-ボスが発行しているらしい。",""
+ボスが発行しているらしい。","Coin that's used as a currency in the mansion.
+The boss seems to be distributing them."
 "形を持たぬ者カード",""
 "使用することで形を持たぬ者との戦闘を
 簡易化するカード。【経験値～Lv34：1000　LV35～:250】",""

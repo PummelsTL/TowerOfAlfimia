@@ -24,7 +24,7 @@ receptionist."
  an opponent."""
 "『登録だけの場合、
 　マッチングが成立した時点で連絡します。』","""If you register for a match, we'll contact you once
- there is an opponent available."""
+ we have matched you with an opponent."""
 "『現在は待機中のプレイヤーがいないので、
 　指名をすることはできません。』","""Currently there are no other players registered, so
  nominating an opponent isn't available."""
@@ -34,7 +34,7 @@ receptionist."
 "<アル>
 『わ、思ったより高いね…………。』","<Al>
 ""Woah... It's costs a lot more than I imagined..."""
-"確かに少ない金額ではない。","You didn't find it a small sum either."
+"確かに少ない金額ではない。","You didn't find 7000G a small sum either."
 "<アル>
 『あれ…………？
 　もしかして、お金足りないんじゃない…………？』","<Al>
@@ -55,7 +55,7 @@ desk for a while."
 ""Hey♪ Can I have a moment of your time?"""
 "受付の前で悩む貴方に、
 突然少女がニコニコと貴方に話しかけてくる。","As you were pondering at the counter, a nearby girl
-called out to you in smile."
+called out to you with a smile."
 "<???>
 『あ、私は早瀬凛っていいます。初めまして♪』","<???>
 ""Ah, my name is Hayase Rin. Nice to meet you."""
@@ -64,28 +64,29 @@ called out to you in smile."
 『ちょっと、お悩みのようですね？
 　受付の前でずっとそうしているのもなんですから、
 　少し私の話を聞いてみませんか？』","<Rin>
-""You seem troubled since you've been standing at the
- reception desk for a while. Could I interest you in
- a little chat?"""
+""Are you troubled by something? You've been standing
+ in front of the reception desk for a while, so Could
+ I interest you to join me for a little chat?"""
 "確かに、
 受付の前であまり悩みすぎるのもよくないかもしれない。","Your situation certainly wasn't improving by standing
 at the counter."
 "貴方はそう考えてちらりと受付の女性を見つめると、
 受付の女性は感情が見えない顔でじっと貴方を待っている。","As you thought that, you looked at the receptionist.
-She was standing there with expressionless face
+She was standing there with an expressionless face and
 awaiting your input."
 "<アル>
 『まぁ、話を聞くだけならいいんじゃないかな？
 　この人も、あの子みたいに親切な人なのかも！』","<Al>
-""Well, why not hear what she has to say? She might be
- a gentle girl like that another one!"""
+""Well, why don't we hear what she has to say? She might
+ be a gentle girl like that another one who guided us
+ around the town!"""
 "貴方はアルの言葉に頷き、凛に了承の返事を返す。","You nodded to Al and told Rin that you would hear her
 out."
 "<凛>
 『ありがとうございます♪
 　じゃあ、そこのテーブルで話しましょうか。』","<Rin>
-""Thank you very much♪ Then why don't we sit down at the
- table over there?"
+""Thank you very much♪ Then why don't we sit down at
+ the table over there?"
 "<凛>
 『改めまして♪
 　私の話を聞いてくれてありがとうございます。』","<Rin>
@@ -95,7 +96,7 @@ out."
 　お兄さん、コロシアムの参加料が高いって、
 　悩んでたんじゃないですか？』","<Rin>
 ""Then can I go straight to the point? Was it the high
- cost of participating in the Colosseum that troubled
+ participating cost for the Colosseum that troubled
  you?"""
 "凛の言葉に貴方は素直にうなずく。","You honestly nodded to Rin's question."
 "<凛>
@@ -123,8 +124,8 @@ in confusion."
  you? Well... I guess I don't have that kind of aura
  about me..."""
 "貴方の反応に、少女はすねたように可愛らしく唇を尖らせる。
-そんな少女になごみつつ、貴方は謝罪の言葉を伝えた。","Rin cutely pouted her lips at your doubts. You
-apologized to her for that."
+そんな少女になごみつつ、貴方は謝罪の言葉を伝えた。","When Rin cutely pouted her lips at your doubts, you
+apologized to her."
 "<凛>
 『ま、いいですよ。
 　私自身、オーラがないのは自覚してますし、
@@ -139,8 +140,8 @@ apologized to her for that."
 ""But that's what I do for work♪ I might not be strong,
  but I'm confident in my ability to judge people♡"""
 "凛は仕切りなおすように、
-人差し指を立てて笑顔でそう宣言する。","Rin held her index finger up in smile as she got the
-talk back on track."
+人差し指を立てて笑顔でそう宣言する。","Rin held her index finger up with a smile as she got
+the talk back on track."
 "<凛>
 『つまりですね？
 　コロシアムで勝てるくらい強くて、
@@ -165,7 +166,7 @@ talk back on track."
 ""\n[1]♪ That's great!"""
 "貴方はアルの言葉に少しテレを感じながら、
 なるほど、と相槌を彼女に返した。","You felt slightly bashful from Al's praise while
-you told Rin that you understood what she was getting
+telling Rin that you understood what she was getting
 at."
 "<凛>
 『リターンは1割♪
@@ -183,7 +184,7 @@ at."
 "<アル>
 『\n[1]、どうするー？』","<Al>
 ""\n[1], what will you do?"""
-"お願いする","Take it"
+"お願いする","Take the loan"
 "負けたらどうなる？","What if I lose?"
 "断る","Refuse"
 "<凛>
@@ -201,8 +202,8 @@ handed it to you."
 "一応内容を確認すると、
 貴方は7000Gを借りること、そして、
 それを1割の利子とともに試合後に返すことが記載されていた。","You looked the paper over. It recorded that you're
-taking 7000G loan from Rin and you need to pay it back
-with 10% interest after your next match is over."
+taking a 7000G loan from Rin, and you need to pay it
+back with 10% interest after your next match is over."
 "その紙に貴方は魔力を流し、彼女に手渡す。","You poured your magic into the paper and handed it back
 to Rin."
 "<凛>
@@ -214,8 +215,8 @@ to Rin."
 "凛は貴方から紙を受け取ると、
 そう言ってゴールドを取り出し、貴方に手渡しながら、
 可愛らしくウインクをしてそう応援する。","Rin took back the contract and handed you the money.
-After that she gave you a cute wink when she said that
-she would cheer for you."
+After that, she gave you a cute wink and said she
+would cheer for you."
 "そんな彼女に、貴方は感謝の言葉を伝える。","You thanked Rin for that."
 "<アル>
 『えへへ♪
@@ -255,8 +256,8 @@ she would cheer for you."
 ""So... Won't you believe in the me who believes in
  you?"""
 "凛は不安そうに瞳を揺らしながら、
-上目づかいで貴方を見つめる。","Rin looked at your face in upward gaze. Her eyes were
-slightly wavering in anxiety."
+上目づかいで貴方を見つめる。","Rin looked you in the eyes with an upward gaze.
+Her eyes were slightly wavering in anxiety."
 "信頼する","Trust her"
 "信頼できない","Don't trust her"
 "<凛>
@@ -278,19 +279,19 @@ slightly wavering in anxiety."
 『…分かりました、私も覚悟を決めましょう。
 　お兄さんが万が一負けてしまったら、
 　利子分のお金は必要ありません。』","<Rin>
-""...Okay, I've made my mind. Let me remake my offer:
- If you happen to lose by some miracle, I won't take
- the interest from you. I'll only take if if you win."""
+""...Okay, I've made up my mind. Let me remake my offer:
+ If you happen to lose by some miracle, I'll only take
+ the loaned amount back without any interest."""
 "<凛>
 『これなら、もし負けてしまっても、
 　お兄さんに損はないと思います。どうですか？』","<Rin>
-""I believe that way there will be no disadvantage for
- you. How does that sound?"""
+""I believe that way there's no disadvantage for you.
+ How does that sound?"""
 "<凛>
 『え？その場合は私にメリットがない？
 　ふふ、大丈夫ですよ♪
 　私はお兄さんなら勝てると、信じていますので♡ちゅっ♡』","<Rin>
-""Eh? I won't have anything to gain if you lose? Ehehe♪
+""Eh? I won't have anything to gain this way? Ehehe♪
  You're right♪ But that's because I'm just that sure
  that you will win♡ Smooch♡"""
 "そう言い、凛は貴方のほほに柔らかな唇を軽く押し付ける。","After saying that, Rin kissed you on the cheek."
@@ -307,7 +308,7 @@ nodded back at her."
 ""Thank you♪ So does that mean you're going to take the
  loan?"""
 "凛は貴方にそう確認する。","With that, Rin asked for your decision."
-"お金を借りる","Take a loan"
+"お金を借りる","Take the loan"
 "やっぱりやめておく","Don't do it"
 "一応内容を確認すると、
 貴方は7000Gを借りること、そして、
@@ -317,7 +318,7 @@ after your next match is over."
 "<凛>
 『え…………？なんで、ですか？』","<Rin>
 ""Eh...? Why?"""
-"凛は目を丸くし、驚いた表情で貴方を見つめている。","Rin stared at you with her eyes wide open in surprise."
+"凛は目を丸くし、驚いた表情で貴方を見つめている。","Rin stared at you with her eyes wide in surprise."
 "貴方は、ただなんとなく、
 お金の貸し借りをしたくないと彼女に伝えた。","You explained that you just kind of felt bad about
 taking a loan."
@@ -328,7 +329,7 @@ taking a loan."
  helped then..."""
 "凛は見てわかるほどがっくりと肩を落とし、
 落ち込んでしまった。","Rin looked really dejected at your refusal."
-"そんな彼女に、貴方は謝罪の言葉を告げる。","You said sorry for the dispirited Rin."
+"そんな彼女に、貴方は謝罪の言葉を告げる。","You said sorry when Rin looked dispirited."
 "<凛>
 『いえ、いいんです。
 　無理強いするものじゃないですしね…………』","<Rin>
@@ -345,7 +346,7 @@ she cheered for you, you thanked her for her support."
 "<アル>
 『お金は自分で稼ぐ、だね！
 　うんうん、そっちのほうがいいかも？』","<Al>
-""So, we're earning that money ourselves, right!
+""So, we're earning that money ourselves, right?
  I think that's exactly how it should be too!"""
 "<アル>
 『それじゃあ、コロシアムで7000G必要ってことは忘れずに、
@@ -360,23 +361,22 @@ she cheered for you, you thanked her for her support."
 "貴方は女性に7000Gを手渡した。","You handed the receptionist 7000G."
 "『ありがとうございます。貴方の番号は11番です。
 　では、これが右手、東側控室の鍵です。
-　マッチングが成立するまで中でお待ちください。』","""Thank you very much. Your number is 11 and here is
+　マッチングが成立するまで中でお待ちください。』","""Thank you very much. Your number is 11, and here is
  the key to the east waiting room. Please wait in the
  room until we've finished matching you an opponent."""
 "貴方は女性から東側控室の鍵を受け取った。","You took the key to the east waiting room."
 "<受付>
 『また、勝利した際には再度受付までお立ち寄りください。
-　賞金と勝利の証をお渡しします。』","""Please visit the reception desk again if you win your
- match, and we will hand you the prize money and the
- proof of victory.""
-"
+　賞金と勝利の証をお渡しします。』","""If you win the match, please visit the reception desk 
+ again, and we'll hand you the prize money and the 
+ medal."""
 "『お金が足りません。』","""You don't have enough money."""
 "『現在待機中、
-　もしくは対戦募集中のプレイヤーはいません。』","""Currently there are no players who are accepting
- nominations from you."""
+　もしくは対戦募集中のプレイヤーはいません。』","""Currently, there are no players registered for matches
+ or accepting nominations from you."""
 "『現在貴方の指名を受け付けているプレイヤーが1人います。
-　プレイヤー名「早瀬凛」です。』","""Currently there is one player who accepts nominations
- from you. The player's name is Hayase Rin."""
+　プレイヤー名「早瀬凛」です。』","""Currently, one player accepts your nomination for
+ a match. Player name: Hayase Rin."""
 "『この方に試合を挑みますか？』","""Will you challenge this player to a match?"""
 "はい","Yes"
 "いいえ","No"
@@ -384,8 +384,8 @@ she cheered for you, you thanked her for her support."
 　早瀬凛様が1時間以内に応答されない場合は、
 　掛け金を返却します。アナウンスをよくお聞きください。』","""Thank you very much. Your number is 11. If Hayase Rin
  doesn't appear within an hour, your participation
- money will be returned. Please carefully listen to
- the announcer."""
+ money will be returned. Please listen to the
+ announcer for the match to begin."""
 "まだ凛にお金を返していない……
 そちらの方を先に返したほうがいいだろう………","You haven't paid your debt to Rin yet. You should
 start with that."
@@ -396,11 +396,17 @@ start with that."
 "<アル>
 『おー……お金とアイテムゲットだね！
 　あ、そうだ。\n[1]は騙されてたわけだけど……
-　一応、借りてたお金はあの子に返したほうがいいのかな？』",""
+　一応、借りてたお金はあの子に返したほうがいいのかな？』","<Al>
+""Oooh! We get money and item! Oh, right! We got cheated
+ by that moneylender girl, but maybe we should still
+ pay back the loan?"""
 "にまにまと賞金とアイテムを眺めていたアルは、
 思い出すようにそう言った。
-確かに、返したほうがいいかもしれない。",""
-"……一応、凛にお金を返したほうがいいだろうか。",""
+確かに、返したほうがいいかもしれない。","Al looked at the prize money and item with a wide
+smile, but then she recalled the thing with the loan.
+You also felt like you should pay it back."
+"……一応、凛にお金を返したほうがいいだろうか。","...You felt like you should pay back your loan to Rin
+next."
 "<アル>
 『おー……これを3つ集めれば、
 　先にすすもことが出来るんだよね？
@@ -410,84 +416,114 @@ start with that."
  \n[1]♪"""
 "まじまじと勝利の証を見つめたアルは、
 貴方にそう言葉を送った。
-そんなアルに、貴方は頷きを返す。","Al said that as she watched the medal. You nodded to
-her in agreement."
+そんなアルに、貴方は頷きを返す。","When Al said that while watching the medal, you nodded
+to her in agreement."
 "『それでは通常業務に戻ります。
 　現在マッチングを受け付けていますが、
-　登録していきますか？』","""I'm returning to my normal duties now. Registering for
- the matches is currently open. Would you like to
- register?"""
+　登録していきますか？』","""Then, I'm returning to my normal duties. Registering
+ for matches is open. Would you like to register?"""
 "『現在貴方の指名を受け付けているプレイヤーが1人います。
-　プレイヤー名「姫野六花」です。』",""
+　プレイヤー名「姫野六花」です。』","""Currently, one player accepts your nomination for
+ a match. Player name: Himeno Rikka."""
 "『ありがとうございます。貴方の番号は11番です。
 　姫野六花様が1時間以内に応答されない場合は、
-　掛け金を返却します。アナウンスをよくお聞きください。』",""
-"試合よりも先に、六花の主人に話しかけよう。",""
+　掛け金を返却します。アナウンスをよくお聞きください。』","""Thank you very much. Your number is 11. If Himeno
+ Rikka doesn't appear within an hour, your
+ participation money will be returned. Please listen
+ to the announcer for the match to begin."""
+"試合よりも先に、六花の主人に話しかけよう。","You should talk to Rikka's master before registering
+for a match."
 "貴方は14000Gと勝利の証(2人目)を受けとった。","You received 14,000G and Arena Medal 2."
 "<アル>
 『これで2つ目！
-　後は、あの子のご主人様に勝つだけだね！』",""
+　後は、あの子のご主人様に勝つだけだね！』","<Al>
+""That makes it two medals! All that's left is for us
+ to win against that slave girl's master!"""
 "<アル>
 『先に進むためにも、
-　あの子を解放するためにも、がんばろ！』",""
-"アルは握りこぶしを作り、そう気合を入れているようだ。",""
-"試合よりも先に六花の主人に話しかけよう。",""
-"試合よりも先に、六花の主人を見つけよう。",""
+　あの子を解放するためにも、がんばろ！』","<Al>
+""Let's do our best so that we can advance the game and
+ free that slave girl!"""
+"アルは握りこぶしを作り、そう気合を入れているようだ。","Al raised her fist to fire herself up."
+"試合よりも先に六花の主人に話しかけよう。","You should talk to Rikka's master before registering
+for a match."
+"試合よりも先に、六花の主人を見つけよう。","You should find Rikka's master before registering for
+a match."""
 "『現在貴方の指名を受け付けているプレイヤーが1人います。
 　プレイヤー名「夢咲恭子」です。
 　時間指定がありまして、
-　明日の午前10時からの試合のみ受付可能です。』","""There is 1 player who accepts nominations from you.
- The players name is 「Yumesaki Kyouko」.
- It has time appoinment set, and you can only accept
- it tomorrow at 10 a.m.."""
+　明日の午前10時からの試合のみ受付可能です。』","""Currently, one player accepts your nomination for
+ a match. Player name: Yumesaki Kyouko.""
+ The match has been appointed to begin at 10 a.m.
+ tomorrow."""
 "<アル>
 『時間指定…？
 　そんなことできるんだね。でも、うん、ゆっくり休んで、
 　試合に備えられるのは悪くないんじゃないかな！』","<Al>
 ""Time appointment? I guess that's also possible.
- I guess it's not bad since we can take our time
- to rest and get ready before the match!"""
+ That means we can take our time to rest and get
+ ready before the match!"""
 "『ありがとうございます。貴方の番号は11番です。
 　明日の午前9時30までに控室への入場をお願いします。』","""Thank you very much. Your player number is 11.
- Please enter the waiting room tomorrow before 9:30."
+ Please enter the waiting room before 9:30 tomorrow."
 "<アル>
 『それじゃ、
 　今日はもう明日に備えて宿でやすもっか♪
-　明日は頑張ろーね！\n[1]♪』",""
+　明日は頑張ろーね！\n[1]♪』","<Al>
+""Then let's finish our preparations for tomorrow and
+ rest at the inn♪ Let's give it our all tomorrow!
+ \n[1]♪"""
 "『貴方の試合は本日の午前10時からです。
-　遅刻のないよう控室に向かってください。』",""
+　遅刻のないよう控室に向かってください。』","""Your match is set to begin at 10 a.m. today.
+ Please head to the waiting room so that you won't
+ be late."""
 "『貴方の試合は明日の午前10時からです。
-　ご健闘をお祈り増します。』",""
+　ご健闘をお祈り増します。』","""Your match is set to begin at 10 a.m. tomorrow.
+ I wish you the best of luck."""
 "貴方は14000Gと勝利の証(3人目)を受けとった。","You received 14,000G and Arena Medal 3."
 "<アル>
 『わーい♪3つそろった！！
-　これで先に進めるね！』",""
+　これで先に進めるね！』","<Al>
+""Yeah♪ That makes it three medals! Now we can advance
+ further!"""
 "<アル>
 『\n[1]、この街でやり残したことはない？
 　もしあるなら、
-　先に進む前にやっておいたほうがいいかもね♪』",""
+　先に進む前にやっておいたほうがいいかもね♪』","<Al>
+""\n[1], are there still things you want to
+ do in the town? If there are, we should probably
+ start with those before moving forward♪"""
 "そう言うアルの言葉に貴方は考え込む。
 何かやり残したことはあっただろうか？
-もしあるなら、やっておこう。",""
+もしあるなら、やっておこう。","You thought over what Al said. Were there still things
+you wanted to do in the town? You should do them if
+you have any."
 "もうすでに先に進む資格は手に入れた。
-コロシアムに参加する必要はない。",""
-"桃香を指名する",""
-"用事はない",""
+コロシアムに参加する必要はない。","You've already obtained all three medals to progress
+further. You don't need to participate in the Colosseum
+anymore."
+"桃香を指名する","Nominate Momoka"
+"用事はない","Never mind"
 "『プレイヤーコード確認…完了いたしました。
 　桃香様は貴方からの指名を受け付けています。
-　すぐに指名致しますか？』",""
+　すぐに指名致しますか？』","""Confirming player code... Confirmation finished.
+ Miss Momoka has accepted your nomination. Would
+ you like to challenge her to a match right away?"""
 "『ありがとうございます。
 　貴方の番号は11番です。
-　東側控室に手お待ちください。』",""
+　東側控室に手お待ちください。』","""Thank you very much. Your number is 11. Please wait
+ in the east waiting room."""
 "<受付>
 『また、勝利した際には再度受付までお立ち寄りください。
-　賞金をお渡しします。』",""
+　賞金をお渡しします。』","""If you win the match, please visit the reception desk 
+ again, and we'll hand you the prize money."""
 "『貴方の控室は右手側です。』","""The waiting room is to the right."""
 "EV012",""
 "鍵がかかっている。","It's locked."
 "EV013",""
 "試合は明日だ。
-今日は宿に帰ってゆっくり休もう。",""
+今日は宿に帰ってゆっくり休もう。","The match is tomorrow. You should go to the inn to
+rest."
 "リン",""
 "<???>
 『ん～………よさそうな人はいないかなぁ…………』","<???>
@@ -500,7 +536,7 @@ her in agreement."
 『お兄さん、コロシアムに出場するお金はありますか？
 　参加するなら応援します♪頑張ってくださいね♪』","<Rin>
 ""Have you made enough money to participate in the
- Colosseum yet? I want to be there to cheer you on♪
+ Colosseum yet? I want to be there to cheer for you♪
  Please do your best♪"""
 "<凛>
 『あ、くそザコお兄さん♡
@@ -556,23 +592,29 @@ her in agreement."
 "<凛>
 『あ、私にボロ負けしたくそザコお兄さん♡
 　いつでも再戦は受け付けてるんで、もしもう一度、
-　私と戦いたい場合は受付で指名してくださいね♡』",""
+　私と戦いたい場合は受付で指名してくださいね♡』","<Rin>
+""Ah, if it isn't the small fry I beat up in the arena♡
+ I'm ready for a rematch anytime, so please nominate
+ me at the counter if you want to fight me♡"""
 "<凛>
 『いつでも、ボッコボコにしてあげますんで♡
 　ま、女の子にまた負けるのが怖ければ、
-　逃げてればいいんじゃないですかぁ？あっはは♡』",""
+　逃げてればいいんじゃないですかぁ？あっはは♡』","<Rin>
+""I'll beat you up every single time♡ Oh, but if you're
+ too afraid to lose to a girl again, you can always run
+ with the tail behind your legs♡ Ahaha♡"""
 "<凛>
 『なんですか？
 　もう一度私にボコられたいなら、
 　受付から指名してくださいね♡』","<Rin>
 ""What's up? If you want me to beat you up again,
- nominate me for a match at the arena reception♡"""
+ nominate me for a match at the counter♡"""
 "『貴方の試合、見てたわよ。
-　なかなか強いじゃない。応援してるわ。』","""I saw your match. You're pretty strong. I'll be
- rooting for you."""
+　なかなか強いじゃない。応援してるわ。』","""I saw your last match. You're quite strong. I'm going
+ to root for you in your next matches."""
 "『もし、今以上に強くなれたら……そうね、
-　私たちバンガードの仲間になれるかもしれないわね♪』","""If you become even stronger... Yes, you might be able
- to join Vanguard♪"""
+　私たちバンガードの仲間になれるかもしれないわね♪』","""If you grow even stronger than you currently are...
+ Yes, you might be able to join Vanguard♪"""
 "『この街を守るバンガードは1人でも多いほうがいいわ。
 　期待してるわね、未来の新人君♡』","""The more of us there are to protect the town, the
  better. I'm looking forward to it, future new
@@ -583,148 +625,205 @@ her in agreement."
 ""She seems like a really strong girl! Vanguard, huh?
  They're pretty cool!"""
 "『驚いたわ、まさかあの子に勝利するなんて……
-　貴方の実力は、大したものね。』",""
+　貴方の実力は、大したものね。』","""I was surprised when I saw you defeat that girl...
+ That makes your strength the real deal."""
 "『貴方がその力を正しく使ってくれることを願うわ。
-　貴方を取り締まるのは、大変そうだもの。』",""
+　貴方を取り締まるのは、大変そうだもの。』","""I ask you to use that power for what's right. It would
+ be difficult to keep someone like you in control after
+ all."""
 "女性は端正な顔をほころばせ、
-クスリと笑いながらそう言った。",""
+クスリと笑いながらそう言った。","The woman's noble face broke into a smile when she
+said that."
 "<アル>
 『えへへ♪
-　\n[1]に限ってはそんなこと心配する必要ないよ！",""
+　\n[1]に限ってはそんなこと心配する必要ないよ！","<Al>
+""Ehehe♪ There's no need to worry about that!
+ \n[1] wouldn't do something evil!"""
 "『さっきの試合、見てたわ。残念だったわね……。
-　でも、気にすることないわ。』",""
+　でも、気にすることないわ。』","""I saw your last match. It was a regrettable outcome...
+ But you shouldn't let it keep you down."""
 "『相手が悪すぎたのよ。
-　貴方がたたかった相手は、もしかしたら私よりも………』",""
+　貴方がたたかった相手は、もしかしたら私よりも………』","""You matched with a terrible opponent. She may be even
+ stronger than me..."""
 "『……いえ、ごめんなさい。
-　街を守る者として、失言だったわね。忘れてちょうだい。』",""
+　街を守る者として、失言だったわね。忘れてちょうだい。』","""...Oh, sorry. That was a slip of the tongue as someone
+ who protects the town. Please forget about that last
+ part."""
 "『とにかく、気にすることないわ。
-　余り考えすぎずに、自分を鍛えることね。』",""
+　余り考えすぎずに、自分を鍛えることね。』","""At any rate, don't worry about it. Focus on getting
+ stronger yourself without overthinking about the
+ loss."""
 "<アル>
 『えへへ♪この人の言う通りだね！
-　\n[1]は\n[1]のペースで頑張ろう！』",""
+　\n[1]は\n[1]のペースで頑張ろう！』","<Al>
+""Ehehe♪ It's like she says! \n[1], let's
+ work at our own pace!"""
 "『さっきの試合、見させてもらったわ。
 　どうやら期待外れだったみたいね、
-　まさか最弱と名高い奴隷の子に負けるなんて…………』",""
+　まさか最弱と名高い奴隷の子に負けるなんて…………』","""I saw your last match. I'm quite disappointed.
+ To think that you would lose to the slave girl
+ who's famously weak..."""
 "『身の程を知って、
 　もうここには来ないことをお勧めするわよ。
-　街での安全は、私たちバンガードが保証してあげるから。』",""
+　街での安全は、私たちバンガードが保証してあげるから。』","""I recommend you to accept the limit of your strength
+ and avoid the arena from now on. We, the Vanguard,
+ will guarantee you have a safe life in the town if
+ nothing more."""
 "<アル>
-『うぅ………し、視線が冷たいね………』",""
+『うぅ………し、視線が冷たいね………』","<Al>
+""Uuuh... S-She's looking at you so coldly..."""
 "『話しかけないでくれるかしら。
 　弱いうえに勝つ気すらないなんて情けない人と、
-　交わす言葉なんてなにもないわ。』",""
+　交わす言葉なんてなにもないわ。』","""Could you not talk to me? I'm not interested in
+ speaking with weak and miserable people who don't
+ intend to win their battles."""
 "『ずっと負け犬のまま、
 　気持ちよくなってればいいんじゃない？
 　貴方は貴方の人生を、私は私の人生を送りましょう。
-　もう、交わることはないわ。失せなさい。』",""
+　もう、交わることはないわ。失せなさい。』","""Why don't you just keep enjoying being such a loser?
+ You can spend your life as you want, but I'll also
+ spend my life as I want, and I don't want anything
+ to do with you. Begone from my sight."""
 "<アル>
 『ひ、ひどい………
 　私は、\n[1]の味方だからね？
-　この人のことも、いつか見返そう！』",""
+　この人のことも、いつか見返そう！』","<Al>
+""W-What a horrible thing to say... \n[1],
+ remember that I'll always be your ally, okay?
+ One day we'll show her what we're made of!"""
 "『貴方の対戦相手…
 　弱かったからこその奴隷堕ち、
-　ゲームのルール上、仕方のないことよ。』","""The opponent you faced in the last match... She became
- a slave because she's so weak."""
+　ゲームのルール上、仕方のないことよ。』","""The opponent you faced in the last match...
+ She turned into a slave because she was weak,
+ and there's no way to break the rules of the game."""
 "『……まぁ、あんなに小さな子が苦しんでるのに、
-　何もできないことに思うことがないわけではないけれど。』","""...But I believe there's something we can do to help
- such a small girl from suffering."""
+　何もできないことに思うことがないわけではないけれど。』","""...That's why there's nothing you can do to help her 
+ even when she's so young and suffering."""
 "<アル>
 『きっとこの人も、内心では助けたいんだね…
 　私たちが、何とかしよう！ね？\n[1]♪』","<Al>
-""I'm sure that she also wants to help...
- \n[1], we'll do something about it, right!"""
+""I'm sure that she also wants to help her...
+ \n[1], we'll do something about it, right?"""
 "『ごめんなさい、以前の言葉を謝罪するわ。
 　負けた相手に挑んで、
-　勝利をつかむのは簡単なことじゃない。』",""
+　勝利をつかむのは簡単なことじゃない。』","""I'm sorry for what I said earlier. Facing an opponent
+ who bested you and seizing the victory isn't an easy
+ thing to achieve."""
 "『そんな気骨ある貴方に、
 　送っていい言葉ではなかったわね……
-　ごめんなさい。これからも、応援しているわ。』",""
+　ごめんなさい。これからも、応援しているわ。』","""Your unyielding spirit made me realize how my earlier
+ words weren't right for you. I'm sorry. I'll continue
+ cheering for you in future matches."""
 "<アル>
 『えへへ♪そうだよ！
-　\n[1]はすごいんだからね！』",""
-"アルは誇らしそうに腰に手を当てている。",""
+　\n[1]はすごいんだからね！』","<Al>
+""Ehehe♪ That's right! \n[1] is amazing!"""
+"アルは誇らしそうに腰に手を当てている。","Al boasted about you with her hands on her hips."
 "『貴方は自分の欲望に振り回されるタイプではないと、
 　信じたかったのだけれどね…………いえ、
-　勝手に期待していた私が悪いのかしら。』",""
+　勝手に期待していた私が悪いのかしら。』","""I believed you weren't the type to be controlled by
+ your desires... But I guess I'm the one at fault
+ for placing such expectations on you."""
 "『なんにせよ人を奴隷にするプレイヤーには、
 　私たちバンガードの目が付いているわ。
-　あまり好き放題しないことね。』",""
-"あの子は助けなかったのに？",""
-"暴行は許されるのか？",""
+　あまり好き放題しないことね。』","""Anyhow... We, the Vanguard, have our eyes on people
+ like you who keep players as their slaves. Don't
+ think you can do anything you like, okay?"""
+"あの子は助けなかったのに？","Even when you couldn't save that young slave girl?"
+"暴行は許されるのか？","But you would permit rape?"
 "『それは…………
 　ええ、直接奴隷を貴方からどうにかする権限は、
-　私たちにはないわ。』",""
+　私たちにはないわ。』","""That's... Yes, we don't have the means to directly
+ free the slaves from you."""
 "『でも、少しでもこの町のルールに違反したときには……
-　貴方を捕らえる、それだけよ。』",""
-"『………………………………』",""
+　貴方を捕らえる、それだけよ。』","""But the moment you violate the law of the town even
+ slightly... We'll capture you. That's all."""
+"『………………………………』","""..."""
 "『奴隷の扱いは…………
-　その主人に一任されているわ。』",""
+　その主人に一任されているわ。』","""How the slaves are treated... Are fully up to the
+ master."""
 "『なんにせよ、人を奴隷にするプレイヤーには、
 　私たちバンガードの目が付いているわ。
-　あまり、好き放題しないことね。』",""
+　あまり、好き放題しないことね。』","""Anyhow... We, the Vanguard, have our eyes on people
+ like you who keep players as their slaves. Don't
+ think you can do anything you like, okay?"""
 "『ありがとう、あの子のことは気掛かりだったのよ。
-　貴方が開放してくれて、ほっとしたわ…………』",""
+　貴方が開放してくれて、ほっとしたわ…………』","""Thank you. I've always been worried about that young
+ slave girl. I can finally be at peace now that you've
+ freed her."""
 "『本当は私たちがどうにかしなきゃいけないこと、
-　そのはずなのにね……私たちは動くことを許されない。』",""
+　そのはずなのにね……私たちは動くことを許されない。』","""I believe that helping her should have been our job...
+ But it's not something we can do."""
 "『ほんと、情けないわね。
-　私は、人を守りたくてバンガードに入ったはずなのに……』",""
-"女性は端正な顔を歪め、自嘲的な笑みを浮かべている。",""
+　私は、人を守りたくてバンガードに入ったはずなのに……』","""I felt so miserable over that. Even when I joined the
+ Vanguard so that I could protect people..."""
+"女性は端正な顔を歪め、自嘲的な笑みを浮かべている。","The woman's noble face broke into a self-deprecating
+smile."
 "<アル>
 『正義の味方も大変なんだねー…………
-　自分のやりたいことが、できないなんて…………』",""
+　自分のやりたいことが、できないなんて…………』","<Al>
+""Looks like the allies of justice have it tough too...
+ To think that they can't help everyone they want..."""
 "EV015",""
 "EV016",""
 "『そこの魔法陣は医務室につながってるんだ。
 　そこから出てくるってことは、
-　負けて医務室送りになったってことだから…………』","""The magic formation over there is connected to the
- medical office. Anyone coming out from it has been
- sent to the office after losing a match."""
+　負けて医務室送りになったってことだから…………』","""That magic formation is connected to the medical
+ office. Anyone coming out from it has lost their
+ match."""
 "『あんまり出で来るところは見られたくないよな…
-　オ、オレはちょっと休んでるだけだぜ？』","""People don't really want to be seen when they come out
- from there... I-I'm just sitting down to rest for a
- moment, okay?"""
+　オ、オレはちょっと休んでるだけだぜ？』","""You wouldn't want to be seen when coming from there...
+ I-I'm just sitting here to rest for a moment, okay?"""
 "<アル>
 『確かに、見られると恥ずかしいよね！
 　……なんでこの人、動揺してるんだろ？』","<Al>
-""It would certainly be embarrassing to be seen while
- coming out from there! ...Why exactly is this person
- so shaken?"""
+""Yes, being marked as a loser as you left would surely
+ be embarrassing! ...I wonder why this person seems so
+ shaken?"""
 "『お、おう…………お前も負けたみたいだな。
 　そこの魔法陣から出てくるの、誰かに見られてないかとか、
-　恥ずかしくなったりしないか？』","""O-Ooh... Looks like you also lost. Does it make you
- feel embarrassed to be seen leave from that magic
- circle?"""
-"恥ずかしくなる","It's embarrassing"
-"恥ずかしくない","It's not embarrassing"
+　恥ずかしくなったりしないか？』","""O-Oh... Looks like you also lost. Does it make you
+ feel ashamed leaving through the magic circle if
+ someone sees you?"""
+"恥ずかしくなる","It's shameful"
+"恥ずかしくない","It's not shameful"
 "『だよな…………
 　もう少し、こう、
-　分かりにくい場所に変えてくんないかなぁ……』","""I think that too... I wish the magic circle was in
- more discrete location..."
+　分かりにくい場所に変えてくんないかなぁ……』","""I think so too... I wish the magic circle was placed
+ in a more discrete location..."""
 "<アル>
 『あんまり周りの目を気にしすぎちゃダメだよ？
 　負けたって、次に勝てばいいんだからね♪』","<Al>
-""\n[1], you shouldn't worry about other's
- looks so much. If you lose a match, then you just need
- to win the next time♪"""
+""\n[1], you shouldn't worry about others'
+ stares so much. If you lose a match, then all you
+ need to do is to win the next time♪"""
 "『まじかよ、鋼メンタルかよ。いいなぁ……
 　俺もそんな風に考えられたら楽なんだろうなぁ…………』","""Really? You've got some nerves of steel. I wish I
- had them too... Maybe I would have easier time if I
- could think like you..."
+ could think like that too... Maybe I would have
+ an easier time then..."""
 "<アル>
 『えへへ♪1度負けたって、次勝てばいいだけだもんね！
 　めげずに頑張ろ、\n[1]♪』","<Al>
 ""Ehehe♪ A single loss isn't a big deal since you can
- just win the next one, right! Let's do our best
- wihtout feeling down, \n[1]♪"
+ just win the next match, right! Let's do our best
+ without feeling down, \n[1]♪"
 "『お前もまた手ひどく負けたみたいだな……
-　けどよ、あれは対戦相手が悪いぜ。』",""
+　けどよ、あれは対戦相手が悪いぜ。』","""Looks like you also suffered a terrible loss...
+ But it happened only because you faced a horrible
+ opponent."""
 "『すい星のごとく現れて、お前で3人抜き達成。
-　はぁ……ゲームの中でも天才ってのはいるもんだなぁ……』",""
+　はぁ……ゲームの中でも天才ってのはいるもんだなぁ……』","""She just suddenly appeared in the arena, and with your
+ loss included, she beat up three players in a row.
+ Sigh... Looks like there are geniuses even inside this
+ game."""
 "『ま、そういうわけだから、
-　お前も負けたからってそう気を落とすなよ。』",""
+　お前も負けたからってそう気を落とすなよ。』","""Well, that's how it is, so you shouldn't let that loss
+ keep you down."""
 "<アル>
 『\n[1]のことを慰めてくれてるのかな？
-　えへへ♪良い人だね、この人！』",""
+　えへへ♪良い人だね、この人！』","<Al>
+""Is he trying to console you, \n[1]?
+ Ehehe♪ He's a good man!"""
 "EV017",""
 "『コロシアムに出てくるプレイヤーは、
 　みんな自分に自信があるやつばかりだからな。
