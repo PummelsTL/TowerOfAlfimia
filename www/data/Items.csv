@@ -8,8 +8,8 @@
 "MPを300回復する","Recovers 300 MP."
 "小悪魔カードA","Imp A Card"
 "使用することで小悪魔Aとの戦闘を簡易化するカード。
-敵の能力値も低下する。","Card used to simplify Imp A fights.
-Also decreases the foe's strength."
+敵の能力値も低下する。","Card for simplifying fights with Imp A.
+It also decreases the enemy's strength."
 "ミックスポーション","Mixed Potion"
 "HPを20％、MPを30％回復する","Recovers 20% HP & 30% MP."
 "店員カード(Lv.1～9)","Shopkeeper A Card (Lvl 1-9)"
@@ -20,12 +20,12 @@ lvl 1-9."
 "HPを40％、MPを50％回復する薬","Recovers 40% HP & 50% MP."
 "小悪魔カードB","Imp B Card"
 "使用することで小悪魔Bとの戦闘を簡易化するカード。
-敵の能力値も低下する。","Card used to simplify Imp B fights.
-Also decreases the foe's strength."
+敵の能力値も低下する。","Card for simplifying fights with Imp B.
+It also decreases the enemy's strength."
 "ロリダークエルフカード","Loli Dark Elf Card"
 "使用することでロリダークエルフとの戦闘を
-簡易化するカード。敵の能力値も低下する。","Card used to simplify Loli Dark Elf fights.
-Also decreases the foe's strength."
+簡易化するカード。敵の能力値も低下する。","Card for simplifying fights with Loli Dark Elf.
+It also decreases the enemy's strength."
 "店員カード(Lv.10～17)","Shopkeeper A Card (Lvl 10-17)"
 "使用することで店員によるLv.10～17の時のレベルドレインを
 簡易化するカード。","Card for shortening the shopkeeper level drain for
@@ -34,30 +34,32 @@ lvl 10-17."
 "HPを60％、MPを70％回復する薬","Recovers 60% HP & 70% MP."
 "ドライアドカード","Dryad Card"
 "使用することでドライアドとの戦闘を簡易化するカード。
-敵の能力値も低下する。","Card used to simplify Dryad fights.
-Also decreases the foe's strength."
+敵の能力値も低下する。","Card for simplifying fights with Dryad.
+It also decreases the enemy's strength."
 "盗賊サキュバスカード","Thief Succubus Card"
 "使用することで盗賊サキュバスとの戦闘を簡易化するカード。
-敵の能力値も低下する。","Card used to simplify Thief Succubus fights.
-Also decreases the foe's strength."
+敵の能力値も低下する。","Card for simplifying fights with Thief Succubus.
+It also decreases the enemy's strength."
 "マジックサキュバスカード","Witch Succubus Card"
 "使用することでマジックサキュバスとの戦闘を
-簡易化するカード。敵の能力値も低下する。","Card used to simplify Witch Succubus fights.
-Also decreases the foe's strength."
+簡易化するカード。敵の能力値も低下する。","Card for simplifying fights with Witch Succubus.
+It also decreases the enemy's strength."
 "店員カード(Lv.18～25)","Shopkeeper A Card (Lvl 18-25)"
 "使用することで店員によるLv.18～25の時のレベルドレインを
 簡易化するカード。","Card for shortening the shopkeeper level drain for
 lvl 18-25."
 "メイドサキュバスAスキップ","Maid Succubus A Skip"
 "所持しているとスキップ機能で、
-メイドサキュバスAとの戦闘のon/offが切り替えられる。",""
+メイドサキュバスAとの戦闘のon/offが切り替えられる。","Enables Battle Skip Setting for Maid Succubus A when
+held."
 "メイドサキュバスBスキップ","Maid Succubus B Skip"
 "所持しているとスキップ機能で、
-メイドサキュバスBとの戦闘のon/offが切り替えられる。",""
-"大淫魔カード","Great Succubus Card"
+メイドサキュバスBとの戦闘のon/offが切り替えられる。","Enables Battle Skip Setting for Maid Succubus B when
+held."
+"大淫魔カード","Greater Succubus Card"
 "使用することで大淫魔との戦闘を簡易化するカード。
-敵の能力値も低下する。","Card used to simplify Great Succubus fights.
-Also decreases the foe's strength."
+敵の能力値も低下する。","Card for simplifying fights with Greater Succubus.
+It also decreases the enemy's strength."
 "店員カード(Lv.26～38)","Shopkeeper A Card (Lvl 25-38)"
 "使用することで店員によるLv.26～38の時のレベルドレインを
 簡易化するカード。","Card for shortening the shopkeeper level drain for
@@ -65,17 +67,20 @@ lvl 26-38."
 "テラミックスポーション","Tera Mixed Potion"
 "HPを80％、MPを90％回復する薬","Recovers 80% HP & 90% MP."
 "魂の果実","Soul Fruit"
-"食べるとHPを10、MPを2、全能力を1ずつ増加させる。","Permanently increases status.
+"食べるとHPを10、MPを2、全能力を1ずつ増加させる。","Permanently increases status when eaten.
 【HP +10, MP +2, All Stats +1】"
 "アイドルサキュバスカード","Idol Succubus Card"
 "使用するとアイドルサキュバスとの戦闘を簡易化するカード。
-敵の能力値も低下する。",""
+敵の能力値も低下する。","Card for simplifying fights with Idol Succubus.
+It also decreases the enemy's strength."
 "神官サキュバスカード","Priestess Succubus Card"
 "使用することで神官サキュバスとの戦闘を簡易化するカード。
-敵の能力値も低下する。",""
+敵の能力値も低下する。","Card for simplifying fights with Priestess Succubus.
+It also decreases the enemy's strength."
 "セーレカード","Seele Card"
 "使用することでセーレとの戦闘を簡易化するカード。
-敵の能力値も低下する。",""
+敵の能力値も低下する。","Card for simplifying fights with Seele.
+It also decreases the enemy's strength."
 "ドライアドカードB","Dryad B Card"
 "店員カード(Lv.39～45)","Shopkeeper A Card (Lvl 39-45)"
 "使用することで店員によるLv.39～45の時のレベルドレインを
@@ -85,19 +90,19 @@ lvl 39-45."
 "使用することで店員によるLv.46～50の時のレベルドレインを
 簡易化するカード。","Card for shortening the shopkeeper level drain for
 lvl 46-50."
-"東側控室の鍵","East Waiting Room Key"
+"東側控室の鍵","Waiting Room Key"
 "闘技場東側控室の鍵。","Key for the eastern waiting room in the arena."
 "焼きそば","Yakisoba"
 "濃い目のソースが麺に絡められた焼きそば。
-【MP70％回復・戦闘時使用不可】","Yakisoba with noodles and strong sauce.
+【MP70％回復・戦闘時使用不可】","Yakisoba noodles with a thick sauce.
 【Recovers 70％ MP・Cannot be used in battle】"
 "たこ焼き","Takoyaki"
 "大きめのタコが入った熱々のタコ焼き。
-【MP60％回復・戦闘時使用不可】","Piping hot takoyaki with big chunks of octopus.
+【MP60％回復・戦闘時使用不可】","Hot takoyaki filled with big chunks of octopus.
 【Recovers 60％ MP・Cannot be used in battle】"
 "焼き鳥","Yakitori"
 "モモ・皮・つくねの3本セット。
-【MP50％回復・戦闘時使用不可】","Triple set with chicken thigh, skin, and meatball.
+【MP50％回復・戦闘時使用不可】","Triple set of chicken thigh, skin, and meatball.
 【Recovers 50％ MP・Cannot be used in battle】"
 "フランクフルト","Frankfurt"
 "大きなプリっとしたソーセージ。ケチャップでどうぞ。
@@ -117,7 +122,7 @@ lvl 46-50."
 【Recovers 60％ MP・Cannot be used in battle】"
 "赤ワイン","Red Wine"
 "ブドウの深いコクがある赤ワイン。
-【MP50％回復・戦闘時使用不可】","Red wine that has the deep flavor of grapes.
+【MP50％回復・戦闘時使用不可】","Red wine made from deep-flavored grapes.
 【Recovers 50％ MP・Cannot be used in battle】"
 "レモンサワー","Lemon Sour"
 "すっきりとした飲み口と、安さが売りのレモンサワー。
@@ -125,7 +130,7 @@ lvl 46-50."
 【Recovers 40％ MP・Cannot be used in battle】"
 "缶チューハイ","Canned Chuuhai"
 "きっとみんなが最初に飲むお酒。甘くておいしい。味も様々。
-【MP30％回復・戦闘時使用不可】","Sweet and delicious sake that comes in many flavours.
+【MP30％回復・戦闘時使用不可】","Sweet and delicious sake that comes in many flavors.
 【Recovers 30％ MP・Cannot be used in battle】"
 "ハンバーグ弁当","Hamburg Bento"
 "肉汁あふれるハンバーグが入ったお弁当。
@@ -133,19 +138,19 @@ lvl 46-50."
 【Recovers 70％ MP・Cannot be used in battle】"
 "生姜焼き弁当","Ginger Pork Bento"
 "ガツンとスタミナが付く美味しい生姜焼き弁当。
-【MP70％回復・戦闘時使用不可】","Delicious meal that fills up your stamina.
+【MP70％回復・戦闘時使用不可】","Boxed lunch that fills you up with stamina.
 【Recovers 70％ MP・Cannot be used in battle】"
 "チキン南蛮弁当","Fried Chicken Bento"
 "タルタルソースを付けて食べるととても美味しい。
-【MP50％回復・戦闘時使用不可】","Really delicious meal with tartar sauce.
+【MP50％回復・戦闘時使用不可】","Boxed lunch that's delicious with tartar sauce.
 【Recovers 50％ MP・Cannot be used in battle】"
 "野菜炒め弁当","Stir-Fried Vegetable Bento"
 "色とりどりの野菜が入った健康的？なお弁当。
-【MP40％回復・戦闘時使用不可】","Healthy(?) meal with a colored mix of vegetables.
+【MP40％回復・戦闘時使用不可】","Healthy boxed lunch with a colored mix of vegetables.
 【Recovers 40％ MP・Cannot be used in battle】"
 "のり弁当","Seaweed Bento"
 "白米の美味しさが際立つのり弁当。美味しいよ。
-【MP30％回復・戦闘時使用不可】","Meal that brings out the tastiness of rice.
+【MP30％回復・戦闘時使用不可】","Boxed lunch that brings out the tastiness of rice.
 【Recovers 30％ MP・Cannot be used in battle】"
 "コーラ","Cola"
 "炭酸飲料の王様。みんな大好き、だから高い。
@@ -169,8 +174,8 @@ lvl 46-50."
 【Recovers 30％ MP・Cannot be used in battle】"
 "エリクサー","Elixir"
 "戦闘中に使用すると全回復する。
-1度の戦闘で1度しか使用できないが、消耗しない。","Fully recovers you in battle. It won't get consumed,
-but it can be used only once in each battle."
+1度の戦闘で1度しか使用できないが、消耗しない。","Fully recovers your HP & MP in battle. It won't get
+consumed but can only be used once per battle."
 "バニーカード(Lv.1～9)","Shopkeeper B Card (Lvl 1-9)"
 "バニーカード(Lv.10～17)","Shopkeeper B Card (Lvl 10-17)"
 "バニーカード(Lv.18～25)","Shopkeeper B Card (Lvl 18-25)"
@@ -180,14 +185,15 @@ but it can be used only once in each battle."
 "使用すると店員によるLv.46～50の時のレベルドレインを
 簡易化するカード。","Card for shortening the shopkeeper level drain for
 lvl 46-50."
-"敗北装備・スキルセット","Loser Equipment & Skill Set"
-"使用することで弱体化装備と敗北スキルを入手できる。","Set of weakening equipment and suicide skill."
+"敗北装備・スキルセット","Loser's Equipment & Skill Set"
+"使用することで弱体化装備と敗北スキルを入手できる。","Using this will give a suicide skill and a set of 
+weakening equipment."
 "勝利の証(1人目)","Arena Medal 1"
-"コロシアムで1人のプレイヤーに勝利した証","Proof of defeating 1 player in the Colosseum."
+"コロシアムで1人のプレイヤーに勝利した証","Proof of defeating one player in the Colosseum."
 "勝利の証(2人目)","Arena Medal 2"
-"コロシアムで2人のプレイヤーに勝利した証","Proof of defeating 2 players in the Colosseum."
+"コロシアムで2人のプレイヤーに勝利した証","Proof of defeating two players in the Colosseum."
 "勝利の証(3人目)","Arena Medal 3"
-"コロシアムで3人のプレイヤーに勝利した証","Proof of defeating 3 players in the Colosseum."
+"コロシアムで3人のプレイヤーに勝利した証","Proof of defeating three players in the Colosseum."
 "魔よけの十字架",""
 "使用することで魔物とのエンカウントの
 on/offを切り替えることが出来る。消耗しない。",""
@@ -206,12 +212,12 @@ The boss seems to be distributing them."
 （～Lv.35:6000   Lv.35～:3000)",""
 "サキュバス特製酒","Succubus Sake"
 "サキュバス特製のお酒。
-昇天するくらい美味しいらしい。【HP30％・MP60％】","Special succubus sake that nearly makes you ascend.
+昇天するくらい美味しいらしい。【HP30％・MP60％】","Special sake that nearly makes you ascend to heaven.
 【HP30％ & MP60％】"
 "サキュバス厳選お菓子セット","Succubus Sweets Set"
 "中身が定期的に変化するお菓子の詰め合わせ。
-何故か必ずアップルパイは入っているようだ。【HP80％】","Assortment of sweets that rotate periodically.
-For some reason there's always an apple pie.【HP80％】"
+何故か必ずアップルパイは入っているようだ。【HP80％】","Assortment of periodically changing sweets.
+For some reason, there's always an apple pie.【HP80％】"
 "サキュバス特性おつまみ","Succubus Snack"
 "サキュバス特製のおつまみ。
 甘い時もあれば塩辛い時もある。【HP50％・MP50％】","Set of special succubus snacks.
@@ -219,21 +225,22 @@ Sometimes sweet and sometimes salty. 【HP50％ & MP50％】"
 "サキュバス特製ジュース","Special Succubus Juice"
 "サキュバス特製の美味しいジュース。
 フルーティー。【MP250回復】","Special and delicious succubus juice.
-It's fruity.【MP250】"
+It tastes fruity.【MP250】"
 "ウィンドウ透明度変更","Window Transparency Setting"
 "ウィンドウの透明度を変更できます。","Set the window transparency."
-"1000チップコイン",""
+"1000チップコイン","1000 Casino Chips"
 "10チップコインが100枚入っている。
-10000Gの価値だがカジノ以外で使い道はない。",""
+10000Gの価値だがカジノ以外で使い道はない。","Each set comes with ten chips of 100.
+Worth 10,000G, but it can only be used at the casino."
 "オートモード速度変更","Auto Mode Speed Setting"
 "【オートモード＝Tabキー】使用することで、
 オートモード時の文字送り速度を変更できます。","Set the text speed on Auto Mode.
 【Auto Mode = Tab-key】"
 "敵能力値測定器",""
 "敵の能力を測定できる",""
-"お手軽攻略装備セット","Easy Conquer Equipment Set"
+"お手軽攻略装備セット","Easy Playthrough Equipment Set"
 "お手軽に攻略したい人向けの装備が入っています。
-【注意！ゲームバランスを崩壊させる危険があります】","Item set for easier clearing.
+【注意！ゲームバランスを崩壊させる危険があります】","Item set for an easier playthrough.
 【Warning! May break game balance!】"
 "難易度変更スイッチ","Difficulty Setting"
 "使用することで難易度を変更できるスイッチ。","Set the game difficulty."

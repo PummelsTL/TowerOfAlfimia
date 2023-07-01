@@ -3,44 +3,44 @@
 それなりに頼りになる","Shield that you suddenly had.
 Feels quite reliable."
 "帽子","Hat"
-"おしゃれな帽子","Fasionable hat."
+"おしゃれな帽子","Fashionable hat."
 "私服","Plain Clothes"
 "いつも着ているお気に入りの服","Normal clothes."
 "指輪","Ring"
 "プレートメイル","Plate Mail"
 "これを装備するとなんとなく冒険者気分","Makes you feel like a real adventurer."
-"力の指輪","Ring of Power"
+"力の指輪","Ring of Power (S)"
 "つけているとほんの少し力が付く気がする指輪
-","Ring that makes you feel slightly stronger."
-"守りの指輪","Ring of Defense"
+","Ring that slightly boosts your attack."
+"守りの指輪","Ring of Defense (S)"
 "つけているとほんの少し丈夫になれる気がする指輪
-","Ring that makes you feel slightly tougher."
-"速さの指輪","Ring of Speed"
+","Ring that slightly boosts your defense."
+"速さの指輪","Ring of Speed (S)"
 "つけているとほんの少し速くなれる気がする指輪
-","Ring that makes you feel slightly faster."
+","Ring that slightly boosts your speed."
 "鉄の軽鎧","Light Iron Armor"
 "鉄でできた軽鎧。
 動きやすい割には頑丈。","Light armor made of iron.
 Fairly sturdy for its weight."
-"剛力の指輪","Ring of Strong Power"
+"剛力の指輪","Ring of Power (M)"
 "つけていると目に見えて力が増加する指輪
-","Ring that makes you feel stronger."
-"堅守の指輪","Ring of Strong Defense"
-"つけていると目に見えて丈夫になれる指輪","Ring that makes you feel tougher."
-"俊足の指輪","Ring of Strong Speed"
-"つけていると目に見えて速くなれる指輪","Ring that makes you feel faster."
-"魔法の指輪","Ring of Magic"
-"つけていると魔力と最大MPが増大する指輪","Ring that boosts your magic and mana."
+","Ring that boosts your attack."
+"堅守の指輪","Ring of Defense (M)"
+"つけていると目に見えて丈夫になれる指輪","Ring that boosts your defense."
+"俊足の指輪","Ring of Speed (M)"
+"つけていると目に見えて速くなれる指輪","Ring that boosts your speed."
+"魔法の指輪","Ring of Magic (M)"
+"つけていると魔力と最大MPが増大する指輪","Ring that boosts your magic and MP."
 "羽帽子","Feather Hat"
 "羽が付いたおしゃれな帽子","Hat with a fashionable feather."
 "お助け指輪（経験値）","Help Ring (EXP)"
 "経験値を常に+300％獲得できるようになる指輪。
 【注意！ゲームバランスを崩壊させる危険があります】","Ring that boosts EXP gain by 300%.
-【Warning! May break game balance!】"
+【Warning! May break the game balance!】"
 "お助け指輪（力こそパワー）","Help Ring (Full Power)"
 "全能力を飛躍的に上昇させる指輪。
 【注意！確実にゲームバランスを崩壊させます】","Ring that massively boosts all stats.
-【Warning! Breaks game balance!】"
+【Warning! Breaks the game balance!】"
 "弱体化の指輪（弱）","Weak Ring (S)"
 "能力が少し弱体化してしまう指輪。","Ring that slightly weakens your status."
 "弱体化の指輪（中）","Weak Ring (M)"
@@ -51,163 +51,163 @@ Fairly sturdy for its weight."
 "能力がとても大幅に弱体化してしまう指輪。","Ring that massively weakens your status."
 "炎の紋章","Fire Crest"
 "炎の魔力が込められた紋章
-【炎属性ダメージ+10％】【紋章は1つのみ装備可】","Crest infused  with flame mana.
+【炎属性ダメージ+10％】【紋章は1つのみ装備可】","Crest infused with flame magic.
 【Flame Damage +10%】【Crest Equip Limit:1】"
 "<魔剣炎の知識:+10%>
 <EquipTag:力31の指輪>",""
 "雷の紋章","Lighting Crest"
 "雷の魔力が込められた紋章
-【雷属性ダメージ+10％】【紋章は1つのみ装備可】","Crest infused with lightning mana.
+【雷属性ダメージ+10％】【紋章は1つのみ装備可】","Crest infused with lightning magic.
 【Lightning Damage +10%】【Crest Equip Limit:1】"
 "<魔剣雷の知識:+10%>
 <EquipTag:力31の指輪>",""
 "氷の紋章","Ice Crest"
 "氷の魔力が込められた紋章
-【氷属性ダメージ+10％】【紋章は1つのみ装備可】","Crest infused with ice mana.
+【氷属性ダメージ+10％】【紋章は1つのみ装備可】","Crest infused with ice magic.
 【Ice Damage +10%】【Crest Equip Limit:1】"
 "<魔剣氷の知識:+10%>
 <EquipTag:力31の指輪>",""
 "風の紋章","Wind Crest"
 "風の魔力が込められた紋章
-【風属性ダメージ+10％】【紋章は1つのみ装備可】","Crest infused with wind mana.
+【風属性ダメージ+10％】【紋章は1つのみ装備可】","Crest infused with wind magic.
 【Wind Damage +10%】【Crest Equip Limit:1】"
 "<魔剣風の知識:+10%>
 <EquipTag:力31の指輪>",""
 "光の紋章","Light Crest"
 "光の魔力が込められた紋章
-【光属性ダメージ+10％】【紋章は1つのみ装備可】","Crest infused with light mana.
+【光属性ダメージ+10％】【紋章は1つのみ装備可】","Crest infused with light magic.
 【Light Damage +10%】【Crest Equip Limit:1】"
 "<魔剣光の知識:+10%>
 <EquipTag:力31の指輪>",""
 "闇の紋章","Dark Crest"
 "闇の魔力が込められた紋章
-【闇属性ダメージ+10％】【紋章は1つのみ装備可】","Crest infused with dark mana.
+【闇属性ダメージ+10％】【紋章は1つのみ装備可】","Crest infused with dark magic.
 【Dark Damage +10%】【Crest Equip Limit:1】"
 "<魔剣闇の知識:+10%>
 <EquipTag:力31の指輪>",""
 "猛炎の紋章","Fierce Flame Crest"
 "強い炎の魔力が込められた紋章
-【炎属性ダメージ+15％】【紋章は1つのみ装備可】","Crest infused with strong flame mana.
+【炎属性ダメージ+15％】【紋章は1つのみ装備可】","Crest infused with strong flame magic.
 【Flame Damage +15%】【Crest Equip Limit:1】"
 "<魔剣炎の知識:+15%>
 <EquipTag:力31の指輪>",""
 "轟雷の紋章","Roaring Lightning Crest"
 "強い雷の魔力が込められた紋章
-【雷属性ダメージ+15％】【紋章は1つのみ装備可】","Crest infused with strong lightning mana.
+【雷属性ダメージ+15％】【紋章は1つのみ装備可】","Crest infused with strong lightning magic.
 【Lightning Damage +15%】【Crest Equip Limit:1】"
 "<魔剣雷の知識:+15%>
 <EquipTag:力31の指輪>",""
 "冷氷の紋章","Frozen Solid Crest"
 "強い氷の魔力が込められた紋章
-【氷属性ダメージ+15％】【紋章は1つのみ装備可】","Crest infused with strong ice mana.
+【氷属性ダメージ+15％】【紋章は1つのみ装備可】","Crest infused with strong ice magic.
 【Ice Damage +15%】【【Crest Equip Limit:1】"
 "<魔剣氷の知識:+15%>
 <EquipTag:力31の指輪>",""
 "暴風の紋章","Fierce Gale Crest"
 "強い風の魔力が込められた紋章
-【風属性ダメージ+15％】【紋章は1つのみ装備可】","Crest infused with strong wind mana.
+【風属性ダメージ+15％】【紋章は1つのみ装備可】","Crest infused with strong wind magic.
 【Wind Damage +15%】【Crest Equip Limit:1】"
 "<魔剣風の知識:+15%>
 <EquipTag:力31の指輪>",""
 "極光の紋章","Blinding Light Crest"
 "強い光の魔力が込められた紋章
-【光属性ダメージ+15％】【紋章は1つのみ装備可】","Crest infused with strong light mana.
+【光属性ダメージ+15％】【紋章は1つのみ装備可】","Crest infused with strong light magic.
 【Light Damage +15%】【Crest Equip Limit:1】"
 "<魔剣光の知識:+15%>
 <EquipTag:力31の指輪>",""
 "暗黒の紋章","Pitch Black Crest"
 "強い闇の魔力が込められた紋章
-【闇属性ダメージ+15％】【紋章は1つのみ装備可】","Crest infused with strong dark mana.
+【闇属性ダメージ+15％】【紋章は1つのみ装備可】","Crest infused with strong dark magic.
 【Dark Damage +15%】【Crest Equip Limit:1】"
 "<魔剣闇の知識:+15%>
 <EquipTag:力31の指輪>",""
-"超力の指輪","Ring of Super Power"
-"つけているととてつもない力がつく指輪",""
-"超守の指輪","Ring of Super Defense"
-"つけているととてつもなく丈夫になれる指輪",""
-"超速の指輪","Ring of Super Speed"
-"つけているととてつもなく速くなれる指輪",""
-"超魔の指輪","Ring of Super Magic"
-"つけていると魔力と最大MPがとてつもなく増大する指輪",""
+"超力の指輪","Ring of Power (L)"
+"つけているととてつもない力がつく指輪","Ring that greatly boosts your attack."
+"超守の指輪","Ring of Defense (L)"
+"つけているととてつもなく丈夫になれる指輪","Ring that greatly boosts your defense."
+"超速の指輪","Ring of Speed (L)"
+"つけているととてつもなく速くなれる指輪","Ring that greatly boosts your speed."
+"超魔の指輪","Ring of Magic (L)"
+"つけていると魔力と最大MPがとてつもなく増大する指輪","Ring that greatly boosts your magic and MP."
 "マジックスーツ","Magic Suit"
-"魔力が込められた丈夫な服",""
+"魔力が込められた丈夫な服","Tough clothes that are enchanted with magic."
 "アグニの紋章","Agni Crest"
 "炎を司る神の魔力が込められた紋章
-【炎属性ダメージ+25％】【紋章は1つのみ装備可】","Crest infused with dark god's mana.
+【炎属性ダメージ+25％】【紋章は1つのみ装備可】","Crest infused with dark god's magic.
 【Flame Damage +25%】【Crest Equip Limit:1】"
 "<魔剣炎の知識:+25%>
 <EquipTag:力31の指輪>",""
 "トールの紋章","Thor Crest"
 "雷を司る神の魔力が込められた紋章
-【雷属性ダメージ+25％】【紋章は1つのみ装備可】","Crest infused with lightning god's mana.
+【雷属性ダメージ+25％】【紋章は1つのみ装備可】","Crest infused with lightning god's magic.
 【Lightning Damage +25%】【Crest Equip Limit:1】"
 "<魔剣雷の知識:+25%>
 <EquipTag:力31の指輪>",""
 "スカジの紋章","Skadi Crest"
 "氷を司る女神の魔力が込められた紋章
-【氷属性ダメージ+25％】【紋章は1つのみ装備可】","Crest infused with ice god's mana.
+【氷属性ダメージ+25％】【紋章は1つのみ装備可】","Crest infused with ice god's magic.
 【Ice Damage +25%】【Crest Equip Limit:1】"
 "<魔剣氷の知識:+25%>
 <EquipTag:力31の指輪>",""
 "アウラの紋章","Aura Crest"
 "風を司る女神の魔力が込められた紋章
-【風属性ダメージ+25％】【紋章は1つのみ装備可】","Crest infused with wind god's mana.
+【風属性ダメージ+25％】【紋章は1つのみ装備可】","Crest infused with wind god's magic.
 【Wind Damage +25%】【Crest Equip Limit:1】"
 "<魔剣風の知識:+25%>
 <EquipTag:力31の指輪>",""
 "テイアの紋章","Theia Crest"
 "光を司る女神の魔力が込められた紋章
-【光属性ダメージ+35％】【紋章は1つのみ装備可】","Crest infused with light god's mana.
+【光属性ダメージ+35％】【紋章は1つのみ装備可】","Crest infused with light god's magic.
 【Light Damage +35%】【Crest Equip Limit:1】"
 "<魔剣光の知識:+35%>
 <EquipTag:力31の指輪>",""
 "エレボスの紋章","Erebus Crest"
 "闇を司る神の魔力が込められた紋章
-【闇属性ダメージ+35％】【紋章は1つのみ装備可】","Crest infused with dark god's mana.
+【闇属性ダメージ+35％】【紋章は1つのみ装備可】","Crest infused with dark god's magic.
 【Dark Damage +35%】【Crest Equip Limit:1】"
 "<魔剣闇の知識:+35%>
 <EquipTag:力31の指輪>",""
 "アスタロトの指輪","Ring of Astaroth"
 "魔神アスタロトの力が込められた指輪
-【攻撃力+20　防御力+10　敏捷性+10】【同一魔神装備不可】","Ring infused with Astaroth's mana.
+【攻撃力+20　防御力+10　敏捷性+10】【同一魔神装備不可】","Ring infused with the power of Astaroth.
 【ATK+20 DEF+10 AGI+10】【God Ring Equip Limit:1】"
 "<EquipTag:力32の指輪>",""
 "アモンの指輪","Ring of Amon"
 "魔神アモンの力が込められた指輪
-【防御力+20　最大HP+200　最大MP+50】【同一魔神装備不可】","Ring infused with Amon's mana.
+【防御力+20　最大HP+200　最大MP+50】【同一魔神装備不可】","Ring infused with the power of Amon.
 【DEF+20 HP+200 MP+50】【God Ring Equip Limit:1】"
 "<EquipTag:力33の指輪>",""
 "バルバトスの指輪","Ring of Barbatos"
 "魔神バルバトスの力が込められた指輪
-【敏捷性+20　攻撃力+10　魔法力+10】【同一魔神装備不可】","Ring infused with Barbatos' mana.
+【敏捷性+20　攻撃力+10　魔法力+10】【同一魔神装備不可】","Ring infused with the power of Barbatos.
 【MATK+20 ATK+10 MP+30】【God Ring Equip Limit:1】"
 "<EquipTag:力34の指輪>",""
 "バアルの指輪","Ring of Baal"
 "魔神バアルの力が込められた指輪
-【魔法力+20　攻撃力+10　最大MP+30】【同一魔神装備不可】","Ring infused with Baal's mana.
+【魔法力+20　攻撃力+10　最大MP+30】【同一魔神装備不可】","Ring infused with the power Baal.
 【MATK+20 ATK+10 MP+30】【God Ring Equip Limit:1】"
 "<EquipTag:力35の指輪>",""
 "神縫いの服","Holy Clothes"
 "神聖な糸で紡がれた服。
-軽くてとても丈夫なのが特徴。","Clothes weaved with sacred string.
-Really light and tough."
+軽くてとても丈夫なのが特徴。","Clothes weaved from the sacred string.
+They're really light and tough."
 "テスト用炎の紋章",""
 "<魔剣炎の知識:+300%>
 <EquipTag:力31の指輪>",""
 "テスト用剛力の指輪",""
-"魔神アスタロトの指輪","Ring of God Astaroth"
+"魔神アスタロトの指輪","True Ring of Astaroth"
 "魔神アスタロトの力が得られる指輪
-【攻撃力+30　防御力+20　敏捷性+20】【同一魔神装備不可】","Ring infused with the power of Astaroth.
+【攻撃力+30　防御力+20　敏捷性+20】【同一魔神装備不可】","Ring infused with the true power of Astaroth.
 【ATK+30 DEF+20 AGI+20】【God Ring Equip Limit:1】"
-"魔神アモンの指輪","Ring of God Amon"
+"魔神アモンの指輪","True Ring of Amon"
 "魔神アモンの力が得られる指輪
-【防御力+35　最大HP+400　最大MP+80】【同一魔神装備不可】","Ring infused with the power of Amon.
-【DEF+30 HP+400 MP+80】【God Ring Equip Limit:1】"
-"魔神バルバトスの指輪","Ring of God Barbatos"
+【防御力+35　最大HP+400　最大MP+80】【同一魔神装備不可】","Ring infused with the true power of Amon.
+【DEF+35 HP+400 MP+80】【God Ring Equip Limit:1】"
+"魔神バルバトスの指輪","True Ring of Barbatos"
 "魔神バルバトスの力が得られる指輪
-【敏捷性+30　攻撃力+20　魔法力+20】【同一魔神装備不可】","Ring infused with the power of Barbatos.
+【敏捷性+30　攻撃力+20　魔法力+20】【同一魔神装備不可】","Ring infused with the true power of Barbatos.
 【AGI+30 ATK+20 MATK+20】【God Ring Equip Limit:1】"
-"魔神バアルの指輪","Ring of God Baal"
+"魔神バアルの指輪","True Ring of Baal"
 "魔神バアルの力が得られる指輪
-【魔法力+30　攻撃力+20　最大MP+50】【同一魔神装備不可】","Ring infused with the power of Baal.
+【魔法力+30　攻撃力+20　最大MP+50】【同一魔神装備不可】","Ring infused with the true power of Baal.
 【MATK+30 ATK+20 MP+50】【God Ring Equip Limit:1】"

@@ -485,7 +485,7 @@ a match."""
 『わーい♪3つそろった！！
 　これで先に進めるね！』","<Al>
 ""Yeah♪ That makes it three medals! Now we can advance
- further!"""
+ to the next zone!"""
 "<アル>
 『\n[1]、この街でやり残したことはない？
 　もしあるなら、
@@ -496,8 +496,8 @@ a match."""
 "そう言うアルの言葉に貴方は考え込む。
 何かやり残したことはあっただろうか？
 もしあるなら、やっておこう。","You thought over what Al said. Were there still things
-you wanted to do in the town? You should do them if
-you have any."
+you wanted to do in the town? Let's start with those
+first, if there are any."
 "もうすでに先に進む資格は手に入れた。
 コロシアムに参加する必要はない。","You've already obtained all three medals to progress
 further. You don't need to participate in the Colosseum
@@ -1450,40 +1450,60 @@ defeat her in the match."
 "<六花>
 『あ、あの………！
 　試合、見てました。
-　私のために、ありがとうございます！！』",""
+　私のために、ありがとうございます！！』","<Rikka>
+""U-Um! \n[1], I saw your match.
+ Thank you so much for fighting for my sake!"""
 "控室から出ると、六花が貴方に近寄り、
-ぺこりと大きく頭を下げてそう言った。",""
+ぺこりと大きく頭を下げてそう言った。","When you came out of the waiting room, Rikka approached
+and thanked you with a deep bow."
 "<六花>
 『これで私、ようやく解放されて………
-　その、本当になんて言っていいか…………』",""
+　その、本当になんて言っていいか…………』","<Rikka>
+""Now I'm finally free... I'm lost for words..."""
 "<六花>
 『とにかく、本当に感謝してます！
 　今は、お礼できるようなものは、
-　何も持ってないんですけど…………』",""
-"気にしないで",""
+　何も持ってないんですけど…………』","<Rikka>
+""I really want to thank you! But there's nothing I can
+ give you right now..."""
+"気にしないで","Don't worry about it"
 "<六花>
 『う……そうですか？
-　でも、私の気がおさまりません…………』",""
+　でも、私の気がおさまりません…………』","<Rikka>
+""Uh... Do you really need nothing? However, I won't
+ feel content by doing nothing for you..."""
 "<六花>
 『いつか必ず、お兄さんに恩を返せるよう……
-　頑張りますね！』",""
+　頑張りますね！』","<Rikka>
+""I'll work hard to repay this favor one day!"""
 "<六花>
 『いつか必ず、貴方に恩を返せるよう……
-　頑張りますね！』",""
+　頑張りますね！』","<Rikka>
+""I'll work hard to repay this favor one day!"""
 "六花は小さく握りこぶしを作り、そう宣言をする。
 彼女のそんな明るい姿を見れただけで、
-貴方は十分だった。",""
+貴方は十分だった。","Rikka clenched her hand into a fist and declared that
+she will repay you one day, but you were more than
+content with her getting cheerful like that."
 "<アル>
 『うん、元気が出てよかったよ♪
-　\n[1]、この子いいこだね♪』",""
+　\n[1]、この子いいこだね♪』","<Al>
+""Yes, it's good that she's full of energy♪
+ \n[1], she's a good girl♪"""
 "アルも六花のそんな表情を見て、
-ニコニコと笑みをこぼしていた。",""
+ニコニコと笑みをこぼしていた。","Al also smiled when Rikka's looked so cheerful."
 "<六花>
 『そうと決まれば、ゆっくりしている暇はありません…！
-　早速、私は外でレベル上げをしてきますね。』",""
+　早速、私は外でレベル上げをしてきますね。』","<Rikka>
+""Now that I've decided that, I don't have time to just
+ stand here! I'll go level up outside right away."""
 "<六花>
-『あの、本当にありがとうございました！』",""
-"六花は再び貴方に頭を下げ、去っていった。",""
+『あの、本当にありがとうございました！』","<Rikka>
+""Um... \n[1], thank you so much for your
+ help!"""
+"六花は再び貴方に頭を下げ、去っていった。","Rikka left the Colosseum after thanking you once more."
 "<アル>
 『さ、私たちもいこっか♪
-　受付で賞金とアイテム受け取ろー♪』",""
+　受付で賞金とアイテム受け取ろー♪』","<Al>
+""Then, shall we go too? Let's get the item and prize
+ money at the counter♪"""

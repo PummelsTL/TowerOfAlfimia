@@ -99,10 +99,10 @@ with their settings any time you want to."
 "また、カードを所持している敵との戦闘は、
 戦闘スキップ機能の切り替えが可能になります。
 戦闘スキップ機能をonにすると、
-敵シンボルに触れるだけで経験値が手に入る様になります。","Furthermore, you can also turn on Battle Skip against
+敵シンボルに触れるだけで経験値が手に入る様になります。","Furthermore, you can enable Battle Skip against
 the monsters you have a card for from Key Items.
-When turned on, you'll earn experience by touching the
-foes on the map."
+When enabled, you'll earn experience by touching
+the foes on the map."
 "<小悪魔A>
 『んふー♡人間さん、もう動けないの？
 　私の勝ちだねー♡』","<Imp A>
@@ -465,15 +465,15 @@ imp."
 『あ、やっほ、\n[1]君♪
 　ここは休憩所みたいなところかな？
 　モンスターも中には入ってこないみたい。』","<Karen>
-""Ah! Yahoo♪ \n[1]♪
- This room looks like a rest point that the monsters
- can't enter."""
+""Ah! Yahoo♪ \n[1]♪ It looks like this is
+ a rest point that monsters can't enter."""
 "<可憐>
 『体力が減っているとか、
 　疲れてるとかならここで休んだほうがいいんじゃないかな？
 　そこのベッドも使ってもいいみたいだしね♪』","<Karen>
-""Why not take a moment to rest if you're tired from
- all the fighting? There's even beds for sleeping♪"""
+""Why don't you take a moment to rest if you're tired
+ from all the fighting? There are even beds for
+ sleeping♪"""
 "<可憐>
 『ん？私？私は自分の足をマッサージ中♪
 　ゲームの中で筋肉がどうなってるのか分かんないけど、
@@ -489,203 +489,206 @@ that."
 "そんな光景を改めて見ていると、ほどよく筋肉がついた、
 それでいて女性らしい曲線美を描くすらりとした足に、
 貴方の喉はゴクリとなってしまう。","Now that you took a good look at Karen's legs, they
-carried just the right amount of muscle while also
-being femininely long and slender You couldn't help
-but gulp at the sight."
+had just the right amount of muscle while also being
+femininely long and slender. You couldn't help but
+gulp at the sight."
 "<可憐>
 『……\n[1]君？くす♪
 　そんなにじっと足を見られるとちょっと恥ずかしいな♡』","Karen
 ""\n[1]? Ahaha♪ It's a bit embarrassing if
- you stare at my legs♡"""
+ you stare at my legs so hard♡"""
 "そんななたの様子に可憐はクスリと頬笑みを漏らし、
 貴方にそう言葉を投げかける。貴方はそんな可憐の言葉に、
-慌てて彼女の足から視線を視線をそらした。","Karen, noticing your stare, pointed it out and giggled
-away, which made you fluster and quickly look away."
+慌てて彼女の足から視線を視線をそらした。","Karen, noticing your stare, pointed it out and giggled.
+You quickly looked away in a fluster."
 "<可憐>
 『私の足、気になるの？現実の方で町中とか歩いてても、
 　男の人の視線を感じることとかはあったんだけど……
 　そんなにいいものなのかな？これって。』","Karen
-""\n[1], could it be you're into my legs?
- I've felt men gazing at them around the town in real
- world, but are they really that good-looking?"""
+""\n[1], could you be into legs and feet?
+ I've noticed men staring at my legs now and then in
+ the real world... But do they really look that good?"""
 "可憐は不思議そうに首を傾げながら、
-足を持ち上げて貴方に柔らかそうな足裏を見せつける。","Karen tilted her head in wonder and raised her foot.
-Her soft-looking soles were in perfect view for you."
+足を持ち上げて貴方に柔らかそうな足裏を見せつける。","Karen tilted her head in wonder as she raised her leg, 
+giving you a perfect view of her soft-looking sole."
 "扇情的に持ち上げられ、見せつけられた足に、
-貴方はダメだと思っていてもやはり視線を奪われてしまう。","When Karen was lewdly holding up her leg and showing
-off her foot to you, your eyes were instantly drawn
-back to it even when you you knew you shouldn't stare
-at a girl's feet."
+貴方はダメだと思っていてもやはり視線を奪われてしまう。","You couldn't help staring. Even if you tried not to,
+your eyes got drawn to Karen's foot when she held it
+up in such a sensational way for you."
 "<可憐>
 『ねぇ、そんなに気になるなら……
 　私の足、舐めてみる？』","Karen
-""Hey, if you're that into my foot... Want to lick it?"""
+""Hey, if you like my feet so much... Do you want to try
+ licking them?"""
 "唐突にそんな提案を行う可憐に、
-貴方は弾かれたように驚いた顔で彼女を見つめる。","Karen's question came so out of the left field that
-you couldn't hide the surprise showing on your face."
+貴方は弾かれたように驚いた顔で彼女を見つめる。","You recoiled from shock when Karen suddenly asked such
+an unexpected thing."
 "<可憐>
 『女の子の足を舐めさせられて、
 　上下関係を植え付けられるのが好きな人……
 　そういう、「マゾ」な男の子もいるんだよね？』","Karen
-""There are type of boys who love it when a girl
- dominates them and makes them lick her feet...
- Such masochist boys exist, right?"""
+""I've heard of boys who like it when a girl makes
+ them lick her feet... When a girl dominates them.
+ There are those kinds of masochist boys, right?"""
 "<可憐>
 『私は聞いたことくらいしかなかったけど……
 　\n[1]君、
 　君ってもしかしてそういう「マゾ」なんじゃない？』","Karen
-""I've only heard of such boys...
- But, \n[1], perhaps you're one of them?"""
+""I've only heard about them... But could it be that
+ you're one of them, \n[1]? Are you a
+ masochist boy who likes to lick girls' feet?♡"""
 "貴方は心を見透かすような彼女の言葉にうろたえ、
-誘惑するような彼女の足裏から目が離せない。","You mind blanked out when Karen's managed to figure out
-your hidden desires. Her foot was so tempting that you
-couldn't look away."
+誘惑するような彼女の足裏から目が離せない。","You lost your presence of mind when Karen asked that 
+as if seeing into your mind. You couldn't tear your
+gaze away from her tempting foot."
 "<可憐>
 『……くす♪おちんぽ、大きくなってるね♡
 　私の足見ながら、
 　舐めさせられるって想像して興奮しちゃったんだ♪』","Karen
-""Ahaha♪ Even your dick is getting hard♡ Could you not
- help imagining how amazing it would be to lick my foot
- when I'm dangling it right in front of you like this?"""
+""...Ahaha♪ Your dick is getting hard♡ Looks like you 
+ can't help imagining how amazing it would be to lick 
+ my foot when I'm dangling it in front of you♪"""
 "<可憐>
 『いいよ♪レベルをくれたお礼に………
 　私の足、舐めさせてあげる♡ほら、そこに横になって？
 　\n[1]君の顔、踏んであげるから♪』","Karen
-""That's okay♪ Since you gave me your levels in our
- earlier duel, I'll let you lick my foot as a reward♡
- Lie down here and I'll help my foot on your face♪"""
+""It's okay♪ Since you gave me your levels earlier...
+ I'll let you lick my foot as a reward for it♡ Now,
+ lie down here, and I'll stick my foot in your face♪"""
 "貴方は思いがけない状況にぼーっとする頭で、
-可憐に言われるがまま、その場で横になってしまう。","The situation developed in such an unexpected direction
-that you simply lied down as per told by Karen in your
-confusion."
+可憐に言われるがまま、その場で横になってしまう。","Your mind couldn't keep track of things when the
+situation developed in such an unexpected direction.
+You ended up doing as told and lying down in front of
+Karen."
 "<可憐>
 『あはは♪ほんとに横になっちゃうんだ？
 　こんな風に見下ろされちゃって、
 　悔しいとか思わないんだね♪』","Karen
 ""Ahaha♪ Wow! I can't believe you really lied down♪
- You don't find it humiliating when a girl is looking
+ Don't you think it's humiliating when a girl looks
  down on you like this?"""
 "<可憐>
 『それじゃあ、このまま踏んであげるね？
 　ほら、口の中に私の足の指入れてあげる♡
 　ちゃんと丁寧に舐めるんだよ♪』","Karen
-""Then, I'm going to go ahead and step on your face♡
- And stick my toes inside your mouth♡ Make sure to
- lick them well♪"""
+""Then, I'm going to step on your face♡ I'll stick my
+ toes in your mouth, so make sure to lick them clean♪"""
 "可憐は貴方の口に強引に足をねじ込む。
 貴方は口の中に入ってきた彼女の足の指に這わせ、
 汗が少ししみこんだタイツ越しに丁寧に舐めて、
-その屈辱と興奮が入り混じったような感情に浸ってしまう。","Karen shoved her left foot in your mouth. Licking her
-toes through her slightly sweaty stockings filled you
-with a mixed feeling of excitement and humiliation."
+その屈辱と興奮が入り混じったような感情に浸ってしまう。","Karen shoved her left foot in your mouth and wriggled
+her toes around. The act of licking licking her toes
+through her slightly sweaty stockings filled you with
+the sensation of humiliation and arousal."
 "<可憐>
 『くす♪そうしてると、なんだか犬みたいだね♡
 　シャワーなんて浴びてないし、
 　足の指なんて汚いままでしょ？』","Karen
-""Ahaha♪ It's like you're a dog when you lick my foot
- like that♡ My toes must be pretty sweaty since I
- haven't got to take a shower♡"""
+""Ahaha♪ You're almost like a dog when you're licking my
+ foot like that♡ I haven't got to take a shower, so it
+ must be quite sweaty after all fighting and walking♡"""
 "<可憐>
 『そんなところ舐めさせられてるのに、
 　おちんぽ大きくしたままなんだ？
 　やっぱり\n[1]君は変態で、マゾだったんだね♪』","Karen
-""Nevertheless, licking them is making you hard♡
- \n[1], you're a pervert and a masochist
- after all♪"""
+""But even when they're sweaty, licking my foot is 
+ making your dick hard♡ \n[1], it looks
+ like you are a pervert and a masochist♪"""
 "<可憐>
 『ほら、もっとちゃんと舐めて？
 　丁寧にしないと、　
 　足の指で\n[1]君の口の中、かき混ぜちゃうよ♡』","Karen
-""Hey, you need to carefully lick through every spot♡
- If you don't, I'll shove my foot deeper into your
- mouth♡"""
+""Hey, make sure to carefully lick every spot♡ If you 
+ don't, I'll shove my foot deeper into your mouth♡"""
 "可憐は脅すようにそう言いながら、
 ぐっと少し奥に足の指をねじ込ませる。
 貴方は彼女に言われるがまま、
-無様に足を舐め続けるしかできない。","Karen threateningly pushed her foot deeper. You had
-no other choice than to pick up the pace at shamefully
-licking her foot."
+無様に足を舐め続けるしかできない。","After saying that, Karen threateningly pushed her foot
+slightly deeper. You had no choice but to continue
+licking her foot shamefully."
 "<可憐>
 『ふふ♡全然ダメ♪
 　もっと舌を這わせて綺麗にしてもらわないと♡
 　じゃ、宣言通りかき混ぜちゃうね♪』","Karen
-""Ahaha♡ That's not even close to good enough♪
- You need to make better use of your tongue to clean
- my foot♡ Time to give it to you then♪"""
+""Ahaha♡ That's not even close to good enough♪ You
+ need to use more of your tongue to clean my toes♡
+ Since you did a bad job, I'll shove my foot deeper♪"""
 "可憐は足の指を動かし、
 まるで貴方の舌とキスさせるように濃厚に絡ませる。
 足の指なんかとキスさせられているような状況に、
-屈辱感を感じながらも肉棒はびくびくと震えてしまう。","Karen shoved her foot deeper into your mouth and
-entangled her toes around your tongue in a pseudo kiss.
-Deeply kissing her toes like that filled you with 
-humiliation, but your penis also throbbed hard from it."
+屈辱感を感じながらも肉棒はびくびくと震えてしまう。","Karen pushed her foot deeper into your mouth and caught
+your tongue between her toes in a pseudo kiss. The act
+of French kissing her toes filled you with humiliation,
+but it also made your penis throb hard."
 "<可憐>
 『ほら、\n[1]君♡
 　足の指で口の中ぐちゃぐちゃにされながら、
 　おちんぽ触ってシコシコしていいよ♪』","<Karen>
-""Hey, \n[1]♡ I don't mind if you want to
- touch yourself while making out with my toes♪"""
+""Hey, \n[1]♡ If you want to touch yourself
+ while making out with my toes, I won't mind♪"""
 "<可憐>
 『こうやって女の子に見下ろされて、
 　足の指をお口に無理やりねじ込まれるっていう、
 　屈辱的な状況に興奮しちゃって我慢できないんだよね♡』","<Karen>
-""Your dick looks like it's about to burst when you've
- got a girl looking down on you and showing a foot in
- your mouth♡ Even when it's so humiliating♡"""
+""It's turning you on so hard when I'm looking down on
+ you and shoving my foot in your mouth that you can
+ barely contain yourself, right?"
 "貴方は口の中をかき混ぜてくる彼女の足の指に、
 必死に舌を絡ませながら、
-言われた通りに肉棒に手を添えてしまう。","You continued licking and making out with Karen's toes
-while your hands moved to your groin on their own."
+言われた通りに肉棒に手を添えてしまう。","Your hand ended up on your penis when Karen gave you
+the permission while you kept licking and making out
+with her toes."
 "<可憐>
 『そのままシコシコ♡
 　男の子が絶対しちゃいけないような負け犬シコシコ♡
 　私の足の指舐めながら、しちゃえ♪』","<Karen>
-""Yes, start stroking it♡ Stroke your dick like a total
- loser♡ Stroke yourself while kissing my toes♪"""
+""Yes, and now start stroking it♡ Stroke it even when
+ you should never do it in this kind of situation♡
+ Stroke it like a loser while licking my toes♪"""
 "そして、貴方は可憐に言われるがまま、
-肉棒に添えた手を握りしめ、上下に動かしてしまう。","As per Karen's orders, you grabbed your penis tight
-and began stroking it up and down."
+肉棒に添えた手を握りしめ、上下に動かしてしまう。","When Karen told you what to do, you tightly gripped 
+your penis and started stroking it."
 "<可憐>
 『くす♪情けないオナニー♡
 　女の子に、君は私より下だよって足で教えられてるのに、
 　おちんちん扱いて気持ちよくなっちゃう♡』","<Karen>
-""Ahaha♪ I can't believe you're getting off on this♡
- A girl is totally toying you with her foot, but
- you're loving every moment of it♡"""
+""Ahaha♡ That's such a miserable way to masturbate♡
+ You feel good while touching yourself even when a 
+ girl is dominating you with her foot♡"""
 "<可憐>
 『恥ずかしいのに、でも、すごく気持ちいいよね♪
 　夢中でおちんぽ扱いちゃってるんだもん♡
 　一度始めちゃったら、もう止めることなんてできないね？』","<Karen>
-""It's so humiliating, but that makes it all the better,
- right? You're stroking your dick in total trance♡
- Now that you've started, you can't stop♡"""
+""Even when it's really shameful, it feels so good♪
+ You're stroking your dick in a total trance♡
+ Now that you've started, you can't stop, right?"""
 "<可憐>
 『このまま足を舐めながら、イかされちゃう♡
 　でも、このままそれで終わりはちょっとつまらないから、
 　罰、用意しよっか♪』","<Karen>
-""You're going to keep licking my foot and stroking
- yourself until you cum♡ But that would be a bit
- boring, so why don't we do punishment game?"""
+""You'll continue masturbating and licking my foot until
+ you cum♡ But it would be a bit boring if we finished 
+ with that, so why don't we do a punishment game?"""
 "<可憐>
 『もしこのままイっちゃったら、
 　この足で履いていて、汗で蒸れちゃった私の靴♡
 　それ嗅ぎながら、強制シコシコしてもらおうかな♡』","<Karen>
-""If you cum while licking my foot, maybe I'll have you
- fap while sniffing my shoes? The really smelly shoes
- that these feet have been in♡"""
+""If you cum while licking my foot... Hmm... You have
+ to masturbate while sniffing my shoe♡ The really 
+ smelly and sweaty shoe that this foot has been in♡"""
 "可憐は貴方の口の中に足をいれてかき混ぜながら、
-くすくすと楽しげに笑ってそう告げる。","Karen told you about the punishment with a smile and
-giggles while shoving her foot in your mouth."
+くすくすと楽しげに笑ってそう告げる。","Karen told you about the punishment game with a giggle
+while wiggling her toes around in your mouth."
 "<可憐>
 『足なんかよりずっと匂うと思うよ？
 　さすがに変態の\n[1]君でも、それは嫌でしょ♪』","<Karen>
-""I bet that my shoes smell way worse than my feet.
- \n[1], surely even a pervert like you would
- feel repulsed♪"""
+""My shoes should smell way worse than my feet♪
+ I'm sure that even a pervert like you will feel
+ repulsed to sniff them, \n[1]♪"""
 "<可憐>
 『それとも、
 　そんなことまでご褒美になっちゃったりする？
-　女の子が履いてた濃い匂いの靴で強制シコシコ♡』","<Karen>
+　女の子が履いてた濃い匂いの靴で強制シコシコ♡』","<Karen>###
 ""Or perhaps you're even worse pervert than I thought,
  and even my shoes would get you off? How does it
  sound? Fapping while sniffing a girl's smelly shoes?"""
