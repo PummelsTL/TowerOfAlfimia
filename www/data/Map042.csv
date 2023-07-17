@@ -9,8 +9,8 @@
 "<未来>
 『大したもてなしはできないけど…………
 　何か飲んでく？』","<Mirai>
-""I don't have much to present for guests, but would
- you like something to drink?"""
+""I don't anything fancy to offer, but would you like
+ a drink?"""
 "<アル>
 『わーい♪私、甘いジュースが飲みたい！』","<Al>
 ""Yay♪ I want sweet juice!"""
@@ -30,7 +30,7 @@
 　とにかく、この子の言うように油断は禁物だね！』","<Al>
 ""Tighten your helmet strings in the hour of victory,
  or how does the saying go? At any rate, we should be
- careful like she said!"""
+ careful as she said!"""
 "<未来>
 『あ、\n[1]…………えっと、大丈夫？　
 　この前の試合…………』","<Mirai>
@@ -41,25 +41,25 @@
 "<未来>
 『質の悪い新人狩りにあっちゃったね……
 　ごめん、注意しておくべきだったかも』","<Mirai>
-""It turned into a nasty newbie hunt... I'm sorry, I
- should have warned you about that."""
-"未来はそう気まずそうに謝罪する。","Mirai apologized to you while looking down."
+""It turned into a nasty newbie hunt... I'm sorry.
+ I should have warned you about them."""
+"未来はそう気まずそうに謝罪する。","Mirai looked down and apologized."
 "未来は悪くない","It's not your fault"
 "お前のせいだ","It's your fault"
 "<未来>
 『ありがと、そう言ってくれると気は楽になる、かな。
 　今更遅いと思うけど、コロシアムでは気を付けてね。』","<Mirai>
-""Thank you. Hearing that makes me feel a bit easier.
+""Thank you. I feel easier when you say that.
  It's a bit late, but be careful at the Colosseum."""
 "未来はぎこちない笑みでそう言葉を口にする。
-言葉とは裏腹にまだ後悔しているようだった。","Mirai said that with a slightly stiff smile. Seems
-like she's still feeling regretful for not warning
-you in time."
+言葉とは裏腹にまだ後悔しているようだった。","Mirai said that with a slightly stiff smile. While she
+said that she felt easier, she still seemed to regret
+not warning you in time."
 "<アル>
 『この子、まだ結構気にしてるみたいだね…
 　次はあの子に勝って、安心させてあげよ！』","<Al>
 ""It looks like she's still quite worried... Let's give
- her a peace of mind by winning our next match!"""
+ her peace of mind by winning our next match!"""
 "貴方はアルの言葉に頷いた。","You nodded to Al."
 "<未来>
 『う、そうだよね、恨んでるよね………
@@ -74,237 +74,375 @@ you in time."
 "あたりを気まずい沈黙が支配した。","Awkward air filled the room."
 "<未来>
 『なんだか、凄い強い人に当たっちゃったみたいだね。
-　大丈夫、\n[1]？』",""
+　大丈夫、\n[1]？』","<Mirai>
+""\n[1], I saw how you ended up facing
+ a really strong opponent. Are you alright?"""
 "<未来>
 『たまにいるみたいなんだよね、そういう人が。
-　運が悪かったと思って、気にしないほうがいいと思うよ？』",""
-"未来が落ち込む貴方にそう慰めの言葉をかける。",""
+　運が悪かったと思って、気にしないほうがいいと思うよ？』","<Mirai>
+""Sometimes things like that happen. It was simply bad
+ luck, so you shouldn't let it get you down."""
+"未来が落ち込む貴方にそう慰めの言葉をかける。","Mirai comforted you as you felt down."
 "<アル>
 『あの子、本当に強かったね…
-　\n[1]、無理、しないでね？』",""
+　\n[1]、無理、しないでね？』","<Al>
+""That girl was really strong... \n[1],
+ please don't let it get to you."""
 "<未来>
 『あ、\n[1]、あれから大丈夫だった？
-　また優香に無理やりPvPをしかけられたとか…』",""
+　また優香に無理やりPvPをしかけられたとか…』","<Mirai>
+""Ah, \n[1]. Have things been fine after
+ running into Yuuka? She hasn't tried to force
+ you into a fight again, has she?"""
 "そう尋ねる未来に、貴方は大丈夫だと伝え、
-改めてあの時のことへの感謝を伝えた。",""
+改めてあの時のことへの感謝を伝えた。","You told Mirai that you've been fine and thanked her
+again for the help when Yuuka tried to fight you in
+the town."
 "<アル>
 『ね！あの時は本当に助かったよ！
-　ありがとう♪』",""
+　ありがとう♪』","<Al>
+""Yeah! She really saved us back there!
+ Thank you♪"""
 "<未来>
 『いいっていいって♪
 　あの時も行ったけどそれが私の仕事でもあるんだしね。
-　これからも何かあったら頼っていいよ？』",""
+　これからも何かあったら頼っていいよ？』","<Mirai>
+""Oh, don't worry about it♪ I said it back then too,
+ but that is part of my job. You can even ask me for
+ help if something or someone bothers you again."""
 "未来はくすくすと笑いながらそう告げた。
 …彼女には世話になりっぱなしだ。
-いつか恩返しができたら、とそう考える。",""
+いつか恩返しができたら、とそう考える。","Mirai told you not to worry about it with a slight
+giggle. She's looked after you so much, that you
+wanted to repay this kindness somehow."
 "<未来>
 『そんなに気にしなくていいってば♪…まぁいつか、
 　強くなって気が向いたらバンガードに入ってくれると…
-　ああ、いや、でもなぁ～……』",""
+　ああ、いや、でもなぁ～……』","<Mirai>
+""You don't need to worry about that♪. ...Well, if you
+ wanted to join the Vanguard when you're strong...
+ Oh, but that would..."""
 "未来はそう途中で言葉を濁した。
-そんな彼女を不思議に思い、どうしたのかと貴方は尋ねる。",""
+そんな彼女を不思議に思い、どうしたのかと貴方は尋ねる。","Mirai suddenly stopped in the middle of her sentence.
+You wondered what happened and asked what's wrong."
 "<未来>
 『ん～…まぁ、これはあくまで私の感想なんだけど…
 　なんか最近バンガードも変わってきてる気がするんだよね。
-　こう、悪い方向に。』",""
+　こう、悪い方向に。』","<Mirai>
+""Hmm... Well, this is my personal impression,
+ but I feel like the Vanguard has changed recently.
+ And that is not in a good way."""
 "<未来>
 『最初は単純に、
 　このゲームで嫌な思いをする人が少なくなるように、
-　ってそんな目的で活動してたんだけど…』",""
+　ってそんな目的で活動してたんだけど…』","<Mirai>
+""In the beginning, our goal was simply to reduce the
+ bad-doers in this game..."""
 "<未来>
 『最近は自分たちが偉いと思っているというか、
 　困ってるって依頼も選別するようになったり…
-　悪いことでも見過ごすことが増えたり…』",""
+　悪いことでも見過ごすことが増えたり…』","<Mirai>
+""But recently, some of the requests we receive get
+ overlooked even when there's clearly someone in
+ trouble, among other things..."
 "そう言いながら未来はため息をつく。
 どうやらバンガードも完全な正義の味方、
-というわけではないらしい…",""
+というわけではないらしい…","Mirai sighed after her explanation. It turns out that
+the Vanguard isn't the perfect ally of justice."
 "<アル>
 『う～…なんかちょっとがっかり…
-　あんまりよくないメンバーもいるってことなのかな…？』",""
+　あんまりよくないメンバーもいるってことなのかな…？』","<Al>
+""Uuh... That's a bit disappointing to hear...
+ Does that mean they have bad members too?"""
 "<未来>
 『……っと、ごめんごめん。
 　こんなこと愚痴っても仕方ないよね。
-　私は私にできることをやらないと！』",""
+　私は私にできることをやらないと！』","<Mirai>
+""...Oh, sorry. My grumbling won't help the situation.
+ I need to focus on doing what I can!"""
 "未来は憂鬱そうな顔を引き締めると、
 にこりと笑ってそう告げた。
 そんな未来に貴方は、
-未来は凄いなとそう言葉をかける。",""
+未来は凄いなとそう言葉をかける。","Mirai shook away her sad look and faced you with
+a smile again. You told her that she's amazing what
+she does."
 "<未来>
 『あはは、ありがと♪
 　少しは先輩っぽく、凄い所を見せとかないとね♪
-　私ってほら、身長小さいからなめられやすいし…』",""
-"先輩！尊敬してます！",""
-"確かにちっちゃい",""
+　私ってほら、身長小さいからなめられやすいし…』","<Mirai>
+""Ahaha♪ Thank you♪ I need to show off how I'm the
+ senpai in the town♪ You see, people often belittle
+ me because I'm short..."""
+"先輩！尊敬してます！","I respect you, Senpai!"
+"確かにちっちゃい","You're certainly on the short side"
 "<未来>
 『ふふ～、そうでしょ？
 　苦しゅうないぞ、後輩君♪
-　その調子でもっと先輩を敬いなさい♡』",""
+　その調子でもっと先輩を敬いなさい♡』","<Mirai>
+""Ehehe♪ I won't object to that, Mr. Kouhai♪
+ Keep that up and honor me even more♡"""
 "<未来>
 『……なんてね♪
 　まぁ、私は先輩として頑張るから、
-　\n[1]は\n[1]で頑張ってね？』",""
+　\n[1]は\n[1]で頑張ってね？』","<Mirai>
+""...Just kidding♪ But I'm working hard as the senpai,
+ so you should also work hard in your own way,
+ \n[1]♪"""
 "<未来>
 『やっぱりこの街では、
 　強くなっておくことに越したことはないんだもん。
-　お互い、頑張ろうね♪』",""
+　お互い、頑張ろうね♪』","<Mirai>
+""It is better to become strong in this town.
+ Let's do our best likewise♪"""
 "<アル>
 『そうだね！よーし、
-　たくさんレベル上げがんばろー♪』",""
+　たくさんレベル上げがんばろー♪』","<Al>
+""She's right! Okay, let's get to grinding those
+ levels♪"""
 "<未来>
 『お、いい度胸してるね。
 　なんなら私とPvPでもしてく？
-　…お仕置き、してあげよっか？♡』",""
+　…お仕置き、してあげよっか？♡』","<Mirai>
+""Oh, you have some nerve... Then, would you like to
+ have a PvP match with me? I'll wipe the floor with
+ you♡"""
 "<アル>
 『め、めちゃくちゃ怖いよ！？
 　この子、本気出したらあの子にも勝てたんじゃ…
-　と、とにかくごめんなさいしないとだね！』",""
+　と、とにかくごめんなさいしないとだね！』","<Al>
+""S-Scary! That strong girl wouldn't stand a chance
+ if she got serious... A-At any rate, you should
+ apologize!"""
 "アルの言葉通りにこりと笑顔で凄む未来に、
 貴方はすぐに謝罪した。
-その圧力は優香に引けを取らなかった気がする…",""
+その圧力は優香に引けを取らなかった気がする…","You instantly apologized at Al's prompt when Mirai
+threatened you with a smile. The pressure she emitted
+made Yuuka feel like a fly in comparison."
 "<未来>
 『はい、よろしい♪
 　いいよ、その素直な態度に免じて許してあげる♪
-　…って、話がちょっとずれちゃったけど…』",""
+　…って、話がちょっとずれちゃったけど…』","<Mirai>
+""Fine, I'll forgive you♪ Oh, we got a bit off-topic
+ there..."""
 "<未来>
 『まぁ、そういう事情で、
 　いつでもバンガードが\n[1]の力になれる…
-　そういうわけじゃないと思う。』",""
+　そういうわけじゃないと思う。』","<Mirai>
+""But that's the situation at the Vanguard right now,
+ so I doubt you'll immediately get help if you're in
+ trouble."""
 "<未来>
 『あ、もちろん組織としてじゃなくて、
 　私個人としてならいくらでも力になるよ？
-　その時は遠慮しないでね♪』",""
+　その時は遠慮しないでね♪』","<Mirai>
+""Ah, but if you come directly to me instead of through
+ the organization, I'm always ready to help you♪
+ Don't hesitate to tell me if you're in trouble♪"""
 "<未来>
 『…まぁでも、そういうわけだから…
 　自衛できるくらいの力は身に着けてて損はないと思う。
-　レベル上げ頑張れ♡\n[1]♪』",""
+　レベル上げ頑張れ♡\n[1]♪』","<Mirai>
+""But it wouldn't be bad if you become strong enough
+ to defend yourself, so you should do your best to
+ level up, \n[1]♪"""
 "そうエールを送ってくれる未来に頷く。
 バンガードが頼りになるか分からない…
 できる限り火の粉は振り払えるように、
-これからもレベル上げを頑張っていこう。",""
+これからもレベル上げを頑張っていこう。","You nodded to Mirai when she gave you the advice.
+You decided to focus on leveling up since it's doubtful
+if the Vanguard can help you out of a bad situation."
 "<未来>
 『ん？どうしたの？
-　何か困りごとでもあった？』",""
+　何か困りごとでもあった？』","<Mirai>
+""Hmm? \n[1], what is it?
+ Does something trouble you?"""
 "首をかしげてそう尋ねる未来に、
-今のところは特にないから大丈夫だと沿う返事をした。",""
+今のところは特にないから大丈夫だと沿う返事をした。","Mirai tilted her head and asked if something was
+troubling you. You replied that nothing is worrying
+you right now."
 "<未来>
 『そっか♪それならよかった♪
 　あ、それじゃ遊びに来ただけかな？
-　ちょっと待ってね、ジュースでも出してあげる。』",""
-"…………",""
-"そうして貴方は未来と楽しい時間を過ごした…",""
+　ちょっと待ってね、ジュースでも出してあげる。』","<Mirai>
+""I see♪ That's good to hear♪ Ah, did you just come to
+ play then? Wait a moment♪ I'll prepare juice for you♪"""
+"…………","..."
+"そうして貴方は未来と楽しい時間を過ごした…","You spent some enjoyable time with Mirai."
 "<未来>
 『っと、ずいぶん話し込んじゃった。
 　ありがと、今日は楽しかったよ♪
-　また遊びに来てね。』",""
+　また遊びに来てね。』","<Mirai>
+""Oh, we ended up chatting for quite a long.
+ Thank you, I had fun spending time with you♪
+ Please feel free to visit me again."""
 "<アル>
 『えへへ～♪
 　たくさんお菓子食べちゃった！
-　また遊びに来ようね！』",""
+　また遊びに来ようね！』","<Al>
+""Ehehe♪ I got to eat many sweets!
+ Let's come to play again!"""
 "<未来>
 『タイミングが悪いというか………
 　一度負けてしまった戦法を、
-　真似されると厳しいものがあるよね。』",""
+　真似されると厳しいものがあるよね。』","<Mirai>
+""\n[1], your match... I think the timing was
+ just bad. Facing an opponent with the same skillset
+ you lost to must be difficult."""
 "<未来>
 『本来の\n[1]の実力ならあの子には勝てるはずだから、
 　少しコロシアムで戦うのを控えて、
-　リハビリしてから挑んだほうがいいんじゃないかな？』",""
+　リハビリしてから挑んだほうがいいんじゃないかな？』","<Mirai>
+""I believe you should be able to beat her at your full
+ strength. Maybe you should take a small break from the
+ Colosseum as rehabilitation?"""
 "<アル>
 『しっかり戦法を練られてたよね……
 　\n[1]、こっちも油断せず、
-　この子の言う通り準備を整えてからリベンジしようね！』",""
+　この子の言う通り準備を整えてからリベンジしようね！』","<Al>
+""She really pulled a fast one on us with her tactics...
+ \n[1], we shouldn't get careless and
+ prepare before the rematch, as this girl said!"""
 "<未来>
-『また、負けちゃったんだね…………』",""
+『また、負けちゃったんだね…………』","<Mirai>
+""\n[1], you ended up losing again..."""
 "<未来>
 『\n[1]、大丈夫？
 　あんまり言いたくないけど、
-　コロシアムで負けることの虜になってない？』",""
-"未来は少し心配そうな顔で貴方の顔を覗き込む。",""
-"そんなことはない",""
-"虜になってるかも",""
+　コロシアムで負けることの虜になってない？』","<Mirai>
+""Are you alright? I don't really want to ask this...
+ But have you got hooked on losing at the Colosseum?"""
+"未来は少し心配そうな顔で貴方の顔を覗き込む。","Mirai looked at you with a worried gaze."
+"そんなことはない","I'm not hooked"
+"虜になってるかも","Maybe I'm hooked..."
 "<未来>
 『そう？それならいいんだけど……
 　コロシアムでの敗北が癖になっちゃった人は、
-　すぐにレベルを全部吸い取られて…………』",""
+　すぐにレベルを全部吸い取られて…………』","<Mirai>
+""It's good if that's the case... Because people who
+ get hooked on losing at the Colosseum will quickly
+ lose all of their levels..."""
 "<未来>
 『雑魚モンスターに勝てなくなって、
-　ゲームオーバーになっちゃう。』",""
+　ゲームオーバーになっちゃう。』","<Mirai>
+""And then they can't defeat even the weakest monster
+ and get a game over."""
 "<未来>
 『だから\n[1]も、その調子で心を強く持ってね？
-　応援してるよ♪』",""
+　応援してるよ♪』","<Mirai>
+""That's why you should keep your mind strong like
+ you have. Remember that I'll cheer for you,
+ \n[1]♪"""
 "<アル>
 『一緒にこのゲームをクリアするために、
-　頑張ろ？\n[1]、快楽なんかに負けちゃダメだよ！』",""
+　頑張ろ？\n[1]、快楽なんかに負けちゃダメだよ！』","<Al>
+""\n[1], let's do our best to clear this game
+ together! Never lose to pleasure or anything else!"""
 "<未来>
 『\n[1]……どんな遊び方をするのかは人の自由、だけど。
 　コロシアムでの敗北の虜になっちゃったら、
-　すぐにレベルを全部搾られちゃって…………』",""
+　すぐにレベルを全部搾られちゃって…………』","<Mirai>
+""\n[1]... Each player is free to choose how
+ they play, but you should know that people who get
+ hooked to losing quickly lose all their levels..."""
 "<未来>
 『そういう、パターンみたいなのがあるの。
-　だから、気を強く持って？』",""
+　だから、気を強く持って？』","<Mirai>
+""I have seen that pattern happen. That's why...
+ Please keep your mind strong and don't lose."""
 "<未来>
 『おめでとう♪この前の試合も勝ってたね。
 　これで\n[1]も3勝♪
-　先に進めるようになったわけだけど………どうするの？』",""
-"クリアを目指して先に進む",""
-"もう少しこの街にいる",""
+　先に進めるようになったわけだけど………どうするの？』","<Mirai>
+""\n[1], congratulations♪ You won another
+ match, bringing you to 3 wins in total♪ You can now
+ progress past the town... So what are your plans?"""
+"クリアを目指して先に進む","I'll progress on"
+"もう少しこの街にいる","I'll stay in the town for a while"
 "<未来>
 『そっか……ちょっと寂しくなっちゃうね。
-　先に進んで帰ってきた人はいないから…………』",""
+　先に進んで帰ってきた人はいないから…………』","<Mirai>
+""I see... I'm going to get a bit lonely. No one who
+ has entered the mansion has returned..."""
 "<未来>
 『\n[1]も、しっかり準備してから先に進むんだよ？
-　クリア目指して頑張ってね、応援してる♪』",""
+　クリア目指して頑張ってね、応援してる♪』","<Mirai>
+""You're going to fully prepare before heading there,
+ right? Do your best to clear the game♪ I'll cheer for
+ your success♪"""
 "<アル>
 『さ、\n[1]！名残惜しいけどいこっか♪
-　この子の言う通り、準備は怠らないようにね！』",""
+　この子の言う通り、準備は怠らないようにね！』","<Al>
+""Now, \n[1]! It's sad to part with her,
+ but let's go♪ And let's not forget the preparations,
+ as she said!"""
 "<未来>
 『そっか♪この街、居心地良いもんね。
-　私と同じ選択をしたわけだ♪』",""
+　私と同じ選択をしたわけだ♪』","<Mirai>
+""I see♪ So you've also found how comfortable the life
+ here is♪"""
 "<未来>
 『もう\n[1]に向かって先輩ぶることはできないかな？
-　なんだか、あっという間だったな。』",""
+　なんだか、あっという間だったな。』","<Mirai>
+""It's like I can no longer act like a senpai to you.
+ It all happened so fast."""
 "<未来>
 『もう少しこの町にいるつもりなら、
-　お金をためて私みたいに家を買うといいかもよ？』",""
+　お金をためて私みたいに家を買うといいかもよ？』","<Mirai>
+""Maybe you should also save up for a house like me if
+ you plan to stay for a while?"""
 "<未来>
 『なんにせよ、これからもよろしくね。
-　ちょくちょく遊びに来てくれると嬉しいな。』",""
+　ちょくちょく遊びに来てくれると嬉しいな。』","<Mirai>
+""But whatever you choose to do, I would be happy if
+ you came to visit me now and then♪"""
 "<アル>
 『別に急ぐわけじゃないもんね♪
 　\n[1]、私美味しいご飯もっと食べたい！
-　後で酒場にいこー？』",""
+　後で酒場にいこー？』","<Al>
+""It's not like we're in a rush after all♪
+ \n[1], I want to eat more delicious food!
+ Why don't we hit the restaurant after this?"""
 "<アル>
 『この子は、奴隷についてあんまり知らないんだね…
-　\n[1]…………その…………』",""
+　\n[1]…………その…………』","<Al>
+""It looks like she doesn't know about the enslaving
+ thing... Um, \n[1]..."""
 "アルは言葉を口にしかけ、
-そのまま飲み込むように俯いてしまった。",""
+そのまま飲み込むように俯いてしまった。","Al was about to say something but then swallowed her
+words."
 "<アル>
 『\n[1]が街に残るのは、
-　やっぱり奴隷にしたあの人を犯すため……？』",""
+　やっぱり奴隷にしたあの人を犯すため……？』","<Al>
+""Um, \n[1]... Are you staying in the town
+ so that you can violate that woman you enslaved...?"""
 "<未来>
 『いらっしゃい、\n[1]♪
 　今日はちょっと買い物に行く予定だったんだけど……
-　よかったら一緒に行く？』",""
+　よかったら一緒に行く？』","<Mirai>
+""Welcome, \n[1]♪ I was planning to go
+ shopping today, but would you like to join me?"""
 "<アル>
-『わーい♪お買い物ー♪』",""
+『わーい♪お買い物ー♪』","<Mirai>
+""Yay♪ Shopping♪"""
 "EV005",""
 "ふわふわで柔らかそうなベッドだ。
-いつも未来はここで寝ているのだろうか……","It's a soft and fluffy bed. This is where Mirai
-probably sleeps..."
+いつも未来はここで寝ているのだろうか……","It's a soft and fluffy bed. This must be where Mirai
+sleeps."
 "<未来>
 『\n[1]？
 　そんなにベッドをじろじろ見られると、
 　ちょっと恥ずかしいんだけど…………』","<Mirai>
-""\n[1], isn't a bit embarrassing if you keep
- staring at my bed..."""
-"寝転がろうとする","Lie down on it"
+""\n[1], it's a bit embarrassing if you stare
+ at my bed so much..."""
+"寝転がろうとする","Roll on the bed"
 "謝る","Apologize"
 "<未来>
 『ちょ、ちょっと何しようとしてるの！？
 　あんまり悪戯するようなら私も怒るからね！』","<Mirai>
-""W-Wait! What are you doing?! I'm going to get angry
- if you mess around too much!"""
+""\n[1]?! What are you doing?! I'll really
+ get angry if you mess around too much!"""
 "<未来>
 『ん、よろしい♪
 　ほら、そんなとこにいないでこっちでゆっくりしなよ。』","<Mirai>
-""Thank you for understanding♪ Now, why don't you step
- away from my bed and sit down with me?"""
+""Thank you for understanding♪ Now then, why don't you
+ join me at the table?"""
