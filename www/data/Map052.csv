@@ -2,83 +2,90 @@
 "<優香>
 『なに？私はまだ動けないけど……
 　…心配なんていらないからね。
-　さ、さっさとどっか行って！』",""
+　さ、さっさとどっか行って！』","<Yuuka>
+""What? I can't move yet, and I don't need your worry.
+ Just go away!"""
 "<優香>
 『なに？私に犯されたくなったの？
 　もうちょっと待ってなさい、
-　もっと強くなってから望み通り負かしてあげるから♡』",""
+　もっと強くなってから望み通り負かしてあげるから♡』","<Yuuka>
+""What? Do you want me to violate you now?
+ Just wait a little longer. I'll get stronger
+ and beat you just like you want♡"""
 "<優香>
-『うぅぅ…………』",""
+『うぅぅ…………』","<Yuuka>
+""Uuuh..."""
 "EV002",""
 "<優香>
 「お、やっと来た来た♪
 　コロシアムで3勝したって聞いたから、
 　ここで待ってればそのうち来ると思ってたんだよね♪」","<Yuuka>
 ""Oh, you're finally here♪ I heard that you won three
- matches at the Colosseum, so I was sure I would run
- into you if I waited here♪"""
+ matches at the Colosseum, so I knew I would run into
+ you here♪"""
 "貴方の姿を見かけて、
-くすくすと笑みを浮かべながら優香が声をかけてくる。","Yuuka called you out with a grin after spotting you."
+くすくすと笑みを浮かべながら優香が声をかけてくる。","Yuuka called you out with a grin after she spotted you."
 "<アル>
 『この子が\n[1]のことを待ってた？
 　…………なんだろう、
 　あんまりいい予感はしないんだけど……」","<Al>
-""She's been waiting for you, \n[1]?
- ...I'm getting kind of a bad feeling about this."""
+""She's been waiting for us...? I'm getting a bad
+ feeling about this."""
 "貴方はそう言いながら顔をしかめるアルと同じ思いで、
-警戒しながら何か用かと優香に尋ねた。","You also felt the same as Al and asked Yuuka what's her
-business with you."
+警戒しながら何か用かと優香に尋ねた。","You felt the same as Al and asked Yuuka what's her
+business."
 "この女が自分を待っていた…絶対にろくなことじゃない。
-貴方はそう警戒しながら何か用かと優香に尋ねた。","You were sure it wouldn't be good if Yuuka had been
-waiting for you. You cautiously asked what was her
-business with you."
+貴方はそう警戒しながら何か用かと優香に尋ねた。","You got a bad feeling when you heard that Yuuka had
+been waiting for you. You cautiously asked what was
+her business."
 "<優香>
 『アンタさ、コロシアムで戦ったとき、
 　なかなかいい剣持ってたよね？
 　その剣、私がもらってあげる♡」","<Yuuka>
-""When we fought at the Colosseum... I noticed that you
- have a pretty good sword. I want you to give it to
+""I noticed that you have a pretty good sword when we
+ fought at the Colosseum. I want you to give it to
  me♡"""
 "優香は嗜虐的な笑みを浮かべたままそう言って、
-貴方に手を伸ばした。","Yuuka said that and extended her hand to you with a
-sadistic grin."
+貴方に手を伸ばした。","Yuuka demanded your weapon with a sadistic grin as she
+extended her hand."
 "<アル>
 『や、やっぱりいいことじゃなかった…！
 　こ、これカツアゲだよ！？」","<Yuuka>
 ""A-As I thought, she's up to no good!
- She's trying to steal your sword!"""
+ \n[1], she's trying to steal your sword!"""
 "アルはそう焦ったような声を出す。
-実際、彼女の要求は横暴極まりないものだ。","Al shouted in a fluster. Yuuka's demand was extremely
-tyrannical."
+実際、彼女の要求は横暴極まりないものだ。","Al shouted in a fluster after Yuuka's high-handed
+demand."
 "やっぱり碌なことじゃなかった…
 貴方はため息をつきそうになるのを堪えるが、
-彼女の横暴な要求に腹立たしさを覚える。","So Yuuka wasn't satisfied with just beating you...
-You held back your urge to sigh while also getting
-angry at her one-sided demand."
+彼女の横暴な要求に腹立たしさを覚える。","Yuuka wasn't satisfied with just beating you at the
+arena. You held back your urge to sigh and got angry
+at her one-sided demand."
 "<優香>
 『あ、断ったら力づくで奪うだけだから♡
 　ひどい目にあいたくなかったら、私にその剣渡してよ。」","<Yuuka>
-""Ah, if you refuse, I'll just deprive it by force♡
- You better give the sword to me unless you want to
- go through a terrible experience."""
+""Oh, and if you refuse... I'll take it by force♡
+ You better hand over the sword unless you want to
+ have a rough time♡"""
 "<アル>
 『横暴だよー！？
 　ど、ど、どうしよう…………あ、そうだ！
 　バンガードなら助けてくれるんじゃないかな！」","<Yuuka>
-""She's even going to resort to violence?!
- \n[1], what should we do?!
- ...Ah, I know! The Vanguard can help us with this!"""
+""She will resort to violence?! \n[1],
+ what should we do?! ...Ah, I know!
+ The Vanguard can help us with this!"""
 "貴方はアルの言葉に頷く。
 彼女のこの要求は間違いなく強盗に当たる、
-きっとバンガードも助けてくれるはずだ。","You nodded to Al. Yuuka's demand was basically
-extortion. The Vanguard surely won't let her go
-free after that."
+きっとバンガードも助けてくれるはずだ。","You nodded to Al in agreement. Yuuka was basically
+extorting items from you. The Vanguard surely wouldn't
+let that pass."
 "貴方はそう考えて、
 バンガードに通報するぞと優香に伝えた。","With that in mind, you told Yuuka that you'll report
 her to the Vanguard if she does that."
 "貴方は彼女の言葉を聞き、
-コロシアムでの彼女の強さを思い出して冷や汗を流す。","Hearing Yuuka say that, you remembered how strong
-she was at the Colosseum and broke into a cold sweat."
+コロシアムでの彼女の強さを思い出して冷や汗を流す。","After hearing what Yuuka said, you broke into a cold
+sweat as you recalled how strong she was at the
+Colosseum."
 "しかし、
 彼女のこの要求は間違いなく強盗に当たる、
 きっとバンガードも助けてくれるはずだ。","However, Yuuka's demand was clearly extortion. 
@@ -86,283 +93,388 @@ The Vanguard would surely back you up on this."
 "<優香>
 『バンガード？あぁ、あの偽善者の集まりね。
 　ぷっ、それで私が引き下がると思ったの？』","<Yuuka>
-""The Vanguard? You mean that group of hypocrites?
- Pfft... Did you think I would back down because
- of them?"""
+""The Vanguard? Oh, you mean that group of hypocrites?
+ Pfft... Do you think I would back down because of
+ them?"""
 "<優香>
 『私はアンタから剣を奪ったら、
 　先に進むつもりだからもうあの街に戻ることはないの♡』","<Yuuka>
-""I'm planning to advance forward after I've taken your
- sword♡ I'm not going to return to the town anymore♡"""
+""I'm planning to enter the mansion after I've taken
+ your sword♡ So I have no more business in the town♡"""
 "<優香>
 『だから、アンタがこの後、
 　そいつらに泣きつこうが関係ないってこと♪」","<Yuuka>
-""That's why I won't care even if you go crying to
- them♪"""
+""That's why I don't care even if you go cry to them♪"""
 "優香は余裕の表情を浮かべたまま、
-貴方の言葉が無意味であるとそう説明する。","Yuuka confidently explained your threat as pointless."
+貴方の言葉が無意味であるとそう説明する。","Yuuka explained how your threat was pointless."
 "<優香>
 『それに、あいつらそんなに強くないし♡
 　街にいるときも、
 　生意気なバンガードの一員とかいたけどさ。」","<Yuuka>
-""Besides, they aren't even that strong♡ I've had my
- fair share of running into their conceited members
- in the town♡"""
+""Besides, they aren't strong to begin with♡
+ I've clashed with their conceited members many
+ times♡"""
 "<優香>
 『私にくってかかってきた偽善者は、
 　なっさけな～く敗北お射精させて返り討ち♡』","<Yuuka>
-""When their hypocrite flared up at me, I paid back by
- making them cum in the most humiliating defeat♡"""
+""Whenever they tried to spout their hypocrisy at me,
+ I made sure they paid for it in the most humiliating
+ defeat♡"""
 "<優香>
 『だからアンタの脅しは二重の意味で無意味ってわけ♡
 　ほら、さっさと選びなよ。』","<Yuuka>
-""That makes your threat pointless in two ways♡
- So, hurry up and choose what you'll do."""
+""So, your threat is pointless in more ways than one♡
+ Hurry up and choose which way you want it♡"""
 "<優香>
 『私に大人しくその剣渡すか、
 　私にボコられてその剣奪われるか♡』","<Yuuka>
-""Will you obediently hand me your sword or get beaten
- up as I take it from you by force?"""
+""Will you obediently hand over your sword,
+ or will you want to get beaten up for it?"""
 "<アル>
 『う、うぅ……
 　どうする？\n[1]…………」","<Al>
-""U-Uuuh... \n[1], what will we do?"""
+""U-Uuuh... \n[1], what should we do?"""
 "抵抗する","Resist"
 "大人しく剣を渡す","Hand the sword"
 "<アル>
 『…そうだよね、
 　こんな横暴な要求に従うことなんてできないもんね！」","<Al>
-""...Yeah. There's no way we would agree to such a
- high-handed demand!"""
+""...Yeah. There's no way we would agree to such
+ extortion!"""
 "<アル>
 『この子は確かに強いけど……
 　今度こそ勝とう！
 　\n[1]なら勝てるって信じてるよ！』","<Al>
-""We know that she's strong... But we're going to win
- this time! \n[1], I believe you can do it!"""
+""She's strong... But we won't lose this time!
+ \n[1], I know you can do it!"""
 "貴方はそう激励を送ってくれるアルに頷き、
-剣を抜いて彼女の方へと向けた。","You nodded to Al when she cheered for you, pulled out
-your sword, and faced Yuuka."
+剣を抜いて彼女の方へと向けた。","You nodded to Al when she cheered for you.
+Then you took out your sword and faced Yuuka."
 "<優香>
 『あは♡コロシアムであれだけボコって上げたのに、
 　アンタじゃ私には絶対勝てないってまだ分からないんだ？』","<Yuuka>
-""Ahaha♡ Didn't you understand that you have no chance
- to win against me when I beat the hell out of you at
+""Ahaha♡ Don't you get how you stand no chance
+ against me after all the trashing I gave you at
  the Colosseum?"""
 "<優香>
 『それならお望み通り、力づくで奪ってあげる♡
 　びゅるびゅる射精しながら、
 　ザコのくせに私には向かったことを後悔しろ♡』","<Yuuka>
-""Well then, since you want to get beaten up, I'll do
- just that to take your sword♡ You can regret 
- challenging me when you cum like a weak-ass♡"""
+""Well, since you want me to use force, I'll do just
+ that♡ You can regret challenging me when I make you
+ cum like the weak-ass you are and take your sword♡"""
 "<優香>
 『ぐ……嘘でしょ……
-　なんで、私がアンタなんかに……』",""
-"優香を犯さない",""
-"優香を犯す",""
+　なんで、私がアンタなんかに……』","<Yuuka>
+""Ugh... This can't be... How did I lose to someone
+ like you..."""
+"優香を犯さない","Spare Yuuka"
+"優香を犯す","Level drain Yuuka"
 "<優香>
 『くっ……！
 　アンタから強盗しようとした私を、
-　見逃そうっていうの？信じらんない……』",""
+　見逃そうっていうの？信じらんない……』","<Yuuka>
+""Uugh... Are you sparing me after I tried to rob you?
+ I can't believe this..."""
 "<優香>
 『…………へぇ、聖剣ね、
 　やっぱりなかなかいい装備じゃん♡』","<Yuuka>
-""...Oh, a holy sword? It's pretty good equipment, as
- I thought♡"""
+""...Oh, it's a holy sword? As I thought, it's pretty
+ strong equipment♡"""
 "優香は聖剣のステータスを確認し、
-軽くその場で素振りをしてそう言葉を漏らす。","Yuuka said that while checking the status of the
+軽くその場で素振りをしてそう言葉を漏らす。","Yuuka said that as she checked the info of the
 holy sword."
 "<優香>
 『よっ！ほっ！…うん、扱いやすい♡
 　メイン武器に決定♡』","<Yuuka>
-""Yooh! Haah! ...Yeah, it's easy to use♡
- This is going to be my main weapon♡"""
+""Yooh! Haaah! ...Yeah, it's easy to use♡
+ This will be my main weapon from now on♡"""
 "優香はくすくすと笑みを浮かべたまま、
-貴方のものであった剣を目の前で素振りして見せる。","Yuuka laughed while making few swings with the sword
-that belonged to you."
+貴方のものであった剣を目の前で素振りして見せる。","Yuuka smiled as she swung the sword that she took
+from you."
 "屈辱的なことに、
 ステータスによるものか、
-その剣筋は貴方のものより何倍も美しかった…………","To humiliate you even further, Yuuka's sword swings
-looked many times more beautiful than yours with her
-higher stats."
+その剣筋は貴方のものより何倍も美しかった…………","To make it even more humiliating, Yuuka's swings were
+much more beautiful than yours, be it because of her
+skills or higher stats."
 "そして、彼女はしばらく剣を素振りした後に、
-満足そうにその剣を鞘に納め、俯く貴方のほうを向く。","Then after a few more swings, Yuuka sheathed the sword
-with a satisfied smile and cast her eyes down on you."
+満足そうにその剣を鞘に納め、俯く貴方のほうを向く。","After a few more swings, Yuuka sheathed her new sword
+with a satisfied smile, and then she cast her eyes on
+you."
 "<優香>
 『じゃ、この剣は私がもらっておいてあげる♡
 　ゲームオーバーにならないよう気を付けてね、
 　マゾ堕ちした変態く～ん♡』","<Yuuka>
-""Then, I'm going to take this sword from you♡
- Be careful not to get a game over, freshly minted
- masochistic pervert♡"""
+""Then, say goodbye to your sword♡ And try your best
+ not to get a game over now that you've fallen to the
+ masochistic perversion♡"""
 "そう言って優香は去っていった…………","Yuuka left after saying those words to you."
 "<アル>
 『うぅ…\n[1]！しっかり！
-　惚けてる場合じゃないよ！』",""
+　惚けてる場合じゃないよ！』","<Al>
+""Uuuh... \n[1]! Get a grip!
+ This isn't the time to space out!"""
 "しばらく心地いい脱力感に浸りながらぼーっとしていると、
-貴方の隣からアルのそんな声が聞こえた。",""
+貴方の隣からアルのそんな声が聞こえた。","After basking in the pleasant-feeling exhaustion for
+a while, you heard Al call you."
 "<アル>
 『あ、正気に戻った？よかった……
-　いくら話しかけても返事してくれないかったから………』",""
+　いくら話しかけても返事してくれないかったから………』","<Al>
+""Ah, have you come back to? Thank goodness...
+ You wouldn't answer no matter how much I called you."""
 "貴方がそちらの方を向くと、
-アルがほっと胸をなでおろしていた。",""
+アルがほっと胸をなでおろしていた。","Al breathed a sigh of relief when you turned to
+face her."
 "<アル>
 『うぅ…この子は強いもん。
-　仕方ないよね…………」",""
+　仕方ないよね…………」","<Al>
+""Uuh... That girl was simply too strong.
+ It couldn't be helped..."""
 "歯向かってレベルを吸われるよりはいい…
 貴方はそうやって無理やり自分を納得させながら、
-優香に聖剣ミストを手渡した。",""
+優香に聖剣ミストを手渡した。","It was much better than attempting to resist and
+losing levels as well. That's how you convinced
+yourself as you handed your sword to Yuuka."
 "<優香>
 『はい、ありがと♡
 　…………へぇ、聖剣ね、
-　やっぱりなかなかいい装備じゃん♡』",""
+　やっぱりなかなかいい装備じゃん♡』","<Yuuka>
+""Thanks♡ ...Oh? So it's a holy sword?
+ As I thought, it's pretty good equipment♡"""
 "<優香>
 『ザコのアンタにはもったいない♡
-　これは私が有効活用してあげるから、感謝してよね。』",""
+　これは私が有効活用してあげるから、感謝してよね。』","<Yuuka>
+""Something like this is too good for the likes of you♡
+ I'll make much better use of it, so you better thank
+ me♡"""
 "優香は聖剣のステータスを確認し、
-軽くその場で素振りをして貴方にそう告げる。",""
+軽くその場で素振りをして貴方にそう告げる。","After confirming the info of the holy sword and giving
+it a few test swings, Yuuka said that."
 "貴方は屈辱を感じながらも、
-それを抑え込んで俯いていた。",""
+それを抑え込んで俯いていた。","You felt humiliated too humiliated to say anything
+and hung your head."
 "<優香>
 『ほら、返事♡
-　「優香様、ありがとうございます」は？」",""
-"優香様、ありがとうございます",""
-"……………………",""
+　「優香様、ありがとうございます」は？」","<Yuuka>
+""Hey, where's the answer? You should say: Thank you
+ so much, Yuuka♡"""
+"優香様、ありがとうございます","Thank you so much, Yuuka"
+"……………………","..."
 "<優香>
 『どういたしまして♡
 　じゃ、アンタからもらったこの剣で、
-　さくっとラスボスまで倒しちゃおっかな♪」",""
+　さくっとラスボスまで倒しちゃおっかな♪」","<Yuuka>
+""You're welcome♡ I'm sure I can easily make it to
+ the last boss with sword of yours♪"""
 "<優香>
 『悔しかったら最初に言ってた通り、
 　偽善者に泣きついて通報でもなんでもしてみれば？
-　じゃあね、くそザコく～ん♡』",""
+　じゃあね、くそザコく～ん♡』","<Yuuka>
+""If you're regretting this, why don't you just go
+ crying to that group of hypocrites as you said?
+ Then, see you, Mr. Weak-ass♡"""
 "<優香>
 『ねぇ、返事が聞こえないんだけど♡
-　何？私にお仕置きされたいの？』",""
+　何？私にお仕置きされたいの？』","<Yuuka>
+""Hey, I'm not hearing anything♡ Do you want to get
+ punished instead?"""
 "優香は素振りをやめ、冷ややかな視線で貴方を見つめた。
 ここで彼女の機嫌を損ねたら、
-屈辱を抑えて剣を渡した意味がない…………",""
-"優香様…ありがとうございます……",""
+屈辱を抑えて剣を渡した意味がない…………","Yuuka stopped her practice swings to give you a cold
+glare. If you angered her now, bearing the humiliating
+and handing over your sword would be all for nothing."
+"優香様…ありがとうございます……","Thank you so much... Yuuka..."
 "<優香>
 『相変わらず、甘いやつ…
-　あーあ、こんな甘い奴に負けちゃうなんて……』",""
+　あーあ、こんな甘い奴に負けちゃうなんて……』","<Yuuka>
+""You're still as soft as ever... Aa-ah, I can't believe
+ I lost to such a softie..."""
 "<優香>
 『ふつー、強盗を見逃す？
-　ま、私的にはありがたいけど……』",""
+　ま、私的にはありがたいけど……』","<Yuuka>
+""Normally, no one would look over an attempted theft,
+ you know? Although, I'm personally thankful for it..."""
 "優香はため息をつきながら、
-そう呆れたように言葉を漏らした。",""
+そう呆れたように言葉を漏らした。","Yuuka sighed in amazement at your behavior."
 "<アル>
 『ふふーん♪\n[1]は\n[1]なんだもん！
 　貴方みたいなわるーい人とは違うんだよ！
-　べー！！』",""
+　べー！！』","<Al>
+""Hmmph♪ \n[1] is \n[1] after all!
+ He's nothing like a bad person like you! Beeeh!"""
 "アルは大人げなく、
 倒れた彼女に向かって敵意をむき出しにして舌を出す。
 コロシアムでの一軒を根に持っているようだ…
-貴方はそんなアルに苦笑した。",""
+貴方はそんなアルに苦笑した。","Al childishly showed her tongue at Yuuka as she seemed
+to hold a grudge from the time you fought at the
+Colosseum. You couldn't help but smile wryly at that."
 "<優香>
 『ま、いいわ。
 　ここから先まだアンタにリベンジする機会なんて、
-　いくらでもあるだろうし…………』",""
+　いくらでもあるだろうし…………』","<Yuuka>
+""Well, fine. I'm sure I'll have many chances to exact
+ my revenge after this..."""
 "<優香>
 『負けても私にノーリスクだから、
 　何度だってアンタを負かすために挑んでやる。
-　私は、容赦なく犯してあげるからね♡』",""
+　私は、容赦なく犯してあげるからね♡』","<Yuuka>
+""And since you do nothing even when I lose, I'll take
+ every chance to make you spell defeat. When I manage
+ that, I'll violate you with no mercy♡"""
 "倒れたままそう挑発する彼女に、
 貴方は「望むところだ、もう負けない」と、
-そう返事をする。",""
+そう返事をする。","When Yuuka taunted you from the ground, you replied,
+'I'll take you on any time, and I won't lose to you
+ anymore.'"""
 "<アル>
 『うんうん♪
 　もう\n[1]は貴方なんかに負けないもん！
-　何度でも返り討ちにしちゃうんだから♪』",""
+　何度でも返り討ちにしちゃうんだから♪』","<Al>
+""Yeah♪ \n[1] won't lose to someone like you
+ again! You'll face defeat no matter how many
+ times you try♪"""
 "貴方のその強気な言葉に、
-アルも同意しながら腰に手を当て、びしっと指さした。",""
+アルも同意しながら腰に手を当て、びしっと指さした。","After your statement, Al also had her say as she put
+one hand to her waist and whipped a finger with the
+other at Yuuka."
 "<優香>
 『ふん、いつまで強気でいられるか楽しみね。
 　またコロシアムの時と同じように、
-　絶対恥ずかしい目にあわせてやるから♡』",""
+　絶対恥ずかしい目にあわせてやるから♡』","<Yuuka>
+""Hmph. I look forward to finding out how long you can
+ keep that attitude. I'll make you face the humiliating
+ defeat like the time at the Colosseum again♡"""
 "倒れこむ優香に近づき、
 貴方は見逃すその条件として、
 最初に会った時に言っていたレベル上げをやめるように、
-とそう彼女に伝えた。",""
+とそう彼女に伝えた。","You approached Yuuka on the ground and told her that,
+as a condition for letting her go unscathed, she has
+to stop using the leveling method she spoke about when
+you first met."
 "<優香>
 『は……？え、なに………？
-　それは、脅し？』",""
+　それは、脅し？』","<Yuuka>
+""Huh...? What? Are you threatening me?"""
 "状況が飲み込めていないような彼女に、
-そのレベル上げのリスクを伝えた。",""
+そのレベル上げのリスクを伝えた。","Yuuka didn't seem to understand why you brought that
+up, so you explained the risks that came with it."
 "<優香>
-『…………そんなわけ…ん、でも…………』",""
-"貴方の言葉に彼女は沈黙し、ぶつぶつと考え込む。",""
+『…………そんなわけ…ん、でも…………』","<Yuuka>
+""...Huh? There's no way that... Wait, but..."""
+"貴方の言葉に彼女は沈黙し、ぶつぶつと考え込む。","Yuuka went quiet and muttered something in thought
+after your explanation."
 "<優香>
 『…ふん、ま、どっちみちもうしないつもりだったし。
-　もうほぼカンストだもん、私のレベル。』",""
+　もうほぼカンストだもん、私のレベル。』","<Yuuka>
+""...Hmph. Well, I wasn't planning on using it anymore
+ either way. My level is nearly maxed out already."""
 "<アル>
 『ええ！？
-　\n[1]、よくこの子に勝てたね…………』",""
+　\n[1]、よくこの子に勝てたね…………』","<Al>
+""Eeh?! Her level is nearly maxed out?!
+ \n[1], I can't believe you managed to
+ beat her..."""
 "彼女の言葉を聞いて驚いた言葉を漏らすアルに、
-貴方は自分でも不思議に思うと頷き返した。",""
+貴方は自分でも不思議に思うと頷き返した。","Al was in shock after what Yuuka said. You also found
+it a miracle that you managed to do it."
 "<優香>
 『ま、だから言われるまでもなくもうやんない。
 　…………で？これを聞いてどうする？
-　やっぱり私を犯す？』",""
+　やっぱり私を犯す？』","<Yuuka>
+""That's why it makes no difference if you ask that.
+ ..So? What will you do after hearing that?
+ Will you violate me after all?"""
 "そう言いながら、動けないながらも、
-挑発的な視線を貴方に投げかける彼女に貴方は首を横に振る。",""
+挑発的な視線を貴方に投げかける彼女に貴方は首を横に振る。","Yuuka gave you a taunting gaze while unmoving on the
+ground, but you shook your head to her."
 "<優香>
 『あっそ…………理解できないけど。
-　……………………ゲームでお人好しって、損だからね？』",""
-"彼女はそっぽを向きながらそう貴方に言葉を投げかける。",""
-"それでもいい",""
-"犯されるほうが好きだし………",""
+　……………………ゲームでお人好しって、損だからね？』","<Yuuka>
+""So you won't? ...I don't get it. You're basically
+ handicapping the game for yourself."""
+"彼女はそっぽを向きながらそう貴方に言葉を投げかける。","Yuuka faced away as she spat those words at you."
+"それでもいい","I don't mind it"
+"犯されるほうが好きだし………","I prefer to be the one violated..."
 "<アル>
 『\n[1]は優しいね！
-　私は、そんな\n[1]のほうが好きだよ！』",""
+　私は、そんな\n[1]のほうが好きだよ！』","<Al>
+""\n[1] is a gentleman! That's what I like
+ about you!"""
 "そんな言葉を告げるアルの頭を、
-貴方は指で撫でて感謝を告げた。",""
+貴方は指で撫でて感謝を告げた。","You patted Al's head with your finger and thanked her
+when she said that."
 "<優香>
 『…………馬鹿みたい。ま、いいんじゃない？
-　ゲームなんだし、思うようにすれば。』",""
+　ゲームなんだし、思うようにすれば。』","<Yuuka>
+""...That's so stupid. Well, fine. It's a game so you
+ can play the way you like."""
 "<アル>
 『えへへ♪
 　\n[1]は\n[1]だもんね？
-　この調子で、がんばろー♪』",""
+　この調子で、がんばろー♪』","<Al>
+""Ehehe♪ And that's what we'll do!
+ \n[1], let's keep our progress and go♪"""
 "<優香>
 『はぁ…………こんなマゾに負けたとか、
-　なんかムカつくんだけど…………』",""
-"貴方の返答をきいて呆れたように優香はため息をつく。",""
+　なんかムカつくんだけど…………』","<Yuuka>
+""Sigh... To think that I would lose to such a
+ masochist... It's pissing me off..."""
+"貴方の返答をきいて呆れたように優香はため息をつく。","Yuuka sighed in amazement when she heard your reply."
 "<アル>
 『\n[1]、私もそれはちょっと………
 　あ、うん、マゾなのはいいんだけど…………
-　今は、ほら、もっとこう…………ね？』",""
+　今は、ほら、もっとこう…………ね？』","<Al>
+""\n[1], saying that here is a bit...
+ Well, there's nothing bad in being a masochist,
+ but... Maybe you should think of the time and place?"""
 "アルも納得できないようで、
-何とも言えない顔で貴方を見つめている。",""
+何とも言えない顔で貴方を見つめている。","Al seemed to also have trouble understanding your
+answer as she watched you with an indescribable
+expression."
 "<優香>
 『ま、いいけど。それなら今度こそ、
-　次は負かしてお望み通り犯してあげる♡』",""
+　次は負かしてお望み通り犯してあげる♡』","<Yuuka>
+""Well, fine. If that's what you want, then I'll
+ make sure to beat and violate you next time♡
+ That's what you want after all♡"""
 "<優香>
 『私はアンタが犯さなかったからって、
 　遠慮するような性格してないから♡
-　次私に負けた時、楽しみにしてなさい♡』",""
-"そう言う優香に貴方は顔を赤くして、とっさに後ろをむく。",""
+　次私に負けた時、楽しみにしてなさい♡』","<Yuuka>
+""I'm not the type to hold back my punches because
+ you went easy one me, so you can look forward to
+ the loss the next time you see me♡"""
+"そう言う優香に貴方は顔を赤くして、とっさに後ろをむく。","You couldn't help blushing at what Yuuka said and
+quickly turned away."
 "<アル>
 『\n[1]ー？
 　負けたら、レベル吸い取られちゃうんだから、
-　今度も負けちゃダメだよ？』",""
+　今度も負けちゃダメだよ？』","<Al>
+""\n[1]? You'll get level drained if you
+ lose, so you shouldn't lose next time either."""
 "ジト目で見つめてくるアルに、
-貴方は分かってると言葉を返す。",""
+貴方は分かってると言葉を返す。","Al gave you the stare, to which you told her that you
+knew that."
 "<アル>
 『ほんとー？
-　その、マゾなのはいいけど…………ほどほどに、ね？』",""
-"そう言うアルに貴方は頷きを返した。",""
+　その、マゾなのはいいけど…………ほどほどに、ね？』","<Al>
+""Do you really? I mean, there's nothing bad in being a
+ masochist... But please keep it in moderation, okay?"""
+"そう言うアルに貴方は頷きを返した。","You nodded to Al when she said that."
 "<優香>
 『く……この、やめっ♡
-　あぁっ♡やめっ♡やめっ♡んん～～っ♡♡』",""
-"貴方は優香を犯した。",""
+　あぁっ♡やめっ♡やめっ♡んん～～っ♡♡』","<Yuuka>
+""Ugh... You... Stop♡ Aaah♡ No♡ Nooo♡ Nnnngh♡"""
+"貴方は優香を犯した。","You violated Yuuka and drained her levels."
 "<優香>
-『ぐぅ…こ、こんなモブに……』",""
+『ぐぅ…こ、こんなモブに……』","<Yuuka>
+""Ugh... Violated by such a mob character..."""
 "<優香>
 『風の噂で聞いたんだけど……
 　アンタさ、中々いい剣手に入れたんだって？
-　その剣、私がもらってあげる♡」",""
+　その剣、私がもらってあげる♡」","<Yuuka>
+""I heard this rumor that you apparently have a pretty
+ nice sword... So hand it over♡"""
 "EV003",""
 "EV004",""
 "EV005",""
@@ -381,28 +493,27 @@ with a satisfied smile and cast her eyes down on you."
 "EV026",""
 "『入り口でも注意喚起があったと思うんだけど、
 　ここの敵って異様に強いのよね。
-　1戦1戦、なかなか骨が折れるわ。』","""The person at the entrance should have said it too,
- but the monsters around here are abnormally strong.
- Every fight against them requires your full
- attention."""
+　1戦1戦、なかなか骨が折れるわ。』","""The person at the forest entrance said it too, but
+ the monsters around here are abnormally strong.
+ Every fight requires my full attention to win."""
 "『……え？
 　一度倒したら敵の動きが見えるようになるんじゃないか？
-　貴方、一体何を言ってるのかしら。』","""...Eh? Don't the monster's movements became easier to
- see after defeating it once? ...What on earth are you
- saying?"""
+　貴方、一体何を言ってるのかしら。』","""...Eh? Don't the monster's movements become
+ easier to understand after defeating it once? 
+ ...What on earth are you saying?"""
 "『……もしかして、そういうスキルがあるの？
 　あるのだとしたら羨ましいことこの上ないわね。
-　レベル上げし放題じゃない。』","""...Could it be that you have that kind of skill?
- If that's true, then I couldn't be more envious of
- you. You could pretty much level up as much as you
- like with such a skill."""
+　レベル上げし放題じゃない。』","""...Do you perhaps have a skill that makes something
+ like that happen? If that's true, then I can't be
+ more envious of you. Leveling would be such a breeze
+ like that."""
 "<アル>
 『んー？
 　1度倒した敵はすんなり倒せてるよね？
 　それって、みんながそうってわけじゃないんだね！』","<Al>
-""Hmm? \n[1], you can defeat a monster that
- you've defeated once without any difficulty, right?
- Looks like it's not the same for everyone!"""
+""Hmm? \n[1], you can defeat the monsters
+ you've defeated once without any trouble, right?
+ It looks like that's not the same for everyone."""
 "EV027",""
 "『ちょっと、私は敵じゃないからね！
 　……え？分かってる？それならいいのよ。』","""W-Wait! I'm not an enemy! ...Eh? You realized that?
@@ -410,63 +521,63 @@ with a satisfied smile and cast her eyes down on you."
 "『ここの敵と私の格好、
 　結構似てるからたまに間違えられるのよね。
 　危ないったらありゃしない。』","""My equipment makes me look similar to the monsters of 
- this stage, so sometimes players mistake me for one.
+ this area, so I get mistaken for one at times.
  I need to be careful of both players and monsters 
- here."""
+ around here."""
 "<アル>
 『それなら服装を変えちゃえば……
 　とは気楽に言えないよね。
 　今の装備が一番強いんだろうし。』","<Al>
-""Couldn't she just change her clothes? ...But if it's
- her strongest equipment, I guess she wouldn't want
- to."""
+""Couldn't she just change her clothes? 
+ ...But if it's her strongest equipment,
+ I guess she wouldn't want to."""
 "<アル>
 『…ねぇ、\n[1]はもし、
 　一番強い装備がすっごいへんな見た目だったらどうする？』","<Al>
-""...Hey, \n[1]. If you found a really strong
- equipment but it looked really strange, would you 
- still wear it?"""
+""...Hey, \n[1]. If you found a powerful
+ piece of equipment that looked bizarre,
+ would you still wear it?"""
 "使う","Yes"
 "使わない","No"
 "<アル>
 『あ、やっぱり性能重視なんだ。
 　そりゃそうだよね、負けたら終わりなんだし！
 　……仮装の\n[1]とか見てみたいかも』","<Al>
-""So you place importance on the status. I guess you
- can't help it since losing means dying! ...I kind of
- want to see how you would look with something silly."""
+""So you place importance on the stats. I guess that's
+ natural since losing means dying!! ...Now I kind of
+ want to see you in some silly equipment."""
 "<アル>
 『恥ずかしくて戦いに集中できなかったりする？
 　まぁ、見た目も結構大事だよね！
 　どうせならかっこいい剣のほうがいいし♪』","<Al>
-""Would it make you feel so embarrassed that you can't
- focus on fighting? Well, the looks are important too!
- Putting on something cool makes you feel better♪"""
+""Would it be so embarrassing that you can't focus on
+ the fight? Well, the looks are important too!
+ You feel better wearing something cool, right?"""
 "EV028",""
 "『ぐねぐね入り組んでて、
 　迷っちゃいそうな森だね………。
-　森でも右手法って使えるのかな。』","""The paths of this forest are so winding that I'm
- starting to feel lost... I wonder if the right-hand
- rule works for forests too?"""
+　森でも右手法って使えるのかな。』","""The paths in this forest are so winding that I'm
+ starting to lose my track... I wonder if the
+ right-hand rule works for forests too?"""
 "<アル>
 『右手法って、
 　壁に手をつけてなぞっていくって迷路の脱出方法だよね！
 　……あれ？左手じゃなかったっけ？』","<Al>
-""Putting your right hand against a wall and following
- that is the basic method to escape a maze, right!
+""Putting your right hand against the wall
+ is the basis of escaping mazes, right?
  ...Wait, wasn't it the left hand?"""
 "EV029",""
 "『はぁ、はぁ……♡
 　やばい、魅了されるの気持ちよすぎる……♡
-　このままじゃいつかやられちまう…♡』","""Haah♡ Haah♡ Crap, the charm spells feel way too
- good...♡ I might lose a fight at this rate...♡"""
+　このままじゃいつかやられちまう…♡』","""Haah...♡ Haah...♡ Crap, the charm magic feels way
+ too good...♡ I don't know if I can handle these
+ monsters much longer...♡"""
 "<アル>
 『だ、大丈夫かなこの人…
 　このままじゃ負けちゃいそう……
 　近くの敵、倒してあげる？』","<Al>
-""W-Will this person be fine? It seems like he's going
- to lose soon... How about we clear the enemies near
- him?"""
+""I-Is he going to be okay? It looks like he might lose
+ soone... How about we clear the enemies near him?"""
 "EV030",""
 "回想部屋に移動しますか？
 【回想部屋でのレベルの上下は、

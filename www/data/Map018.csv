@@ -121,8 +121,8 @@ at her."
 『う、…………こんな、嘘…………』","<Rin>
 ""Ugh... T-This can't be..."""
 "貴方に敗れ、凛はどさりと会場の真ん中で倒れこむ。","Rin fell to the ground after being defeated."
-"凛を犯さない","Leave her be"
-"凛を犯す","Violate Rin"
+"凛を犯さない","Spare Rin"
+"凛を犯す","Level drain Rin"
 "<アル>
 『えへへ♪\n[1]、優しいね！
 　やっぱり、こんなところで無理やりはだめだよね！』","<Al>
@@ -392,7 +392,7 @@ and faced Rikka with your sword."
 ""Uuh... No... I couldn't do it..."""
 "六花は呻きながら、どさりと地面に倒れこむ。","Rikka fell to the floor with a groan."
 "六花を犯さない","Spare Rikka"
-"六花を犯す","Violate Rikka"
+"六花を犯す","Level drain Rikka"
 "<六花>
 『え……？
 　レベルドレインをするつもりはないんですか………？』","<Rikka>
@@ -575,7 +575,7 @@ charged at her before the kiss could affect you."
 ""Ugh... No way... There's no way I could lose..."""
 "優香は悔しそうに呻きながらそう地面に倒れこむ。","Yuuka fell to the ground while grunting in frustration."
 "優香を犯さない","Spare Yuuka"
-"優香を犯す","Violate Yuuka"
+"優香を犯す","Level drain Yuuka"
 "倒れこむ優香に近づき、
 貴方はあのレベル上げの方法をもうやめることを勧めた。","You approached the fallen Yuuka and told her to stop
 using her leveling method."

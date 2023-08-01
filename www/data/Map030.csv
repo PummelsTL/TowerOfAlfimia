@@ -39,9 +39,12 @@
 "EV018",""
 "<優香>
 『準備はできた？
-　じゃ、サクッと終わらせちゃおっか♡』",""
+　じゃ、サクッと終わらせちゃおっか♡』","<Yuuka>
+""Are you ready? Then, let's get this over this♡"""
 "EV019",""
 "【注意！】
 セーブデータを上書きすると詰む可能性があります。
 既存のセーブデータとは、
-別の箇所にセーブすることを強くお勧めします。",""
+別の箇所にセーブすることを強くお勧めします。","【Warning!】
+It's highly recommended to save to a different save
+file instead of overwriting a save here."
