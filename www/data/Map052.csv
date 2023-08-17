@@ -10,7 +10,7 @@
 　もうちょっと待ってなさい、
 　もっと強くなってから望み通り負かしてあげるから♡』","<Yuuka>
 ""What? Do you want me to violate you now?
- Just wait a little longer. I'll get stronger
+ Just wait a little longer♡ I'll get stronger
  and beat you just like you want♡"""
 "<優香>
 『うぅぅ…………』","<Yuuka>
@@ -474,7 +474,7 @@ knew that."
 　アンタさ、中々いい剣手に入れたんだって？
 　その剣、私がもらってあげる♡」","<Yuuka>
 ""I heard this rumor that you apparently have a pretty
- nice sword... So hand it over♡"""
+ nice sword... Hand it over♡"""
 "EV003",""
 "EV004",""
 "EV005",""
@@ -483,19 +483,19 @@ knew that."
 "EV008",""
 "小悪魔B","Imp B"
 "EV020",""
-"メガマジックウォーターを手に入れた！","Obtained Mega Magic Water!"
+"メガマジックウォーターを手に入れた！","You obtained Mega Magic Water!"
 "EV021",""
 "EV022",""
 "EV023",""
 "EV024",""
-"メガミックスポーションを手に入れた！","Obtained Mega Mixed Potion!"
+"メガミックスポーションを手に入れた！","You obtained Mega Mixed Potion!"
 "EV025",""
 "EV026",""
 "『入り口でも注意喚起があったと思うんだけど、
 　ここの敵って異様に強いのよね。
-　1戦1戦、なかなか骨が折れるわ。』","""The person at the forest entrance said it too, but
- the monsters around here are abnormally strong.
- Every fight requires my full attention to win."""
+　1戦1戦、なかなか骨が折れるわ。』","""The person at the forest entrance mentioned it too,
+ but the monsters around here are abnormally strong.
+ I need to use my full focus in every battle to win."""
 "『……え？
 　一度倒したら敵の動きが見えるようになるんじゃないか？
 　貴方、一体何を言ってるのかしら。』","""...Eh? Don't the monster's movements become
@@ -506,7 +506,7 @@ knew that."
 　レベル上げし放題じゃない。』","""...Do you perhaps have a skill that makes something
  like that happen? If that's true, then I can't be
  more envious of you. Leveling would be such a breeze
- like that."""
+ with a skill like that."""
 "<アル>
 『んー？
 　1度倒した敵はすんなり倒せてるよね？
@@ -520,22 +520,22 @@ knew that."
  Phew... I'm glad that you did."""
 "『ここの敵と私の格好、
 　結構似てるからたまに間違えられるのよね。
-　危ないったらありゃしない。』","""My equipment makes me look similar to the monsters of 
- this area, so I get mistaken for one at times.
- I need to be careful of both players and monsters 
- around here."""
+　危ないったらありゃしない。』","""I look similar to the monsters of this area with
+ my equipment, so sometimes I get mistaken for one.
+ I need to pay attention to both players and monsters 
+ because of that."""
 "<アル>
 『それなら服装を変えちゃえば……
 　とは気楽に言えないよね。
 　今の装備が一番強いんだろうし。』","<Al>
 ""Couldn't she just change her clothes? 
- ...But if it's her strongest equipment,
+ ...But if that's her strongest equipment,
  I guess she wouldn't want to."""
 "<アル>
 『…ねぇ、\n[1]はもし、
 　一番強い装備がすっごいへんな見た目だったらどうする？』","<Al>
 ""...Hey, \n[1]. If you found a powerful
- piece of equipment that looked bizarre,
+ piece of equipment that looked really bizarre,
  would you still wear it?"""
 "使う","Yes"
 "使わない","No"
@@ -544,7 +544,7 @@ knew that."
 　そりゃそうだよね、負けたら終わりなんだし！
 　……仮装の\n[1]とか見てみたいかも』","<Al>
 ""So you place importance on the stats. I guess that's
- natural since losing means dying!! ...Now I kind of
+ natural since losing means dying! ...Now I kind of
  want to see you in some silly equipment."""
 "<アル>
 『恥ずかしくて戦いに集中できなかったりする？
@@ -577,7 +577,7 @@ knew that."
 　このままじゃ負けちゃいそう……
 　近くの敵、倒してあげる？』","<Al>
 ""I-Is he going to be okay? It looks like he might lose
- soone... How about we clear the enemies near him?"""
+ soon... How about we clear the enemies near him?"""
 "EV030",""
 "回想部屋に移動しますか？
 【回想部屋でのレベルの上下は、

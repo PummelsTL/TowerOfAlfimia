@@ -14,10 +14,12 @@
 "EV008",""
 "<メイドサキュバスA>
 『お目覚めになりましたか。
-　おはようございます。』",""
+　おはようございます。』","<Maid Succubus A>
+""Are you awake? Good morning."""
 "貴方が目を覚ますと、
 そこはベッドの上だった。
-そして、隣にいたメイドサキュバスがそう声をかけてくる。",""
+そして、隣にいたメイドサキュバスがそう声をかけてくる。","When you woke up, you were on a bed. Then you heard
+the maid succubus call to you by your side."
 "<メイドサキュバス>
 『それでは、今から家畜としての、
 　役割についての説明をさせていただきますね。
@@ -239,16 +241,24 @@
 "<メイドサキュバスA>
 『貴方に与えられる仕事はそう多くはありません。
 　まず一つ目は、広場で戦闘を行い、
-　十分な量の経験値を手に入れること。』",""
+　十分な量の経験値を手に入れること。』","<Maid Succubus A>
+""There aren't many jobs that we give you. The first
+ is to got to the plaza to fight and earn lots of
+ experience."""
 "<メイドサキュバスA>
 『その広場には後でご案内しますが、
 　そこで一定の経験値を稼がなければ、
-　その広場から出られません。』",""
-"分かった",""
-"そんなの嫌だ",""
+　その広場から出られません。』","<Maid Succubus A>
+""I'll show you to the plaza after this as you can't
+ leave it without earning a specific amount of
+ experience."""
+"分かった","Okay"
+"そんなの嫌だ","I don't want to"
 "<アル>
 『うー…
-　とにかく経験値を稼げってことだね…』",""
+　とにかく経験値を稼げってことだね…』","<Al>
+""Uuuh... It looks like we need to earn experience
+ at the very least..."""
 "メイドサキュバスの言葉にアルがそう言葉を漏らす。
 ……嫌だ、と言ったとしても、
 契約の魔術を結んでいる限り逆らうことはできないだろう。
@@ -283,22 +293,34 @@
 "<メイドサキュバスA>
 『ええ、ご理解いただきありがとうございます。
 　2つ目の役割についてですが…
-　お昼にためた経験値を吐き出すことです。』",""
+　お昼にためた経験値を吐き出すことです。』","<Maid Succubus A>
+""Thank you for understanding. As for your second job...
+ It's to give up the experience you've earned during
+ the day."""
 "<メイドサキュバスA>
 『端的に言えば、
 　毎夜にレベルドレインを受けていただきます。
-　以上の2つが貴方の主な役割ですね。』",""
+　以上の2つが貴方の主な役割ですね。』","<Maid Succubus A>
+""In other words, you need to get level drained every
+ night. These two are your main duties."""
 "メイドサキュバスはそう言葉を締めくくる。
 毎夜にレベルドレイン……
-その行為を想像し、貴方は股間に血流が集まるのを感じる。",""
+その行為を想像し、貴方は股間に血流が集まるのを感じる。","When the maid succubus finished explaining your duties,
+you couldn't help imagining the nightly level draining,
+which made blood rush into your groin."
 "<メイドサキュバスA>
 『あら…やる気は十分のようで何よりです。
 　夜にはたっぷりと可愛がって差し上げますので、
-　今からの経験値稼ぎを頑張ってくださいね。』",""
+　今からの経験値稼ぎを頑張ってくださいね。』","<Maid Succubus A>
+""Oh my... I'm glad that you're motivated.
+ I'll give you plenty of loving in the evening,
+ so please work hard to earn experience now."""
 "思わず勃起してしまったことをくすりと笑われる羞恥に、
-貴方は顔を赤くしながらも頷くしか出来なかった。",""
+貴方は顔を赤くしながらも頷くしか出来なかった。","You felt ashamed when the maid succubus noticed your
+erection, but you couldn't help but nod while blushing."
 "<アル>
-『…今は言うこと聞くしかないよね…』",""
+『…今は言うこと聞くしかないよね…』","<Al>
+""...I guess we don't have a choice but to do as told."""
 "<メイドサキュバスA>
 『それでは、
 　そろそろ広場の方に向かいましょうか。
@@ -338,7 +360,9 @@
 "<メイドサキュバスA>
 『それではさっそく家畜として、
 　貴方がどのように生活するのか……
-　その説明をお話ししましょうか。』",""
+　その説明をお話ししましょうか。』","<Maid Succubus A>
+""Well then, allow me to explain how your life as
+ a cattle slave will proceed now."""
 "<メイドサキュバスA>
 『それでは、私はここで見張っていますから、
 　何かあれば遠慮なく声をかけてください。

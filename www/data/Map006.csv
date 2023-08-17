@@ -409,11 +409,11 @@ greatly weaken the corresponding monster.
 "\{\{-----GAME OVER-----",""
 "EV002",""
 "EV005",""
-"マジックウォーターを手に入れた！","Obtained Magic Water!"
+"マジックウォーターを手に入れた！","You obtained Magic Water!"
 "EV006",""
 "EV007",""
 "EV008",""
-"ミックスポーションを手に入れた！","Obtained Mixed Potion!"
+"ミックスポーションを手に入れた！","You obtained Mixed Potion!"
 "EV009",""
 "<アル>:『う～ん…………』","<Al>
 ""Hmmm..."""
@@ -465,7 +465,7 @@ imp."
 『あ、やっほ、\n[1]君♪
 　ここは休憩所みたいなところかな？
 　モンスターも中には入ってこないみたい。』","<Karen>
-""Ah! Yahoo♪ \n[1]♪ It looks like this is
+""Ah! Yah-hoo♪ \n[1]♪ It looks like this is
  a rest point that monsters can't enter."""
 "<可憐>
 『体力が減っているとか、

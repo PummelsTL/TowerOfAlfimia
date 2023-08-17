@@ -19,17 +19,17 @@ spotted you."
 　私の方も元気、アンド順調だよ♪
 　もう、コロシアムで3勝して先に進めるからね。』","<Karen>
 ""I see♪ That's good to hear♡ I've also been good♪
- I've already won 3 matches in the Colosseum and
- am about to move onward."""
+ I've already cleared the three matches at the
+ Colosseum, and I'm about to move onward."""
 "そう言って可憐は自慢げに証を見せてくる。
 貴方はそんな可憐を微笑ましく思いつつ、
 自分もそうだと証を見せた。","Karen proudly showed off her arena medals. You found
-it was charming when she acted like that and showed
-her your medals in return."
+it was charming when she acted proudly like that,
+and then you showed your medals to her in return."
 "<可憐>
 『お、\n[1]君も？
 　やるねぇ、ちゃんと勝てたんだ♪』","<Karen>
-""Oh? You too? Way to go, \n[1]♪"""
+""Oh? You got them too? Way to go, \n[1]♪"""
 "可憐はくすくすと笑いながら、
 貴方をおめでとうと祝福する。","Karen congratulated you with a smile and giggle."
 "<可憐>
@@ -86,8 +86,8 @@ you said."
 ""Eh? Really? ...You aren't trying to pull a fast one
  on me and monopolize the chest, right?"""
 "覗き込みながらそう確認してくる可憐から、
-貴方は目をそらした。","You averted your gaze when Karen asked and gazed at
-you."
+貴方は目をそらした。","You averted your eyes when Karen gazed at you in
+suspicion."
 "<可憐>
 『怪しいなぁ♪
 　ガラクタなら、あの宝箱の中身は私がもらっていいよね？』","<Karen>
@@ -142,9 +142,9 @@ with puffed cheeks."
 『そう来なくっちゃ♪
 　じゃ、始めよっか♡
 　前みたいに気持ちよーく負けさせてあげる♡』","<Karen>
-""That's the way to do it♪ Then, shall we start?
- I'll make you lose in amazing pleasure just like
- before♡"""
+""That's the spirit♪ Then, let's do this♡
+ I'll make you lose to the amazing pleasures
+ just like before♡"""
 "<可憐>
 『ぐ…強くなったんだね、\n[1]君、
 　私の完敗だよ…………』","<Karen>
@@ -159,8 +159,8 @@ swing."
 　どうしたの、レベルドレイン、しないの？』","<Karen>
 ""Eh...? Are you not going to level drain me?"""
 "可憐は倒れこんだまま貴方を見上げ、不思議そうな声を出す。
-そんな可憐に貴方は頷きを返した。","Karen called to you in a confused voice from the
-ground. You gave a nod to her question."
+そんな可憐に貴方は頷きを返した。","When Karen asked that with a confused voice on the
+ground, you nodded to her."
 "<可憐>
 『そっか、ありがとう♪
 　私は、\n[1]君のことレベルドレインしたのに…
@@ -199,7 +199,7 @@ after she thanked you."
 　そう言う約束で勝負したんだしね。
 　恨みっこはなしだよ♡』","<Karen>
 ""Yes, of course♪ We agreed that the winner would
- get to keep it. I won't hold a grudge against you♡"""
+ get to have it. I won't hold a grudge♡"""
 "貴方の疑問に、可憐はそう快く答えた。","Karen cheerfully answered your question."
 "<アル>
 『ね！ね！この子もそう言ってるみたいだし！
@@ -218,7 +218,7 @@ after she thanked you."
 "<可憐>
 『んんんっ♡あっ♡\n[1]君、いきなり激しくしちゃ♡
 　だ、だめ、もうイっちゃいそう、だから、♡』","<Karen>
-""Mmmh♡ Ah♡ \n[1], you so intense♡
+""Mmmh♡ Ah♡ \n[1], you're too intense♡
  N-No♡ I'm about to cum♡"""
 "<可憐>
 『あぅぅ…………だ、だめぇぇ♡
@@ -269,8 +269,8 @@ so giving up the chest was the better choice."
 『ん♪説明見る限り結構使えそうなアイテムかも♡
 　じゃ、これはもらっていくけど悪く思わないでね？』","<Karen>
 ""Mmh♡ It looks like quite a convenient item♡
- I'm taking it, so don't hold a grudge against me,
- okay?"""
+ I'm taking it, but please don't hold a grudge
+ on me, okay?"""
 "<可憐>
 『またね、\n[1]君♪』","<Karen>
 ""Then, see you, \n[1]♪"""
@@ -288,299 +288,474 @@ so giving up the chest was the better choice."
 "<アル>
 『んー……今までの宝箱って、みんな赤かったよね？
 　普通じゃないってことかな……？
-　なんか、不思議な力も感じるし……』",""
+　なんか、不思議な力も感じるし……』","<Al>
+""Hmm... All the treasure chests we've seen have
+ been red, right? Perhaps this one is special?
+ I can feel a mysterious power emitting from it..."
 "アルは可憐の言葉に反応し、
 そう言葉を漏らした。
-不思議な力……何かいいものが入っているのだろうか。",""
+不思議な力……何かいいものが入っているのだろうか。","Al muttered that to what Karen said. The mysterious
+power she felt probably means there is something good
+inside it."
 "貴方は少し記憶を探るが、
 今までの宝箱は全て赤だったことを思い出す。
-可憐に見たことはないと答えた。",""
+可憐に見たことはないと答えた。","You tried digging through your memory but could only
+recall seeing red treasure chests. You told Karen
+that you hadn't seen one before."
 "<可憐>
 『あ、やっぱり\n[1]君も？
-　実は、私は初めてみるんだよね♪』",""
+　実は、私は初めてみるんだよね♪』","<Karen>
+""Ah, so it's your first time seeing one too?
+ I haven't come across a blue chest either♪"""
 "<可憐>
 『なんかこう、
 　いかにもレアなものが入ってるって感じしないかな？
-　中に何が入ってるのか楽しみ♪』",""
+　中に何が入ってるのか楽しみ♪』","<Karen>
+""I'm getting this feeling that there's some rare item
+ inside the chest. I can't wait to open it♪"""
 "可憐は貴方の返答を聞き、
-ニコニコと笑みを浮かべた。",""
+ニコニコと笑みを浮かべた。","Karen smiled after hearing your reply."
 "<可憐>
 『けど……ここに入ってきたのは私と\n[1]君、
-　ほとんど同時だったよね？』",""
+　ほとんど同時だったよね？』","<Karen>
+""However... We came across it pretty much at the same
+ time, right?"""
 "<可憐>
 『あ………えっと、その……\n[1]君、久しぶりだね…
-　………元気、してた？』",""
+　………元気、してた？』","<Karen>
+""Ah... Um... \n[1], it's been a while...
+ How have you been...?"""
 "可憐は貴方に気が付くと、
-極まりが悪そうな顔で俯きながら貴方にそう声をかけてくる。",""
+極まりが悪そうな顔で俯きながら貴方にそう声をかけてくる。","After Karen noticed you, she spoke in a really
+apologetic voice."
 "<可憐>
 『そっか…よかった……
-　その、この前は本当にごめん！』",""
+　その、この前は本当にごめん！』","<Karen>
+""I see... You've been doing well...
+ Um... I'm really sorry for what happened before!"""
 "<アル>
 『この前のPvPで\n[1]からレベルドレインしちゃったこと、
-　かなり気にしてるみたいだね…………』",""
+　かなり気にしてるみたいだね…………』","<Al>
+""It looks like she's feeling really guilty for level
+ draining you after the last PvP match..."""
 "貴方の前で頭を下げて謝罪する可憐に、
-貴方は自分は気にしていない、と告げた。",""
+貴方は自分は気にしていない、と告げた。","When Karen bowed her head and apologized, you told
+her not to worry about it."
 "<可憐>
 『でも、恩を仇で返しちゃったし……
 　本当に、ごめんね？
-　私に出来ることがあったら、何でも言ってね？』",""
+　私に出来ることがあったら、何でも言ってね？』","<Karen>
+""But I level drained you after you spared me on our
+ first fight... I'm so sorry for it. Please tell me
+ if there's something I can do for you."""
 "可憐はおずおずと貴方を見つめ、
-贖罪の気持ちでそう言葉を口にする。",""
-"本当に大丈夫",""
-"犯されるの、気持ちよかった",""
+贖罪の気持ちでそう言葉を口にする。","Karen timidly looked at you as she asked if there's
+something she could do to make up for it."
+"本当に大丈夫","I really don't mind"
+"犯されるの、気持ちよかった","It felt good when you level drained me"
 "<可憐>
 『…ありがとう、\n[1]君は優しいね。
 　あんまり謝罪を押し付けるのもよくない、かな。
-　うん、\n[1]君がそう言ってくれるなら。』",""
-"可憐はにこりと貴方に笑みを見せた。",""
+　うん、\n[1]君がそう言ってくれるなら。』","<Karen>
+""...Thank you. \n[1], you're so gentle.
+ I don't feel as guilty anymore when you say that."""
+"可憐はにこりと貴方に笑みを見せた。","Karen showed a smile at what you said."
 "<可憐>
 『あはは……ありがとう、気を使ってくれてるんだよね？
-　うん、あんまり謝罪を押し付けるのも悪いかな。』",""
+　うん、あんまり謝罪を押し付けるのも悪いかな。』","<Karen>
+""Ahaha... Thank you, you're being considerate of me,
+ right? Yes, I shouldn't feel so guilty about it
+ anymore."""
 "<可憐>
 『\n[1]君がそう言ってくれるなら、
-　私ももう謝るのはやめるね、ありがとう♪』",""
+　私ももう謝るのはやめるね、ありがとう♪』","<Karen>
+""I'll stop with the apologies now.
+ Thank you♪"""
 "<可憐>
 『っと、そうだ。　
-　ねぇ、\n[1]君、あれ、見える？』",""
+　ねぇ、\n[1]君、あれ、見える？』","<Karen>
+""Oh, right. Hey, \n[1], can you see that?"""
 "<可憐>
 『やっぱり？
-　ふふ、何が入ってるのか楽しみ♪』",""
+　ふふ、何が入ってるのか楽しみ♪』","<Karen>
+""Am I? Ahaha♪ I can't wait to see what's inside♪"""
 "<可憐>
 『ね、中身は\n[1]君のものってことでいいからさ。
-　一緒に開けてみようよ♡』",""
+　一緒に開けてみようよ♡』","<Karen>
+""Hey, I don't mind you having the item, but let's
+ open it together♡"""
 "<可憐>
 『え？いいのって……うん、もちろん♡
-　その、これがちょっとでも贖罪になるなら、なんて。』",""
+　その、これがちょっとでも贖罪になるなら、なんて。』","<Karen>
+""Eh? Am I fine with giving up the item?
+ ...Yes, of course♡ Let's say it's my apology
+ for what happened last time♡"""
 "そうおずおずと貴方を見上げる可憐に、
-貴方はありがとうと感謝の言葉を返した。",""
+貴方はありがとうと感謝の言葉を返した。","When Karen timidly looked up into your eyes,
+you thanked her."
 "<可憐>
 『あれ？そうなの？邪推だったら悪いんだけど……
-　独り占めしたいから嘘ついてる、なんてことはないよね？』",""
+　独り占めしたいから嘘ついてる、なんてことはないよね？』","<Karen>
+""Eh? Is it really just junk? I'm sorry for being
+ suspicious... But you aren't saying that just to 
+ hog the item for yourself, right?"""
 "<可憐>
 『ふふ♡欲しいなら欲しいって言ってくれれば良いのに♡
 　この前のお詫びとして、
-　中身は\n[1]君のものにしていいよ♪』",""
+　中身は\n[1]君のものにしていいよ♪』","<Karen>
+""Ehehe♡ You could have just said that you want the
+ item♡ I don't mind passing as an apology for what
+ happened before♪"""
 "そう悪戯っぽく笑う可憐に、
-貴方はあっけにとられ、本当にいいのかと確認する。",""
+貴方はあっけにとられ、本当にいいのかと確認する。","When Karen impishly smiled and said that, you asked
+her if she was really fine with that."
 "<可憐>
 『うん♪\n[1]君に対して悪いことしたとは、
-　本当に思ってるんだもん。』",""
+　本当に思ってるんだもん。』","<Karen>
+""Yes♪ I really regret what I did to you."""
 "<可憐>
 『それが少しでも贖罪になるなら、
-　私は宝箱だって喜んで差し出すよ♡』",""
+　私は宝箱だって喜んで差し出すよ♡』","<Karen>
+""If I can make up for it with this, I'll gladly let
+ you have the chest♡"""
 "そう冗談を言う声色で言葉を告げる可憐に、
-貴方はありがとうと感謝を告げる。",""
+貴方はありがとうと感謝を告げる。","You thanked Karen for letting you have the treasure
+chest."
 "<可憐>
 『どういたしまして、って言うのは変だよね？
-　んっ、ほら、一緒に開けてみよ♪』",""
+　んっ、ほら、一緒に開けてみよ♪』","<Karen>
+""You're welcome... Or is it weird to say that here?
+ At any rate, let's open it together♪"""
 "<アル>
 『じゃあ\n[1]♪
-　開けてみよー！何が入ってるかな♪』",""
+　開けてみよー！何が入ってるかな♪』","<Al>
+""Yeah♪ \n[1], let's open it!
+ I want to see what's inside♪"""
 "楽しそうにそう言うアルに貴方は頷き、
-宝箱を開けた。",""
+宝箱を開けた。","You nodded to Al when she looked like she couldn't wait
+any longer and opened the chest."
 "<可憐>
 『えーと、説明見ると…エリクサー？
 　ふむふむ、
-　1回の戦闘で1度だけ使える完全回復のアイテム…………』",""
+　1回の戦闘で1度だけ使える完全回復のアイテム…………』","<Karen>
+""Um... The info says that it's... Elixir?
+ A full-heal item that can be used only per battle..."""
 "<可憐>
 『ん♪結構有用そうな回復アイテムかも？
-　ゲームって言ったら、エリクサーは定番だよね♪』",""
+　ゲームって言ったら、エリクサーは定番だよね♪』","<Karen>
+""Yes♪ It looks like a pretty useful recovery item♪
+ Elixirs are usually the best stuff when it comes
+ to games, right?"""
 "くすくすと笑いながらそう言う可憐に、
-貴方はもう一度本当にいいのかと確認する。",""
+貴方はもう一度本当にいいのかと確認する。","When Karen said that with a smile, you asked her once
+more if you could have the item."
 "<可憐>
 『うん、今更言葉を変えたりしないよ♪
-　そのエリクサーは\n[1]君の冒険に役立ててほしいかな。』",""
+　そのエリクサーは\n[1]君の冒険に役立ててほしいかな。』","<Karen>
+""Yes, I won't go back on my word♪ I hope the elixir
+ will be useful on your adventure."""
 "<可憐>
 『ふふ♡律儀だね、お礼は良いってば♪
-　こっちも、レアなアイテム見れてよかったし。』",""
+　こっちも、レアなアイテム見れてよかったし。』","<Karen>
+""Ehehe♡ There's no need to say anything but thanks♪
+ I'm also happy that I got to see a rare item."""
 "<可憐>
 『じゃ、私は先に進むね？
-　\n[1]君も、ゲームオーバーにならないよう頑張って♡』",""
-"可憐は貴方にそういうと、軽く駆け出していった。",""
+　\n[1]君も、ゲームオーバーにならないよう頑張って♡』","<Karen>
+""Then, I'll be going on ahead. Do your best not to
+ get a game over, \n[1]♡"""
+"可憐は貴方にそういうと、軽く駆け出していった。","Karen skipped off away saying that."
 "<アル>
 『ちょっと悪い気もするけど……
-　ありがたいよね！ふふー、レアアイテム♪』",""
+　ありがたいよね！ふふー、レアアイテム♪』","<Al>
+""I feel a bit sorry for taking the item...
+ But I'm also thankful! Ehehe♪ It's a rare item♪"""
 "<可憐>
 『あ、やっぱり\n[1]君も？
-　実は、私は初めてみるんだー♪』",""
+　実は、私は初めてみるんだー♪』","<Karen>
+""Ah, so it's your first time seeing one too?
+ I haven't come across a blue chest either♪"""
 "<可憐>
 『なんかこう、
 　いかにもレアなものが入ってるって感じするよね♪
-　中に何が入ってるのか気にならない？』",""
+　中に何が入ってるのか気にならない？』","<Karen>
+""I'm getting this feeling that there's some rare item
+ inside the chest. I can't wait to open it♪"""
 "<可憐>
 『あ、\n[1]君。
-　久しぶりだね、元気してた？』",""
-"可憐は貴方に気が付くと、そう声をかけてくる。",""
+　久しぶりだね、元気してた？』","<Karen>
+""Yah-hoo, \n[1]♪ It's been a while♪
+ How have you been?"""
+"可憐は貴方に気が付くと、そう声をかけてくる。","Karen asked how you've been when she spotted you."
 "<可憐>
 『そっかそっか、それは何よりだね♪
 　私のほうも、元気だし、それに強くなったよ。
-　もう、コロシアムで3勝して先に進めるぐらいに♡』",""
+　もう、コロシアムで3勝して先に進めるぐらいに♡』","<Karen>
+""I see♪ That's good to hear♡ I've also been good♪
+ I've already cleared the three matches at the
+ Colosseum, and I'm about to move onward."""
 "<可憐>
 『やっぱり、\n[1]君も？
-　まぁ、そうでなくちゃね♪』",""
+　まぁ、そうでなくちゃね♪』","<Karen>
+""Oh? You got them too? Way to go, \n[1]♪"""
 "<可憐>
 『っとここで、リベンジ申し込みたいんだけど……
-　その前に、ほら、あれ。』",""
+　その前に、ほら、あれ。』","<Karen>
+""I'd like to have a rematch because of what you did to
+ me last time... But have a look over there first."""
 "<可憐>
 『PvPで勝ったほうのもの、ということにしない？
-　私のリベンジも達成できるし、私にとっては一石二鳥♡』",""
+　私のリベンジも達成できるし、私にとっては一石二鳥♡』","<Karen>
+""Let's have a PvP match and the winner gets to have the
+ chest. It will be two birds with one stone of me since
+ I can get my revenge for the last time too♡"""
 "<アル>
-『えっと、どうする？\n[1]。』",""
+『えっと、どうする？\n[1]。』","<Al>
+""Um... \n[1], what will we do?"""
 "<可憐>
 『そう来なくっちゃ♪
 　じゃ、始めよっか♡
-　犯された屈辱は、倍にして返してあげる♡』",""
+　犯された屈辱は、倍にして返してあげる♡』","<Karen>
+""That's the spirit♪ Then, let's do this♡ I'll make
+ you pay for the last time's humiliation twofold♡"""
 "<可憐>
 『ぐ…やっぱり強いね、\n[1]君、
-　私の完敗だよ…………悔しい、なぁ…………』",""
+　私の完敗だよ…………悔しい、なぁ…………』","<Karen>
+""Ugh... \n[1], you're so strong...
+ It's my complete defeat... How frustrating..."""
 "<可憐>
 『え…………？どうしたの？
-　今回は、レベルドレイン、しないの？』",""
+　今回は、レベルドレイン、しないの？』","<Karen>
+""Eh? What's wrong? Are you not going to level drain
+ me this time?"""
 "<可憐>
 『そっか、ありがとう♪
 　やっぱり、自分が負けた相手に犯されちゃうのは、
-　どうしても悔しいんだよね…………』",""
-"可憐は苦笑しながら貴方にそう感謝の言葉を述べた。",""
+　どうしても悔しいんだよね…………』","<Karen>
+""I see... Thank you♪ You see, it's really frustrating
+ to be violated by the opponent who defeated you..."""
+"可憐は苦笑しながら貴方にそう感謝の言葉を述べた。","Karen thanked you with a wry smile."
 "<アル>
 『\n[1]ーー！
-　そうだよね、無理やり犯すなんてよくないよね！』",""
+　そうだよね、無理やり犯すなんてよくないよね！』","<Al>
+""\n[1]!!! That's right! It's not good to take
+ someone by force!"""
 "<アル>
 『この前\n[1]がこの子を犯しちゃったとき、
-　私、なんて反応したらいいか分かんなかったよぉ……』",""
+　私、なんて反応したらいいか分かんなかったよぉ……』","<Al>
+""When you violated this girl before, I didn't even
+ know how to react..."""
 "アルは貴方に抱き着き、
-甘えるような声を出してそう言葉を漏らす。",""
+甘えるような声を出してそう言葉を漏らす。","Al seemed so glad you didn't violate Karen again that
+she hugged you."
 "貴方はそんなアルに苦笑しつつ、
-その小さな頭を指で撫でてあげた。",""
+その小さな頭を指で撫でてあげた。","To that, you couldn't help smiling wryly and patting
+her small head with your finger."
 "<アル>
-『えへへー♪ん…………♪』",""
+『えへへー♪ん…………♪』","<Al>
+""Ehehe♪ Mmmmh♪"""
 "気持ちよさそうなアルを指で撫で続けながら、
-貴方は可憐に宝箱はもらっていいかと尋ねた。",""
+貴方は可憐に宝箱はもらっていいかと尋ねた。","Al seemed to enjoy your headpats, so you continued
+giving them to her while you asked Karen if it was
+alright for you to have the treasure chest."
 "<可憐>
-『ん、また、うぅぅ…………』",""
+『ん、また、うぅぅ…………』","<Karen>
+""Nnngh... This again..."""
 "<可憐>
 『え？戦う前に諦めちゃうの？
-　そんなに私に負けて犯されるのが怖いんだ、意気地なし♡』",""
+　そんなに私に負けて犯されるのが怖いんだ、意気地なし♡』","<Karen>
+""Eh? Are you giving up before we even fight?
+ Are you that scared to lose to me? You coward♡"""
 "<可憐>
 『まぁ、無理強いはしないよ♪
-　ちょっとがっかりだけど♡』",""
+　ちょっとがっかりだけど♡』","<Karen>
+""Well, I won't force you♪
+ I'm just a bit disappointed♡"""
 "<可憐>
 『あ、やっぱり\n[1]君も？
-　実は、私も初めてみるんだよね♪』",""
+　実は、私も初めてみるんだよね♪』","<Karen>
+""Ah, so it's your first time seeing one too?
+ I haven't come across a blue chest either♪"""
 "<可憐>
 『なんかこう、
 　いかにもレアなものが入ってるって感じしないかな？
-　何が入ってるのか楽しみだよね♪』",""
+　何が入ってるのか楽しみだよね♪』","<Karen>
+""I'm getting this feeling that there's some rare item
+ inside the chest. I can't wait to open it♪"""
 "<可憐>
 『お、やっぱり\n[1]君も？
-　やるねぇ、ちゃんと勝てたんだ♪』",""
+　やるねぇ、ちゃんと勝てたんだ♪』","<Karen>
+""Ah, so it's your first time seeing one too?
+ I haven't come across a blue chest either♪"""
 "貴方は少し記憶を探り、
 聖剣ミストが入っていた宝箱が青色だったことを思い返す。
-そして、可憐に見たことはあると返した。",""
+そして、可憐に見たことはあると返した。","You dug through your memory and recalled how the holy
+sword was in a blue chest. Then you told Karen that you
+had found one."
 "<アル>
 『ふふーん♪
 　\n[1]、返り討ちにしちゃえ！
-　それで、レアアイテムゲットだよ！』",""
+　それで、レアアイテムゲットだよ！』","<Al>
+""Mmm-mmh♪ \n[1], beat her up again!
+ Get the rare item for yourself!"""
 "アルはお宝に目がくらんでいるように、
-宝箱の方を見ながらそう貴方に発破をかけた。",""
+宝箱の方を見ながらそう貴方に発破をかけた。","Al cheered for you to fight with her eyes sparkling
+over the treasure chest."
 "<可憐>
 『そう来なくっちゃ♪
 　じゃ、始めよっか♡今度は私が勝って、
-　\n[1]君に悔しい思いしてもらうからね♡』",""
+　\n[1]君に悔しい思いしてもらうからね♡』","<Karen>
+""That's the spirit♪ Then, let's do this♡
+ This time I'll win and you'll face the
+ frustrating loss♡"""
 "<可憐>
 『ぐ…やっぱり強いね、\n[1]君、
-　私の完敗だよ…………』",""
+　私の完敗だよ…………』","<Karen>
+""Ugh... \n[1], you're so strong...
+ It's my complete defeat..."""
 "<可憐>
 『ふふ、ありがとう……
-　今回も\n[1]君の厚意に、甘えちゃうね……♪』",""
+　今回も\n[1]君の厚意に、甘えちゃうね……♪』","<Karen>
+""Ehehe♪ Thanks... Then, I'll depend on your gentleness
+ again♪"""
 "可憐は倒れこんだまま貴方を見上げ、
-動かない身体で力なく笑いながらそう感謝の言葉を告げる。",""
+動かない身体で力なく笑いながらそう感謝の言葉を告げる。","Karen thanked you with a weak smile as she lied on
+the ground and looked up to you."
 "<可憐>
 『今回はさすがに犯されるんじゃないか、
-　とも思ってたけど……やっぱり\n[1]君は優しいね♡』",""
+　とも思ってたけど……やっぱり\n[1]君は優しいね♡』","<Karen>
+""I was thinking that you might level drain me this
+ time... But you're as gentlemanly as ever♡"""
 "可憐はほっとしたような表情を浮かべ、
-貴方にそう言葉を告げた。",""
+貴方にそう言葉を告げた。","Karen said that with a relieved expression."
 "<アル>
 『えへへ♪私もそう思う！
-　一緒にいるのが\n[1]でよかったなーって思うもん♪』",""
-"そんな可憐に、貴方は宝箱はもらっていいかと尋ねた。",""
+　一緒にいるのが\n[1]でよかったなーって思うもん♪』","<Al>
+""Ehehe♪ \n[1], I also think that you're
+ a gentleman! I'm glad I get to be with you♪"""
+"そんな可憐に、貴方は宝箱はもらっていいかと尋ねた。","Then, you asked Karen if you could take the treasure
+chest."
 "<可憐>
 『う、今回は犯されちゃうんだね………
-　\n[1]君ならもしかしてってちょっと期待してたけど…』",""
+　\n[1]君ならもしかしてってちょっと期待してたけど…』","<Karen>
+""Uh... So you'll level drain me this time...
+ I was hoping that you might let me go again..."""
 "<アル>
 『で、でもこの前は\n[1]が勝ってたよね？
-　その、この子そんなにつよくなってそうなの……？』",""
-"そう尋ねるアルに、貴方は頷いた。",""
+　その、この子そんなにつよくなってそうなの……？』","<Al>
+""B-But didn't you win against her last time?
+ Does she look so much stronger than back then?"""
+"そう尋ねるアルに、貴方は頷いた。","You nodded to Al's question."
 "<アル>
 『そっか……この子は強い……
-　分かった！きっと、そっちのほうがいい選択だよね！』",""
+　分かった！きっと、そっちのほうがいい選択だよね！』","<Al>
+""I see... She's much stronger than before...
+ Okay! Then, it must be the right choice!"""
 "<可憐>
 『え？戦う前に諦めちゃうの？
-　んー、なんか不完全燃焼だけど………』",""
+　んー、なんか不完全燃焼だけど………』","<Karen>
+""Eh? Are you giving up before we even fight?
+ Mmmh... I was even starting to get fired up..."""
 "<可憐>
 『でも、無理強いはよくないよね♪
-　分かった、\n[1]君の降伏を受け入れてあげよう♡』",""
-"可憐は冗談っぽくそう言いながらくすくすと笑みを浮かべた。",""
+　分かった、\n[1]君の降伏を受け入れてあげよう♡』","<Karen>
+""But it's not good to force anyone to fight♪
+ Okay, I'll accept your surrender♡"""
+"可憐は冗談っぽくそう言いながらくすくすと笑みを浮かべた。","Karen jokingly said that while giggling."
 "<可憐>
 『あ、やっぱり\n[1]君も？
-　実は、私も初めてみるんだー♪』",""
+　実は、私も初めてみるんだー♪』","<Karen>
+""Ah, so it's your first time seeing one too?
+ I haven't come across a blue chest either♪"""
 "<可憐>
 『なんかこう、
 　いかにもレアなものが入ってるって感じがしないかな？
-　中に何が入ってるのか楽しみだよね♪』",""
+　中に何が入ってるのか楽しみだよね♪』","<Karen>
+""I'm getting this feeling that there's some rare item
+ inside the chest. I can't wait to open it♪"""
 "<アル>
 『せっかく勝負に勝ったんだから、
-　戻る前に宝箱開けていこうよ！』",""
-"まだ宝箱を開けていない。",""
+　戻る前に宝箱開けていこうよ！』","<Al>
+""We should open the chest before leaving since we won
+ the fight for it!"""
+"まだ宝箱を開けていない。","You still haven't opened the chest."
 "EV008",""
 "<可憐>
 『ん…………私は大丈夫だよ？
-　ほら、早く宝箱の中身を確認してきなよ♪』",""
+　ほら、早く宝箱の中身を確認してきなよ♪』","<Karen>
+""Nngh... I'm alright. Hurry up and check what's inside
+ the treasure chest♪"""
 "<アル>
-『うんうん、\n[1]！早く開けに行こうよ♪』",""
+『うんうん、\n[1]！早く開けに行こうよ♪』","<Al>
+""Yeah! \n[1], let's open it already♪"""
 "<可憐>
 『ねぇ、\n[1]君。
-　中には何が入ってたの？』",""
-"そう尋ねる可憐に貴方はエリクサーの説明をした。",""
+　中には何が入ってたの？』","<Karen>
+""Hey, \n[1]. What did you find in
+ the chest?"""
+"そう尋ねる可憐に貴方はエリクサーの説明をした。","You showed off the elixir when Karen asked about
+the item."
 "<可憐>
 『そっか、エリクサーかぁ。
 　ゲームでは定番だよね？
-　しかも使ってもなくならないなんて……』",""
+　しかも使ってもなくならないなんて……』","<Karen>
+""I see. It's an elixir. They're stable items in games,
+ right? And to think this one has unlimited uses..."""
 "可憐は羨ましそうに、少し物欲しそうに貴方を見つめる。
-そんな可憐の視線に貴方は戸惑い、顔を背けてしまう。",""
+そんな可憐の視線に貴方は戸惑い、顔を背けてしまう。","Karen enviously looked at you like she really wanted
+the elixir. You lost your cool at her gaze and faced
+away from her."
 "<可憐>
 『っと、ごめんごめん♪
 　それは\n[1]君のものだもん♡
-　欲しがっちゃダメだよね。』",""
+　欲しがっちゃダメだよね。』","<Karen>
+""Ah, sorry♪ The elixir belongs to you as we agreed♡
+ I shouldn't desire it like that."""
 "<可憐>
 『私も負けないくらいレアなアイテム、
-　いつか見つけて見せるから！』",""
-"可憐は自分に気合を入れるようにそう意気込んだ。",""
+　いつか見つけて見せるから！』","<Karen>
+""I'll also find an item so rare that I can't lose
+ one day!"""
+"可憐は自分に気合を入れるようにそう意気込んだ。","Karen said that as if to pump herself up."
 "<アル>
 『レアアイテムってやっぱり、嬉しいよね♪
-　私たちも満足せず、探してみよ！』",""
+　私たちも満足せず、探してみよ！』","<Al>
+""Finding rare items gives you this happy feeling♪
+ We should keep our eyes open if we can find more
+ of them!"""
 "<可憐>
-『うぅ…………あぅ…………』",""
-"可憐はうずくまっている…………",""
+『うぅ…………あぅ…………』","<Karen>
+""Uuuuh... Aaah..."""
+"可憐はうずくまっている…………","Karen groaned on the ground."
 "EV009",""
-"エリクサーを手に入れた！","Obtained Elixir!"
+"エリクサーを手に入れた！","You obtained Elixir!"
 "エリクサー、名前からして回復アイテムだろうか。
-貴方はアイテムの説明に目を通した。",""
+貴方はアイテムの説明に目を通した。","You figured it was a healing item from the name
+and then looked into its description."
 "『最上級回復アイテム。
 　HP、MPを全回復する。
 　使用してもなくならないが、
-　1回の戦闘に1度しか使えない。』",""
+　1回の戦闘に1度しか使えない。』","Elixir. The highest-grade healing item that heals
+HP and MP to full. Unlimited uses but is limited
+to a single use per battle."
 "<アル>
 『おー、使ってもなくならない上に、
-　全回復できるんだ！すごくいいアイテムだね♪』",""
+　全回復できるんだ！すごくいいアイテムだね♪』","<Al>
+""Oooh! It has unlimited uses on top of healing
+ everything to the max! That's an amazing item♪"""
 "アルもその説明に目を通して、目を輝かせてそう反応する。
-確かに、使いどころを間違えなければ心強いアイテムだろう。",""
+確かに、使いどころを間違えなければ心強いアイテムだろう。","Al's eyes sparkled after she read the description.
+You also found it amazing since there's no need to
+hold back on using it."
 "説明を読む限り、
 使いどころを間違えなければ心強いアイテムだ、
-貴方はそう感じるだろう。",""
+貴方はそう感じるだろう。","After reading the description, you found that it's
+an amazing item since there's no need to hold back
+on using it."
 "EV010",""
 "EV011",""
 "EV012",""
-"聖剣グラスファを手に入れた！","Obtained Holy Sword Grasfa!"
+"聖剣グラスファを手に入れた！","You obtained Holy Sword Grasfa!"
 "<アル>
 『見たことない色の宝箱だったけど………
 　これが私が感じたやつなのかな？
@@ -647,7 +822,7 @@ that you found it."
  that person said!"""
 "小悪魔B","Imp B"
 "EV020",""
-"メガミックスポーションを手に入れた！","Obtained Mega Mixed Potion!"
+"メガミックスポーションを手に入れた！","You obtained Mega Mixed Potion!"
 "EV023",""
 "『知ってるか？
 　レアな宝箱って言うのがあるらしいぜ。
@@ -666,13 +841,13 @@ that you found it."
 ""Rare items♪ If I were to find one, I would use it
  myself instead of selling it off!"""
 "EV024",""
-"メガマジックウォーターを手に入れた！","Obtained Mega Magic Water!"
+"メガマジックウォーターを手に入れた！","You obtained Mega Magic Water!"
 "EV025",""
-"森の奥まで進みますか？","Teleport deeper into the forest?"
+"森の奥まで進みますか？","Teleport deep into the forest?"
 "はい","Yes"
 "いいえ","No"
 "EV026",""
-"街まで戻りますか？","Teleport to town?"
+"街まで戻りますか？","Teleport to the town?"
 "EV027",""
 "EV028",""
 "<アル>

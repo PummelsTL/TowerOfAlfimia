@@ -67,74 +67,115 @@ the maid succubus with your sword up."
  cattle. You should prepare yourself because I'm
  quite strong."""
 "<メイドサキュバスA>
-『ぐっ……、お強い、ですね……！』",""
+『ぐっ……、お強い、ですね……！』","<Maid Succubus A>
+""Ugh... You're so strong...!"""
 "メイドサキュバスは貴方の剣を受け、
 どさりとその場に倒れこむ。
 貴方はそんな彼女にトドメをさすべく、
-剣を振り上げた。",""
+剣を振り上げた。","The maid succubus fell to the floor after receiving
+your sword strike. You lifted your sword above your
+head to finish her off."
 "<アル>
 『ス、ストップ！！
 　\n[1]、ちょっと待って！
-　やっぱりこの子、モンスターにしては変だよ！』",""
+　やっぱりこの子、モンスターにしては変だよ！』","<Al>
+""S-Stop! \n[1], wait a moment!
+ This girl is weird for a monster!"""
 "そうストップをかけたアルを、
-貴方は不思議に思い見つめる。変？",""
+貴方は不思議に思い見つめる。変？","You curiously looked at Al when she called you to stop.
+What did she mean by weird?"
 "<アル>
 『何というか……その、
 　他のモンスターとは魂の色？が違う気がするの。
-　これは…ん－と、モンスターというより……』",""
+　これは…ん－と、モンスターというより……』","<Al>
+""How to say it... I feel like the color of her soul is
+ different from other monsters..."""
 "<アル>
-『\n[1]と同じ、プレイヤー……って感じがする…………』",""
+『\n[1]と同じ、プレイヤー……って感じがする…………』","<Al>
+""Her soul feels closer to a player's...
+ Similar to yours, \n[1]..."""
 "貴方はアルのその言葉に驚き、
-メイドサキュバスに貴方はプレイヤーか、と尋ねた。",""
+メイドサキュバスに貴方はプレイヤーか、と尋ねた。","You were shocked by what Al said. You asked the maid
+succubus if she is a player."
 "<メイドサキュバスA>
 『え…？よく、お分かりになりましたね。
 　ええ、私は”元”プレイヤーです。
-　今は違いますけどね。』",""
+　今は違いますけどね。』","<Maid Succubus A>
+""Eh...? Oh, I'm surprised that you noticed.
+ Yes, I'm a 'former' player, but I'm not one anymore."""
 "<メイドサキュバスA>
 『この階層にて敗北し、
 　ご主人様によってサキュバスの眷属として、
-　生まれ変わりましたから。』",""
+　生まれ変わりましたから。』","<Maid Succubus A>
+""The owner of this mansion transformed me into a
+ succubus' follower after I lost a fight here."""
 "貴方の質問に、
 メイドサキュバスは驚きつつもそう返答する。
 眷属に生まれ変わらされた、
-その言葉に、貴方は背筋に寒いものを感じた。",""
+その言葉に、貴方は背筋に寒いものを感じた。","The maid succubus answered like that while looking
+slightly surprised by your question. When said the
+words transformed into a succubus' follower, you
+felt shivers run down your spine."
 "<メイドサキュバスA>
 『……誤解なさらぬよう。私は確かに、
 　ご主人様によって魔物へと変えられてしまいましたが…
-　そう酷いことをされたとは思っていませんよ。』",""
+　そう酷いことをされたとは思っていませんよ。』","<Maid Succubus A>
+""...You seem to have misunderstood. While it's true
+ that Master turned me into a monster, I don't find
+ it a bad thing at all."""
 "<メイドサキュバスA>
 『むしろ、敗北したにもかかわらず、
 　この命を助けてくださっただけでも感謝すべきでしょう。
-　この姿も、そんなに悪くないですしね。』",""
+　この姿も、そんなに悪くないですしね。』","<Maid Succubus A>
+""Rather, I'm even thankful to her for sparing my life
+ even when I lost.  I don't find my current form that
+ bad either."""
 "貴方の反応を見て、
 メイドサキュバスはそう注釈をいれる。どうやら、
-彼女自身は今の状態を悪いものとはとらえていないようだ。",""
+彼女自身は今の状態を悪いものとはとらえていないようだ。","The maid succubus added that when she saw you react
+strongly. It seems like she doesn't find her current
+predicament a problem."
 "<アル>
 『んー……確かに、
 　これまでの階層だと負けちゃったら、
-　死んじゃうまでレベルを奪われちゃってたもんね。』",""
+　死んじゃうまでレベルを奪われちゃってたもんね。』","<Al>
+""Hmm... Well, she's right in that if you lose a fight
+ to a monster before the mansion, you would get level
+ drained to death."""
 "<アル>
 『それに比べたら、
 　まだましな方なのかな……って、あれ？
-　命……？』",""
+　命……？』","<Al>
+""Compared to that, this is way better...
+ Wait... Spared her life...?"""
 "彼女の返答に違和感を覚えたように、
 アルは再び首をひねった。
 メイドサキュバスはゆっくりと、
-そして神妙に話を続ける。",""
+そして神妙に話を続ける。","Al seemed to find something out of place in the
+answer as she tilted her head again. That's when
+the maid succubus continued talking slowly and
+obediently."
 "<メイドサキュバスA>
 『……本来なら、　
 　家畜にした後にお話しするつもりだったのですが。
-　少し、大事な話をしましょうか。』",""
+　少し、大事な話をしましょうか。』","<Maid Succubus A>
+""...Normally, I would tell you this after turning you
+ into a cattle slave. But it's something important."""
 "<メイドサキュバスA>
 『……実は、この世界はゲームなどではありません。
 　この世界でのゲームオーバーは、
-　死へと繋がるという恐ろしい世界なのですよ。』",""
-"知ってた",""
-"衝撃を受ける",""
+　死へと繋がるという恐ろしい世界なのですよ。』","<Maid Succubus A>
+""...You see, this world actually isn't a game.
+ This is a terrifying world where game overs
+ are tied with death."""
+"知ってた","I knew that already"
+"衝撃を受ける","That's shocking"
 "<アル>
 『だよね！でも、
 　なんでこの子はそれに気づけたんだろう？
-　そっか、それが不思議だったんだ！』",""
+　そっか、それが不思議だったんだ！』","<Al>
+""Yep, we know that! But how did this girl figure it
+ out? Oh, so that's the thing I found unnatural!"""
 "<アル>
 『怪しい……くらいなら思えるかもだけど、
 　事実として認めるって、
@@ -142,18 +183,28 @@ the maid succubus with your sword up."
 "アルは先ほどの違和感の正体に気づき、
 1人でうんうんと納得したような反応を示す。
 驚きを示さない貴方に、
-メイドサキュバスの方が驚いたようだった。",""
+メイドサキュバスの方が驚いたようだった。","While Al understandingly nodded her head after
+realizing what she found out of place, the maid
+succubus was shocked when you knew about the death
+already."
 "<メイドサキュバスA>
 『……あら…
 　これをご存知な侵入者は貴方が初めてです。
-　皆さん、ここで初めて知ることになるのですが。』",""
+　皆さん、ここで初めて知ることになるのですが。』","<Maid Succubus A>
+""...Oh my. You're the first intruded who knows the
+ truth of the world. Everyone else has heard it the
+ first time here."""
 "アルのような助言をする誰かが、
 この階層にいるということだろうか……
 貴方は、貴女は誰にそれを教わったのか、
-と質問した。",""
+と質問した。","You figured that there might be someone like Al in the
+mansion, so you asked the maid succubus where did she
+learn that."
 "<アル>
 『\n[1]！？私前におんなじこと言ったよ！？
-　も、もしかして忘れてたの！？』",""
+　も、もしかして忘れてたの！？』","<Al>
+""\n[1]?! Didn't I already explain this to
+ you?! Did you forget about it?!"""
 "アルが貴方の様子に、
 衝撃を受けたようにそんな反応をする。
 そう言えば、アルから聞いたことがある気がする…",""
@@ -164,84 +215,137 @@ the maid succubus with your sword up."
 "<メイドサキュバスA>
 『ご主人様からお聞きしました。
 　敗北し、実際に魔物に生まれ変わった時点で、
-　ご主人様の話に嘘はないと実感しましたね。』",""
+　ご主人様の話に嘘はないと実感しましたね。』","<Maid Succubus A>
+""I heard it from Master. I felt that it's truly the
+ truth when I lost and got turned into a monster."""
 "<メイドサキュバスA>
 『…ご主人様は、
-　この世界で無益に失われる命について憂いています。』",""
+　この世界で無益に失われる命について憂いています。』","<Maid Succubus A>
+""...Master is sad for all the souls that are
+ futilessly lost in this world..."""
 "<メイドサキュバスA>
 『ですから、ご主人様は女性を眷属、
-　男性を家畜として生きながらえさせているのです。』",""
+　男性を家畜として生きながらえさせているのです。』","<Maid Succubus A>
+""That's why she allows women to live as succubi and
+ men as cattle slaves."""
 "<アル>
 『男性は家畜……
-　な、なんかちょっと不公平な気がするけど……』",""
+　な、なんかちょっと不公平な気がするけど……』","<Al>
+""Men are kept as cattle slaves... I-I think that's
+ quite an unfair treatment..."""
 "メイドサキュバスの言葉を聞いたアルはそう反応する。
 ……確かに、生きながらえさせると言っても、
-男性の待遇があからさまに悪い気がする……",""
+男性の待遇があからさまに悪い気がする……","Al felt there was a disparity in the treatment by sex.
+While it was true that both could survive that way,
+you saw men's treatment way worse."
 "<メイドサキュバスA>
 『それは、
 　ご主人様がサキュバスであることに起因します。
-　男性は眷属にすることができないのです。』",""
+　男性は眷属にすることができないのです。』","<Maid Succubus A>
+""That is because Master is a succubus. She can only
+ keep men as slaves."""
 "<メイドサキュバスA>
 『そして……ご主人様はサキュバスであるがゆえに、
 　男性の中に眠るエネルギーの取り扱いに長けているのです。
-　それゆえに、男性は家畜となっているわけですね。』",""
+　それゆえに、男性は家畜となっているわけですね。』","<Maid Succubus A>
+""Furthermore... As Master is a succubus, she excels at
+ draining men for the energy that resides in them.
+ That's why they are kept as human cattle."""
 "<メイドサキュバスA>
 『ご主人様は私たちメイドが家畜から、
 　搾り取ったエネルギーをあることに利用しております。
-　それが何だかお分かりになりますか？』",""
+　それが何だかお分かりになりますか？』","<Maid Succubus A>
+""Mater also uses the energy that we maid drain from
+ the cattle slaves for a certain thing. Do you know
+ what that is?"""
 "<アル>
 『えー……なんだろ？
-　エネルギーの活用法……んー？』",""
+　エネルギーの活用法……んー？』","<Al>
+""Eh... I wonder what it could be?
+ What practical use is there for energy?
+ Hmmm..."""
 "メイドサキュバスの質問に、
-貴方とアルは首をひねる。",""
+貴方とアルは首をひねる。","You and Al tilted your heads in thought at the maid
+succubus' question."
 "<メイドサキュバスA>
 『貴方も2層を通ってここまでやってきましたよね？
 　あの、快適な街そのものの運用……
-　エネルギーはそのように使われています。』",""
+　エネルギーはそのように使われています。』","<Maid Succubus A>
+""You passed through a town on the second floor, right?
+ The energy is used to maintain the life of the people
+ living there."""
 "<アル>
-『え、ええ～！？ど、どういうこと！？』",""
+『え、ええ～！？ど、どういうこと！？』","<Al>
+""Eeeeh?!"""
 "貴方とアルは彼女の言葉に驚きを示す。
 街の運用…つまり、彼女の言うご主人様が、
-2層を管理している、ということだろうか。",""
+2層を管理している、ということだろうか。","The answer shocked both you and Al. If the energy is
+used to maintain the town, it would mean the master
+of the mansion manages the whole second floor."
 "<メイドサキュバスA>
 『ええ、そもそもあの街自体、
 　ご主人様がおつくりになったものです。
-　無駄な犠牲が増えないように、とそうお考えになって。』",""
+　無駄な犠牲が増えないように、とそうお考えになって。』","<Maid Succubus A>
+""Yes, the town itself is something Master made up from
+ scratch... To avoid any more useless sacrifices."""
 "街の運用が、犠牲を避けるため…？
-そう聞いても貴方にはあまりピンとこなかった。",""
+そう聞いても貴方にはあまりピンとこなかった。","You couldn't quite understand what the maid meant by
+that the town is for avoiding useless sacrifices."
 "<メイドサキュバスA>
 『……あの街は、ある意味で理想郷です。
 　現実のように時間に追われることなく、
-　自由な時間を過ごすことができる……』",""
+　自由な時間を過ごすことができる……』","<Maid Succubus A>
+""...That town is, in one way, an ideal place to live.
+ You can freely stay there with nothing pressing you
+ to move forward like the real world might."""
 "<メイドサキュバスA>
 『1層のような、不自由もありません。
 　あの街ではとても快適な生活が送れるのです。
-　そうなると、人はどうするか…………』",""
+　そうなると、人はどうするか…………』","<Maid Succubus A>
+""It's not uncomfortable like the first floor either.
+ You can pleasantly live in the town. Then, what will
+ people do when you have such a place to live?"""
 "<メイドサキュバスA>
 『答えは、明白です。
 　先に進めるプレイヤーの中でも、
-　街にとどまる者たちが現れます。』",""
+　街にとどまる者たちが現れます。』","<Maid Succubus A>
+""The answer is obvious. There appear players who wish
+ to stay instead of advancing onwards."""
 "<メイドサキュバスA>
 『つまり、
 　ここまでやってきて無用な殺し合いを行うことを、
-　事前に避けることができるのですよ。』",""
+　事前に避けることができるのですよ。』","<Maid Succubus A>
+""In other words, the town is a prevention for people
+ trying to make it here by pointlessly killing each
+ other."""
 "<アル>
 『な、なるほど…？
 　ここにやってくる人を減らして、
-　戦いが起きにくいようにしてるってことだよね…？』",""
+　戦いが起きにくいようにしてるってことだよね…？』","<Al>
+""I-I see... It works to reduce the fights between
+ people and the number who come to the mansion..."""
 "<アル>
 『う～ん…でも、
-　すっごい回りくどいと思うな…』",""
+　すっごい回りくどいと思うな…』","<Al>
+""Hmm... But I think that's a really roundabout way of
+ doing it..."""
 "<アル>
 『もし犠牲を出したくない、って言うなら、
-　みんなを先に進めてあげればいいだけなんじゃ……？』",""
+　みんなを先に進めてあげればいいだけなんじゃ……？』","<Al>
+""If you don't want people to become sacrifices,
+ couldn't you just let them pass?"""
 "……確かに、アルのいう通りだ。
 なぜ、そんな回りくどいことをするのか、
-貴方はメイドサキュバスに尋ねた。",""
+貴方はメイドサキュバスに尋ねた。","It was as Al said. You couldn't figure out why they
+did it in such a indirect way and asked the succubus
+maid about it."
 "<メイドサキュバスA>
 『…ご主人様は、
 　誰一人として先へと進ませたくないようです。
-　それゆえに、今の方法をとられているのだと思います。』",""
+　それゆえに、今の方法をとられているのだと思います。』","<Maid Succubus A>
+""...It seems like Master doesn't want anyone to advance
+ past the mansion. I believe that's why she has come up
+ with the current situation."""
 "……それなら、
 あの街は綺麗ごとを言いつつも、
 実体はプレイヤーを足止めする罠なんじゃないだろうか。",""
@@ -277,18 +381,30 @@ the maid succubus with your sword up."
 "<メイドサキュバスA>
 『ですから貴方も、
 　死にたくなければ家畜になってください。
-　それが唯一生き残る道ですよ。』",""
+　それが唯一生き残る道ですよ。』","<Maid Succubus A>
+""That's why you should also become a cattle slave if
+ you don't wish to die. That is your only way to
+ survive."""
 "<メイドサキュバスA>
 『ご安心ください。
 　家畜と言っても毎晩私たちに精を搾られるだけ……
-　皆さんもとても喜んでくださっていますよ？』",""
+　皆さんもとても喜んでくださっていますよ？』","<Maid Succubus A>
+""Please do not worry. Even while we call them cattle
+ slaves, we milk your semen every night. Everyone 
+ has come to love it."""
 "メイドサキュバスはにこりと笑って貴方にそう進言する。
 色気を多分に含んだ彼女の口から、
-語られる家畜の実態……それに思わず喉がなってしまう。",""
+語られる家畜の実態……それに思わず喉がなってしまう。","The maid succubus advised you to become a cattle slave
+with a smile. You couldn't help unconsciously gulping
+when she seductively described the life of a cattle
+slave."
 "<アル>
 『ダ、ダメだよ！
 　\n[1]、勝てないなんて、
-　やってみなきゃわからないもんね！』",""
+　やってみなきゃわからないもんね！』","<Al>
+""N-No, \n[1]! She may have said that we
+ won't have a chance against the master of the
+ mansion, but we don't know until we try!"""
 "そんな貴方を叱咤するようなアルの言葉に、
 貴方は頷く。確かに死か家畜か、で言えば、
 後者の方がましかもしれないが……",""
@@ -298,13 +414,18 @@ the maid succubus with your sword up."
 　貴方が他の誰かの家畜になることを願っています。』",""
 "<メイドサキュバスA>
 『ささやかですが、見逃してくださったお礼を。
-　このコインをお受け取りください。』",""
+　このコインをお受け取りください。』","<Maid Succubus A>
+""It's a meager reward, but please receive this coin
+ as thanks for letting me go."""
 "そう言ってメイドサキュバスは貴方に、
-5枚のコインを手渡す。",""
+5枚のコインを手渡す。","The maid succubus handed you 5 coins."
 "<メイドサキュバスA>
 『これはご主人様が発行したコインで、
 　この屋敷内で通貨として使われている、　
-　私たちが特定の相手にのみお渡しできるコインです。』",""
+　私たちが特定の相手にのみお渡しできるコインです。』","<Maid Succubus A>
+""There are coins made by Master, and they're used
+ as a currency within the mansion. It's something
+ we give to our special someones."""
 "<メイドサキュバスA>
 『ご主人様が作った強い装備と交換できますし、
 　貴方が家畜に堕ちた後でも使えますので、
@@ -627,14 +748,21 @@ the maid succubus with your sword up."
 "EV033",""
 "【チュートリアル：メイドたちのスキップ機能】
 メイドたちとの戦闘スキップは、
-カードとは異なりHP,MPの両方に一定のダメージを受けます。",""
+カードとは異なりHP,MPの両方に一定のダメージを受けます。","【Tutorial: Maid Skip Function】
+You can skip fights with maids with the key items,
+but, unlike with cards, you'll lose a certain amount
+of HP and MP when you do so."
 "そのダメージでHP,MPのどちらかが1以下となった場合、
 敗北シーンが発生してしまうので、
-その二つの残量には少し注意しましょう。",""
+その二つの残量には少し注意しましょう。","If either your HP or MP reaches 1 from that damage,
+you'll end up in a loss scene, so please pay attention
+to both of them."
 "また、彼女たちを倒しても、
 直接経験値を得ることはできません。
 この館どこかにいる、
-コインを経験値に変換してくれる商人を探しましょう。",""
+コインを経験値に変換してくれる商人を探しましょう。","Furthermore, you can't earn experience by defeating
+the maids. There is a merchant who can exchange coins
+for experience in the mansion instead."
 "その分、彼女たちから得られる経験値は多めです。
 また彼女たちは特定のエリアに侵入するまでは、
 追ってくることはないので計画的に戦闘を行いましょう。",""

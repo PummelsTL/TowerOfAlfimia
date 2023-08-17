@@ -206,7 +206,7 @@ Power:☆☆☆☆☆"
 "巨大な冷気の風を剣に纏い、一刀の元に敵を切り伏せる。
 【累積で攻撃力大up】威力☆☆☆☆☆",""
 "は巨大な冷気の風の剣で敵を切り裂いた。",""
-"暗黒雷炎斬り","Tri Slash"
+"暗黒雷炎斬り","Tri Slash A"
 "纏う黒い雷炎の量を増大させ、敵を切りつける。
 【追加攻撃50％】【防御無視】威力:☆☆☆☆+☆","Slash your foe with a blade of dark lightning flame.
 【50% Extra Attack & Ignore Defense】Power:☆☆☆☆+☆"
@@ -214,16 +214,16 @@ Power:☆☆☆☆☆"
 "魔剣炎
 魔剣雷
 魔剣闇",""
-"暗黒雷炎放射刃","Tri Wave"
+"暗黒雷炎放射刃","Tri Wave A"
 "剣に纏った黒い雷炎を斬撃とともに打ち出す。
 【追加攻撃50％】【防御無視】威力:☆☆☆☆☆+☆","Slash your foe with a wave of dark lightning flame.
 【50% Extra Attack & Ignore Defense】Power:☆☆☆☆☆+☆"
 "は黒い雷炎の斬撃を打ち出した。",""
-"暗黒雷炎神の一閃","Tri God Blast"
+"暗黒雷炎神の一閃","Tri God Blast A"
 "巨大な黒い雷炎を剣に纏い、一刀の元に敵を切り伏せる。
 【追加攻撃50％】【防御無視】威力☆☆☆☆☆☆+☆",""
 "は巨大な黒い雷炎の剣で敵を切り裂いた。",""
-"神聖氷風斬り","Tri Slash"
+"神聖氷風斬り","Tri Slash B"
 "纏う聖なる冷気の風の量を増大させ、敵を切りつける。
 【累積で攻撃力大up】【HP回復3％】威力:☆☆☆☆","Slash your foe with a blade of Light Ice Wind.
 【Stacking ATK UP & 3% HP Heal】Power:☆☆☆☆"
@@ -231,12 +231,12 @@ Power:☆☆☆☆☆"
 "魔剣氷
 魔剣風
 魔剣光",""
-"神聖氷風放射刃","Tri Wave"
+"神聖氷風放射刃","Tri Wave B"
 "剣に纏った聖なる冷気の風を斬撃とともに打ちだす。
 【累積で攻撃力大up】【HP回復3％】威力:☆☆☆☆☆","Slash your foe with a blade of Light Ice Wind.
 【Stacking ATK UP & 3% HP Heal】Power:☆☆☆☆☆"
 "は聖なる冷気の風の斬撃を打ち出した。",""
-"神聖氷風神の一閃","Tri God Blast"
+"神聖氷風神の一閃","Tri God Blast B"
 "巨大な聖なる氷風を剣に纏い、一刀の元に敵を切り伏せる。
 【累積で攻撃力大up】【HP回復3％】威力☆☆☆☆☆☆☆",""
 "は巨大な聖なる氷風の剣で敵を切り裂いた。",""
@@ -281,12 +281,12 @@ Enable Dual Element skills.【Upkeep: 20P】"
 両方の性質を持つ魔剣を使えるようになる。継続消費MP：15","Double enchant of ice and wind.
 Enable Dual Element skills.【Upkeep: 15MP】"
 "は剣に冷気の風を纏った！"," used Ice Wind Enchant!"
-"黒雷炎の魔剣","Tri Enchant I"
+"黒雷炎の魔剣","Tri Enchant A"
 "闇、炎、雷の魔剣3つの効果を受けることが出来る。
 3つの性質を持つ魔剣を使えるようになる。継続消費MP：30","Triple enchant of dark, fire, and lightning.
 Enables Triple Element skills.【Upkeep: 30MP】"
 "は剣に暗黒の雷炎を纏った！"," used Dark Lightning Fire Enchant!"
-"白氷風の魔剣","Tri Enchant II"
+"白氷風の魔剣","Tri Enchant B"
 "光、氷、風の魔剣3つの効果を受けることが出来る。
 3つの性質を持つ魔剣を使えるようになる。継続消費MP：25","Triple enchant of light, ice, and wind.
 Enables Triple Element skills.【Upkeep: 25MP】"
@@ -347,7 +347,7 @@ Enables Triple Element skills.【Upkeep: 25MP】"
 "甘い魔力を纏った手袋の指先が\n[1]の乳首を弄る。","She played with your nipples with her mana-covered fingers."
 "甘い魔力が指先を通じて\n[1]の乳首に流し込まれる。","Sweet magic flowed from her hands to your nipples."
 "手袋コキ",""
-"の手袋コキ。"," used Glove Handjob."
+"の手袋コキ。"," used Gloved Handjob."
 "甘い魔力を纏った手袋の感触が肉棒を追い詰める。","She stroked you with magic-infused gloves."
 "ぐちゅぐちゅと激しい責めが\n[1]の肉棒を襲う。","She poured the sweet charm magic into your penis."
 "は手袋コキで精液を搾り取る。"," drained your semen in gloved handjob."
@@ -499,11 +499,11 @@ Enables Triple Element skills.【Upkeep: 25MP】"
 "優香は柔らかな乳房を肉棒に激しく擦りつける。",""
 "サキュバス優香の誘惑",""
 "おっぱいチラ見せ",""
-"のおっぱいチラ見せ。",""
-"メイドサキュバスは服をずらして谷間を見せつける。",""
+"のおっぱいチラ見せ。"," used Breast Glimpse."
+"メイドサキュバスは服をずらして谷間を見せつける。","She pulled on her top in a glimple of her breasts."
 "乳首チラ見せ",""
-"の乳首チラ見せ。",""
-"メイドサキュバスは綺麗な乳首をチラチラと見せつける。",""
+"の乳首チラ見せ。"," used Nipple Glimpse."
+"メイドサキュバスは綺麗な乳首をチラチラと見せつける。","She gave you a glimpse of her nipples."
 "パンツコキ",""
 "のパンツコキ。"," used Pantyjob."
 "メイドサキュバスは自身の下着で肉棒をくるむ。","She wrapped her panties around your penis."
@@ -617,14 +617,14 @@ Lowers enemy HP to temptation range."
 "桃香は笑みを浮かべながら肉棒を扱く","She stroked your penis with a grin."
 "はシコシコ♡で精液を搾りとる"," drained your semen in whispering handjob."
 "桃香の誘惑",""
-"の授乳手コキ",""
+"の授乳手コキ"," used Nursing Handjob."
 "桃香は\n[1]の顔を乳房で圧迫し、肉棒を上下に扱く",""
-"は授乳手コキで精を搾り取る",""
+"は授乳手コキで精を搾り取る"," drained your semen in nursing handjob."
 "六花を想う",""
 "六花を想い、負けられないと決意を固める。
 5ターンの間全能力-20％ダウンの解除・ターン消費なし",""
 "桃香は耳元で甘い声を出しながら\n[1]の肉棒を扱く",""
 "はシコシコ♡で精を搾り取る",""
-"のパイズリ",""
+"のパイズリ"," used Boobjob."
 "桃香は肉棒を乳房で圧迫し、柔らかな感触を刷り込んでいく",""
-"はパイズリで精を搾り取る",""
+"はパイズリで精を搾り取る"," drained your semen in boobjob."

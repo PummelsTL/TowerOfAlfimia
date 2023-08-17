@@ -9,7 +9,7 @@
 "小悪魔カードA","Imp A Card"
 "使用することで小悪魔Aとの戦闘を簡易化するカード。
 敵の能力値も低下する。","Card for simplifying fights with Imp A.
-It also decreases the enemy's strength."
+Also decreases the enemy strength."
 "ミックスポーション","Mixed Potion"
 "HPを20％、MPを30％回復する","Recovers 20% HP & 30% MP."
 "店員カード(Lv.1～9)","Shopkeeper A Card (Lvl 1-9)"
@@ -21,11 +21,11 @@ lvl 1-9."
 "小悪魔カードB","Imp B Card"
 "使用することで小悪魔Bとの戦闘を簡易化するカード。
 敵の能力値も低下する。","Card for simplifying fights with Imp B.
-It also decreases the enemy's strength."
+Also decreases the enemy strength."
 "ロリダークエルフカード","Loli Dark Elf Card"
 "使用することでロリダークエルフとの戦闘を
 簡易化するカード。敵の能力値も低下する。","Card for simplifying fights with Loli Dark Elf.
-It also decreases the enemy's strength."
+Also decreases the enemy strength."
 "店員カード(Lv.10～17)","Shopkeeper A Card (Lvl 10-17)"
 "使用することで店員によるLv.10～17の時のレベルドレインを
 簡易化するカード。","Card for shortening the shopkeeper level drain for
@@ -35,31 +35,31 @@ lvl 10-17."
 "ドライアドカード","Dryad Card"
 "使用することでドライアドとの戦闘を簡易化するカード。
 敵の能力値も低下する。","Card for simplifying fights with Dryad.
-It also decreases the enemy's strength."
+Also decreases the enemy strength."
 "盗賊サキュバスカード","Thief Succubus Card"
 "使用することで盗賊サキュバスとの戦闘を簡易化するカード。
 敵の能力値も低下する。","Card for simplifying fights with Thief Succubus.
-It also decreases the enemy's strength."
+Also decreases the enemy strength."
 "マジックサキュバスカード","Witch Succubus Card"
 "使用することでマジックサキュバスとの戦闘を
 簡易化するカード。敵の能力値も低下する。","Card for simplifying fights with Witch Succubus.
-It also decreases the enemy's strength."
+Also decreases the enemy strength."
 "店員カード(Lv.18～25)","Shopkeeper A Card (Lvl 18-25)"
 "使用することで店員によるLv.18～25の時のレベルドレインを
 簡易化するカード。","Card for shortening the shopkeeper level drain for
 lvl 18-25."
 "メイドサキュバスAスキップ","Maid Succubus A Skip"
 "所持しているとスキップ機能で、
-メイドサキュバスAとの戦闘のon/offが切り替えられる。","Enables Battle Skip Setting for Maid Succubus A when
-held."
+メイドサキュバスAとの戦闘のon/offが切り替えられる。","Enables you to skip battles with Maid Succubus A
+with Battle Skip Setting."
 "メイドサキュバスBスキップ","Maid Succubus B Skip"
 "所持しているとスキップ機能で、
-メイドサキュバスBとの戦闘のon/offが切り替えられる。","Enables Battle Skip Setting for Maid Succubus B when
-held."
+メイドサキュバスBとの戦闘のon/offが切り替えられる。","Enables you to skip battles with Maid Succubus B
+with Battle Skip Setting."
 "大淫魔カード","Greater Succubus Card"
 "使用することで大淫魔との戦闘を簡易化するカード。
 敵の能力値も低下する。","Card for simplifying fights with Greater Succubus.
-It also decreases the enemy's strength."
+Also decreases the enemy strength."
 "店員カード(Lv.26～38)","Shopkeeper A Card (Lvl 25-38)"
 "使用することで店員によるLv.26～38の時のレベルドレインを
 簡易化するカード。","Card for shortening the shopkeeper level drain for
@@ -72,15 +72,15 @@ lvl 26-38."
 "アイドルサキュバスカード","Idol Succubus Card"
 "使用するとアイドルサキュバスとの戦闘を簡易化するカード。
 敵の能力値も低下する。","Card for simplifying fights with Idol Succubus.
-It also decreases the enemy's strength."
+Also decreases the enemy strength."
 "神官サキュバスカード","Priestess Succubus Card"
 "使用することで神官サキュバスとの戦闘を簡易化するカード。
 敵の能力値も低下する。","Card for simplifying fights with Priestess Succubus.
-It also decreases the enemy's strength."
+Also decreases the enemy strength."
 "セーレカード","Seele Card"
 "使用することでセーレとの戦闘を簡易化するカード。
 敵の能力値も低下する。","Card for simplifying fights with Seele.
-It also decreases the enemy's strength."
+Also decreases the enemy strength."
 "ドライアドカードB","Dryad B Card"
 "店員カード(Lv.39～45)","Shopkeeper A Card (Lvl 39-45)"
 "使用することで店員によるLv.39～45の時のレベルドレインを
@@ -207,9 +207,10 @@ The boss seems to be distributing them."
 "形を持たぬ者カード",""
 "使用することで形を持たぬ者との戦闘を
 簡易化するカード。【経験値～Lv34：1000　LV35～:250】",""
-"6000経験値（～Lv.35)",""
+"6000経験値（～Lv.35)","6000 EXP"
 "使用するとレベル35以下の場合、経験値6000を入手できる。
-（～Lv.35:6000   Lv.35～:3000)",""
+（～Lv.35:6000   Lv.35～:3000)","Use to obtain 6000 EXP when below level 35.
+Amount halved for level 35 and above."
 "サキュバス特製酒","Succubus Sake"
 "サキュバス特製のお酒。
 昇天するくらい美味しいらしい。【HP30％・MP60％】","Special sake that nearly makes you ascend to heaven.
@@ -238,7 +239,7 @@ Worth 10,000G, but it can only be used at the casino."
 【Auto Mode = Tab-key】"
 "敵能力値測定器",""
 "敵の能力を測定できる",""
-"お手軽攻略装備セット","Easy Playthrough Equipment Set"
+"お手軽攻略装備セット","Easy-Clear Equipment Set"
 "お手軽に攻略したい人向けの装備が入っています。
 【注意！ゲームバランスを崩壊させる危険があります】","Item set for an easier playthrough.
 【Warning! May break game balance!】"
