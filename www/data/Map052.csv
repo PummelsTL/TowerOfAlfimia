@@ -29,7 +29,7 @@
 『この子が\n[1]のことを待ってた？
 　…………なんだろう、
 　あんまりいい予感はしないんだけど……」","<Al>
-""She's been waiting for us...? I'm getting a bad
+""Has she been waiting for us...? I'm getting a bad
  feeling about this."""
 "貴方はそう言いながら顔をしかめるアルと同じ思いで、
 警戒しながら何か用かと優香に尋ねた。","You felt the same as Al and asked Yuuka what's her
@@ -104,16 +104,17 @@ The Vanguard would surely back you up on this."
 "<優香>
 『だから、アンタがこの後、
 　そいつらに泣きつこうが関係ないってこと♪」","<Yuuka>
-""That's why I don't care even if you go cry to them♪"""
+""That's why I don't care even if you go crying
+ to them♪"""
 "優香は余裕の表情を浮かべたまま、
 貴方の言葉が無意味であるとそう説明する。","Yuuka explained how your threat was pointless."
 "<優香>
 『それに、あいつらそんなに強くないし♡
 　街にいるときも、
 　生意気なバンガードの一員とかいたけどさ。」","<Yuuka>
-""Besides, they aren't strong to begin with♡
+""Besides, they aren't that strong to begin with♡
  I've clashed with their conceited members many
- times♡"""
+ times before♡"""
 "<優香>
 『私にくってかかってきた偽善者は、
 　なっさけな～く敗北お射精させて返り討ち♡』","<Yuuka>
@@ -129,7 +130,7 @@ The Vanguard would surely back you up on this."
 『私に大人しくその剣渡すか、
 　私にボコられてその剣奪われるか♡』","<Yuuka>
 ""Will you obediently hand over your sword,
- or will you want to get beaten up for it?"""
+ or do you want to get beaten up for it?"""
 "<アル>
 『う、うぅ……
 　どうする？\n[1]…………」","<Al>
@@ -474,7 +475,7 @@ knew that."
 　アンタさ、中々いい剣手に入れたんだって？
 　その剣、私がもらってあげる♡」","<Yuuka>
 ""I heard this rumor that you apparently have a pretty
- nice sword... Hand it over♡"""
+ nice sword... So, hand it over♡"""
 "EV003",""
 "EV004",""
 "EV005",""

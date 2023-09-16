@@ -172,8 +172,8 @@
 "………………………………",""
 "もう、何も考えられなくなった貴方は
 そのまま静かに意識を失ってしまった。",""
-"シーン出現条件を見ますか？","View scene requirements?"
-"”1層にて小悪魔Aと戦う”","""Fight Imp A on the first floor."""
+"シーン出現条件を見ますか？","View event requirements?"
+"”1層にて小悪魔Aと戦う”","Fight Imp A on the first floor."
 "EV002",""
 "可憐（1戦目）と戦闘を行いますか？","Fight Enmi Karen (1)?"
 "<可憐>
@@ -364,7 +364,7 @@
 『ありがと♪じゃあ、私は先に行くね？
 　また会ったら、PvPもう1回しようね！』",""
 "そう言って可憐は貴方の元を去っていく",""
-"”1層にて可憐と戦う”","""Fight Karen on the first floor."""
+"”1層にて可憐と戦う”","Fight Karen on the first floor."
 "EV003",""
 "ダンジョンに戻りますか？
 【回想部屋でのレベルの上下は、
@@ -556,7 +556,7 @@
 彼女の乳房にありったけの精液をぶちまける。",""
 "ただ小悪魔のおっぱいの感触に脳内を支配されながら、
 貴方の意識は失われていった。",""
-"”1層にて小悪魔Bと戦う”","""Fight Imp B on the first floor."""
+"”1層にて小悪魔Bと戦う”","Fight Imp B on the first floor."
 "ロリダークエルフ",""
 "ロリダークエルフと戦闘を行いますか？","Fight Loli Dark Elf?"
 "<ロリダークエルフ>
@@ -714,7 +714,7 @@
 　ほら、またイけ。逝け。変態。れろ♡』",""
 "貴方は自分の乳首が彼女に舐められる光景を最期に、
 意識が薄れていった。",""
-"”1層にてロリダークエルフと戦う”","""Fight Loli Dark Elf on the first floor."""
+"”1層にてロリダークエルフと戦う”","Fight Loli Dark Elf on the first floor."
 "EV007",""
 "優香（1戦目）と戦いますか？
 【優香の前に小悪魔Bとの簡易戦闘があります】",""
@@ -1134,7 +1134,7 @@
 "……………………",""
 "こうして、貴方は全てのレベルを彼女に吸い付くされ、
 そのまま意識を失ってしまった。",""
-"”1層にて優香と戦う”","""Fight Yuuka on the first floor."""
+"”1層にて優香と戦う”","Fight Yuuka on the first floor."
 "EV008",""
 "可憐（2戦目）と戦闘を行いますか？","Fight Enmi Karen (2)?"
 "<可憐>
@@ -1505,7 +1505,7 @@
 "…………すまない…………",""
 "ほぼ意識がなくなった貴方は、
 最期にそんな謝罪の声を聴いた気がした。",""
-"”1層にてダークエルフと戦う”","""Fight Dark Elf on the first floor."""
+"”1層にてダークエルフと戦う”","Fight Dark Elf on the first floor."
 "商人",""
 "店員のレベルドレイン（～Lv9）を受けますか？","Replay Shopkeeper A level drain (Lvl 1-9)?"
 "<店員>
@@ -4475,7 +4475,7 @@
 　もう一度ドロドロに溶かすまで、
 　ママが甘やかして差し上げますよ♡』",""
 "貴方は店員から13000Gを受け取った。",""
-"”2層にて盗賊サキュバスと戦う”","""Fight Thief Succubus on the first floor."""
+"”2層にて盗賊サキュバスと戦う”","Fight Thief Succubus on the second floor."
 "盗賊サキュバスと戦闘を行いますか？","Fight Thief Succubus?"
 "<盗賊サキュバス>
 『くすくす♪ボクの勝ち♡
@@ -4667,7 +4667,7 @@
 　ボクの足に君の力、ぜーんぶ出せ♡』",""
 "貴方は彼女にすべてのレベルを吸い取られ、
 意識を失ってしまった。",""
-"”2層にてドライアドと戦う”","""Fight Dryad on the first floor."""
+"”2層にてドライアドと戦う”","Fight Dryad on the second floor."
 "ドライアドと戦闘を行いますか？","Fight Dryad?"
 "<ドライアド>
 『うふふ♡私の勝ちよ♡
@@ -4883,7 +4883,7 @@
 "身体の感覚すらはっきりしない中で、
 貴方はドライアドに命じられるがまま肉棒を扱き続け、
 そのレベルの最後の一滴まで吐き出し続けた。",""
-"”2層にてマジックサキュバスと戦う”","""Fight Witch Succubus on the first floor."""
+"”2層にてマジックサキュバスと戦う”","Fight Witch Succubus on the second floor."
 "ウィッチサキュバスと戦闘を行いますか？","Fight Witch Succubus?"
 "<マジックサキュバス>
 『もう動けないよね、お姉さんの勝ち♡
@@ -5106,11 +5106,14 @@
 貴方は全てのレベルを放出してしまった。",""
 "【注意】
 イベントが発生しない条件があります。
-シーン出現条件を確認しますか？",""
+シーン出現条件を確認しますか？","【Notice】
+This event can be locked due to story routing.
+Would you like to view the event requirements?"
 "シーンが発生しない条件
-”六花にレベルを貢ぐ”",""
+”六花にレベルを貢ぐ”","Reason the event is locked.
+-Levels given to Rikka while progressing Colosseum."
 "イベントが出現しなかった人用です。
-シーンを解放しますか？",""
+シーンを解放しますか？","Would you like to unlock this event?"
 "高木優香（2戦目)と戦闘を行いますか？","Fight Takagi Yuuka (2)?"
 "<優香>
 『これでアンタの負け♡
@@ -5385,12 +5388,13 @@
 そういう彼女に屈辱を煽られながらも、
 貴方は意識を失っていった。",""
 "シーンが発生しない条件
-”コロシアムにて高木優香に勝利する”",""
+”コロシアムにて高木優香に勝利する”","Reason event is locked.
+-Won the match against Takagi Yuuka in the Colosseum."
 "シーンが出現する条件
 ”コロシアムにて高木優香に敗北する”
-→”コロシアムにて姫野六花と戦う”","Scene requirement:
-""Lose to Takagi Yuuka in the Colosseum.""
-""Fight Himeno Rikka in the Colosseum."""
+→”コロシアムにて姫野六花と戦う”","Event requirements:
+1. Lose the match to Takagi Yuuka in the Colosseum.
+2. Fight Himeno Rikka in the Colosseum."
 "姫野六花と戦闘を行いますか？","Fight Himeno Rikka?"
 "1戦目の六花と戦う","First Match Fight"
 "再戦時の六花と戦う","Rematch Fight"
@@ -6966,7 +6970,7 @@
 新人の女プレイヤーにプライドを踏みにじられるのだ。",""
 "シーンが出現しない条件
 ”1戦目可憐に勝利”→”2戦目可憐に敗北”
-→”恭子に勝利後2層森エリアでのイベント”","Scene requirements:
+→”恭子に勝利後2層森エリアでのイベント”","Reason the event is locked:
 ""Win Karen 1 -> Lose Karen 2""
 -> ""Event in forest stage after winning Kyouko"""
 "シーンが出現する条件
@@ -7406,9 +7410,9 @@
 脱力感に浸る貴方をどさりと地面に倒すと、
 その手に握られた剣を奪い取った。",""
 "”「3000G以上所持」”
-”桃香に1000G払う”","-Have more than 3000G
--Pay 1000G to Momoka"
-"桃香の誘惑を受けますか？","Replay Momoka's temptation?"
+”桃香に1000G払う”","Talk to Momoka on the first floor while having more
+than 3000G, and pay for her services."
+"桃香の誘惑を受けますか？","Replay Momoka's temptation event?"
 "1回目",""
 "1回目時に追加料金未払い時",""
 "D_TEXT_SETTING REAL_TIME ON",""
@@ -7946,10 +7950,13 @@
 　……うん！分かった！
 　それじゃ、今度からこんな風な子には気を付けようね！』",""
 "シーンが発生しない条件
-”チュートリアルにて遠見可憐に勝利する”",""
+”チュートリアルにて遠見可憐に勝利する”","Reason the event is locked:
+-Won the tutorial fight against Enmi Karen."
 "シーンが出現する条件
 ”チュートリアルにて遠見可憐に敗北する”
-→”1層休憩所にて遠見可憐に話しかける”",""
+→”1層休憩所にて遠見可憐に話しかける”","Event requirements:
+1. Lose the tutorial fight against Enmi Karen.
+2. Talk to her in the rest spot on the first floor."
 "遠見可憐イベントを再生しますか？","Replay Enmi Karen event?"
 "<可憐>
 『あ、やっほ、\n[1]君♪
@@ -8295,7 +8302,8 @@
 "気になる場合は、
 虹色のクリスタルだけでも
 シーンの出現条件を確認することをお勧めします。",""
-"”恭子戦の前にアリサの誘惑に乗る”","-Fall to Arisa's temptation before fighting Kyouko"
+"”恭子戦の前にアリサの誘惑に乗る”","Before fighting Kyouko in the Colosseum, fall for
+Arisa's temptation while resting in the inn."
 "アリサの誘惑イベントを再生しますか？","Replay Arisa temptation event?"
 "<アル>
 『明日は絶対に負けられないよね！
@@ -8773,7 +8781,7 @@
 『…なんか、ちょっと怪しかったよね？
 　とにかく、\n[1]が冷静な判断できてよかったよ！
 　この調子で明日も頑張ろうね！』",""
-"”3層にてメイドサキュバスAと戦う”",""
+"”3層にてメイドサキュバスAと戦う”","Fight Maid Succubus A on the third floor."
 "メイドサキュバスAと戦闘を行いますか？","Fight Maid Succubus A?"
 "1戦目","First Fight"
 "再戦時","Rematch"
@@ -9252,7 +9260,7 @@
 "貴方はもう、
 大量の経験値を稼いで彼女に褒めてもらうことしか、
 考えられなくなってしまっていた。",""
-"”3層にてメイドサキュバスBと戦う”",""
+"”3層にてメイドサキュバスBと戦う”","Fight Maid Succubus B on the third floor."
 "メイドサキュバスBと戦闘を行いますか？","Fight Maid Succubus B?"
 "<メイドサキュバスB>
 『これで私の勝ち～っと♡
@@ -9804,7 +9812,7 @@
 貴方はそのまま意識を失ってしまった。",""
 "そして、それからはもう二度と彼女に逆らうことが出来ず、
 惨めな家畜としての人生を送ることになってしまった……",""
-"”3層にて遠見可憐と戦う”",""
+"”3層にて遠見可憐と戦う”","Fight Enmi Karen on the third floor."
 "遠見可憐（サキュバス）と戦闘を行いますか？","Fight Enmi Karen (Succubus)?"
 "<可憐>
 『私と\n[1]君、どっちの方が強いのか…
@@ -10569,7 +10577,7 @@
 貴方は優香からは逃げられず、
 そして、徐々に逃げたいという思いすらなくなっていくこと。
 それだけだった。",""
-"”3層にてメイド長と戦う”",""
+"”3層にてメイド長と戦う”","Fight Head Maid on the third floor."
 "メイド長と戦闘を行いますか？","Fight Head Maid?"
 "<メイド長>
 『勝負あり、私の勝ちですね。
@@ -10805,7 +10813,7 @@
 "一度勝ったはずの女の子の奴隷にされる……
 メイド長の言葉でその屈辱的な事実を知らされながらも、
 貴方は興奮に思考を支配されたまま意識を失ってしまった。",""
-"”3層にてサキュバスクイーンと戦う”",""
+"”3層にてサキュバスクイーンと戦う”","Fight Succubus Queen on the third floor."
 "サキュバスクイーンと戦闘を行いますか？","Fight Succubus Queen?"
 "<サキュバスクイーン>
 『私の勝ちよ。
@@ -11035,7 +11043,7 @@
 促されるまま全てのレベルを吐き出して、
 そのまま意識を闇へと沈めていく。
 それは、ある意味で幸福な末路かもしれなかった。",""
-"”4層にて大淫魔と戦う”",""
+"”4層にて大淫魔と戦う”","Fight Greater Succubus on the fourth floor."
 "大淫魔と戦闘を行いますか？","Fight Greater Succubus?"
 "<大淫魔>
 『もう動けないわよね♡
@@ -11230,7 +11238,7 @@
 　逝きなさい♡じゅぽっ♡じゅるっ♡』",""
 "そのまま貴方は彼女にすべてのレベルを吸い尽くされ、
 頭が真っ白になるほどの快楽の中で意識が薄れていった。",""
-"”4層にてアイドルサキュバスと戦う”",""
+"”4層にてアイドルサキュバスと戦う”","Fight Idol Succubus on the fourth floor."
 "アイドルサキュバスと戦闘を行いますか？","Fight Idol Succubus?"
 "<アイドルサキュバス>
 『ふふ～♪
@@ -11443,7 +11451,7 @@
 魂の最期の一滴までアイドルサキュバスに搾られてしまう。
 そして、幸福な感情に溺れたまま、
 意識を失っていった……………",""
-"”4層にて神官サキュバスと戦う”",""
+"”4層にて神官サキュバスと戦う”","Fight Priestess Succubus on the fourth floor."
 "神官サキュバスと戦闘を行いますか？","Fight Priestess Succubus?"
 "<神官サキュバス>
 『決着はつきましたが、
@@ -11660,7 +11668,7 @@
 　ですが、これにて浄化も完了……
 　哀れな不信信者でも、きっと天国に逝けるでしょう。』",""
 "そんな彼女の言葉を聞きながら、貴方の意識は薄れていった。",""
-"”4層にてセーレと戦う”",""
+"”4層にてセーレと戦う”","Fight Seele on the fourth floor."
 "セーレと戦闘を行いますか？","Fight Seele?"
 "<セーレ>
 『せっかくここまで来たのに残念だったね～？
@@ -11869,7 +11877,7 @@
 彼女の罵倒とともに意識が薄らいでいく。
 そして、そのまま全てを搾り取られてしまい、
 貴方の意識は闇へと溶けてしまった…………",""
-"”4層にてダンタリオンと戦う”",""
+"”4層にてダンタリオンと戦う”","Fight Dantalion on the fourth floor."
 "ダンタリオンと戦闘を行いますか？","Fight Dantalion?"
 "<ダンタリオン>
 『ボクの勝ち、か。
@@ -12082,7 +12090,7 @@
 彼女の蜜壺にすべてを搾り取られてしまう。
 貴方はマゾとしての幸福に包まれながら、
 そのまま意識を失ってしまった。",""
-"”4層にてアルフィミアと戦う”",""
+"”4層にてアルフィミアと戦う”","Fight Alfimia on the fourth floor."
 "アルフィミアと戦闘を行いますか？","Fight Alfimia?"
 "<アル>
 『私が勝っちゃったから……♡
@@ -14867,8 +14875,17 @@
 『それではこれは経験値分の代金です。
 　攻略のため、有効活用してくださいね♡』",""
 "”2層下町宿屋2階で10000G以上所持”
-→”宿屋店主に話しかける”","-Have more than 10,000G
--Talk to the innkeeper of the southern inn"
+→”宿屋店主に話しかける”","Contextual translation.
+-
+1. After Momoka's first event, talk to her in the
+   southern restaurant in the town.
+2. Talk to the innkeeper on the second floor of the
+   same building while holding more than 10,000G.
+-
+After Masha Jail Event, talk to the southern inn's
+innkeeper in the town while holding more than 10,000G.
+
+"
 "貴方は宿屋の主人から伝えられたとおりに、
 彼女の部屋の扉を3回ノックする。
 すると、ガチャリと音を立てて扉が開いだ。",""
@@ -15541,8 +15558,8 @@
 　もう我慢できないでしょう？堕ちてしまいなさい♡』",""
 "EMW_メッセージウィンドウ強制終了 すべて",""
 "”「10000G以上所持」”
-”2層牢屋でマーシャの誘惑に乗る”","-Hold 10,000G
--Fall to Masha's temptation in jail"
+”2層牢屋でマーシャの誘惑に乗る”","Go to the jail in town while holding more than
+10,000G and fall for Masha's temptation."
 "アルのいう通り、
 ここで誘惑に負ければ後で何を要求されるか分からない…
 それでも、貴方は思わず勃起した肉棒を露出させてしまう。",""
@@ -15791,8 +15808,8 @@
 　いいわ、また気が変わったらここに来なさい♡
 　たっぷり気持ちよくしてあげるわ♡』",""
 "”「チップコイン1000所持」”
-”カジノ右側テーブルでブラックジャックを行う”","-Hold 1000 Casino Chips
--Play blackjack in the casino"
+”カジノ右側テーブルでブラックジャックを行う”","Play blackjack in the casino while holding 1,000 or
+more Casino Chips."
 "カジノのイベントを再生しますか？","Replay casino event?"
 "<バニーガール>
 『それではお客様、お隣に失礼しますね。
@@ -16230,7 +16247,7 @@
 　何か、美味しいものでも食べて元気だそ？』",""
 "そう言うアルに、
 貴方は力なくうなずくしかできなかった。",""
-"”「3層でメイドサキュバスAに敗北」”",""
+"”「3層でメイドサキュバスAに敗北」”","Lose fight to Maid Succubus A on the third floor."
 "メイドサキュバスAのレベルドレインを再生しますか？","Replay Maid Succubus A level drain event?"
 "2回目",""
 "3回目",""
@@ -17013,7 +17030,8 @@
 貴方はこれからの家畜生活に務めるのであった。",""
 "バッドエンド：ママの奴隷",""
 "”「3層でメイドサキュバスBに敗北」”
-or”「3層でメイド長に敗北」”",""
+or”「3層でメイド長に敗北」”","Lose fight to Maid Succubus B or Head Maid on the
+third floor."
 "<メイドサキュバスB>
 『今日はお疲れ様～♡
 　どう？ひたすら戦わなきゃいけないって、
@@ -17701,7 +17719,7 @@ or”「3層でメイド長に敗北」”",""
 ただただ彼女に搾られるためだけにモンスターと戦う。
 無為で、みっともない毎日だが……
 貴方にはそんな毎日が、どうしようもなく心地よかった。",""
-"”「3層で可憐に敗北」”",""
+"”「3層で可憐に敗北」”","Lose fight to Enmi Karen on the third floor."
 "可憐のレベルドレインを再生しますか？","Replay Karen level drain event?"
 "部屋で待っていると、
 それからしばらくしてから可憐がやってくる。

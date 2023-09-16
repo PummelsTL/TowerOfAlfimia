@@ -389,8 +389,8 @@ and faced Rikka with your sword."
 "<六花>
 『うぅ…………そんな…………
 　やっぱり、私は、もう…………』","<Rikka>
-""Uuh... No... I couldn't do it..."""
-"六花は呻きながら、どさりと地面に倒れこむ。","Rikka fell to the floor with a groan."
+""Uuuh... No... I can't..."""
+"六花は呻きながら、どさりと地面に倒れこむ。","Rikka fell to the ground with a grunt."
 "六花を犯さない","Spare Rikka"
 "六花を犯す","Level drain Rikka"
 "<六花>
@@ -398,7 +398,8 @@ and faced Rikka with your sword."
 　レベルドレインをするつもりはないんですか………？』","<Rikka>
 ""Eh? You aren't going to level drain me?"""
 "貴方の態度を見て呆然とつぶやく六花に、
-貴方は頷きを返す。","When Rikka looked at you in surprise, you nodded."
+貴方は頷きを返す。","When Rikka looked at you dumbfounded, you returned her
+question with a nod."
 "<アル>
 『えへへ♪そんなひどいこと、できないよね！
 　この子、ただでさえ苦労してるみたいだし………』","<Al>
@@ -416,30 +417,31 @@ face, Rikka thanked you while hanging her head."
 　そんな私を、憐れんで…………だから…………』","<Rikka>
 ""...Is it because I'm a slave? You're taking pity on
  me because of that..."""
-"六花は俯きながら、ぽつりぽつりとそう言葉を漏らす。","Rikka kept muttering while hanging her head."
+"六花は俯きながら、ぽつりぽつりとそう言葉を漏らす。","Rikka muttered that while hanging her head."
 "<六花>
 『私が奴隷だから………
 　うぅ………もう、蔑みと同情は、たくさんです…………』","<Rikka>
 ""It's because I'm a slave... Uuuh... Everyone is
  looking at me with pity or contempt..."""
 "少女は目を潤ませながら、
-どうしようもない感情を誰に聞かせるでもなく吐露する。","Rikka spoke out her feelings of helplessness with tears
-running from her eyes. She wasn't speaking specifically
-toward anyone."
+どうしようもない感情を誰に聞かせるでもなく吐露する。","Without aiming her words directly at atone, Rikka
+spoke out her feelings of helplessness with her
+tears running."
 "<アル>
 『\n[1]…………』","<Al>
 ""\n[1]..."""
-"そんな少女をアルは心配そうに見つめている。","Al watched Rikka with worry."
+"そんな少女をアルは心配そうに見つめている。","Al watched Rikka with apparent worry in her eyes."
 "<六花>
 『…………分かっています、貴方に感謝することはあっても、
 　恨み言を言うのはおかしいって…………
 　それでも、もう私は…………』","<Rikka>
-""...I know that it's weird. I'm thankful for sparing
- me, but I can't help complaining... I'm already..."""
+""...I know that it's weird to say that... I'm thankful
+ to you for sparing me, but I can't help complaining...
+ I'm already..."""
 "彼女にかける言葉が見つからず、
-黙って聞いていた貴方に六花はそう言葉を告げる。","As you couldn't find the words to say and kept quiet,
-Rikka continued speaking."
-"君じゃなくてもレベルドレインはしない","I wouldn't level drain even if it wasn't you"
+黙って聞いていた貴方に六花はそう言葉を告げる。","Rikka said that when you had trouble finding the words
+to say and quietly watched her."
+"君じゃなくてもレベルドレインはしない","I wouldn't have done it even if it wasn't you"
 "……………………","..."
 "<六花>
 『え…………？』","<Rikka>
@@ -448,24 +450,25 @@ Rikka continued speaking."
 "<アル>
 『そうだよ！\n[1]は君が奴隷だから、じゃない！
 　元々、無理やり犯したりとかはしない人なんだよ！』","<Al>
-""That's right! \n[1] isn't doing it because
- you're a slave! He just doesn't like forcing himself
- on other people!"""
-"聞こえないと分かっていても、アルも貴方に言葉を続ける。","Al followed up with you even when she knew that Rikka
-couldn't hear her."
+""That's right! The fact that you're a slave doesn't
+ matter here! \n[1] is a gentleman who
+ doesn't want to take girls by force!"""
+"聞こえないと分かっていても、アルも貴方に言葉を続ける。","Al followed up with that even while she knew that
+Rikka couldn't hear her."
 "貴方は、自分は元々無理やり犯すのは好きではない。
 君が奴隷だから、犯さないわけではないと伝える。","You told Rikka that you didn't like taking girls by
-force to begin with, and you weren't doing it because
-she was a slave."
+force to begin with, and the fact that she was a slave
+didn't matter in your decision."
 "<六花>
 『本当、ですか……？』","<Rikka>
 ""Do you really mean that...?"""
-"貴方はそう確認する六花に、本当だと返した。","You told Rikka that it was true when she asked to
-confirm."
+"貴方はそう確認する六花に、本当だと返した。","When Rikka asked if it was really true, you told her
+that it is."
 "<六花>
 『そう、なんですか……
 　ごめんなさい、私、勝手に卑屈になって…………』","<Rikka>
-""I see... I'm sorry for my sudden outburst..."""
+""That's the reason...? I'm sorry...
+ I took it for granted that you..."""
 "そう言いながら顔を俯かせる六花に、
 貴方は気にすることはないと告げる。","Rikka apologized and hung her head, but you told her
 not to worry about it."
@@ -481,8 +484,8 @@ what you said."
 ""I can't afford to lose any more levels... That's why
  I'm happy that you didn't take them..."""
 "六花は俯きながら、
-自分の言動を恥じるようにそう言葉を漏らした。","Rikka said that while hanging her head from the shame
-of what she did and said earlier."
+自分の言動を恥じるようにそう言葉を漏らした。","Ashamed of her own actions, Rikka muttered apology
+while hanging her head."
 "そして、そのまま六花は疲れと安堵からか、
 気を失ってしまった。","Then she passed out from either fatigue or relief."
 "こんな少女に、これ以上辛い思いをさせるわけにはいかない。
@@ -509,7 +512,7 @@ release."
 "貴方は六花を犯した。","You violated Rikka and drained her levels."
 "<六花>
 『うぅ…………あぅ…………』","<Rikka>
-""Uuuh... Ah..."""
+""Uuuh... Auh..."""
 "貴方は呻きながら涙を流す六花に背を向け、
 会場を後にした。","You turned your back to panting and crying Rikka and
 left the arena."
@@ -1129,7 +1132,7 @@ dangerous-sounding things."
 "貴方は恭子を犯した。","You violated Kyouko and drained her levels."
 "<恭子>
 『うぅ…………あぅ…………』","<Kyouko>
-""Uuh... Auh..."""
+""Uuuh... Auh..."""
 "貴方は屈辱に涙を流す恭子に背を向け、
 会場を後にした。","As Kyouko shed tears from humiliation on the ground,
 you turned your back to her and left the arena."
