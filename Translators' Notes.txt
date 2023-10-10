@@ -1,5 +1,0 @@
-Translate scenes only in their primary map file where they appear in the story and leave other duplicates empty. This makes it easier to edit lines since any empty duplicates will get autofilled when creating patches. This means that scene room map (Map001) should not contain translations for the scenes.
-
-Storyteller perspective: Past tense, 3rd-person perspective. Refer to the players as "you".
-
-Mapfile chart work in progress.
