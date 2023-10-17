@@ -32,12 +32,12 @@ test playing!"
 『街でやり残したことがあった？
 　もしかしたらもう戻ってこれないかもだから、
 　気が済むまで準備しようね！』","<Al>
-""Do you still have something to do in the town?
+""Do you still have something to do in the city?
  We might not be able to return after going in,
  so we should do everything we want first!"""
 "EV002",""
 "EV003",""
-"街まで戻りますか？","Teleport to the town?"
+"街まで戻りますか？","Teleport to the city?"
 "はい",""
 "いいえ",""
 "EV004",""
@@ -58,5 +58,5 @@ test playing!"
 　\n[1]、町でやり残したことはない？
 　しっかり準備してから先に進もうね！』","<Al>
 ""T-That sounds a bit scary... \n[1], do you
- still have things to do in the town? We should
+ still have things to do in the city? We should
  go in only after we're fully ready!"""

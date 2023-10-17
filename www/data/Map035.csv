@@ -28,7 +28,7 @@ something really absurd for your sake."
 "EV021",""
 "EV022",""
 "EV023",""
-"街の噴水の前まで行きますか？","Teleport to the town center?"
+"街の噴水の前まで行きますか？","Teleport to the city center?"
 "はい","Yes"
 "いいえ","No"
 "EV024",""
@@ -55,7 +55,7 @@ something really absurd for your sake."
 　街の外になんか出られねーよ……』","""Don't you think it's unfair that you don't have a
  choice on the matter? All the monsters are girls, so I
  don't think I have a chance against the monsters
- outside the town with my normal type skills..."""
+ outside the city with my normal type skills..."""
 "<アル>
 『ノーマルスキル…って、
 　普通の攻撃スキルってことだよね！
@@ -114,7 +114,7 @@ something really absurd for your sake."
 "『この街で一番高価な住宅を持っているのは、
 　夢咲恭子という女性よ。
 　彼女は人には言えないような、
-　様々な手口でお金を集めたらしいわ。』","""The most expensive house in this town belongs to a
+　様々な手口でお金を集めたらしいわ。』","""The most expensive house in this city belongs to a
  woman named Yumesaki Kyouko. It's said that she has
  gathered her money through various underhanded means."""
 "『まったく……

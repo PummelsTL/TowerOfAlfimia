@@ -130,13 +130,13 @@ smiled at your reply."
 　じゃあ、約束通り今日は私が案内してあげる。
 　早速、いこっか♪』","<Mirai>
 ""I'm glad to hear that. Then I will guide you around
- the town like I promised. Shall we go?"""
+ the city like I promised. Shall we go?"""
 "案内してもらう","Ask her for a guide"
 "案内してもらわない","Not yet"
 "貴方はそう言って先導する女性について行った。","You said that and followed Mirai out of the inn."
 "<アル>
 『町のあんないツアーへっれつごー♪』","<Al>
-""Let's go! A tour of the town♪"""
+""Let's go! A tour of the city♪"""
 "<未来>
 『まずはここを進んだ先のことからだね。
 　ここから南に行くと、住宅街だよ。』","<Mirai>
@@ -167,7 +167,7 @@ smiled at your reply."
 　まぁ、簡単に言えば、
 　プレイヤーによる自警団みたいなものだよ。』","<Mirai>
 ""To put it simply... Vanguard is a player-run guild
- that looks after the peace in the town."""
+ that looks after the peace in the city."""
 "<未来>
 『ほら、いくらゲームだからって、
 　何でもかんでもやりたい放題だとみんなが困るでしょ？』","<Mirai>
@@ -195,7 +195,7 @@ Mirai's explanation."
 　まぁ、分かりやすく言うならこの街最強のギルドかな？』","<Mirai>
 ""So although we kind of work as guards... To put it
  simply, Vanguard is the strongest guild in the
- town."""
+ city."""
 "<未来>
 『君も、困ったら何かあったら尋ねるといいよ。
 　私たちはいつでも歓迎しよう、なんてね♪』","<Mirai>
@@ -209,14 +209,14 @@ that."
 　この建物はここでしばらく過ごすなら、
 　絶対お世話になるところだからよく覚えておくように♪』","<Mirai>
 ""You'll surely come to visit our guild building at some
- point if you're staying in the town, so you should
+ point if you're staying in the city, so you should
  remember it♪ Then, let's move back to the north side♪"""
 "貴方はそう言う女性についていった。","You followed Mirai after she said that."
 "<未来>
 『ここが、この町の冒険ショップだよ。
 　1階層で店員のようなNPCは見たよね？
 　その人がこの中にいるの。』","<Mirai>
-""This is the the town's adventurer shop. You must have
+""This is the the city's adventurer shop. You must have
  met the shopkeeper's on the first floor. You can also
  find them here."""
 "<未来>
@@ -293,7 +293,7 @@ meant and nodded back to her."
 　まぁ、先に進みたいなら出場は必須なんだけどね。』","<Mirai>
 ""Good that you understand♪ However, you'll need to
  participate in the arena if you want to advance past
- the town zone."""
+ the city zone."""
 "<未来>
 『あはは♪本物のコロシアムみたいに、
 　命の取り合いとかはないから大丈夫だよ。』","<Mirai>
@@ -314,12 +314,12 @@ meant and nodded back to her."
 『まぁ、そんな怖いコロシアムだけど、
 　先に進みたいなら出場は必須だよ。』","<Mirai>
 ""Well, even if you find it scary, you'll need to
- participate if you want to advance past the town
+ participate if you want to advance past the city
  zone."""
 "<未来>
 『えっとね？
 　この町を出て進んでいくと、大きな洋館があるんだけど。』","<Mirai>
-""You see... When you follow the path out from the town,
+""You see... When you follow the path out from the city,
  you'll come across a huge mansion."""
 "<未来>
 『その洋館の扉を開けるのに、
@@ -353,14 +353,14 @@ meant and nodded back to her."
 『ま、3つ証を持ってるには持ってるんだけど、
 　この町にいるのが楽しくてさ。
 　当分はこの町で過ごすつもりだよ。』","<Mirai>
-""But the thing is, I've found the life in the town zone
+""But the thing is, I've found the life in the city zone
  so much fun that, currently, I have no plans to leave
  even when I have the medals."""
 "<未来>
 『私みたいに、証をすべて持ってても、
 　この町にとどまるって人は結構多いんだ。』","<Mirai>
 ""There are also quite many others who have decided to
- stay in the town after clearing the Colosseum."""
+ stay in the city after clearing the Colosseum."""
 "<未来>
 『ほら、さっき話したバンガードのメンバーなんて、
 　ほぼ全員が3つの証持ちだしね。』","<Mirai>
@@ -413,13 +413,13 @@ meant and nodded back to her."
 　ゲームの中なのに、現実みたいに過ごせるんだもん。
 　ある意味究極のオンラインゲーム、みたいな感覚かな？』","<Mirai>
 ""This is one of the reasons why players won't leave the
- town♪ You can live here just like in real life. One
+ city♪ You can live here just like in real life. One
  could say that makes it an ultimate online game."""
 "<未来>
 『\n[1]もきっと、この町での生活が気に入ると思うよ♪
 　じゃあ、次の場所♪』","<Mirai>
 ""\n[1], I'm sure that you'll also come to
- like the life in the town♪ Then, to the next place♪"""
+ like the life in the city♪ Then, to the next place♪"""
 "<未来>
 『ここはカジノだね。
 　お金をぱーっと散在する場所♪』","<Mirai>
@@ -514,7 +514,7 @@ the stalls with Al."
 『じゃあ改めて、ボスクリアおめでとー♪
 　そして、2層の町にようこそ♪』","<Mirai>
 ""Then once more, congratulations on clearing the boss♪
- And welcome to the town on the second floor♪"""
+ And welcome to the city on the second floor♪"""
 "女性は貴方とコップを合わせながら、
 そう祝福の言葉を口にする。","Mirai clinked glasses with you."
 "<未来>
@@ -622,7 +622,7 @@ taking care of the payment."
 『うん♪
 　まぁ、先に進みたいなら出場は必須なんだけどね。』","<Mirai>
 ""Yes♪ However, you'll need to participate in the arena
- if you want to advance past the town zone."""
+ if you want to advance past the city zone."""
 "貴方は懐かしいような屋台の香りを楽しむ。","You enjoy the nostalgic smell drifting from the food
 stalls."
 "貴方は女性に勧められるまま、一口、口に運んだ。","When Mirai prompted you to eat, you began doing so."

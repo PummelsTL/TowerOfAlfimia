@@ -97,7 +97,7 @@ not warning you in time."
 "そう尋ねる未来に、貴方は大丈夫だと伝え、
 改めてあの時のことへの感謝を伝えた。","You told Mirai that you've been fine and thanked her
 again for the help when Yuuka tried to fight you in
-the town."
+the city."
 "<アル>
 『ね！あの時は本当に助かったよ！
 　ありがとう♪』","<Al>
@@ -171,7 +171,7 @@ she does."
 　少しは先輩っぽく、凄い所を見せとかないとね♪
 　私ってほら、身長小さいからなめられやすいし…』","<Mirai>
 ""Ahaha♪ Thank you♪ I need to show off how I'm the
- senpai in the town♪ You see, people often belittle
+ senpai in the city♪ You see, people often belittle
  me because I'm short..."""
 "先輩！尊敬してます！","I respect you, Senpai!"
 "確かにちっちゃい","You're certainly on the short side"
@@ -192,7 +192,7 @@ she does."
 『やっぱりこの街では、
 　強くなっておくことに越したことはないんだもん。
 　お互い、頑張ろうね♪』","<Mirai>
-""It is better to become strong in this town.
+""It is better to become strong in this city.
  Let's do our best likewise♪"""
 "<アル>
 『そうだね！よーし、
@@ -355,9 +355,9 @@ you right now."
 　先に進めるようになったわけだけど………どうするの？』","<Mirai>
 ""\n[1], congratulations♪ You won another
  match, bringing you to 3 wins in total♪ You can now
- progress past the town... So what are your plans?"""
+ progress past the city... So what are your plans?"""
 "クリアを目指して先に進む","I'll progress on"
-"もう少しこの街にいる","I'll stay in the town for a while"
+"もう少しこの街にいる","I'll stay in the city for a while"
 "<未来>
 『そっか……ちょっと寂しくなっちゃうね。
 　先に進んで帰ってきた人はいないから…………』","<Mirai>
@@ -413,7 +413,7 @@ words."
 "<アル>
 『\n[1]が街に残るのは、
 　やっぱり奴隷にしたあの人を犯すため……？』","<Al>
-""Um, \n[1]... Are you staying in the town
+""Um, \n[1]... Are you staying in the city
  so that you can violate that woman you enslaved...?"""
 "<未来>
 『いらっしゃい、\n[1]♪

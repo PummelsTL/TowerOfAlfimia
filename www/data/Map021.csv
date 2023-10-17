@@ -344,7 +344,7 @@ notice."
 "EV037",""
 "『この街には娯楽がここかコロシアムくらいしかねぇ…
 　だったら当然、ここに来るしかないよなぁ？』","""The casino and the colosseum are the only places for
- amusement in this town... That's why you naturally 
+ amusement in this city... That's why you naturally 
  end up here."""
 "『…あん？読書？
 　オ、オレは文字を読むだけで頭が痛くなっちまうんだよ。』","""...Huh? Reading? J-Just getting past the first page
@@ -410,7 +410,7 @@ notice."
 　\n[1]もしばらくこの街で暮らしてみる？』","<Al>
 ""You should go all out relaxing when you can take it
  easy. \n[1], why don't you take time to
- relax in this town?"""
+ relax in this city?"""
 "EV040",""
 "『バンガードの任務も楽ではない。
 　だからこそこうして、休息の時間が必要なのだ！

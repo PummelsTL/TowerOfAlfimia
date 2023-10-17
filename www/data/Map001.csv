@@ -370,12 +370,12 @@
 【回想部屋でのレベルの上下は、
 　ダンジョンに戻るときにリセットされます】",""
 "EV004",""
-"レベル調整用クリスタルです",""
-"レベルを上げる",""
-"レベルを下げる",""
-"何もしない",""
-"いくつレベルを上げますか？",""
-"いくつレベルを下げますか？",""
+"レベル調整用クリスタルです","This is a level changing crystal."
+"レベルを上げる","Increase your level"
+"レベルを下げる","Decrease your level"
+"何もしない","Don't use it"
+"いくつレベルを上げますか？","How many levels do you want to increase?"
+"いくつレベルを下げますか？","How many levels do you want to decrease?"
 "小悪魔B",""
 "小悪魔Bと戦闘を行いますか？","Fight Imp B?"
 "<小悪魔B>
@@ -717,7 +717,8 @@
 "”1層にてロリダークエルフと戦う”","Fight Loli Dark Elf on the first floor."
 "EV007",""
 "優香（1戦目）と戦いますか？
-【優香の前に小悪魔Bとの簡易戦闘があります】",""
+【優香の前に小悪魔Bとの簡易戦闘があります】","Fight Yuuka (1)?
+【Simplified Imp B fight is also included.】"
 "<優香>
 『はい、私の勝ちー♡
 　ま、勝負じゃなくてただの憂さ晴らしだし♡』",""
@@ -1771,10 +1772,10 @@
 　またレベルを上げて、ここに来てくださいね♡』",""
 "<店員>
 『またのご利用お待ちしております♪』",""
-"”店員のレベルドレインを受ける”","""Get level drained by Shopkeeper A."""
+"”店員のレベルドレインを受ける”","Get level drained by Shopkeeper A for the first time."
 "”「店員カード（Lv.1～9）」を所持”
-→”Lv.10以上の状態で店員のレベルドレインを受ける”","""Get level drained by Shopkeeper A while over Lvl 10
- and in possession of 'Shopkeeper A Card (Lvl 1-9)'."""
+→”Lv.10以上の状態で店員のレベルドレインを受ける”","Get level drained by Shopkeeper A while over level 10
+and after obtaining 'Shopkeeper A Card (Lvl 1-9)'."""
 "店員のレベルドレイン（～Lv17）を受けますか？","Replay Shopkeeper A level drain (Lvl 10-17)?"
 "<店員>
 『あ、プレイヤーさん♪
@@ -2063,7 +2064,7 @@
 "<アル>
 『\n[1]！？し、しっかりして！
 　このダンジョンのクリアを目指すんでしょ！？』",""
-"”バニー店員のレベルドレインを受ける”","""Get level drained by Shopkeeper B."""
+"”バニー店員のレベルドレインを受ける”","""Get level drained by Shopkeeper B for the first time."""
 "<店員>
 『かしこまりました、お客様♡
 　それでは、レベルをドレインさせていただきます♡』",""
@@ -2520,7 +2521,8 @@
 　これ以上はゲームオーバーになりますので、
 　やめておいた方がよろしいですよ♡』",""
 "”「バニーカード（Lv.1～9）」を所持”
-→”Lv.10以上の状態で店員のレベルドレインを受ける”",""
+→”Lv.10以上の状態で店員のレベルドレインを受ける”","Get level drained by Shopkeeper B while over level 10
+and after obtaining 'Shopkeeper B Card (Lvl 1-9)'."""
 "<店員>
 『あらお客様、そこそこ程度には強くなったようですね。
 　ビギナー卒業おめでとうございます♡』",""
@@ -2934,7 +2936,8 @@
 　また搾り取られたくなったのなら、レベルを上げてから、
 　ここに来てください♡お待ちしております♡』",""
 "”「店員カード（Lv.10～17）」を所持”
-→”Lv.18以上の状態で店員のレベルドレインを受ける”",""
+→”Lv.18以上の状態で店員のレベルドレインを受ける”","Get level drained by Shopkeeper A while over level 18
+and after obtaining 'Shopkeeper A Card (Lvl 10-17)'."""
 "<店員>
 『あ、プレイヤーさん、結構レベル上がりましたね♪
 　そろそろ中堅プレイヤーさんの仲間入り、
@@ -3265,7 +3268,8 @@
 "<アル>
 『…………あれ？どうやったら勝ちなの？』",""
 "”「店員カード（Lv.18～25）」を所持”
-→”Lv.26以上の状態で店員のレベルドレインを受ける”",""
+→”Lv.26以上の状態で店員のレベルドレインを受ける”","Get level drained by Shopkeeper A while over level 26
+and after obtaining 'Shopkeeper A Card (Lvl 18-25)'."""
 "店員のレベルドレイン（～Lv38）を受けますか？","Replay Shopkeeper A level drain (Lvl 26-38)?"
 "<店員>
 『プレイヤーさん、また強くなったんですね♪
@@ -3588,7 +3592,8 @@
 　はい、これが今日の分のお代です♪
 　大事に使ってくださいね♪』",""
 "”「バニーカード（Lv.10～17）」を所持”
-→”Lv.18以上の状態で店員のレベルドレインを受ける”",""
+→”Lv.18以上の状態で店員のレベルドレインを受ける”","Get level drained by Shopkeeper B while over level 18
+and after obtaining 'Shopkeeper B Card (Lvl 10-17)'."""
 "<店員>
 『かしこまりました♡お客様♡
 　どうやらまた強くなって、中堅程度にはなれたようですね。
@@ -4041,7 +4046,8 @@
 　また強制射精させられたくなったのなら、
 　レベルを上げてからここに来てください♡』",""
 "”「バニーカード（Lv.18～25）」を所持”
-→”Lv.26以上の状態で店員のレベルドレインを受ける”",""
+→”Lv.26以上の状態で店員のレベルドレインを受ける”","Get level drained by Shopkeeper B while over level 26
+and after obtaining 'Shopkeeper B Card (Lvl 18-25)'."""
 "店員のレベルドレイン（～Lv33）を受けますか？","Replay shopkeeper level drain (Lvl 26-38)?"
 "<店員>
 『あら、お客様。いつの間にか随分と強くなりましたね♡
@@ -7188,10 +7194,17 @@ Would you like to view the event requirements?"
 手を振りながらそう挨拶をして去っていった…………",""
 "シーンが出現しない条件
 ”聖剣を2層で未入手”
-もしくは”コロシアムで高木優香に勝利”",""
+もしくは”コロシアムで高木優香に勝利”","The reason this event might not appear:
+1. You didn't find the holy sword on the second floor.
+2. You won the match against Yuuka at the Colosseum."
 "シーンが出現する条件
 ”聖剣を2層で獲得””コロシアムで高木優香に敗北”
-→”恭子に勝利後2層森奥エリアでのイベント”",""
+→”恭子に勝利後2層森奥エリアでのイベント”","Scene requirements:
+1. Find the holy sword on the second floor.
+2. Lose the match against Yuuka at the Colosseum.
+
+3. Meet Yuuka at the second-floor forest after winning
+the three matches at the Colosseum."
 "高木優香（3戦目)と戦闘を行いますか？","Fight Takagi Yuuka (3)?"
 "<優香>
 『はい、これでアンタの負け♡
@@ -7412,7 +7425,7 @@ Would you like to view the event requirements?"
 "”「3000G以上所持」”
 ”桃香に1000G払う”","Talk to Momoka on the first floor while having more
 than 3000G, and pay for her services."
-"桃香の誘惑を受けますか？","Replay Momoka's temptation event?"
+"桃香の誘惑を受けますか？","Replay Momoka's temptation?"
 "1回目",""
 "1回目時に追加料金未払い時",""
 "D_TEXT_SETTING REAL_TIME ON",""
@@ -7950,13 +7963,13 @@ than 3000G, and pay for her services."
 　……うん！分かった！
 　それじゃ、今度からこんな風な子には気を付けようね！』",""
 "シーンが発生しない条件
-”チュートリアルにて遠見可憐に勝利する”","Reason the event is locked:
--Won the tutorial fight against Enmi Karen."
+”チュートリアルにて遠見可憐に勝利する”","The reason this event might not appear:
+You won the tutorial fight against Enmi Karen."
 "シーンが出現する条件
 ”チュートリアルにて遠見可憐に敗北する”
 →”1層休憩所にて遠見可憐に話しかける”","Event requirements:
 1. Lose the tutorial fight against Enmi Karen.
-2. Talk to her in the rest spot on the first floor."
+2. Talk to her at the rest spot on the first floor."
 "遠見可憐イベントを再生しますか？","Replay Enmi Karen event?"
 "<可憐>
 『あ、やっほ、\n[1]君♪
@@ -8304,7 +8317,7 @@ than 3000G, and pay for her services."
 シーンの出現条件を確認することをお勧めします。",""
 "”恭子戦の前にアリサの誘惑に乗る”","Before fighting Kyouko in the Colosseum, fall for
 Arisa's temptation while resting in the inn."
-"アリサの誘惑イベントを再生しますか？","Replay Arisa temptation event?"
+"アリサの誘惑イベントを再生しますか？","Replay Arisa's temptation?"
 "<アル>
 『明日は絶対に負けられないよね！
 　たっぷり休んで、英気を養わないと！』",""
@@ -13077,7 +13090,8 @@ Arisa's temptation while resting in the inn."
 "貴方はそんなフレイの声を聴きながら、
 全ての精を彼女に搾り取られ、意識を失ってしまった。",""
 "”「店員カード（Lv.26～38）」を所持”
-→”Lv.39以上の状態で店員のレベルドレインを受ける”",""
+→”Lv.39以上の状態で店員のレベルドレインを受ける”","Get level drained by Shopkeeper A while over level 39
+and after obtaining 'Shopkeeper A Card (Lvl 26-38)'."""
 "店員のレベルドレイン（～Lv45）を受けますか？","Replay shopkeeper level drain (Lvl 39-45)?"
 "<店員>
 『おめでとうございます♪プレイヤーさん、
@@ -13437,7 +13451,8 @@ Arisa's temptation while resting in the inn."
 "<アル>
 『頑張って、先に進もうね！』",""
 "”「店員カード（Lv.39～45）」を所持”
-→”Lv.46以上の状態で店員のレベルドレインを受ける”",""
+→”Lv.46以上の状態で店員のレベルドレインを受ける”","Get level drained by Shopkeeper A while over level 46
+and after obtaining 'Shopkeeper A Card (Lvl 39-45)'."""
 "店員のレベルドレイン（～Lv50）を受けますか？","Replay shopkeeper level drain (Lvl 46-50)?"
 "<店員>
 『おめでとうございます♪
@@ -13870,7 +13885,8 @@ Arisa's temptation while resting in the inn."
 『だ、大丈夫……？
 　これからも、ちゃんと魔物と戦える…………？』",""
 "”「バニーカード（Lv.26～38）」を所持”
-→”Lv.39以上の状態で店員のレベルドレインを受ける”",""
+→”Lv.39以上の状態で店員のレベルドレインを受ける”","Get level drained by Shopkeeper B while over level 39
+and after obtaining 'Shopkeeper B Card (Lvl 26-38)'."""
 "<店員>
 『あら……おめでとうございます、お客様♡
 　もうトッププレイヤーと言ってもいいレベルですね。』",""
@@ -14376,7 +14392,8 @@ Arisa's temptation while resting in the inn."
 　これからも頑張ってください♡』",""
 "EV048",""
 "”「バニーカード（Lv.39～45）」を所持”
-→”Lv.46以上の状態で店員のレベルドレインを受ける”",""
+→”Lv.46以上の状態で店員のレベルドレインを受ける”","Get level drained by Shopkeeper B while over level 46
+and after obtaining 'Shopkeeper B Card (Lvl 39-45)'."""
 "<店員>
 『おめでとうございます、お客様♡
 　もう限界まで強くなられたようですね。』",""
@@ -14876,15 +14893,14 @@ Arisa's temptation while resting in the inn."
 　攻略のため、有効活用してくださいね♡』",""
 "”2層下町宿屋2階で10000G以上所持”
 →”宿屋店主に話しかける”","Contextual translation.###
--
-1. After Momoka's first event, talk to her in the
-   southern restaurant in the town.
+-1
+1. After Momoka's first event, talk to her at the
+   southern restaurant in the city.
 2. Talk to the innkeeper on the second floor of the
    same building while holding more than 10,000G.
--
-After Masha Jail Event, talk to the southern inn's
-innkeeper in the town while holding more than 10,000G.
-
+-2
+After Masha Jail Event, talk to the innkeeper at the
+southern inn while holding more than 10,000G.
 "
 "貴方は宿屋の主人から伝えられたとおりに、
 彼女の部屋の扉を3回ノックする。
@@ -15558,7 +15574,7 @@ innkeeper in the town while holding more than 10,000G.
 　もう我慢できないでしょう？堕ちてしまいなさい♡』",""
 "EMW_メッセージウィンドウ強制終了 すべて",""
 "”「10000G以上所持」”
-”2層牢屋でマーシャの誘惑に乗る”","Go to the jail in town while holding more than
+”2層牢屋でマーシャの誘惑に乗る”","Go to the jail in city while holding more than
 10,000G and fall for Masha's temptation."
 "アルのいう通り、
 ここで誘惑に負ければ後で何を要求されるか分からない…
@@ -15808,7 +15824,7 @@ innkeeper in the town while holding more than 10,000G.
 　いいわ、また気が変わったらここに来なさい♡
 　たっぷり気持ちよくしてあげるわ♡』",""
 "”「チップコイン1000所持」”
-”カジノ右側テーブルでブラックジャックを行う”","Play blackjack in the casino while holding 1,000 or
+”カジノ右側テーブルでブラックジャックを行う”","Play blackjack at the casino while holding 1,000 or
 more Casino Chips."
 "カジノのイベントを再生しますか？","Replay casino event?"
 "<バニーガール>
@@ -16247,7 +16263,7 @@ more Casino Chips."
 　何か、美味しいものでも食べて元気だそ？』",""
 "そう言うアルに、
 貴方は力なくうなずくしかできなかった。",""
-"”「3層でメイドサキュバスAに敗北」”","Lose fight to Maid Succubus A on the third floor."
+"”「3層でメイドサキュバスAに敗北」”","Lose a fight to Maid Succubus A on the third floor."
 "メイドサキュバスAのレベルドレインを再生しますか？","Replay Maid Succubus A level drain event?"
 "2回目",""
 "3回目",""
@@ -17030,7 +17046,7 @@ more Casino Chips."
 貴方はこれからの家畜生活に務めるのであった。",""
 "バッドエンド：ママの奴隷",""
 "”「3層でメイドサキュバスBに敗北」”
-or”「3層でメイド長に敗北」”","Lose fight to Maid Succubus B or Head Maid on the
+or”「3層でメイド長に敗北」”","Lose a fight to Maid Succubus B or Head Maid on the
 third floor."
 "<メイドサキュバスB>
 『今日はお疲れ様～♡
@@ -17719,7 +17735,7 @@ third floor."
 ただただ彼女に搾られるためだけにモンスターと戦う。
 無為で、みっともない毎日だが……
 貴方にはそんな毎日が、どうしようもなく心地よかった。",""
-"”「3層で可憐に敗北」”","Lose fight to Enmi Karen on the third floor."
+"”「3層で可憐に敗北」”","Lose the fight to Enmi Karen on the third floor."
 "可憐のレベルドレインを再生しますか？","Replay Karen level drain event?"
 "部屋で待っていると、
 それからしばらくしてから可憐がやってくる。
@@ -18551,8 +18567,9 @@ third floor."
 "EV057",""
 "【これは回想全開放のスイッチです。
 　このスイッチを使用すると、
-　回想部屋の外に出られなくなります。】",""
-"【回想部屋を全開放しますか？】",""
+　回想部屋の外に出られなくなります。】","This switch unlocks all the events in the scene room.
+Using it will prevent you from leaving the room."
+"【回想部屋を全開放しますか？】","Unlock all the events in the scene room?"
 "【もう戻せないようだ…………】",""
 "バッドエンド出現条件を見ますか？","View Bad End requirements?"
 "”4層にてアルフィミアに勝利後、
@@ -19208,32 +19225,45 @@ took a hold of your gaze."
 "EV063",""
 "『二度とこの部屋から出られなくなりますが、
 　アイテム・装備を自由に入手できるようになります。
-　回想ショップを起動しますか？』",""
-"『本当に開放しますか？』",""
+　回想ショップを起動しますか？』","""This shop lets you freely obtain items and equipment,
+ but it will prevent you from leaving this room.
+ Would you like to unlock the scene room shop?"""
+"『本当に開放しますか？』","""Do you truly wish to unlock it?"""
 "『かしこまりました。
-　それでは回想ショップを起動します。』",""
-"『ここは回想ショップです。』",""
+　それでは回想ショップを起動します。』","""Understood. Activating the scene room shop."""
+"『ここは回想ショップです。』","""Welcome to the scene room shop."""
 "【注意】
 このイベントは期間限定イベントです。
 あるタイミングになると消失します。
-どのタイミングまで存在するのか確認しますか？",""
+どのタイミングまで存在するのか確認しますか？","【Notice】
+This is a limited-time event, which becomes unavailable
+after specific conditions. Would you like to view its
+requirements?"
 "シーン発生条件
 宿屋の隣にいる優香に話しかける。
-（未来の2層案内後～コロシアムで優香と戦うまで）",""
+（未来の2層案内後～コロシアムで優香と戦うまで）","Event Requirements:
+Talk to Yuuka near the inn on the second floor.
+(Available after Mirai's tour until fighting Yuuka in
+ the Colosseum.)"
 "優香の誘惑を閲覧しますか？
 （回想マップへと移動します）","Replay Momoka's temptation?
-(You will be teleported to the scene map.)"
+(You will be transferred to a scene map.)"
 "回想マップへ送ります。
-移動後、宿屋隣にいる優香に話しかけてください。",""
+移動後、宿屋隣にいる優香に話しかけてください。","Transferring you to the scene map. Please talk to
+Yuuka next to the inn after the transfer."
 "誘惑後戦闘イベントにつながります。
 【推奨レベル：22
-　推奨装備：聖剣グラスファ・２層装備】",""
-"レベルを推奨レベルに変更しますか？",""
+　推奨装備：聖剣グラスファ・２層装備】","This temptation connects to a fight event.
+【Recommended Level: 22】【Recommended Equipment:
+ Holy Sword Grasfa and second-floor equipment.】"
+"レベルを推奨レベルに変更しますか？","Change your level to the recommended level?"
 "EV065",""
 "【これは第2回アップデートシーン全開放のスイッチです。
 　このスイッチを使用すると、
-　回想部屋の外に出られなくなります。】",""
-"【第2回アプデシーンを全開放しますか？】",""
+　回想部屋の外に出られなくなります。】","This switch unlocks all the events for the second
+update. Using it will prevent you from leaving the
+scene room."
+"【第2回アプデシーンを全開放しますか？】","Unlock all the events for the second update?"
 "【注意】
 このイベントは期間限定戦闘です。
 あるタイミングになると消失します。
@@ -19241,22 +19271,34 @@ took a hold of your gaze."
 "シーン発生条件
 宿屋の隣にいる優香に話しかける。
 （未来の2層案内後～コロシアムで優香と戦うまで）
-→優香の誘惑に乗る",""
+→優香の誘惑に乗る","Event Requirements:
+1. Talk to Yuuka near the inn on the second floor.
+(Available after Mirai's tour until fighting Yuuka in
+the Colosseum.)
+2. Fall to Yuuka's temptation."
 "優香の戦闘を閲覧しますか？
 【誘惑から連続するイベントなため、
 　誘惑イベントを先に経験することを強くお勧めします。
-　誘惑イベントは左隣から経験可能です。】",""
+　誘惑イベントは左隣から経験可能です。】","Replay the fight against Yuuka?
+【This is a continuation of Yuuka's temptation event,
+  which is to the left. It's highly recommended to
+  proceed to this fight from that event.】"
 "【注意】
 このイベントは期間限定イベントです。
-どのタイミングまで存在するのか確認しますか？",""
+どのタイミングまで存在するのか確認しますか？","【Notice】
+This is a limited-time event. Would you like to view
+its requirements?"""
 "シーン発生条件
 恭子の家で恭子に話しかける
-（コロシアムで恭子に勝利後～）",""
+（コロシアムで恭子に勝利後～）","Event Requirements:
+Talk to Kyouko at her house after defeating her in
+the Colosseum."
 "恭子の誘惑を閲覧しますか？
 （回想マップへと移動します）","Replay Kyoko's temptation?
-(You will be teleported to the scene map.)"
+(You will be transferred to a scene map.)"
 "回想マップへ送ります。
-移動後、部屋にいる恭子に話しかけてください。",""
+移動後、部屋にいる恭子に話しかけてください。","Transferring you to the scene map. Please talk to
+Kyouko in the room after your transfer."
 "誘惑後戦闘イベントにつながります。
 【推奨レベル：28
 　推奨装備：聖剣グラスファ・２層装備】",""
@@ -19266,7 +19308,10 @@ took a hold of your gaze."
 "シーン発生条件
 恭子の家で恭子に話しかける
 （コロシアムで恭子に勝利後～）
-→恭子の誘惑に乗る",""
+→恭子の誘惑に乗る","Event Requirements:
+1. Talk to Kyouko at her house after defeating her in
+the Colosseum.
+2. Fall to Kyouko's temptation."
 "恭子の戦闘を閲覧しますか？
 【誘惑から連続するイベントなため、
 　誘惑イベントを先に経験することを強くお勧めします。
@@ -19278,37 +19323,58 @@ took a hold of your gaze."
 "シーン発生条件
 1階層で桃香に所持金を全額貢ぐ
 →2階層下町宿屋で桃香を指名する
-→2階層下町酒場で桃香に話しかける（コロシアムで3勝後～）",""
+→2階層下町酒場で桃香に話しかける（コロシアムで3勝後～）","Event Requirements:
+1. Pay for Momoka's services on the first floor.
+2. Pay for Momoka's services at the southern inn
+on the second floor.
+3. Talk to Momoka at the southern restaurant after
+winning three matches at the Colosseum."
 "桃香との戦闘を閲覧しますか？
 （回想マップへと移動します）","Replay Momoka's battle?
-(You will be teleported to the scene map.)"
+(You will be transferred to a scene map.)"
 "回想マップへ送ります。
 移動後、桃香に話しかけてください。
 【推奨レベル：25
-　推奨装備：聖剣グラスファ・２層装備】",""
+　推奨装備：聖剣グラスファ・２層装備】","Transferring you to the scene map. Please talk to
+Momoka after the transfer.
+【Recommended Level: 25】【Recommended Equipment:
+ Holy Sword Grasfa and second-floor equipment.】"
 "EV071",""
 "【注意】
 このイベントはアップデートイベントです。
-発生条件を確認しますか？",""
+発生条件を確認しますか？","【Notice】
+This is an update event. Would you like to view its
+requirements?"
 "シーン発生条件
 カジノのブラックジャックイベント閲覧後、
-同じバニーガールに話しかける（要2万G）",""
+同じバニーガールに話しかける（要2万G）","Event Requirements:
+After experiencing the blackjack event at the casino,
+talk to the same bunny girl again while possessing
+20,000G."
 "バニーガールとの戦闘を閲覧しますか？
 （回想マップへと移動します）","Replay Bunny Girl battle?
-(You will be teleported to the scene map.)"
+(You will be transferred to a scene map.)"
 "回想マップへ送ります。
 移動後、バニーガールに話しかけてください。
 【推奨レベル：25
-　推奨装備：聖剣グラスファ・２層装備】",""
+　推奨装備：聖剣グラスファ・２層装備】","Transferring you to the scene map. Please talk to
+the bunny girl after the transfer.
+【Recommended Level: 25】【Recommended Equipment:
+ Holy Sword Grasfa and second-floor equipment.】"
 "シーン発生条件
 1回目：コロシアムで六花に話しかける
-　　　　（凛に勝利後～次の試合まで）",""
+　　　　（凛に勝利後～次の試合まで）","Event Requirements:
+First scene: Talk to Rikka at the Colosseum.
+(Available until the next match after defeating Rin.)"
 "2回目：六花に3レベル以上貢いだ状態で六花に話しかける
 3回目：六花に9レベル以上貢いだ状態で六花に話しかける
-両方→（凛に勝利後～次の試合まで）",""
+両方→（凛に勝利後～次の試合まで）","Second scene: Talk to Rikka at Kyoko's house after
+letting her drain three levels from you.
+Third Scene: Talk to Rikka after letting her drain
+nine levels from you."
 "六花のイベントを閲覧しますか？
 （回想マップへと移動します）","Replay Rikka's event?
-(You will be teleported to the scene map.)"
+(You will be transferred to a scene map.)"
 "【注意！】
 このイベントは大量のレベルを六花に貢ぐ必要があります。
 不足時は街の外で経験値稼ぎ用の雑魚を狩ってください。
@@ -19316,10 +19382,16 @@ took a hold of your gaze."
 "回想マップへ送ります。
 移動後、六花に話しかけてください。
 【推奨レベル：28
-　推奨装備：聖剣グラスファ・２層装備】",""
+　推奨装備：聖剣グラスファ・２層装備】","Transferring you to the scene map. Please talk to
+Rikka after the transfer.
+【Recommended Level: 28】【Recommended Equipment:
+ Holy Sword Grasfa and second-floor equipment.】"
 "シーン発生条件
 六花に12レベル貢ぎ、コロシアムで試合を行う。
-（凛に勝利後～次の試合まで）",""
+（凛に勝利後～次の試合まで）","Event Requirements:
+After letting Rikka drain twelve levels from you,
+nominate her to a match at the Colosseum.
+(Available until the next match after defeating Rin.)"
 "六花の戦闘を閲覧しますか？
 【誘惑から連続するイベントなため、
 　誘惑イベントを先に経験することを強くお勧めします。
@@ -19327,13 +19399,15 @@ took a hold of your gaze."
 "EV075",""
 "【これは第1回アップデートシーン全開放のスイッチです。
 　このスイッチを使用すると、
-　回想部屋の外に出られなくなります。】",""
-"【第1回アプデシーンを全開放しますか？】",""
+　回想部屋の外に出られなくなります。】","This switch unlocks all the events for the first
+update. Using it will prevent you from leaving the
+scene room."
+"【第1回アプデシーンを全開放しますか？】","Unlock all the events for the first update?"
 "シーン発生条件
 フレイ討伐後、「魅了能力を得て現実に帰る」を選ぶ",""
 "可憐のイベントを閲覧しますか？
 （回想マップへと移動します）","Replay Karen's event?
-(You will be teleported to the scene map.)"
+(You will be transferred to a scene map.)"
 "回想マップへ送ります。
 移動後、「魅了能力を得て現実に帰る」を選んでください。",""
 "シーン発生条件
@@ -19341,7 +19415,7 @@ took a hold of your gaze."
 復活しているサキュバスクイーンに話しかける",""
 "サキュバスクイーンのイベントを閲覧しますか？
 （回想マップへと移動します）","Replay Succubus Queen's event?
-(You will be teleported to the scene map.)"
+(You will be transferred to a scene map.)"
 "回想マップへ送ります。
 移動後、サキュバスクイーンに話しかけてください。",""
 "EV078",""

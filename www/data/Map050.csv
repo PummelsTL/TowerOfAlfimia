@@ -831,7 +831,7 @@ that you found it."
 　中のアイテムを街でオークションにかければ、
 　大金が手に入ったりするらしいし……！』","""That kind of stuff tickles my inner gamer! I bet that
  you could become filthy rich if you auctioned one of
- those items in the town!"""
+ those items in the city!"""
 "<アル>
 『レアなアイテム♪
 　私だったら売ったりなんかしないで、
@@ -845,7 +845,7 @@ that you found it."
 "はい","Yes"
 "いいえ","No"
 "EV026",""
-"街まで戻りますか？","Teleport to the town?"
+"街まで戻りますか？","Teleport to the city?"
 "EV027",""
 "EV028",""
 "<アル>

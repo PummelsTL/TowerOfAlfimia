@@ -187,7 +187,7 @@ was pushing quickly pushing you towards the edge."
 "ロリダークエルフはトドメをさすように、
 自分の舌を貴方の乳首にぐっと押し込み、ぴんっと強く弾く。","In order to finish you off, the loli dark elf smashed
 down your nipple under her tongue and flicked it hard."
-"\n[1]のレベルが1さがった。","\n[1] lost 1 level."
+"\n[1]のレベルが1さがった。",""
 "強くはじかれた乳首が合図となる様に、
 びゅっと肉棒から精液が噴き出てしまった。","Semen shot out from your penis the moment the loli
 dark elf flicked your nipple."
@@ -715,10 +715,13 @@ room."
  some reason!"""
 "EV004",""
 "この先は本来なら2層の敵である「盗賊サキュバス」と、
-戦えるようになる体験版専用のエリアです。",""
+戦えるようになる体験版専用のエリアです。","This portal leads to a special trial version area where
+you can fight Thief Succubus from the second floor."
 "よって、次のフィールドにいるセーブデータは、
-引継ぎが出来なくなります。お気を付けください。",""
-"体験版専用フィールドに移動しますか？",""
+引継ぎが出来なくなります。お気を付けください。","Therefore, you can't transfer save files made in this
+area to the full version. Please make sure to return
+to this area to save if you wish to transfer your save."
+"体験版専用フィールドに移動しますか？","Teleport to the special trial version area?"
 "はい","Yes"
 "いいえ","No"
 "<盗賊サキュバス>

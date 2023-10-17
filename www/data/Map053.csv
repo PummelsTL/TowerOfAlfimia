@@ -2,84 +2,136 @@
 "<盗賊サキュバス>
 『よくここまで来たね♡
 　ボクが今のところ冒険者さまにとって最後の敵！
-　つまりはラスボスだよ♡』",""
+　つまりはラスボスだよ♡』","<Thief Succubus>
+""Good job on making it this far, Mr. Adventurer♡
+ At present, I'm the strongest enemy there is!
+ In other words, I'm the last boss♡"""
 "<盗賊サキュバス>
 『まぁ、本編では戦闘中しかしゃべらない、
-　ただのザコキャラなんだけど…………』",""
+　ただのザコキャラなんだけど…………』","<Thief Succubus>
+""Although... I'm only a mob character who won't
+ talk outside of battle in the full version..."""
 "<盗賊サキュバス>
 『その辺はあまり深くは突っ込まないで？
-　とにかく、ボクと勝負♪』",""
+　とにかく、ボクと勝負♪』","<Thief Succubus>
+""But don't think too deeply about that, okay?
+ At any rate, let's fight♪"""
 "<盗賊サキュバス>
 『冒険者さまのことを犯して、
 　理性をトロトロにしてあげるからね♪
-　わるーい盗賊に、メロメロにされちゃってよ♡』",""
+　わるーい盗賊に、メロメロにされちゃってよ♡』","<Thief Succubus>
+""Mr. Adventurer, I'll assault you and make you lose
+ your mind♪ A bad thief like me is going to make you
+ totally head over heels♡"""
 "<盗賊サキュバス>
 『いたた……強いんだね、冒険者さま……
-　まさか1回目で負けるとは思ってなかったよ…』",""
+　まさか1回目で負けるとは思ってなかったよ…』","<Thief Succubus>
+""Owie... Mr. Adventurer, you're strong...
+ I didn't think I would lose the first fight..."""
 "<盗賊サキュバス>
 『っとっと、いけないいけない、
-　え～と、こほんっ！』",""
+　え～と、こほんっ！』","<Thief Succubus>
+""Wait, this isn't the time for this. Um... Cough!"""
 "<盗賊サキュバス>
 『よくぞすべての敵を退けました！
-　体験版で戦える敵はこれで全てですっ！』",""
+　体験版で戦える敵はこれで全てですっ！』","<Thief Succubus>
+""You have done great to defeat all the enemies!
+ This makes up all the foes you can fight in the
+ trial version!"""
 "<盗賊サキュバス>
 『じゃあ、体験版を遊んでくれた冒険者さまに、
-　ボクから装備のプレゼント♡』",""
+　ボクから装備のプレゼント♡』","<Thief Succubus>
+""I have a little present for you since you played
+ through the whole trial version♡ It's a piece
+ of equipment♡"""
 "<盗賊サキュバス>
 『武器と防具、どっちがいいかな？
 　武器の方が値段は高いけど、
-　防具のほうが長く使えるかもね♡』",""
-"武器",""
-"防具",""
-"そんなものよりエッチなご褒美が欲しい",""
+　防具のほうが長く使えるかもね♡』","<Thief Succubus>
+""Which one do you want between weapon and armor?
+ The weapon is more valuable, but the armor might
+ be more useful in the long run♡"""
+"武器","Weapon"
+"防具","Armor"
+"そんなものよりエッチなご褒美が欲しい","I'd rather have sexual reward"
 "<盗賊サキュバス>
 『分かった♪
 　じゃあ、はい、これあげる♡
-　どうやって手に入れたのか～とかは聞かないでね♪』",""
+　どうやって手に入れたのか～とかは聞かないでね♪』","<Thief Succubus>
+""Okay♪ Here you♡ Don't ask me how I got it, okay?"""
 "\n[1]は霊樹の木刀を手に入れた！","You obtained Spirit Wood Sword!"
 "<盗賊サキュバス>
 『それは、2層で買える武器だよ♡
 　ここから出ても所持したままになってるから、
-　ちゃんと外でセーブするんだよ？』",""
+　ちゃんと外でセーブするんだよ？』","<Thief Succubus>
+""That's a weapon you can buy on the second floor♡
+ You get to keep it, so make sure to save your game
+ outside of this zone♡"""
 "<盗賊サキュバス>
 『んんっ！というわけで、続きは製品版をお楽しみに♪
 　この体験版が気に入ってくれたら、
-　買ってくれると嬉しいな♡』",""
+　買ってくれると嬉しいな♡』","<Thief Succubus>
+""And that's all! If you enjoyed the trial version,
+ please look forward to more in the full version♡
+ I'll be really happy if you purchase it♡"""
 "\n[1]は鉄の軽鎧を手に入れた！","You obtained Light Iron Armor!"
 "<盗賊サキュバス>
 『それは、2層で買える防具だよ♡
 　ここから出ても所持したままになってるから、
-　ちゃんと外でセーブするんだよ？』",""
+　ちゃんと外でセーブするんだよ？』","<Thief Succubus>
+""That's an armor you can buy on the second floor♡
+ You get to keep it, so make sure to save your game
+ outside of this zone♡"""
 "<盗賊サキュバス>
 『というわけで、続きは製品版をお楽しみに♪
 　この体験版が気に入ってくれたら、
-　買ってくれると嬉しいな♡』",""
+　買ってくれると嬉しいな♡』","<Thief Succubus>
+""And that's all! If you enjoyed the trial version,
+ please look forward to more in the full version♡
+ I'll be really happy if you purchase it♡"""
 "<盗賊サキュバス>
 『え？装備よりエッチなことのほうがいいの？
 　言っておくけど、新しい責め方とかないよ？
-　それでもいいの？』",""
+　それでもいいの？』","<Thief Succubus>
+""Eh? You want a sexual reward instead of equipment?
+ I'll say this first, but it will be just a footjob
+ like I usually do. Do you want it anyway?"""
 "はい","Yes"
 "いいえ","No"
 "【注意！！】
 この先のイベントにはメタ要素及び露骨な販促が含まれます。
-そういうのが苦手な人は見ないことを推奨します。",""
+そういうのが苦手な人は見ないことを推奨します。","【Attention!】
+This event contains meta-jokes and plain advertisement.
+Viewer discretion is advised."
 "また、新規CGは盗賊サキュバスが言うようにありません。
-それでも体験版おまけのエッチシーンを受けますか？",""
+それでも体験版おまけのエッチシーンを受けますか？","Furthermore, there won't be any new CG as the thief
+succubus said. Will you watch the trial version extra
+sex scene regardless?"
 "<盗賊サキュバス>
 『だよね♪冒険の役に立つ装備の方が嬉しいよね♡
 　それじゃ、改めて聞くけど……
-　武器と防具、どっちの方が欲しい？』",""
-"………………………………",""
+　武器と防具、どっちの方が欲しい？』","<Thief Succubus>
+""I figured as much♪ You're much happier with a piece
+ of equipment♡ Then... I ask once more, do you want
+ a weapon or armor?"""
+"………………………………","......"
 "<盗賊サキュバス>
 『ふふ～♪ボクの勝ち～♡
-　大したことないね？冒険者さま♡』",""
+　大したことないね？冒険者さま♡』","<Thief Succubus>
+""Ehehe♪ I won the fight♡ Mr. Adventurer, you aren't
+ a big deal♡"""
 "<盗賊サキュバス>
 『まぁ、本来ならもっといい装備揃えて戦うはずだし、
-　勝てないのも仕方ないんだけどね～♡』",""
+　勝てないのも仕方ないんだけどね～♡』","<Thief Succubus>
+""Although, normally you would fight me with much
+ better equipment, so I guess there's no helping
+ it that you lost♡"""
 "<盗賊サキュバス>
 『というわけで、はい、これあげる♡
-　2層で買える装備♪』",""
-"貴方は様々な武器と防具を手に入れた！","You obtained various weapon and armor!"
+　2層で買える装備♪』","<Thief Succubus>
+""And so! I'll give you this♡ It's an equipment set
+ that you can buy from the second floor♪"
+"貴方は様々な武器と防具を手に入れた！","You obtained a set of equipment!"
 "<盗賊サキュバス>
 『その武器と防具はここから出るときには、
 　ボクが全部没収しちゃうことには気を付けてね？』",""
@@ -116,36 +168,59 @@
 　冒険者さまが自分で選んでね♡』",""
 "<盗賊サキュバス>
 『ん？またボクと戦いたいの？
-　いいよ♡冒険者さまのこと、気持ちよくしてあげる♡』",""
+　いいよ♡冒険者さまのこと、気持ちよくしてあげる♡』","<Thief Succubus>
+""Hmm? Do you want to fight me again, Mr. Adventurer?
+ I don't mind♡ I'll make you feel amazing♡"""
 "<盗賊サキュバス>
 『いたた……ボクの負けかぁ…
-　じゃあ製品版の宣伝を…………』",""
+　じゃあ製品版の宣伝を…………』","<Thief Succubus>
+""Owie... I lost, huh... Then, it's time for the
+ full version advertisement spiel..."""
 "<盗賊サキュバス>
 『え？それはもういい？
-　そ、そっか。まぁ、何回も聞いたら飽きちゃうよね』",""
+　そ、そっか。まぁ、何回も聞いたら飽きちゃうよね』","<Thief Succubus>
+""Eh? You want to skip that stuff? I see...
+ Well, I guess anyone would get bored of
+ listening to the same stuff multiple times."""
 "<盗賊サキュバス>
 『それじゃ、ボクはずっとここにいるから、
-　また戦いたくなったら話しかけてよ♪』",""
+　また戦いたくなったら話しかけてよ♪』","<Thief Succubus>
+""Well then, I'm going to stay here♡ You can talk
+ to me if you want to fight again♪"""
 "<盗賊サキュバス>
 『あれあれ～？冒険者さま、負けちゃったね♡
 　ボクより強いはずなのに、油断しちゃった？
-　それとも…………』",""
+　それとも…………』","<Thief Succubus>
+""Oh, what's this? Mr. Adventurer, you lost a fight to
+ me even when you should be been stronger between the
+ two of us♡ Did you get careless? Or maybe...♡"""
 "<盗賊サキュバス>
 『ボクに気持ちよくしてほしくて、
-　わざと負けちゃったのかな？♡』",""
+　わざと負けちゃったのかな？♡』","<Thief Succubus>
+""You threw the fight on purpose since you wanted me
+ to pleasure you?"
 "<盗賊サキュバス>
 『ふふ♡隠さなくていいよ♪
 　それなら、何度でも負かして気持ちよくしてあげるから、
-　いつでもボクに話しかけてね♡』",""
+　いつでもボクに話しかけてね♡』","<Thief Succubus>
+""Ehehe♡ There's no need to hide it♪ If that's what
+ you want, you can talk to me anytime♡ Then, I'll
+ defeat you and make you feel good♡"""
 "<盗賊サキュバス>
 『なんどでも精液搾り取ってあげる♡
 　でも、そうしてボクに負け続けて、
-　ボクを見るだけで勃起しちゃう様になってぇ…』",""
+　ボクを見るだけで勃起しちゃう様になってぇ…』","<Thief Succubus>
+""I'll drain your semen as many times as you want♡
+ But if you keep losing fights to me like this, you
+ might start having boners just from seeing me..."""
 "<盗賊サキュバス>
 『製品版のボクに勝てなくなっちゃっても、
-　知らないからね♡マゾ冒険者さま♡』",""
+　知らないからね♡マゾ冒険者さま♡』","<Thief Succubus>
+""And then you might be unable to win against me when
+ you encounter me in the full version♪ But I won't take
+ responsibility for that♡ Mr. Masochist adventurer♡"""
 "EV002",""
-"1層に戻りますか？",""
+"1層に戻りますか？","Teleport back to the first floor?"
 "<盗賊サキュバス>
 『それじゃあ装備品は返してもらうね♪
 　こっちに来るときには、ちゃんと返してあげるから♡』",""

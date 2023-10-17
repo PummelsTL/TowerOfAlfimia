@@ -16,8 +16,8 @@
 　現在マッチングを受け付けています。』","""Welcome. This is the reception desk for the Colosseum.
  Registering for the matches is currently open."""
 "貴方は受付の無機質な声を出す女性に、
-詳しい説明を求めた。","You asked for a detailed explanation from the robotic
-receptionist."
+詳しい説明を求めた。","You asked the robotic receptionist for a detailed
+explanation."
 "『こちらでプレイヤー同士の決闘を受け付けています。
 　相手の指名も可能ですし、登録だけすることも可能です。』","""We accept participants for players versus player
  matches. You can register for a match or nominate
@@ -79,7 +79,7 @@ awaiting your input."
 　この人も、あの子みたいに親切な人なのかも！』","<Al>
 ""Well, why don't we hear what she has to say? She might
  be a gentle girl like that another one who guided us
- around the town!"""
+ around the city!"""
 "貴方はアルの言葉に頷き、凛に了承の返事を返す。","You nodded to Al and told Rin that you would hear her
 out."
 "<凛>
@@ -108,7 +108,7 @@ out."
 『実は私、こう見えてこの町で、
 　お金に困った人に融資する仕事をしているんです♪』","<Rin>
 ""It's my job to give loans to people who have trouble
- with money in this town♪"""
+ with money in this city♪"""
 "<アル>
 『ゆうし…………えっと、お金を貸す人？』","<Al>
 ""Um... So in other words, she's a moneylender?"""
@@ -195,7 +195,7 @@ at."
 『じゃあ、この紙に魔力を込めてください♪
 　この街での契約書のようなものです。』","<Rin>
 ""Then please pour your magic into this. It's a contract
- paper that we use in this town."""
+ paper that we use in this city."""
 "そう言って凛は懐から1枚の紙を取り出し、
 貴方に手渡した。","After saying that, Rin took out a piece of paper and
 handed it to you."
@@ -270,7 +270,7 @@ Her eyes were slightly wavering in anxiety."
 『それでは、この紙に魔力を込めてください♪
 　この街での契約書のようなものです。』","<Rin>
 ""Then please pour your magic into this. It's a contract
- paper that we use in this town."""
+ paper that we use in this city."""
 "<凛>
 『そう、ですか……
 　確かに、初対面の私を信頼なんてできないですよね……』","<Rin>
@@ -491,12 +491,12 @@ a match."""
 　もしあるなら、
 　先に進む前にやっておいたほうがいいかもね♪』","<Al>
 ""\n[1], are there still things you want to
- do in the town? If there are, we should probably
+ do in the city? If there are, we should probably
  start with those before moving forward♪"""
 "そう言うアルの言葉に貴方は考え込む。
 何かやり残したことはあっただろうか？
 もしあるなら、やっておこう。","You thought over what Al said. Were there still things
-you wanted to do in the town? Let's start with those
+you wanted to do in the city? Let's start with those
 first, if there are any."
 "もうすでに先に進む資格は手に入れた。
 コロシアムに参加する必要はない。","You've already obtained all three medals to progress
@@ -616,7 +616,7 @@ rest."
 　私たちバンガードの仲間になれるかもしれないわね♪』","""If you grow even stronger than you currently are...
  Yes, you might be able to join Vanguard♪"""
 "『この街を守るバンガードは1人でも多いほうがいいわ。
-　期待してるわね、未来の新人君♡』","""The more of us there are to protect the town, the
+　期待してるわね、未来の新人君♡』","""The more of us there are to protect the city, the
  better. I'm looking forward to it, future new
  recruit♡"""
 "<アル>
@@ -647,7 +647,7 @@ said that."
  stronger than me..."""
 "『……いえ、ごめんなさい。
 　街を守る者として、失言だったわね。忘れてちょうだい。』","""...Oh, sorry. That was a slip of the tongue as someone
- who protects the town. Please forget about that last
+ who protects the city. Please forget about that last
  part."""
 "『とにかく、気にすることないわ。
 　余り考えすぎずに、自分を鍛えることね。』","""At any rate, don't worry about it. Focus on getting
@@ -667,7 +667,7 @@ said that."
 　もうここには来ないことをお勧めするわよ。
 　街での安全は、私たちバンガードが保証してあげるから。』","""I recommend you to accept the limit of your strength
  and avoid the arena from now on. We, the Vanguard,
- will guarantee you have a safe life in the town if
+ will guarantee you have a safe life in the city if
  nothing more."""
 "<アル>
 『うぅ………し、視線が冷たいね………』","<Al>
@@ -736,7 +736,7 @@ said that."
 　私たちにはないわ。』","""That's... Yes, we don't have the means to directly
  free the slaves from you."""
 "『でも、少しでもこの町のルールに違反したときには……
-　貴方を捕らえる、それだけよ。』","""But the moment you violate the law of the town even
+　貴方を捕らえる、それだけよ。』","""But the moment you violate the law of the city even
  slightly... We'll capture you. That's all."""
 "『………………………………』","""..."""
 "『奴隷の扱いは…………
@@ -843,14 +843,15 @@ smile."
  after gaining some levels!"""
 "EV018",""
 "<六花>
-『あ、うぅぅ…………』",""
-"少女はお腹を手で押さえて呻いている。",""
+『あ、うぅぅ…………』","<Rikka>
+""A-Auuh..."""
+"少女はお腹を手で押さえて呻いている。","A young girl groaned while holding her stomach."
 "EV019",""
 "<???>
 『この役立たず！
 　今日も試合に負けましたの？』","<???>
 ""You good-for-nothing! Did you lose your match again?"""
-"貴方が控室を出ると、辺りに女性の大声が響く。","You heard a loud voice of a woman when you exited the
+"貴方が控室を出ると、辺りに女性の大声が響く。","You heard a loud woman's voice when you exited the
 waiting room."
 "<???>
 『あう……申し訳ありません、恭子様………』","<???>
@@ -858,28 +859,28 @@ waiting room."
 "<???>
 『こ、このままではずっと勝てません……
 　町の外でのレベル上げの、お許しを…………』","<???>
-""I-I'll never be able to win at this rate... So please
- permit me to go level outside the town."""
+""I-I'll never be able to win at this rate...
+ So please permit me to go level up outside the city."""
 "金髪の女性に責められてる思しき少女が、
-そう懇願を口にする。","The young girl who seemed to be bullied by the blonde
-woman asked her for a permission."
+そう懇願を口にする。","A young girl was asking for permission from a blonde
+woman who seemed to be bullying her."
 "<恭子>
 『ふん！そう言って逃げるつもりでしょう。
 　貴方の浅はかな考えなどお見通しですわ！』","<???>
-""Hmph! You're just trying to escape by getting out of
- the town! I can tell what someone as dumb as you is
- thinking!"""
+""Hmph! You're just trying to escape by getting out
+ of the city! I can tell what someone as dumb as
+ you thinks!"""
 "しかし、金髪の女性は文字通りそれを一蹴し、
 彼女の倒れた身体を蹴り上げた。","However, the blonde woman kicked down the girl and her
-request. Then she kicked the girl on the ground once
-more."
+request. Then, she kicked the girl once more when she
+was lying on the ground."
 "<???>
 『あぐぅっ！そ、そんなことは決して…………』","<???>
 ""Auugh! I-I would never do something like that..."""
 "<アル>
 『酷い………なにも、あんなことしなくても……』","<Al>
-""That's horrible... There's no need to go as far as to
- kick her..."""
+""That's horrible... There's no need to go as far as
+ to kick her..."""
 "そんな光景を見てアルは悲痛な表情で言葉を漏らす。","Al said that with a sad face as she watched the girl
 and the blonde woman."
 "同感だ","I agree"
@@ -896,29 +897,28 @@ and the blonde woman."
 "<アル>
 『契約、奴隷……？』","<Al>
 ""Contract slave?"""
-"貴方とアルは頭に疑問符を浮かべた。","Both you and Al had question mark pop on your heads."
+"貴方とアルは頭に疑問符を浮かべた。","Both you and Al had question mark pop over your heads."
 "『ま、普通の奴にゃ縁がないから聞きなれねぇ言葉か。
 　契約奴隷ってのは、己のすべてをかけた契約を、
 　遵守できなかった奴が落ちる奴隷だ。』","""Well, I guess normal people don't often hear that
- word. Contract slaves are those who have been unable
- to fulfill the terms of a contract where they've
- betted their whole lives."""
+ term. Contract slaves are those who have been unable
+ to fulfill the terms of a contract they took."""
 "『あの嬢ちゃんはつい最近うまいことのせられて、
 　全財産以上の莫大な金を賭けた試合で負けちまった結果、
-　その契約奴隷に堕ちちまったのさ。』","""In that girl's case, she made a lot of money with
- betting in the matches, but then she lost a bet where
- she wagered way more money than she owned. Then she
- became a contract slave because of it."""
+　その契約奴隷に堕ちちまったのさ。』","""In that girl's case, she made a lot of money by
+ betting on the arena matches, but then she lost a bet
+ where she wagered way more money than she owned,
+ which turned her into a contract slave."""
 "『あ？契約奴隷から解放される方法？
 　そうだな、契約を改めて順守するか、
-　主人が契約を破棄するしかねぇ。』","""Huh? How can you freed as a contract slave? Well, you
- can either fulfill the terms of your contract, or the
- other party can cancel the contract. Those are the
- only ways."""
+　主人が契約を破棄するしかねぇ。』","""Huh? How can you be freed as a contract slave? Well,
+ you can either fulfill the terms of your contract,
+ or the other party can cancel it. Those are the only
+ two ways."""
 "『ま、そのどちらもあの嬢ちゃんは果たせそうにないけどな。
-　かわいそうに。1回のミスで破滅だよ。』","""But I don't think that girl can free herself in either
- way. I feel sorry for her. Her life is basically in
- ruin from one misstep."
+　かわいそうに。1回のミスで破滅だよ。』","""But I don't think that girl can achieve either of
+ them. I feel sorry for her. Her life is basically
+ ruined because of a single mistake."""
 "<アル>
 『そんな…………どうにもならないのかな…………』","<Al>
 ""Oh no... Isn't there anything we can do?"""
@@ -926,7 +926,7 @@ and the blonde woman."
 『え？さ、さすがにこのタイミングでのそんな冗談は、
 　いくら私でも引くよ…………？』","<Al>
 ""Eh? T-This isn't the time for jokes like that...
- Even I got put off by it..."""
+ Even I'm getting put off..."""
 "<恭子>
 『黙りなさい！
 　とにかく貴方は、ここで私への借金を返すことだけを、
@@ -936,195 +936,231 @@ and the blonde woman."
 "<???>
 『うぐっ………分かりました、恭子様…………』","<???>
 ""Ugh... I understand, Mistress Kyouko..."""
-"再び蹴り上げられた少女は、呻きながらそう返答する。","The girl grunted and answered like that after she got
-kicked again."
+"再び蹴り上げられた少女は、呻きながらそう返答する。","After getting kicked once more, the girl grunted and
+answered like that."
 "<恭子>
 『ふん、分かればよくってよ。
 　それでは私は先に帰りますわね。貴女は、
 　ディナーの買い出しを済ませてから帰ってきなさい。』","<Kyouko>
-""Hmph. Good that you managed to understand that. Then
- I'm leaving. Go shop for the dinner ingredients before
- you come back."""
+""Hmph. Good that you managed to understand that.
+ Then I'm leaving. Go buy the dinner ingredients
+ before you come back."""
 "女性はそう言うと踵を返してコロシアムから去っていった。","After those words, the woman left the Colosseum."
 "<恭子>
 『六花、今日も試合に負けたそうですわね！
-　一体いつまで負け続けるつもりですの？』",""
+　一体いつまで負け続けるつもりですの？』","<Kyouko>
+""Rikka, it seems like you lost another match today!
+ How many times do you plan to lose exactly?"""
 "貴方が控室を出ると、
-辺りに聞き覚えのある女性の大声が響く。",""
+辺りに聞き覚えのある女性の大声が響く。","You heard a loud woman's voice when you exited the
+waiting room."
 "<アル>
-『あ、あの人たちはこの前の…………』",""
+『あ、あの人たちはこの前の…………』","<Al>
+""Ah... They are the ones from before..."""
 "アルは地面にうずくまる少女と、
-その少女を詰る女性を見て表情を曇らせる。",""
+その少女を詰る女性を見て表情を曇らせる。","Al's face turned gloomy when she saw the young girl
+lying on the floor and the blonde woman rebuking her."
 "<六花>
 『うぅ………きょ、恭子様、お願いです……
-　私に、街の外でのレベル上げの許可を…………』",""
+　私に、街の外でのレベル上げの許可を…………』","<Rikka>
+""Uuuh... M-Mistress Kyouko... Please...
+ Allow me to go level up outside of the city..."""
 "<恭子>
 『だから、そう言って逃げるつもりなのでしょう！
-　許可など、与えるはずがありませんわ！』",""
+　許可など、与えるはずがありませんわ！』","<Kyouko>
+""Like I said before, you would only use that chance
+ to escape! I won't ever permit you to do that!"""
 "<六花>
-『で、でも、このままじゃ誰にも勝てないまま…………』",""
+『で、でも、このままじゃ誰にも勝てないまま…………』","<Rikka>
+""B-But... I won't be able to defeat anyone at this
+ rate..."""
 "そう言葉を続ける少女のお腹を、
-女性は力強く蹴り上げる。",""
+女性は力強く蹴り上げる。","When the girl said that, the woman strongly kicked her
+in the stomach."
 "<恭子>
 『うるさいですわね！
 　それは貴方が勝てるように、
-　試合の相手を見極めればいいだけのこと。』",""
+　試合の相手を見極めればいいだけのこと。』","<Kyouko>
+""Silence! You should be more careful in who you pick
+ as your opponent."""
 "<恭子>
 『自分の努力不足を棚に投げて、
-　楽な方に逃げるなんて私は許しませんわよ！』",""
+　楽な方に逃げるなんて私は許しませんわよ！』","<Kyouko>
+""I won't allow you to take the easy way out just
+ because you aren't putting in enough effort!"""
 "<六花>
-『う、うぅぅ………そ、そんな…………』",""
+『う、うぅぅ………そ、そんな…………』","<Rikka>
+""U-Uuuh... But..."""
 "<アル>
 『ひ、ひどい…………
-　こんなの、見てられないよ…………』",""
+　こんなの、見てられないよ…………』","<Al>
+""T-That's horrible... I can't keep watching this..."""
 "アルは悲しそうに顔を歪め、
-目を伏せてポツリと言葉を漏らす。",""
-"少女を助けよう",""
-"あの女を奴隷にしよう",""
+目を伏せてポツリと言葉を漏らす。","Al muttered those words as she looked away with a sad
+face."
+"少女を助けよう","Let's save that girl"
+"あの女を奴隷にしよう","Let's make that woman into my slave"
 "<アル>
 『…………うん！
-　\n[1]、私はそうしてあげて欲しい！』",""
+　\n[1]、私はそうしてあげて欲しい！』","<Al>
+""...Yeah! That's what I want to do too!"""
 "<アル>
 『戦えない私が、お願いするのもよくないと思うんだけど…
-　お願い、あの子を助けてあげて！』",""
-"貴方はそんなアルの懇願に力強く頷きを返した。",""
-"あの女性に話しかけよう。",""
+　お願い、あの子を助けてあげて！』","<Al>
+""I know that I shouldn't ask this as someone who
+ can't fight... But please save that girl!"""
+"貴方はそんなアルの懇願に力強く頷きを返した。","You gave Al a firm nod when she asked that."
+"あの女性に話しかけよう。","You decided to try to talk with the blonde woman."
 "<アル>
 『え、ええ！？
-　い、いきなりどうしたの！？』",""
+　い、いきなりどうしたの！？』","<Al>
+""Eeeh?! W-What are you saying all of a sudden?!"""
 "貴方の発言にアルは目を丸くして驚いた。
 貴方はアルに、あの女性にも、
-奴隷の苦しみを分かってもらうと説明した。",""
+奴隷の苦しみを分かってもらうと説明した。","Al opened her eyes wide open in shock at what you said.
+You explained that you wanted to teach that woman
+a lesson on how difficult the life of a slave is."
 "<アル>
-『え？え？……で、でも、人を奴隷になんて…………』",""
+『え？え？……で、でも、人を奴隷になんて…………』","<Al>
+""Eh? Eh? But... Making someone into a slave is..."""
 "そう戸惑うアルをわき目に貴方は、
-女性のスタイルのいい身体をじっと見つめた。",""
+女性のスタイルのいい身体をじっと見つめた。","You left aside the confused-looking Al and eyed the
+blonde woman's voluptuous body."
 "あの身体を好き放題してみたい、
-そんな後ろくらい欲望が湧き上がってくる。",""
+そんな後ろくらい欲望が湧き上がってくる。","You wanted to have your way with her. That was the
+another desire that drove your decision."
 "彼女の嗜虐的な様子を見ていると、
-屈服させたいという欲望が身体の奥底から湧き上がってくる。",""
+屈服させたいという欲望が身体の奥底から湧き上がってくる。","Seeing of her acting like a sadist made you want to
+make her submit to you."
 "<恭子>
 『あら、私に何か用かしら？
-　今私は奴隷の折檻に忙しいので、後にしてくださらない？』",""
+　今私は奴隷の折檻に忙しいので、後にしてくださらない？』","<Kyouko>
+""Oh? Do you have some business with me? I'm currently
+ busy with disciplining my slave, so can you leave it
+ for later?"""
 "<恭子>
 『は？六花を解放してあげて欲しい？
 　いきなり何を言い出すんですの？
 　貴方にそんなことを言われる筋合いはありませんわ。』","<Kyouko>
-""Huh? You want Rikka released? What are you saying all
- of a sudden? You have no reason to follow that."""
+""Huh? You want Rikka to be released? What are you
+ saying all of a sudden? I see no reason to do so."""
 "恭子は意味が分からないと言った不思議そうな顔をした後、
-貴方の顔をじっと見てにやりと笑う。","After making a weird face at your sudden demand, Kyouko
-looked at your face for a while. Then she gave you a
-grin."
+貴方の顔をじっと見てにやりと笑う。","Kyouko made a weird face at your sudden request,
+but then her expression turned into a grin when
+she gave you a lookover."
 "<恭子>
 『この子に同情でもしたのかしら。
-　お優しい人ですこと♡』",""
+　お優しい人ですこと♡』","<Kyouko>
+""Do you perhaps feel sorry for this girl?
+ My, what a goodhearted man you are♡"""
 "<恭子>
 『しかし、あの子は私が手に入れた財産。
 　解放しろと言われて、
 　はい分かりましたと答えるわけにはいきませんわ。』","<Kyouko>
-""However, that girl is part of my possessions.
- I'm not going to let her go just because you asked
- me to."""
+""However, this girl belongs to me. I won't let her
+ go simply because you asked me to."""
 "恭子は目を細めて、
-くすくすと笑いながらそう答える。","Kyouko said that while smiling and narrowing her eyes."
+くすくすと笑いながらそう答える。","Kyouko said so with a smile and narrowed eyes."
 "<アル>
 『うぅ……やっぱりだめなのかな……
 　良心に訴えかけても難しそうだし…………』","<Al>
-""Uuuh... I guess it won't work just like that...
- I don't think it would work even if we appealed her
- to do it for the good of her heart..."""
+""Uuuh... I guess it's not that easy... I don't think
+ appealing that it's morally good to do so would work
+ with her either..."""
 "アルはうんうんとうなっているが、
-いい案は思い浮かばないようだ。","Al wondered about your options, but she couldn't come
+いい案は思い浮かばないようだ。","Al thought about your options, but she couldn't come
 up with any good ideas."
 "貴方はなんと彼女にいうことを聞いてくれないか思案するも、
-何も思い浮かばず、焦燥に駆られる。","You also thought over what would make Kyouko listen,
-but you couldn't come up with anything either and began
-getting impatient."
+何も思い浮かばず、焦燥に駆られる。","You also thought over if there was any way to make
+Kyouko listen, but you couldn't come up with anything
+either and began to get impatient."
 "<恭子>
 『うふふ♡まぁ、1つだけ、
 　貴方がある条件をのんでくれるなら、
 　考えてあげてもよくってよ？』","<Kyouko>
-""Ohoho♡ Well, if you accept one condition of mine,
+""Ohohoho♡ Well, if you accept one condition of mine,
  I can consider it."""
 "恭子は笑みを浮かべて貴方の様子を見て、
-そう言葉を投げかける。","Kyouko said that with a smile after looking at you for
-a while."
+そう言葉を投げかける。","After looking at you for a while with a smile,
+Kyouko said those words."
 "<恭子>
 『私と六花の開放を掛けて、コロシアムで戦う…
 　これが私が貴方に差し出す条件ですわ。』","<Kyouko>
-""The condition is... That you fight me in the colosseum
- with Rikka's release on the line."""
+""That condition is to have a match with me at the
+ Colosseum with Rikka's freedom as the wager."""
 "<恭子>
 『私が負けたら六花を解放しましょう。
 　ただし、貴方が負けたら…
 　貴方も私の奴隷になってもらいますわ♡』","<Kyouko>
 ""I will release Rikka if you win. However, if you
- lose... You're going to become my slave♡"""
+ happen to lose... You have to become my slave♡"""
 "<アル>
 『え、ええ！？\n[1]が、奴隷に……？
 　この人の奴隷になったら、もう先には進めないよね……
 　ど、どうしよう？』","<Al>
-""E-Eeeh?! Slave?! \n[1], if you become her
- slave, we won't be able to advance the game any
- more... W-What should we do?"""
+""E-Eeeh?! Becoming her slave?! \n[1],
+ if you become her slave, we can't advance
+ the game any further... W-What should we do?"""
 "アルは慌てたように声を漏らしながら、
-貴方と恭子を交互に見つめている。","Al cried in panic while looking between you and Kyouko."
+貴方と恭子を交互に見つめている。","Al cried in panic as she looked between you and Kyouko."
 "<恭子>
 『うふふ♡私は負けたら大事な奴隷を失うんですもの。
 　貴方も要求を通したいのなら、
 　これくらいの条件は飲むべきなのではなくって？』","<Kyouko>
-""Ohoho♡ I would lose my important slave on defeat
- after all. That's why these are the minimum terms
- that I can accept."""
+""Ohohoho♡ I have my important slave on the line here♡
+ If you want to take her from me, these are the minimum
+ demands that you should be ready to accept, right?"""
 "<恭子>
 『それとも、貴方はこれくらいの覚悟すらなく、
 　都合のいいことを私に頼んだ、ただの偽善者なのかしら♡』","<Kyouko>
-""Or can you not accept such terms? Are you just a
- hypocrite who demands something from me that's
- convenient for you?"""
-"恭子は試すように挑発的な視線で貴方を見つめている。","Kyouko watched you with a provocative gaze to test you."
+""Or perhaps you won't accept them? Are you just a
+ hypocrite who tries to demand something without
+ putting any work behind it?"""
+"恭子は試すように挑発的な視線で貴方を見つめている。","Kyouko watched you with a provocative gaze as if to
+test you."
 "<アル>
 『ど、どうする？\n[1]…………』","<Al>
 ""W-What should we do? \n[1]..."""
 "困ったようにアルは貴方を見つめている。
-そんなアルに貴方は力強く頷いた。","When Al looked at you with a troubled face, you gave
-her a reassuring nod."
+そんなアルに貴方は力強く頷いた。","You gave Al a reassuring nod when Al looked at you with
+a troubled face."
 "<恭子>
 『そう♡この条件をのむんですわね♡
 　なら、受付で私を指名しなさい。
 　貴方との試合、楽しみにしていますわよ♡』","<Kyouko>
-""I see♡ You'll accept these terms♡ Then nominate me
- to a match at the reception♡ I'm looking forward to
- a match with you♡"""
+""I see♡ You'll accept these terms♡ Then, nominate
+ me to a match at the reception♡ I look forward to
+ fighting you♡"""
 "<恭子>
 『余計な正義感に動かされるとどうなるか、
 　私がたっぷりと教えてあげますわね♡』","<Kyouko>
-""I'll thoroughly show you what happens when you let
- sense of justice move you♡"""
+""I'll thoroughly teach you what happens when you let
+ your sense of justice make you act♡"""
 "そう貴方に告げると恭子は受付により、
-その後に六花を連れて去っていった。",""
+その後に六花を連れて去っていった。","After saying those words, Kyouko visited the reception
+desk before leaving the Colosseum with Rikka."
 "<アル>
 『う、ぅぅ……なんだか大変なことになっちゃったね。　
 　この人、強そうだしできるだけの準備はしておかないと！』","<Al>
-""U-Uuh... It turned into a big thing all of sudden.
- That woman looked really strong, so we need to prepare
- as much as possible!"""
+""U-Uuh... It turned out into a huge thing all of
+ a sudden. That woman looks really strong,
+ so we should prepare as much as possible!"""
 "<アル>
 『そうだ！あの森の奥でレベル上げはどお？
 　2人に勝利したわけだから、
 　あの通せんぼの人も通してくれるだろうし♪』","<Al>
-""Oh right! How about leveling in the forest? We got the
- second medal, so we can access the next area♪"""
+""Oh right! How about leveling in the forest? We got
+ the second medal, so we can access the next area♪"""
 "アルは貴方にそう提案する。
-確かに、今のレベルでは心もとないかもしれない。","Al suggested leveling in the new area in the forest.
-You felt uneasy to fight Kyouko with your current
-level, so it sounded like a good idea."
+確かに、今のレベルでは心もとないかもしれない。","Al suggested leveling at the new area in the forest.
+You felt uneasy about fighting Kyouko in your current
+state, so her suggestion sounded like a good idea."
 "森の先に進みますか？
 【賞金とアイテムを入手し、
-　自動で道をふさいでいたバンガードの前に移動します。】","Advance to the forest?
-【Obtain prize money and item, and teleport to the path
- leading deep into the forest.】"
+　自動で道をふさいでいたバンガードの前に移動します。】","Do you want to move to the forest?
+【This will teleport you to the road before the
+  restricted area in the forest and collect the
+  prize money and item from the match.】"
 "<アル>
 『ん♪負けるわけにはいかないし、
 　レベル上げ、頑張ろーね♪』","<Al>
@@ -1134,8 +1170,8 @@ level, so it sounded like a good idea."
 "<アル>
 『大丈夫？
 　そっか、それじゃあ、試合頑張ろ！』","<Al>
-""Will you be alright? ...Okay, then let's do our best
- in the match!"""
+""Will you be alright without leveling up?
+ ...Okay, then let's do our best in the match!"""
 "<恭子>
 『は？貴方の奴隷になれ？
 　いきなり何を言い出すんですの？』","<Kyouko>
@@ -1144,81 +1180,106 @@ level, so it sounded like a good idea."
 "<恭子>
 『あらあら…
 　じろじろと気持ちの悪い視線で私の身体を見て、
-　気持ち悪い男ですわ♡』",""
+　気持ち悪い男ですわ♡』","<Kyouko>
+""Oh my... You're eyeing over my body with such a dirty
+ gaze. What a disgusting man you are♡"""
 "<恭子>
 『なるほど、私が六花にしたように、
 　賭けをして私を奴隷にしたいと思ってしまった、
-　そういうことですのね。』",""
+　そういうことですのね。』","<Kyouko>
+""I see. You must have thought of making me into a slave
+ in the same way as how I made Rikka into mine.
+ Am I correct?"""
 "<恭子>
 『いいですわ、貴方とも賭けをしましょうか。
-　10000000Gの賭けでもどうかしら♡』",""
+　10000000Gの賭けでもどうかしら♡』","<Kyouko>
+""That's fine with me♡ Let's have a match where the
+ loser has to pay the winner♡ How does 10,000,000G
+ sound?"""
 "<恭子>
 『もちろんこんな大金、お互い持ってないでしょう♡
 　負けたら相手の奴隷になる、
-　そう言う契約だと思ってくれて構いませんわ♡』",""
+　そう言う契約だと思ってくれて構いませんわ♡』","<Kyouko>
+""Naturally, neither of us has such a huge sum♡
+ You can basically think of it as whoever loses
+ becomes the winner's slave♡"""
 "くすくすと笑いながらそう提案する恭子に、
-貴方は両省の意を込めて頷いた。",""
+貴方は両省の意を込めて頷いた。","When Kyouko proposed such a match with a grin,
+you agreed to it with a nod."
 "<恭子>
 『うふふ♡契約成立ですわね♡
 　貴方が勝ったらお望み通り、私を奴隷にして、
-　この身体を好きにしてくださってもよろしくてよ？』",""
+　この身体を好きにしてくださってもよろしくてよ？』","<Kyouko>
+""Ohohoho♡ Then, we have a contract between us♡
+ I will become your slave as you wanted if you win♡
+ And then you can use my body as you like♡"""
 "貴方を挑発的に見つめる恭子のスタイルのいい身体を、
-貴方は上から下まで観察し、唾を飲み込む。","When Kyouko looked at you with a suggestive gaze, you
-eyed her voluptuous body from head to toe and gulped
-with anticipation."
+貴方は上から下まで観察し、唾を飲み込む。","When Kyouko said those words and watched you with
+a taunting gaze, you couldn't help looking over her
+voluptuous body from head to toe and gulping loudly.
+"
 "この身体を自分の好きにできる…………
-そう考えればおのずと暗い欲望で頭の中が満たされる。","Your mind was filling with sordid desires about what to
-do with her body once you have your hands on it."
+そう考えればおのずと暗い欲望で頭の中が満たされる。","The idea of getting to use her body as you liked was
+filling your mind with all kinds of dirty desires."
 "<恭子>
 『ただし、貴方が負けた時には……
 　私の奴隷として、一生自由を味わえない、
 　そう思ったほうがよろしいですわよ♡』","<Kyouko>
-""However, if you lose the match... You'll become my
- slave and I won't let you live free ever again♡
- You should come with that resolve♡"""
+""However, if you lose the match... You will become my
+ slave, and I won't let you live freely ever again♡
+ You should come with the resolve to do that♡"""
 "そんな貴方の視線を受けてもひるむことなく挑発する恭子に、
-貴方は負けるつもりはないと返した。","When Kyouko taunted you like that without flinching
-under your eyeing gaze, you declared that you aren't
-going to lose."
+貴方は負けるつもりはないと返した。","When Kyouko taunted you with those words without
+flinching under your lustful gaze, you told her
+that you aren't going to lose."
 "<恭子>
 『あらあら♡勇ましいですわね♡
 　ですが、男である時点で私には勝てない…
 　それをじっくりと教育してあげますわ♡』","<Kyouko>
-""Oh my♡ How brave♡ However, I'll thoroughly show
- you don't stand a chance against me since you are
- a man♡"""
+""Oh my♡ How brave of you to say that♡ However,
+ no man can defeat me♡ I will thoroughly teach
+ it to you during our match♡"""
 "<恭子>
 『愚かな男を教育するのは嫌いではありませんし♡
 　貴方との試合、楽しみにしていますわよ。
 　それでは、ごきげんよう♡』","<Kyouko>
-""I don't hate disciplining foolish men♡ I'll look
- forward to the match with you. Well then, have a
- good day♡"""
+""I don't mind disciplining foolish men, so I look
+ forward to fighting you♡ Now then, have a good day♡"""
 "<アル>
 『う、ぅぅ…いいのかなぁ……　
 　そうだ、\n[1]、一応伝えておくね？
-　多分、森の先に進めるようになってると思う………』",""
+　多分、森の先に進めるようになってると思う………』","<Al>
+""U-Uuuh... \n[1], will we really be fine?
+ By the way... I think we can go deeper into
+ the forest now..."""
 "<アル>
 『どうする？
-　先に進んで、レベル上げしてく…？』",""
+　先に進んで、レベル上げしてく…？』","<Al>
+""What do you want to do? Should level up there...?"""
 "<アル>
 『ん、あの人を奴隷にするため………
-　が、頑張ろうね………』",""
+　が、頑張ろうね………』","<Al>
+""Mmmh... To make that woman into a slave...
+ L-Let's do our best..."""
 "<アル>
 『そっか……
-　試合、頑張ってね…………』",""
+　試合、頑張ってね…………』","<Al>
+""I see... Do your best on the match..."""
 "<恭子>
 『ほら、さっさとケリとつけてあげますわ♡
-　指名してくださらない？』",""
+　指名してくださらない？』","<Kyouko>
+""Hey♡ Let's settle it already♡ Just nominate me to
+ a match♡"""
 "<アル>
-『必ず、あのこと助けようね！\n[1]！』",""
+『必ず、あのこと助けようね！\n[1]！』","<Al>
+""Let's save that girl, \n[1]!"""
 "EV020",""
 "『ここは選手が入るための場所だ。
 　鍵がかかっていてそれ以外のプレイヤーは入れないぜ。』","""This door leads to the arena waiting room. Only
  players who have registered for a match can enter."""
 "『契約奴隷はこの町では一種のタブーだ。
 　あんまり大っぴらに話すんじゃねぇぞ。』","""Contract slavery is part of the darker side of this
- town. You should avoid openly talking about it."""
+ city. You should avoid openly talking about it."""
 "EV021",""
 "<凛>
 『あ、お兄さん。
@@ -1433,19 +1494,26 @@ agreement."
  I'm ready to receive your nomination for a match
  at any time♡"""
 "これで恭子を奴隷にできる……
-後は受付で彼女を指名し、倒すだけだ。","With this, you can make Kyouko into your slave. Now all
-you need to do is nominate her at the counter and
-defeat her in the match."
+後は受付で彼女を指名し、倒すだけだ。","You can make Kyouko into your slave with this.
+Now all you need to do is nominate her to a match
+at the counter and defeat her."
 "<恭子>
 『それでは貴方との試合、楽しみにしていますわね♡
 　今日のところはこれで失礼いたしますわ。
-　自宅で六花の折檻をしないといけませんので♡』",""
+　自宅で六花の折檻をしないといけませんので♡』","<Kyouko>
+""Well then, I look forward to our match♡
+ Excuse me but I have to leave now.
+ I need to punish Rikka at my home♡"""
 "<恭子>
 『私はいつでも準備はできていますわ♡
-　私の奴隷になる心構えが出来たら指名しなさい♡』",""
+　私の奴隷になる心構えが出来たら指名しなさい♡』","<Kyouko>
+""I'm ready for the match at any time♡
+ Nominate me when you're ready to become my slave♡"""
 "<アル>
 『あの子を解放するために、
-　頑張ろうね！\n[1]♪』",""
+　頑張ろうね！\n[1]♪』","<Kyouko>
+""Let's do our best to save that girl!
+ \n[1]♪"""
 "六花",""
 "<六花>
 『あ、あの………！

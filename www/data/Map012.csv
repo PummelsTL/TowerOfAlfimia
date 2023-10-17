@@ -55,11 +55,11 @@
 "階段を上った貴方は、
 今までと同じような洞窟があると考えていただけに、
 あたりの光景を見渡して驚いた。","You were in a shock after making it up the stairs. What
-greeted you at the top wasn't another cave but a town."
+greeted you at the top wasn't another cave but a city."
 "<アル>
 『うぇぇ！？
 　ま、街！？なんで！？』","<Al>
-""Eeeeeh?! I-It's a town?! What?! How?!"""
+""Eeeeeh?! I-It's a city?! What?! How?!"""
 "アル共々呆気に取られている貴方に、
 1人の女性が話しかけてくる。","While you were standing dumbfounded with Al, a nearby
 woman called out to you."
@@ -73,12 +73,12 @@ woman called out to you."
 『ああ、1階層って言うのは、この町の下にある、
 　いかにもダンジョン！ってことのことだよ♪
 　ここにいる人はみんなそう呼んでるんだ。』","<???>
-""Ah. The dungeon below the town is called the first
- floor♪ Or at least that's what everyone in the town
+""Ah. The dungeon below the city is called the first
+ floor♪ Or at least that's what everyone in the city
  calls it."""
 "まだ驚きから立ち直れず不思議そうな顔をする貴方に、
 女性はくすくすと笑いながらそう説明する。","You were still unable to recover from the shock of
-finding a town and made weird faces. The woman giggled
+finding a city and made weird faces. The woman giggled
 at your reactions while she explained."
 "<???>
 『…………どう？
@@ -102,14 +102,14 @@ hearing your answer."
 　驚かない人って珍しいな～。』","<???>
 ""Really? Were you expecting something like this?
  Vast majority of people are shocked when they reach
- the town."""
+ the city."""
 "女性は素直に貴方の言葉を受け止め、
 驚いたように目を丸くする。","The woman looked at you in surprise when she heard your
 honest impression."
 "<???>
 『とにかく、始めてってことはこの町のこと、
 　何も分からないよね？』","<???>
-""Anyhow, since this is the first town you've reached,
+""Anyhow, since this is the first city you've reached,
  you must not know left from right, correct?"
 "<???>
 『そんなルーキー君は先輩である私が導いてあげよう♪
@@ -128,7 +128,7 @@ honest impression."
 "<未来>
 『今からいろいろ教えてあげたいとこだけど、
 　それは、明日にまわそっか。』","<Mirai>
-""There's so much I want to teach you about the town,
+""There's so much I want to teach you about the city,
  but shall we leave that to tomorrow?"""
 "<未来>
 『なんでって、\n[1]、
@@ -160,7 +160,7 @@ thanked Mirai for looking out for you like that."
 "<未来>
 『その後、
 　一緒に出歩きながら街のことを色々教えてあげる。』","<Mirai>
-""Then we'll take a walk around the town as I explain
+""Then we'll take a walk around the city as I explain
  all the notable places."""
 "そう笑顔で告げる女性に再び貴方は頭を下げる。","When Mirai explained the plan for tomorrow with a
 smile, you thanked her once more."
@@ -169,7 +169,7 @@ smile, you thanked her once more."
 　私も初めてのぼってきたとき、
 　先輩に親切にしてもらったしね。』","<Mirai>
 ""It's okay♪ I also had someone guide me when I made it
- to the town first time."""
+ to the city first time."""
 "<未来>
 『ま、お礼がしたいなら晩御飯でも奢ってよ♪
 　お金が足りないなら、
@@ -263,7 +263,7 @@ smile, you thanked her once more."
 　今までとはダンジョンの雰囲気も違うし………
 　なんかちょっと、ワクワクするかも♪』","<Al>
 ""She was a really friendly woman! And the atmosphere
- in the town is so different from the dungeon too...
+ in the city is so different from the dungeon too...
  I can't help getting excited♪"""
 "<アル>
 『さ、宿屋でやすもー！お疲れ様、\n[1]♪』","<Al>
@@ -297,7 +297,7 @@ called out to you."
 "EV019",""
 "『この道を奥に行くとコロシアムだぜ。
 　戦ってよし、観戦してよし、この街一番の娯楽だ！』","""You can find the Colosseum at the end of this road.
- It's the best amusement there is in this town be it
+ It's the best amusement there is in this city be it
  fighting or spectating!"""
 "『アンタも腕に自信があるなら、参加してみるんだな。』","""You should also try to participate if you're feeling
  confident in your skills."""
@@ -336,7 +336,7 @@ Colosseum or not."
 "EV021",""
 "『我らは町の秩序の守護者、バンガード！
 　我らがいる限り、
-　この町では安全に過ごせることを約束しよう！』","""We, Vanguard, are the protectors of this town!
+　この町では安全に過ごせることを約束しよう！』","""We, Vanguard, are the protectors of this city!
  As long as we are here, I can promise that you'll
  have a peaceful life here!"""
 "『もちろん、君が秩序を破壊する側でなければだがな！
@@ -400,7 +400,7 @@ aura of happiness."
 『ダンジョンとは思えないよね！
 　…………この町って、ダンジョンなのかな？』","<Al>
 ""You can totally forget that you're in dungeon, right!
- ...Wait, does the town count as a dungeon?"""
+ ...Wait, does the city count as a dungeon?"""
 "EV026",""
 "『ちきしょう！
 　カジノで大負けしちまった！
@@ -448,21 +448,21 @@ were clearly showing on his face."
  cave like the first floor?"""
 "『この街は居心地がいいし、
 　強ければ俺みたいなやつでも女の子に、
-　ちやほやされるしな…………』","""The life in this town is just so comfortable. Even
+　ちやほやされるしな…………』","""The life in this city is just so comfortable. Even
  someone like me can find a girl to pamper me after
  getting strong..."""
 "<アル>
 『先に進めるのに、この街にとどまる人も多そうだね！
 　確かに、慣れたら離れたくなくなっちゃうのかも』","<Al>
 ""Seems like there are a lot of people who stay in the
- town even when they could move onward! It might be
+ city even when they could move onward! It might be
  hard to leave after you get used to the life here."""
 "EV029",""
 "『この町で悪いことなんで出来ないぜ？
-　すぐにバンガードに制圧されちまうからな。』","""You can't do bad things in the town because Vanguard
+　すぐにバンガードに制圧されちまうからな。』","""You can't do bad things in the city because Vanguard
  will come to arrest you right away."""
 "『おかげで、最近は平和そのものさ。
-　感謝してもし足りないな。』","""It's thanks to them that the town is so peaceful.
+　感謝してもし足りないな。』","""It's thanks to them that the city is so peaceful.
  I'm so glad that they are here."""
 "<アル>
 『強いのに自分勝手じゃないって、
@@ -515,7 +515,7 @@ were clearly showing on his face."
 "EV043",""
 "EV044",""
 "EV045",""
-"街の入り口まで行きますか？","Teleport to town entrance?"
+"街の入り口まで行きますか？","Teleport to city entrance?"
 "はい","Yes"
 "いいえ","No"
 "EV046",""
@@ -573,128 +573,178 @@ were clearly showing on his face."
  How unexpected to run into you here♪"""
 "貴方が町を移動すると、
 ちょうど下町の方へと移動しようとしていたのか…
-六花がにこりと笑顔を浮かべてそう声をかけてきた。","As you were heading to the shops, Rikka called out
-to you with a smile."
+六花がにこりと笑顔を浮かべてそう声をかけてきた。","As you were heading to the shops, Rikka called you out
+with a smile."
 "<アル>
 『あ、この子は…
 　よかった…この子は奴隷から抜け出せて、
 　表情がすっごく明るくなってるね！』","<Al>
-""Ah, it's that girl... I'm glad. Her expression has
- really brightened after we getting free!"""
+""Ah, it's that girl... I'm happy that her expression
+ looks so much brighter now!"""
 "アルは六花の表情を見て、
 そうほっとしたように胸をなでおろす。
 自分の行為は無駄ではなかったと感じ、
-貴方もおのずと笑顔を浮かべた。","Al looked over Rikka's expression and sighed a breath
-of relief. You also naturally broke into a smile when
-you could see that your actions weren't for nothing."
+貴方もおのずと笑顔を浮かべた。","Al looked at Rikka and sighed a breath of relief.
+You also broke into a smile when you could see
+that your actions weren't for nothing."
 "そして、六花に奴隷の証が見えないよう、
-とっさに首元を隠した。","Then, you quickly covered your slave collar so that
-Rikka wouldn't see it."
+とっさに首元を隠した。","Then, you quickly moved up the collar of your jacket
+to hide the collar that Kyouko put around your neck."
 "<六花>
 『私はこれからレベル上げに行こうと思ってたんですが…
 　…えへへ♪やめにしちゃおうかなって思います！』","<Rikka>
-""I was thinking of going fighting and leveling up,
- but... Ehehe♪ Maybe I'll leave it for another day!"""
+""I was thinking of going out to level up today, but...
+ Ehehe♪ Maybe I'll leave that for another day!"""
 "<六花>
 『せっかくこうして会えたんですから…
 　その、…一緒にご飯でもどうですか？
 　私を解放してくれたお礼をしたいんです！』","<Rikka>
-""Since we met after a long time... Um, would you
- like to join me for a meal? I want to thank you
- for freeing me!"""
+""Now that we run into each other after a long time...
+ Um, would you like to join me for a meal? I want to
+ thank you for everything that you did for me!"""
 "六花はおずおずとうかがうように貴方の顔を覗き込む。
-叶うなら彼女と話に花を咲かせたいとは思うが…","Rikka asked that while timidly peering at your face.
-You really wanted to join her, but..."
+叶うなら彼女と話に花を咲かせたいとは思うが…","Rikka asked you to join her for a meal while timidly
+peering at your face. You really wanted to join her,
+however..."
 "<アル>
 『う…そうだよね…
 　今は買い出しを頼まれてるんだもん…
 　遅れたらどんな目に合うか…』","<Al>
-""Uuh... Yes, we were asked to go shopping...
- If we took too long to come back, then..."""
+""Uuh... Yes, we need to take care of the shopping...
+ If we take too long to finish it, then..."""
 "アルが顔を青ざめてそう言葉を漏らす。
 貴方はそんなアルにつられるように顔を青ざめさせ、
-六花にごめん、用事があると返事をした。","Al muttered that with a pale face. You could also
-feel yourself going pale at that she said, and told
-Rikka sorry and that you had business to take care of."
+六花にごめん、用事があると返事をした。","Al muttered that with a pale face. You also felt
+yourself going pale at the idea of taking too long,
+so you told Rikka that you were sorry and you had
+business to take care of."
 "<六花>
 『…そうですか…残念です。　
 　…でも、その、用事って何か聞いてもいいですか？
 　すごく顔色悪いですけど…』","<Rikka>
-""...I see. It's regrettable... Um, can I ask what
- business you need to take care of? You look really
- pale right now..."""
+""I see. That's regrettable... Um, could I ask what
+ this business that you need to take care of is?
+ You're looking quite pale..."""
 "<六花>
 『…あの、もしかして厄介なこと、だったりします？
 　それならぜひ協力させてください！』","<Rikka>
-""...Could it be something troublesome? In that case,
- please let me help!"""
+""...It couldn't be something troublesome?
+ In that case, please let me help!"""
 "<六花>
 『私もあれからレベルを上げて、
 　少しは強くなりましたから！
-　い、今なら少しはお役に立てるはずです…！』",""
+　い、今なら少しはお役に立てるはずです…！』","<Rikka>
+""I've leveled up and grown a bit stronger from back
+ then! I should be able to help even if just a little!"""
 "貴方が厄介ごとに巻き込まれていると思ったのか、
 そう六花が真剣な顔で貴方を見つめる。
-貴方は思わず、アルと顔を見合わせてしまった。",""
+貴方は思わず、アルと顔を見合わせてしまった。","Rikka seemed to think that you had become involved in
+some troublesome business as she watched you with
+a serious expression. At that, you couldn't help 
+exchanging glances with Al."
 "<アル>
 『う、う～ん…
 　ずっと今のままでいるわけにもいかないけど…
-　この子を巻き込んじゃっていいのかな…？』",""
+　この子を巻き込んじゃっていいのかな…？』","<Al>
+""U-Uuuh... We need to do something to resolve our
+ situation... But should we really involve this girl
+ in it?"""
 "総首をかしげるアルに貴方は同意する。
 恭子の件は六花にとってトラウマであるはずだ。
 無理に巻き込むわけにはいかないだろう。
-貴方は六花に何でもない、とそう告げた。",""
+貴方は六花に何でもない、とそう告げた。","Al tilted her head in thought as she voiced her
+reluctance to involve Rikka. You also felt like
+Kyouko's case must have left a trauma for her,
+so you told her that it was nothing."
 "<六花>
-『………………』",""
-"そんなあなたを六花はジーっと見つめる。",""
+『………………』","<Rikka>
+""........."""
+"そんなあなたを六花はジーっと見つめる。","But at your answer, Rikka stared deep at your face."
 "<六花>
 『…嘘、ですね。
 　今の顔は、私に気を使ってくれた顔です。
-　…私、そういう顔は分かっちゃうんですよ…』",""
+　…私、そういう顔は分かっちゃうんですよ…』","<Rikka>
+""...That's not true, right? Your current expression
+ tells me that you're trying to be considerate of me...
+ I have an eye for those kinds of faces..."""
 "<六花>
 『…私に気を使うということは…もしかして、
-　あの女…恭子さんに関することですか？』",""
+　あの女…恭子さんに関することですか？』","<Rikka>
+""Since you're trying not to get me involved...
+ Is the matter related to that woman? To Kyouko?"""
 "貴方の顔を見つめていた六花は、
-不意に寂しそうにそう笑うと核心を突いてくる。",""
+不意に寂しそうにそう笑うと核心を突いてくる。","Just by looking at your face, Rikka hit the nail on
+the head, and she had a somewhat sad smile as she
+said that."
 "<六花>
 『…おかしいとは思ってたんです。
 　奴隷から抜け出した私に何も手出しをしてこなくて…
-　…標的が変わっていただけ、だったんですね。』",""
+　…標的が変わっていただけ、だったんですね。』","<Rikka>
+""...I found it weird that she hasn't done anything
+ to me after you freed me from her... But as it
+ turns out, she only changed her target to you."""
 "そういうと六花は貴方が不自然に隠した首元に手を当て、
 そっとあらわにさせる。
-そして、見えた奴隷の証に納得したようにうなずく。",""
+そして、見えた奴隷の証に納得したようにうなずく。","As Rikka said that, she grabbed the collar of your
+jacket and slightly pulled it down to reveal the
+slave collar that you tried to hide from her.
+That made her understandingly nod at you."
 "<六花>
 『…これは…奴隷の証ですか？
 　…趣味の悪いあの女が考えそうなことです。
-　…ごめんなさい、私のせいで…』",""
+　…ごめんなさい、私のせいで…』","<Rikka>
+""...Did Kyouko put this on you to mark you as her
+ slave? It's something that wicked woman would do...
+ I'm sorry. It's my fault that you..."""
 "<六花>
 『きっと、卑怯な手で、
 　無理やり奴隷に落とされてしまったんですよね？
-　誰かを人質に取られたり、とか…』",""
+　誰かを人質に取られたり、とか…』","<Rikka>
+""She used some underhanded means to turn into a slave,
+ didn't she? Either taking someone as a hostage, or..."""
 "六花は悔しそうな顔でそうつぶやく。
 …確かに、卑怯といえば卑怯…だろう。
-貴方はとっさに君のせいじゃないとそう告げた。",""
+貴方はとっさに君のせいじゃないとそう告げた。","Rikka's face twisted in frustration as she said that.
+While it was true that Kyouko used underhanded means,
+you told Rikka that it wasn't her fault."
 "<六花>
 『…気を使ってくれてありがとうございます。
 　でも…大丈夫です。私はもう、
-　助けられるだけだった私じゃありません！』",""
+　助けられるだけだった私じゃありません！』","<Rikka>
+""...Thank you for being considerate of me.
+ But... I'm already alright. I'm no longer
+ a girl who needs saving!"""
 "<六花>
 『お兄さんが私を救ってくれたように…
-　今度は私がお兄さんのことを救ってみせます！』",""
+　今度は私がお兄さんのことを救ってみせます！』","<Rikka>
+""Like when you saved me from Kyouko... This time,
+ I will save you from her!"""
 "<六花>
 『貴方が私を救ってくれたように…
-　今度は私が貴方のことを救ってみせます！』",""
+　今度は私が貴方のことを救ってみせます！』","<Rikka>
+""Like when you saved me from Kyouko... This time,
+ I will save you from her!"""
 "六花は総握りこぶしを作ると、
-決意を込めた顔で貴方の顔を見上げる。",""
+決意を込めた顔で貴方の顔を見上げる。","Rikka clenched her hands into fists and looked up
+at you with a determined face."
 "<六花>
 『ここで、待っていてください。
 　私があの女と話をつけてきます…！
-　絶対、奴隷から解放してあげますから…！』",""
+　絶対、奴隷から解放してあげますから…！』","<Rikka>
+""Please wait here. I'll go and have a talk with that
+ woman! I'll absolutely get you free!"""
 "そういうと六花は貴方が止める間もなく、
 下町のほうまで走っていった。
-きっと言葉通り、恭子の家に向かったのだろう。",""
+きっと言葉通り、恭子の家に向かったのだろう。","After those words, Rikka stormed to the residential
+district before you had the chance to stop her.
+She must be heading to Kyouko's house as she said."
 "<アル>
 『…こ、ここでじっとしてるわけにはいかないよね？
-　あの子のことが心配だよ…！』",""
+　あの子のことが心配だよ…！』","<Al>
+""...T-This isn't the time for standing around!
+ I'm worried for that girl!"""
 "貴方はそんなアルにうなずいた。
 六花と恭子を２人きりにするわけにはいかない。
-急いで恭子の家に戻ろう。",""
+急いで恭子の家に戻ろう。","You nodded to Al. You believed that it wasn't good
+to leave Rikka alone with Kyouko, so it would be
+best to hurry back to her house."
