@@ -1,3 +1,9 @@
+# I've moved over to Patreon: Patreon.com/PummelsTranslations
+Please follow the latest updates there.
+
+
+
+
 # Tower Of Alfimia Translation
 
 This is a translation project for Tower of Alfimia by Dark Night (https://www.dlsite.com/maniax/work/=/product_id/RJ335221.html)
